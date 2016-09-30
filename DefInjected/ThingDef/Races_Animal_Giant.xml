@@ -1,0 +1,25 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Elephant.label>Voi</Elephant.label>
+    <Elephant.description>Động vật nguyên thủy to lớn nhất. Chúng sử dụng ngà như một công cụ để di chuyển đồ vật - hoặc vũ khí chết người</Elephant.description>
+    <Elephant_Leather.label>da voi</Elephant_Leather.label>
+    <Elephant_Meat.label>thịt voi</Elephant_Meat.label>
+    <Elephant_Corpse.label>xác voi</Elephant_Corpse.label>
+    <Elephant_Corpse.description>một xác voi.</Elephant_Corpse.description>
+
+    <Megatherium.label>Lười tuyết</Megatherium.label>
+    <Megatherium.description>Một loại lười đất , khổng lồ, ăn cỏ. Sau thời gian dài tuyệt chung bởi sự di chuyển lục địa bắc mỹ, chúng đã được hổi sinh bằng phương pháp nhân bản vô tính cùng công nghệ gien.</Megatherium.description>
+    <Megatherium_Leather.label>da lười tuyết</Megatherium_Leather.label>
+    <Megatherium_Meat.label>thịt lười tuyết</Megatherium_Meat.label>
+    <Megatherium_Corpse.label>xác lười tuyết</Megatherium_Corpse.label>
+    <Megatherium_Corpse.description>một xác lười tuyết.</Megatherium_Corpse.description>
+
+    <Thrumbo.label>Thrumbo</Thrumbo.label>
+    <Thrumbo.description>Một sinh vật khổng lồ không rõ nguồn gốc. Bản năng tự nhiên thân thiện, nhưng cực kỳ nguy hiểm khi tức giận. Lông của chúng dài, đặc biệt đẹp và có giá trị, và sừng rất có giá trị trong hầu hết các thị trường. Huyền thoại nói rằng có một thrumbo già là sinh vật khôn ngoan nhất trong vũ trụ - nó chỉ đơn giản là lựa chọn không nói.</Thrumbo.description>
+    <Thrumbo_Leather.label>da Thrumbo</Thrumbo_Leather.label>
+    <Thrumbo_Meat.label>thịt Thrumbo</Thrumbo_Meat.label>
+    <Thrumbo_Corpse.label>xác Thrumbo</Thrumbo_Corpse.label>
+    <Thrumbo_Corpse.description>một xác Thrumbo.</Thrumbo_Corpse.description>
+
+</LanguageData>

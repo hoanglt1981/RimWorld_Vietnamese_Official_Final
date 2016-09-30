@@ -1,0 +1,31 @@
+<?xml  version="1.0"  encoding="utf-8"  ?>
+<LanguageData>
+
+    <Apparel_Pants.label>Quần</Apparel_Pants.label>
+    <Apparel_Pants.description>Một chiếc quần bình thường.</Apparel_Pants.description>
+
+    <Apparel_BasicShirt.label>Áo phông</Apparel_BasicShirt.label>
+    <Apparel_BasicShirt.description>Một chiếc áo phông bình thường.</Apparel_BasicShirt.description>
+
+    <Apparel_CollarShirt.label>Áo sơ mi</Apparel_CollarShirt.label>
+    <Apparel_CollarShirt.description>Một chiếc áo có cổ đẹp mắt với các nút cài.</Apparel_CollarShirt.description>
+
+    <Apparel_Duster.label>Áo khoác cộc</Apparel_Duster.label>
+    <Apparel_Duster.description>Một chiếc áo thời trang và mát mẻ phù hợp với những điều kiện nhiệt đới.</Apparel_Duster.description>
+
+    <Apparel_Jacket.label>Áo Jacket</Apparel_Jacket.label>
+    <Apparel_Jacket.description>Một chiếc áo jacket giúp ngăn những vết xước và bầm tím, đồng thời giữ ấm xong trời lạnh.</Apparel_Jacket.description>
+
+    <Apparel_Parka.label>Áo khoác dày</Apparel_Parka.label>
+    <Apparel_Parka.description>Một chiếc áo khác dày giữ ấm ngay cả trong nhiệt độ lạnh nhất.</Apparel_Parka.description>
+
+    <Apparel_TribalA.label>Trang phục bộ lạc</Apparel_TribalA.label>
+    <Apparel_TribalA.description>Một trang phục truyền thống được tạo ra ra bằng cách dung cụ lạc hậu.</Apparel_TribalA.description>
+
+    <Apparel_VestPlate.label>Áo chống đạn</Apparel_VestPlate.label>
+    <Apparel_VestPlate.description>Chiếc áo với những tấm lá chắn được gài ở cả 2 mặt giúp bảo vệ trước súng đạn.</Apparel_VestPlate.description>
+
+    <Apparel_PowerArmor.label>Giáp điện năng</Apparel_PowerArmor.label>
+    <Apparel_PowerArmor.description>Giáp điện năng thường được sử dụng bởi những đội quân đột kích từ những nền văn mình cao cấp</Apparel_PowerArmor.description>
+
+</LanguageData>

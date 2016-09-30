@@ -1,0 +1,24 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <!--  Beam  -->
+    <Ship_Beam.label>Kết cấu kiến trúc</Ship_Beam.label>
+    <Ship_Beam.description>Một kết cấu kiến trúc bao quanh để xây dựng phi thuyền</Ship_Beam.description>
+
+    <!--  Cryptosleep  pod  -->
+    <Ship_CryptosleepCasket.label>Buồng ngủ đông</Ship_CryptosleepCasket.label>
+    <Ship_CryptosleepCasket.description>Chống lại những mối nguy hiểm trong vũ trụ. Phù hợp giữ cho một người ở trạng thái ngủ đông trong môi trường và ấp suốt vũ trụ hàng thế kỉ </Ship_CryptosleepCasket.description>
+
+    <!--  Computer  core  -->
+    <Ship_ComputerCore.label>Máy tính trung tâm</Ship_ComputerCore.label>
+    <Ship_ComputerCore.description>Một máy tính trung tâm có khả năng của một AI nhân tạo có thể dẫn dắt phi thuyền vượt qua nhiều thử thách trong vũ trụ . </Ship_ComputerCore.description>
+
+    <!--  Reactor  -->
+    <Ship_Reactor.label>Lò phản ứng</Ship_Reactor.label>
+    <Ship_Reactor.description>Vận hành phi thuyền hoạt động.</Ship_Reactor.description>
+
+    <!--  Engine  -->
+    <Ship_Engine.label>Động cơ</Ship_Engine.label>
+    <Ship_Engine.description>Một động cơ phản vật chất có khả năng phóng phi thuyền vào quỹ đạo và giữa các vì sao</Ship_Engine.description>
+
+</LanguageData>

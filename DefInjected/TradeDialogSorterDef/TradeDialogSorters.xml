@@ -1,0 +1,11 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <None.label>Không</None.label>
+    <Name.label>Tên</Name.label>
+    <MarketValue.label>Giá thị trường</MarketValue.label>
+    <Category.label>Phân loại</Category.label>
+    <Quality.label>Chất lượng</Quality.label>
+    <HitPointsPercentage.label>Độ bền</HitPointsPercentage.label>
+
+</LanguageData>

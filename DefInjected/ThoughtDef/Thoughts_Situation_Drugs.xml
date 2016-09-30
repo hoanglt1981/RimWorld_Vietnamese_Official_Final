@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Inebriated.stages.0.label>say xỉn (ẩn giấu)</Inebriated.stages.0.label>
+  <Inebriated.stages.0.description>Không nhìn thấy.</Inebriated.stages.0.description>
+  <Inebriated.stages.1.label>say xỉn (ấm người)</Inebriated.stages.1.label>
+  <Inebriated.stages.1.description>Tôi cảm thấy thoải mái hơn một chút sau khi uống. Thật tuyệt.</Inebriated.stages.1.description>
+  <Inebriated.stages.2.label>say xỉn (chuếnh choáng)</Inebriated.stages.2.label>
+  <Inebriated.stages.2.description>Tôi thấy lảo đảo rồi. Wow, nó thật sự rất vui vẻ đấy!</Inebriated.stages.2.description>
+  <Inebriated.stages.3.label>say xỉn (say)</Inebriated.stages.3.label>
+  <Inebriated.stages.3.description>Tôi cảm thấy rất tự do và vô tư! Tôi có rất nhiều niềm vui!</Inebriated.stages.3.description>
+  <Inebriated.stages.4.label>say xỉn (đau đầu)</Inebriated.stages.4.label>
+  <Inebriated.stages.4.description>Yahoo! Cái gì đang diễn ra vậy? ...</Inebriated.stages.4.description>
+
+  <Hungover.stages.0.label>chóng mặt (nhẹ)</Hungover.stages.0.label>
+  <Hungover.stages.0.description>Cơn đau đầu hầu như đã hết.</Hungover.stages.0.description>
+  <Hungover.stages.1.label>chóng mặt (nặng)</Hungover.stages.1.label>
+  <Hungover.stages.1.description>Đầu tôi đau vì tất cả dung dịch cồn này.</Hungover.stages.1.description>
+  <Hungover.stages.2.label>chóng mặt (gõ)</Hungover.stages.2.label>
+  <Hungover.stages.2.description>Nó cảm giác như là một đàn ngỗng đang mổ vào sọ của tôi vậy.</Hungover.stages.2.description>
+  <Hungover.stages.3.label>chóng mặt (ẩn giấu)</Hungover.stages.3.label>
+  <Hungover.stages.3.description>Không nhìn thấy.</Hungover.stages.3.description>
+
+  <AlcoholWithdrawal.stages.1.label>Cai nghiện cồn</AlcoholWithdrawal.stages.1.label>
+  <AlcoholWithdrawal.stages.1.description>Cảm thấy quay cuồng. Mọi thứ khiến tôi khó chịu. Tôi vẫn nghĩ tới việc uống tiếp.</AlcoholWithdrawal.stages.1.description>
+	
+	<GoJuiceHigh.label>Hợp chất tăng lực dùng nhiều</GoJuiceHigh.label>
+	<GoJuiceHigh.description>Tôi vui vẻ, nhưng bình tĩnh. Tôi như một viên đạn sẵn sàng bay tới mục tiêu.</GoJuiceHigh.description>
+	<GoJuiceWithdrawal.stages.1.label>Cai nghiện hợp chất tăng lực</GoJuiceWithdrawal.stages.1.label>
+	<GoJuiceWithdrawal.stages.1.description>Tôi thấy bối rối và không thể suy nghĩ chính xác. Tôi thấy tay chân nặng nề quá. Sao mắt tôi không thể tập trung chính xác được nhỉ?!</GoJuiceWithdrawal.stages.1.description>
+    
+	<FlakeHigh.label>Ma túy liều cao (Nha phiến)</FlakeHigh.label>
+	<FlakeHigh.description>Thật tuyệt.. Ohhhh, thật tuyệt.</FlakeHigh.description>
+
+	<YayoHigh.label>Ma túy liều cao (Bạch phiến)</YayoHigh.label>
+	<YayoHigh.description>Tôi thấy rất vui vẻ! Bắt đầu nào!</YayoHigh.description>
+	<PsychiteWithdrawal.stages.1.label>Cai nghiện ma túy</PsychiteWithdrawal.stages.1.label>
+	<PsychiteWithdrawal.stages.1.description>Lạy chúa, tôi thấy mệt mỏi quá. Tôi không cảm thấy điều gì tốt đẹp cả.</PsychiteWithdrawal.stages.1.description>
+	
+	<SmokeleafHigh.label>Thuốc lá hút nhiều</SmokeleafHigh.label>
+	<SmokeleafHigh.description>Tôi là.. đá, anh bạn.</SmokeleafHigh.description>
+	<SmokeleafWithdrawal.stages.1.label>Cai nghiện thuốc lá</SmokeleafWithdrawal.stages.1.label>
+	<SmokeleafWithdrawal.stages.1.description>Tôi muốn mình có thể hút thuốc..</SmokeleafWithdrawal.stages.1.description>
+<!--
+	<WakeUpAddiction.label>High von Amphetamin</WakeUpAddiction.label>
+	<WakeUpAddiction.stages.1.label>WakeUpntzug</WakeUpAddiction.stages.1.label>
+	<WakeUpAddiction.stages.1.description>Ich fühle mich verwirrt und unkonzentriert.</WakeUpAddiction.stages.1.description>
+-->
+	<WakeUpWithdrawal.stages.1.label>Cai nghiện cà phê</WakeUpWithdrawal.stages.1.label>
+	<WakeUpWithdrawal.stages.1.description>Tôi hoàn toàn cảm thấy choáng váng và không thể tập trung.</WakeUpWithdrawal.stages.1.description>
+
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Cobra.label>Rắn hổ mang</Cobra.label>
+    <Cobra.description>Một loại rắn lớn, rất hay giận dữ khi bị làm phiền. Tốt nhất là nên tránh xa sinh vật này.</Cobra.description>
+    <Cobra_Leather.label>da rắn</Cobra_Leather.label>
+    <Cobra_Meat.label>thịt rắn</Cobra_Meat.label>
+    <Cobra_Corpse.label>xác rắn</Cobra_Corpse.label>
+    <Cobra_Corpse.description>một xác rắn hổ mang.</Cobra_Corpse.description>
+
+    <Monkey.label>Khỉ</Monkey.label>
+    <Monkey.description>Khỉ có thể dùng đuôi treo thân thể trên các cành cây, còn tay thì làm những việc khác.</Monkey.description>
+    <Monkey_Leather.label>da khỉ</Monkey_Leather.label>
+    <Monkey_Meat.label>thịt khỉ</Monkey_Meat.label>
+    <Monkey_Corpse.label>xác khỉ</Monkey_Corpse.label>
+    <Monkey_Corpse.description>một xác con khỉ.</Monkey_Corpse.description>
+
+    <Boomalope.label>Thú nổ</Boomalope.label>
+    <Boomalope.description>Thiết kế cho sản xuất hóa chất. Các thú nổ mọc một túi lớn hóa chất dễ bay hơi trên lưng. Mặc dù chúng khá yếu do kích thước, các loài động vật khác phải tìm cách tránh chúng vì vụ nổ lớn chúng tạo ra khi chết.</Boomalope.description>
+    <Boomalope_Meat.label>thịt thú nổ</Boomalope_Meat.label>
+    <Boomalope_Leather.label>da thú nổ</Boomalope_Leather.label>
+    <Boomalope_Corpse.label>xác thú nổ</Boomalope_Corpse.label>
+    <Boomalope_Corpse.description>một xác thú nổ.</Boomalope_Corpse.description>
+
+</LanguageData>

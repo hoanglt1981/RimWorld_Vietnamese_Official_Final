@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Psychic drone -->
+
+  <FeelingRandom.stages.0.label>Cảm thấy tuyệt vời</FeelingRandom.stages.0.label>
+  <FeelingRandom.stages.0.description>Không có lý do nào cả, lúc này tôi chỉ cảm thấy rất tuyệt vời!</FeelingRandom.stages.0.description>
+
+  <FeelingRandom.stages.1.label>Cảm thấy ổn</FeelingRandom.stages.1.label>
+  <FeelingRandom.stages.1.description>Không có lý do nào cả, lúc này tôi chỉ cảm thấy ổn.</FeelingRandom.stages.1.description>
+
+  <FeelingRandom.stages.2.label>Cảm thấy tệ</FeelingRandom.stages.2.label>
+  <FeelingRandom.stages.2.description>Không có lý do nào cả, lúc này tôi chỉ cảm thấy tệ.</FeelingRandom.stages.2.description>
+
+  <FeelingRandom.stages.3.label>Cảm thấy kinh khủng</FeelingRandom.stages.3.label>
+  <FeelingRandom.stages.3.description>Không có lý do nào cả, lúc này tôi chỉ cảm thấy kinh khủng.</FeelingRandom.stages.3.description>
+
+</LanguageData>

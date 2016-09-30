@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Tile -->
+  <TileSandstone.label>Gạch lát sa thạch</TileSandstone.label>
+  <TileSandstone.description>Phiến đá rắn , cho cảm giác của lâu đài. Có vẻ tốt, nhưng phải mất một thời gian để di chuyển.</TileSandstone.description>
+
+  <TileGranite.label>Gạch lát granite</TileGranite.label>
+  <TileGranite.description>Phiến đá rắn , cho cảm giác của lâu đài. Có vẻ tốt, nhưng phải mất một thời gian để di chuyển.</TileGranite.description>
+
+  <TileLimestone.label>Gạch lát đá vôi</TileLimestone.label>
+  <TileLimestone.description>Phiến đá rắn , cho cảm giác của lâu đài. Có vẻ tốt, nhưng phải mất một thời gian để di chuyển.</TileLimestone.description>
+
+  <TileSlate.label>Gạch lát đá phiến</TileSlate.label>
+  <TileSlate.description>Phiến đá rắn , cho cảm giác của lâu đài. Có vẻ tốt, nhưng phải mất một thời gian để di chuyển.</TileSlate.description>
+
+  <TileMarble.label>Gạch lát đá cẩm thạch</TileMarble.label>
+  <TileMarble.description>Phiến đá rắn , cho cảm giác của lâu đài. Có vẻ tốt, nhưng phải mất một thời gian để di chuyển.</TileMarble.description>
+
+
+
+
+
+  
+</LanguageData>

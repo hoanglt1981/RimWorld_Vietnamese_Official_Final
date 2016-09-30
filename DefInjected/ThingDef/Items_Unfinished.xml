@@ -1,0 +1,13 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <UnfinishedSculpture.label>Tượng bán thành phẩm</UnfinishedSculpture.label>
+    <UnfinishedGun.label>Súng bán thành phẩm</UnfinishedGun.label>
+    <UnfinishedWeapon.label>Vũ khí bán thành phẩm</UnfinishedWeapon.label>
+    <UnfinishedTechArmor.label>Giáp bán thành phẩm</UnfinishedTechArmor.label>
+    <UnfinishedApparel.label>Trang phục bán thành phẩm</UnfinishedApparel.label>
+    <UnfinishedComponent.label>Linh kiện bán thành phẩm</UnfinishedComponent.label>
+    <MinifiedSculpture.label>Tượng siêu nhỏ</MinifiedSculpture.label>
+    <MinifiedFurniture.label>Đồ đạc siêu nhỏ</MinifiedFurniture.label>
+
+</LanguageData>

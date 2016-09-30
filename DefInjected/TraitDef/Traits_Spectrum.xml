@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <SpeedOffset.degreeDatas.0.label>Chậm chạp</SpeedOffset.degreeDatas.0.label>
+    <SpeedOffset.degreeDatas.0.description>NAME luôn tụt lại phía sau cả nhóm bất kể HE đi đâu.</SpeedOffset.degreeDatas.0.description>
+    <SpeedOffset.degreeDatas.1.label>Đi nhanh</SpeedOffset.degreeDatas.1.label>
+    <SpeedOffset.degreeDatas.1.description>NAME thích nơi HE tới. HECAP đi lại nhanh hơn hầu hết mọi người.</SpeedOffset.degreeDatas.1.description>
+    <SpeedOffset.degreeDatas.2.label>Tốc độ</SpeedOffset.degreeDatas.2.label>
+    <SpeedOffset.degreeDatas.2.description>NAME luôn di chuyển với một cảm giác gấp gáp - Vì vậy những người khác thường không theo kịp.</SpeedOffset.degreeDatas.2.description>
+
+    <DrugDesire.degreeDatas.0.label>Đam mê hóa chất</DrugDesire.degreeDatas.0.label>
+    <DrugDesire.degreeDatas.0.description>NAME có niềm đam mê mãnh liệt với việc sử dụng hóa chất. HECAP thường sử dụng rất nhiều, nên đôi khi bị nôn họe nặng cho các chất kích thích. HECAP sẽ bỏ qua các chỉ định để sử dụng cái chất kích thích.</DrugDesire.degreeDatas.0.description>
+    <DrugDesire.degreeDatas.1.label>Yêu thích hóa chất</DrugDesire.degreeDatas.1.label>
+    <DrugDesire.degreeDatas.1.description>NAME có một sự yêu thích bất thường với các hóa chất kích thích. HECAP thường sử dụng rất nhiều, nên đôi khi bị nôn họe vì các chất kích thích nhẹ. HECAP sẽ bỏ qua các chỉ định để sử dụng cái chất kích thích.</DrugDesire.degreeDatas.1.description>
+    <DrugDesire.degreeDatas.2.label>Kiêng cữ</DrugDesire.degreeDatas.2.label>
+    <DrugDesire.degreeDatas.2.description>NAME rất ghét ý tưởng sử dụng hóa chất, rượu hay các chất kích thích khác để có được sự vui vẻ.</DrugDesire.degreeDatas.2.description>
+
+    <NaturalMood.degreeDatas.0.label>Tin tưởng</NaturalMood.degreeDatas.0.label>
+    <NaturalMood.degreeDatas.0.description>NAME luôn tự nhiên tin tưởng về tình huống của HIS, lúc nào cũng vậy, bất kể ra sao.</NaturalMood.degreeDatas.0.description>
+    <NaturalMood.degreeDatas.1.label>Lạc quan</NaturalMood.degreeDatas.1.label>
+    <NaturalMood.degreeDatas.1.description>NAME luôn lạc quan tự nhiên về cuộc sống. Rất khó để khiến HIM thất vọng.</NaturalMood.degreeDatas.1.description>
+    <NaturalMood.degreeDatas.2.label>Bi quan</NaturalMood.degreeDatas.2.label>
+    <NaturalMood.degreeDatas.2.description>NAME có xu hướng nhìn vào mặt tiêu cực của cuộc sống.</NaturalMood.degreeDatas.2.description>
+    <NaturalMood.degreeDatas.3.label>Trầm cảm</NaturalMood.degreeDatas.3.label>
+    <NaturalMood.degreeDatas.3.description>NAME luôn không hạnh phúc. HECAP gặp rắc rối với việc duy trì tâm trạng, ngay cả khi mọi thứ đều tốt đẹp.</NaturalMood.degreeDatas.3.description>
+
+    <Nerves.degreeDatas.0.label>Ý chí thép</Nerves.degreeDatas.0.label>
+    <Nerves.degreeDatas.0.description>NAME như một lá chắn thép. HECAP luôn vững chức, cho dùng mọi người đã gục ngã trước đó.</Nerves.degreeDatas.0.description>
+    <Nerves.degreeDatas.1.label>Kiên định</Nerves.degreeDatas.1.label>
+    <Nerves.degreeDatas.1.description>NAME có tinh thần cứng rắn và sẽ không mất tinh thần cho dù trước sự căng thẳn khiến mọi người gục ngã.</Nerves.degreeDatas.1.description>
+    <Nerves.degreeDatas.2.label>Lo lắng</Nerves.degreeDatas.2.label>
+    <Nerves.degreeDatas.2.description>NAME có xu hướng tan vỡ dưới áp lực.</Nerves.degreeDatas.2.description>
+    <Nerves.degreeDatas.3.label>Bất ổn</Nerves.degreeDatas.3.label>
+    <Nerves.degreeDatas.3.description>NAME luôn dựng tóc gáy mọi lúc. HECAP là người thứ nhất mất kiểm soát trong bất cứ tình huống khó khăn nào.</Nerves.degreeDatas.3.description>
+
+    <Neurotic.degreeDatas.0.label>Nhạy cảm</Neurotic.degreeDatas.0.label>
+    <Neurotic.degreeDatas.0.description>NAME thích mọi thứ ngăn nắp. HECAP sẽ làm việc chăm chỉ nhất để đạt kết quả, nhưng dây thần kinh của HIS có thể khiến HIM tốt hơn.</Neurotic.degreeDatas.0.description>
+    <Neurotic.degreeDatas.1.label>Rất nhạy cảm</Neurotic.degreeDatas.1.label>
+    <Neurotic.degreeDatas.1.description>NAME thường xuyên cảm thấy lo lắng về tất cả mọi thứ cần hoàn thiện. HECAP sẽ làm việc rất chăm chỉ để đạt được tình trạng này, nhưng dân thần kinh của HIS có thể khiến HIM tốt hơn.</Neurotic.degreeDatas.1.description>
+
+    <Industriousness.degreeDatas.0.label>Siêng năng</Industriousness.degreeDatas.0.label>
+    <Industriousness.degreeDatas.0.description>NAME luôn làm mọi việc dễ dàng và tập trung, đồng thời hoàn tất mọi việc nhanh hơn khá nhiều người khác.</Industriousness.degreeDatas.0.description>
+    <Industriousness.degreeDatas.1.label>Chăm làm</Industriousness.degreeDatas.1.label>
+    <Industriousness.degreeDatas.1.description>NAME là một người làm việc chăm chỉ và hoàn thành công việc nhanh hơn tất cả.</Industriousness.degreeDatas.1.description>
+    <Industriousness.degreeDatas.2.label>Lười nhác</Industriousness.degreeDatas.2.label>
+    <Industriousness.degreeDatas.2.description>NAME có chút lười nhác.</Industriousness.degreeDatas.2.description>
+    <Industriousness.degreeDatas.3.label>Lười biếng</Industriousness.degreeDatas.3.label>
+    <Industriousness.degreeDatas.3.description>NAME yêu thích rảnh rỗi và ghét công việc sản xuất. HECAP di chuyển chậm và hiếm khi tập trung vào công việc.</Industriousness.degreeDatas.3.description>
+
+    <PsychicSensitivity.degreeDatas.0.label>Tâm linh nhạy cảm</PsychicSensitivity.degreeDatas.0.label>
+    <PsychicSensitivity.degreeDatas.0.description>Tâm trí của NAME như một âm thoa tâm linh. HECAP cực kỳ nhạy cảm với các hiện tượng tâm linh.</PsychicSensitivity.degreeDatas.0.description>
+    <PsychicSensitivity.degreeDatas.1.label>Tâm linh nhạy cảm</PsychicSensitivity.degreeDatas.1.label>
+    <PsychicSensitivity.degreeDatas.1.description>Tâm trí của NAME nhạy cảm bất thường với các hiện tượng tâm linh.</PsychicSensitivity.degreeDatas.1.description>
+    <PsychicSensitivity.degreeDatas.2.label>Tâm linh vẩn đục</PsychicSensitivity.degreeDatas.2.label>
+    <PsychicSensitivity.degreeDatas.2.description>Tâm trí của NAME nhật biết tâm linh ở một tần số khác. HECAP không bị ảnh hưởng bởi bất kỳ hiện tượng tâm linh nào.</PsychicSensitivity.degreeDatas.2.description>
+    <PsychicSensitivity.degreeDatas.3.label>Tâm linh lu mờ</PsychicSensitivity.degreeDatas.3.label>
+    <PsychicSensitivity.degreeDatas.3.description>Tâm trí của NAME hoạt động trên một tần số tâm linh khác mọi người. HECAP không bị ảnh hưởng bởi cách hiện tượng siêu nhiên.</PsychicSensitivity.degreeDatas.3.description>
+
+    <TemperaturePreference.degreeDatas.0.label>Yêu cái lạnh</TemperaturePreference.degreeDatas.0.label>
+    <TemperaturePreference.degreeDatas.0.description>Cơ thể của NAME tự sản sinh ra rất nhiều nhiệt năng. HECAP thoải mái mới mức nhiệt độ mà nhiều người đóng băng, nhưng HE không thích cái nóng.</TemperaturePreference.degreeDatas.0.description>
+    <TemperaturePreference.degreeDatas.1.label>Chịu lạnh</TemperaturePreference.degreeDatas.1.label>
+    <TemperaturePreference.degreeDatas.1.description>Cơ thể NAME sản sinh nhiệt độ mát tốt hơn so với nhiều người khác.</TemperaturePreference.degreeDatas.1.description>
+    <TemperaturePreference.degreeDatas.2.label>Chịu nóng</TemperaturePreference.degreeDatas.2.label>
+    <TemperaturePreference.degreeDatas.2.description>Cơ thể NAME sản sinh nhiệt độ ấm tốt hơn nhiều người khác.</TemperaturePreference.degreeDatas.2.description>
+    <TemperaturePreference.degreeDatas.3.label>Yêu cái nóng</TemperaturePreference.degreeDatas.3.label>
+    <TemperaturePreference.degreeDatas.3.description>NAME yêu thời tiết nóng nực - nhưng HE không chịu được lạnh tốt.</TemperaturePreference.degreeDatas.3.description>
+
+    <ShootingAccuracy.degreeDatas.0.label>Tay súng cẩn trọng</ShootingAccuracy.degreeDatas.0.label>
+    <ShootingAccuracy.degreeDatas.0.description>NAME bắn rất tốt, nhưng HE cần nhiều thời gian tập trung hơn vào mục tiêu của HIS.</ShootingAccuracy.degreeDatas.0.description>Cò súng hạnh phúc
+    <ShootingAccuracy.degreeDatas.1.label>Niềm vui bóp cò</ShootingAccuracy.degreeDatas.1.label>
+    <ShootingAccuracy.degreeDatas.1.description>Pew! Pew! Pew! NAME là một tay súng tệ, nhưng HE không quan tâm, vì súng ống thật tuyệt!</ShootingAccuracy.degreeDatas.1.description>
+
+    <Beauty.degreeDatas.0.label>Xinh đẹp</Beauty.degreeDatas.0.label>
+    <Beauty.degreeDatas.0.description>NAME đẹp một cách đặc biệt, với một cấu trúc khuôn mặt kì là và thu hút mọi ánh nhìn. Mọi người bị thu hút bởi HIM ngay trước khi HE mở miệng.</Beauty.degreeDatas.0.description>
+    <Beauty.degreeDatas.1.label>Dễ thương</Beauty.degreeDatas.1.label>
+    <Beauty.degreeDatas.1.description>NAME có khuôn mặt dễ thương, nó dẫn dắt mọi người yêu thích HIM.</Beauty.degreeDatas.1.description>
+    <Beauty.degreeDatas.2.label>Xấu xí</Beauty.degreeDatas.2.label>
+    <Beauty.degreeDatas.2.description>NAME có phần xấu xí. Nó xua đuổi người khác trong giao tiếp một cách tinh vi.</Beauty.degreeDatas.2.description>
+    <Beauty.degreeDatas.3.label>Xấu kinh ngạc</Beauty.degreeDatas.3.label>
+    <Beauty.degreeDatas.3.description>NAME xấu đến kinh ngạc. HISCAP có khuôn mặt nhìn như sự giao thoa giữa bản vẽ của một đứa trẻ bất tài, một bào thai bị biến đổi trong lọ formaldehyde, và một mảnh nghệ thuật hiện đại. Người khác phải nỗ lực ý thức để có thể nhìn HIM trong lúc trò chuyện.</Beauty.degreeDatas.3.description>
+
+</LanguageData>

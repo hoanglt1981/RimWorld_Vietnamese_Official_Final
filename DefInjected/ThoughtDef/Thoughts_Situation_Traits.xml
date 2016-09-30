@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+
+  <MasochistPain.stages.0.label>Hơi đau</MasochistPain.stages.0.label>
+  <MasochistPain.stages.0.description>Aua... He he he... Tôi có thể thường xuyên như vậy!</MasochistPain.stages.0.description>
+
+  <MasochistPain.stages.1.label>Tương đối đau</MasochistPain.stages.1.label>
+  <MasochistPain.stages.1.description>Ughhh... Đau đấy, nhưng tôi yêu nó! Đau nữa đi!</MasochistPain.stages.1.description>
+
+  <MasochistPain.stages.2.label>Rất đau</MasochistPain.stages.2.label>
+  <MasochistPain.stages.2.description>Arg... Tôi nghĩ cái gì đó bị gãy rồi... Nhưng đó là một cảm giác thật tinh tế!</MasochistPain.stages.2.description>
+
+  <MasochistPain.stages.3.label>Đau nghiêm trọng</MasochistPain.stages.3.label>
+  <MasochistPain.stages.3.description>Aaaaaaaah... Tôi đang ở thiên đường phải không?</MasochistPain.stages.3.description>
+
+  <ProsthophileNoProsthetic.stages.0.label>Thiếu bộ phận sinh hóa</ProsthophileNoProsthetic.stages.0.label>
+  <ProsthophileNoProsthetic.stages.0.description>Cơ thể tự nhiên thật giới hạn. Tôi ước mình có vài bộ phận sinh hóa.</ProsthophileNoProsthetic.stages.0.description>
+
+  <ProsthophileHappy.stages.0.label>Có một bộ phận sinh hóa</ProsthophileHappy.stages.0.label>
+  <ProsthophileHappy.stages.0.description>Tôi là sản phẩm của công nghệ hiện đại! Tôi có thể làm mọi thức tốt hơn!</ProsthophileHappy.stages.0.description>
+
+  <ProsthophobeUnhappy.stages.0.label>Có một bộ phận sinh hóa</ProsthophobeUnhappy.stages.0.label>
+  <ProsthophobeUnhappy.stages.0.description>Họ biến tôi thành một vật công nghệ cao gớm ghiếc. Nếu tôi chỉ có một sự chọn lựa...</ProsthophobeUnhappy.stages.0.description>
+
+  <BrawlerUnhappy.stages.0.label>Mang vũ khí tầm xa</BrawlerUnhappy.stages.0.label>
+  <BrawlerUnhappy.stages.0.description>Tôi ghét việc tấn công từ xa! Tôi chỉ muốn lại gần và xử lý cá nhân!</BrawlerUnhappy.stages.0.description>
+
+  <ClothedNudist.stages.0.label>Quần áo ép buộc</ClothedNudist.stages.0.label>
+  <ClothedNudist.stages.0.description>Tôi là một người thích nude nhưng tôi lại phải mặc đồ. Nó không hẳn không thể, nhưng tôi vẫn cảm thấy bị ép buộc và không thoải mái.</ClothedNudist.stages.0.description>
+
+  <HappyNude.stages.0.label>Hạnh phúc khi nude</HappyNude.stages.0.label>
+  <HappyNude.stages.0.description>Tôi đang nude và yêu thích nó! Tôi thấy tự do, không bị gò bó với xung quanh.</HappyNude.stages.0.description>
+
+  <NightOwlDuringTheDay.stages.0.label>Ban ngày</NightOwlDuringTheDay.stages.0.label>
+  <NightOwlDuringTheDay.stages.0.description>Tôi không thích làm việc ban ngày.</NightOwlDuringTheDay.stages.0.description>
+
+  <NightOwlDuringTheNight.stages.0.label>Ban đêm</NightOwlDuringTheNight.stages.0.label>
+  <NightOwlDuringTheNight.stages.0.description>Tôi cảm thấy tốt hơn vào buổi đêm.</NightOwlDuringTheNight.stages.0.description>
+
+  <Greedy.stages.0.label>Phòng ngủ không ấn tượng</Greedy.stages.0.label>
+  <Greedy.stages.0.description>Tôi muốn một phòng ngủ thực sự ấn tượng!</Greedy.stages.0.description>
+
+  <Greedy.stages.1.label>Phòng ngủ không ấn tượng</Greedy.stages.1.label>
+  <Greedy.stages.1.description>Phòng ngủ của tôi thật hảm hại! Tôi muốn có một phòng ngủ thực sự ấn tượng</Greedy.stages.1.description>
+
+  <Greedy.stages.2.label>Phòng ngủ không ấn tượng</Greedy.stages.2.label>
+  <Greedy.stages.2.description>Phòng ngủ của tôi chưa gần đủ tốt. Tôi muốn một phòng ngủ thực sự ấn tượng!</Greedy.stages.2.description>
+
+  <Greedy.stages.3.label>Phòng ngủ không ấn tượng</Greedy.stages.3.label>
+  <Greedy.stages.3.description>Phòng ngủ của tôi chưa đủ tốt. Tôi muốn một phòng ngủ thực sự ấn tượng!</Greedy.stages.3.description>
+
+  <Greedy.stages.4.label>Phòng ngủ không ấn tượng</Greedy.stages.4.label>
+  <Greedy.stages.4.description>Phòng ngủ của tôi chưa thực sự đủ tốt. Tôi muốn một phòng ngủ thực sự ấn tượng!</Greedy.stages.4.description>
+
+  <Jealous.stages.0.label>Ghen tỵ</Jealous.stages.0.label>
+  <Jealous.stages.0.description>Ai đó có phòng ngủ ấn tượng hơn của tôi!</Jealous.stages.0.description>
+
+  <Ascetic.stages.0.label>Phòng ngủ kinh khủng</Ascetic.stages.0.label>
+  <Ascetic.stages.0.description>Phòng ngủ của tôi chính xác điều tôi muốn. Rất khiêm tốn và đơn giản.</Ascetic.stages.0.description>
+
+  <Ascetic.stages.1.label>Phòng ngủ kinh tởm</Ascetic.stages.1.label>
+  <Ascetic.stages.1.description>Phòng ngủ của tôi chính xác điều tôi muốn. Rất khiêm tốn và đơn giản.</Ascetic.stages.1.description>
+
+  <Ascetic.stages.2.label>Phòng ngủ ngu ngốc</Ascetic.stages.2.label>
+  <Ascetic.stages.2.description>Phòng ngủ của tôi chính xác điều tôi muốn. Rất khiêm tốn và đơn giản.</Ascetic.stages.2.description>
+
+  <Ascetic.stages.5.label>Phòng ngủ ấn tượng</Ascetic.stages.5.label>
+  <Ascetic.stages.5.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.5.description>
+
+  <Ascetic.stages.6.label>Phòng ngủ ấn tượng</Ascetic.stages.6.label>
+  <Ascetic.stages.6.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.6.description>
+
+  <Ascetic.stages.7.label>Phòng ngủ rất ấn tượng</Ascetic.stages.7.label>
+  <Ascetic.stages.7.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.7.description>
+
+  <Ascetic.stages.8.label>Phòng ngủ cực kỳ ấn tượng</Ascetic.stages.8.label>
+  <Ascetic.stages.8.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.8.description>
+
+  <Ascetic.stages.9.label>Phòng ngủ không thể tin được</Ascetic.stages.9.label>
+  <Ascetic.stages.9.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.9.description>
+
+  <Ascetic.stages.10.label>Phòng ngủ trong mơ</Ascetic.stages.10.label>
+  <Ascetic.stages.10.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.10.description>
+
+  <Ascetic.stages.11.label>Phòng ngủ kì diệu</Ascetic.stages.11.label>
+  <Ascetic.stages.11.description>Tôi không thích có một phòng ngủ ấn tượng.</Ascetic.stages.11.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Cougar.label>Báo đốm</Cougar.label>
+    <Cougar.description>Một trong những họ mèo lớn nguy hiểm nhất, báo đốm là thợ săn đơn độc với răng và móng vuốt dài và nhọn. Chúng phục kích con mồi từ các chỗ khuất trước khi cắn.\n\nKhi chúng đói, chúng sẽ không từ chối một bữa ăn thịt con người.</Cougar.description>
+    <Cougar_Leather.label>da báo đốm</Cougar_Leather.label>
+    <Cougar_Meat.label>thịt báo đốm</Cougar_Meat.label>
+    <Cougar_Corpse.label>xác báo đốm</Cougar_Corpse.label>
+    <Cougar_Corpse.description>một xác báo đốm.</Cougar_Corpse.description>
+
+    <Panther.label>Báo đen</Panther.label>
+    <Panther.description>Một họ mèo lớn nhanh nhẹn và mạnh mẽ có nguồn gốc từ các khu rừng già. Như kẻ săn mồi phục kích đơn độc, báo đen là bậc thầy hạ gục cả con mồi lớn và nhỏ. Người ngoài có xu hướng tập trung vào các động tác duyên dáng của nó, trong khi tiếp xúc gần hơn thường cảm nhận được sức mạnh nghiền nát sọ của chúng.</Panther.description>
+    <Panther_Leather.label>da báo đen</Panther_Leather.label>
+    <Panther_Meat.label>thịt báo đen</Panther_Meat.label>
+    <Panther_Corpse.label>xác báo đen</Panther_Corpse.label>
+    <Panther_Corpse.description>một xác báo đen.</Panther_Corpse.description>
+
+    <Lynx.label>Mèo rừng</Lynx.label>
+    <Lynx.description>Một loài mèo rừng lớn hơn một mèonhà , nhưng nhỏ hơn báo đốm. Chúng tồn tại cách săn các loài chim nhỏ và động vật. Bộ lông rất ấm áp của chúng giữ an toàn cái lạnh tàn nhẫn phía bắc.</Lynx.description>
+    <Lynx_Leather.label>da mèo rừng</Lynx_Leather.label>
+    <Lynx_Meat.label>thịt mèo rừng</Lynx_Meat.label>
+    <Lynx_Corpse.label>xác mèo rừng</Lynx_Corpse.label>
+    <Lynx_Corpse.description>một xác mèo rừng.</Lynx_Corpse.description>
+
+</LanguageData>

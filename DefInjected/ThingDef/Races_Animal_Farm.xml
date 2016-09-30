@@ -1,0 +1,31 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Chicken.label>Gà</Chicken.label>
+    <Chicken.description>Gia cầm truyền thống, được nuôi dưỡng lấy thịt và trứng.</Chicken.description>
+    <Chicken_Meat.label>thịt gà</Chicken_Meat.label>
+    <Chicken_Corpse.label>xác gà</Chicken_Corpse.label>
+    <Chicken_Corpse.description>một xác gà.</Chicken_Corpse.description>
+
+    <Pig.label>Lợn</Pig.label>
+    <Pig.description>Một trong những loài động vật thuần hóa đầu tiên của loài người. Thường được nuôi dưỡng để lấy thịt và da.</Pig.description>
+    <Pig_Leather.label>da lợn</Pig_Leather.label>
+    <Pig_Meat.label>thịt lợn</Pig_Meat.label>
+    <Pig_Corpse.label>xác lợn</Pig_Corpse.label>
+    <Pig_Corpse.description>một xác lợn.</Pig_Corpse.description>
+
+    <Cow.label>Bò sữa</Cow.label>
+    <Cow.description>Loại động vật đã thuần hóa phổ biến. Cung cấp lượng lớn sữa, hoặc bị làm thịt để có những thức ăn ngon miệng</Cow.description>
+    <Cow_Leather.label>da bò sữa</Cow_Leather.label>
+    <Cow_Meat.label>thịt bò sữa</Cow_Meat.label>
+    <Cow_Corpse.label>xác bò sữa</Cow_Corpse.label>
+    <Cow_Corpse.description>một xác bò sữa.</Cow_Corpse.description>
+
+    <Alpaca.label>Dê</Alpaca.label>
+    <Alpaca.description>Có kích cỡ trung bình, có quan hệ gần với đà điểu. Chúng thường được chăn thả để có tạo ra loại lông mềm mại.</Alpaca.description>
+    <Alpaca_Leather.label>da dê</Alpaca_Leather.label>
+    <Alpaca_Meat.label>thịt dê</Alpaca_Meat.label>
+    <Alpaca_Corpse.label>xác dê</Alpaca_Corpse.label>
+    <Alpaca_Corpse.description>một xác dê.</Alpaca_Corpse.description>
+
+</LanguageData>

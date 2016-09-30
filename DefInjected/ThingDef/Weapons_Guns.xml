@@ -1,0 +1,90 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Bullet_Pistol.label>Đạn súng lục</Bullet_Pistol.label>
+
+    <Gun_Pistol.label>Súng lục</Gun_Pistol.label>
+    <Gun_Pistol.description>Súng lục tự động cổ xưa. Sát thương kém và tầm bắn gần nhưng tốc độ bắn khá nhanh.</Gun_Pistol.description>
+
+    <Bullet_PumpShotgun.label>Đạn shotgun</Bullet_PumpShotgun.label>
+
+    <Gun_PumpShotgun.label>Súng shotgun</Gun_PumpShotgun.label>
+    <Gun_PumpShotgun.description>Một thiết kế cổ xưa. Chết người nhưng tầm bắn ngắn.</Gun_PumpShotgun.description>
+
+    <Bullet_SurvivalRifle.label>Đạn súng trường</Bullet_SurvivalRifle.label>
+
+    <Gun_SurvivalRifle.label>Súng trường</Gun_SurvivalRifle.label>
+    <Gun_SurvivalRifle.description>Súng trường bắn từng viên kiểu cổ. Tầm bắn tốt, sát thương tốt nhưng tốc độ bắn chậm.</Gun_SurvivalRifle.description>
+
+    <Bullet_AssaultRifle.label>Đạn súng tiểu liên</Bullet_AssaultRifle.label>
+
+    <Gun_AssaultRifle.label>Súng tiểu liên</Gun_AssaultRifle.label>
+    <Gun_AssaultRifle.description>Loại vũ khí quân sự thường thấy trên chiến trường. Mỗi tràng bắn 3 viên. Tầm bắn tốt, sát thương kém, tốc độ bắn cao.</Gun_AssaultRifle.description>
+
+    <Bullet_SniperRifle.label>Đạn súng ngắm</Bullet_SniperRifle.label>
+
+    <Gun_SniperRifle.label>Súng ngắm</Gun_SniperRifle.label>
+    <Gun_SniperRifle.description>Thiết kế súng ngắm quân đội kiểu cổ.Bắn từng viên, tầm bắn rất xa, chính xác cực cao với sát thương khủng khiếp.</Gun_SniperRifle.description>
+
+    <Bullet_MachinePistol.label>Đạn súng lục tự động</Bullet_MachinePistol.label>
+
+    <Gun_MachinePistol.label>Súng lục tự động</Gun_MachinePistol.label>
+    <Gun_MachinePistol.description>Một dạng súng máy nhỏ. Tầm bắn gần, hỏa lực kém nhưng tốc độ bắn cao. Có thể ngắm rất nhanh và bắn.</Gun_MachinePistol.description>
+
+    <Bullet_HeavySMG.label>Đạn tiểu liên tự động nặng</Bullet_HeavySMG.label>
+
+    <Gun_HeavySMG.label>Tiểu liên tự động hạng nặng</Gun_HeavySMG.label>
+    <Gun_HeavySMG.description>Một phiên bản thu nhỏ của súng trung liên. Tầm bắn rất gần nhưng hỏa lực tập chung và điểu khiển rất tốt.</Gun_HeavySMG.description>
+
+    <Bullet_IncendiaryLauncher.label>Đạn cháy</Bullet_IncendiaryLauncher.label>
+
+    <Gun_IncendiaryLauncher.label>Súng phóng đạn cháy</Gun_IncendiaryLauncher.label>
+    <Gun_IncendiaryLauncher.description>Súng phóng đạn cháy. Có thể phun lửa.</Gun_IncendiaryLauncher.description>
+
+    <Bullet_LMG.label>Đạn súng máy hạng nhẹ</Bullet_LMG.label>
+
+    <Gun_LMG.label>Súng máy hạng nhẹ</Gun_LMG.label>
+    <Gun_LMG.description>Một loại súng máy hạng nhẹ.</Gun_LMG.description>
+
+    <Bullet_ChargeRifle.label>Đạn súng điện từ</Bullet_ChargeRifle.label>
+
+    <Gun_ChargeRifle.label>Súng điện từ</Gun_ChargeRifle.label>
+    <Gun_ChargeRifle.description>Loại súng bắn ra tia hoặc đạn điện từ.</Gun_ChargeRifle.description>
+
+    <Bullet_TurretImprovised.label>Đạn súng tự động</Bullet_TurretImprovised.label>
+
+    <Gun_TurretImprovised.label>Súng tự động</Gun_TurretImprovised.label>
+    <Gun_TurretImprovised.description> mạnh mẻ cột vào pháo đài thượng đích khẩu súng . </Gun_TurretImprovised.description>
+
+    <Bullet_Minigun.label>Đạn súng 6 nòng</Bullet_Minigun.label>
+
+    <Gun_Minigun.label>Súng 6 nòng</Gun_Minigun.label>
+    <Gun_Minigun.description>Loại tiểu liên tự động nhiều nóng với tốc độ bắn kinh khủng. Là thiết kế của các phi sinh vật.</Gun_Minigun.description>
+
+    <Bullet_DoomsdayRocket.label>Rocket hạng nặng</Bullet_DoomsdayRocket.label>
+
+    <Gun_DoomsdayRocket.label>Súng bắn rocket hạng nặng</Gun_DoomsdayRocket.label>
+    <Gun_DoomsdayRocket.description>Loại súng bắn rocket sử dụng 1 lần cho việc hủy diệt nhanh mục tiêu</Gun_DoomsdayRocket.description>
+
+    <Bullet_Rocket.label>Rocket</Bullet_Rocket.label>
+
+    <Gun_TripleRocket.label>Súng bắn rocket liên thanh</Gun_TripleRocket.label>
+    <Gun_TripleRocket.description>Loại súng bắn rocket 1 lần dùng. Bắn ra lần lượt 3 quả rocket liên tiếp về phía mục tiêu.</Gun_TripleRocket.description>
+
+
+    <Bullet_ChargeBlasterHeavy.label>Đạn pháo điện từ</Bullet_ChargeBlasterHeavy.label>
+
+    <Gun_ChargeBlasterHeavy.label>Pháo điện từ</Gun_ChargeBlasterHeavy.label>
+    <Gun_ChargeBlasterHeavy.description>Sử dụng đạn điện từ để áp chế khu vực hỏa lực của đối phương. Thiết kế của phi sinh vật.</Gun_ChargeBlasterHeavy.description>
+
+    <Bullet_InfernoCannon.label>Đạn pháo địa ngục</Bullet_InfernoCannon.label>
+
+    <Gun_InfernoCannon.label>Pháo địa ngục</Gun_InfernoCannon.label>
+    <Gun_InfernoCannon.description>Pháo bắn đạn cháy thu nhỏ. Thiết kế của phi sinh vật.</Gun_InfernoCannon.description>
+
+    <Bullet_ChargeLance.label>Đạn thương điện từ</Bullet_ChargeLance.label>
+
+    <Gun_ChargeLance.label>Thương điện từ</Gun_ChargeLance.label>
+    <Gun_ChargeLance.description>Vũ khí bắn ra thanh điện từ. Bắn từng phát một với độ chính xác rất cao</Gun_ChargeLance.description>
+
+</LanguageData>

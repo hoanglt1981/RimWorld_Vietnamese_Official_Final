@@ -1,0 +1,19 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <Campfire.label>Lửa trại</Campfire.label>
+    <Campfire.description>Nấu ăn và cung cấp nhiệt. Sẽ cháy hết sau vài ngày. Giống như các nguồn nhiệt năng khác, nó cần được đặt trong một căn phòng kín với diện tích nhỏ để làm nóng. Có thể tiếp thêm nhiên liệu.</Campfire.description>
+
+    <PassiveCooler.label>Máy tự làm mát</PassiveCooler.label>
+    <PassiveCooler.description>Một dạng chuyển đối không khí hoạt động nhờ sức nước. Nó sẽ hỏng và tự hủy sau vài ngày sử dụng</PassiveCooler.description>
+
+    <Heater.label>Máy sưởi</Heater.label>
+    <Heater.description>Một thiết bị điện chuyển đổi điện năng thành nhiệt năng. Nó có thể tự động bật tắt để tới được nhiệt độ đề ra.</Heater.description>
+
+    <Cooler.label>Điều hòa</Cooler.label>
+    <Cooler.description>Một thiết bị điện nằm trong tường mà thổi khí lạnh vào phòng. Phần bên kia sinh ra lượng lớn nhiệt năng. Thường sử dụng để làm mát phòng trong những tháng hè, hoặc tạo ra băng.</Cooler.description>
+
+    <Vent.label>Lỗ thông hơi</Vent.label>
+    <Vent.description>Giúp cân bằng nhiệt độ giữa 2 phòng mà không cho phép đi lại giữa chúng</Vent.description>
+
+</LanguageData>

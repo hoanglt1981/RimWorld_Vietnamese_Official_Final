@@ -1,0 +1,11 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+	<RectTrigger.label>RectTrigger</RectTrigger.label>
+    <DropPodIncoming.label>Khoang cứu sinh(đang tới)</DropPodIncoming.label>
+    <DropPod.label>Khoang cứu sinh</DropPod.label>
+    <Fire.label>Lửa</Fire.label>
+    <Spark.label>Tia lửa điện</Spark.label>
+    <TemporaryRegionBarrier.label>Chướng ngại vật tạm thời</TemporaryRegionBarrier.label>
+
+</LanguageData>

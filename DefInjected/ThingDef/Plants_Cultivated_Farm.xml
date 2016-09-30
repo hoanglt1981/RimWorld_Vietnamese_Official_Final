@@ -1,0 +1,39 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <!--===========================  Crops  ==============================-->
+    <PlantPotato.label>Khoai tây</PlantPotato.label>
+    <PlantPotato.description>Đơn giản và giàu chất dinh dưỡng. Sinh trưởng tốt cả ở những vùng đát kém màu mỡ. Thu hoạch nhanh chóng. Một loại ngũ cốc mạnh mẽ và toàn diện </PlantPotato.description>
+
+    <PlantCorn.label>Ngô</PlantCorn.label>
+    <PlantCorn.description>Mất nhiều thời gian sinh trưởng nhưng lại cho thu hoạch nhiều thức ăn và lâu hư hại. Cần đất màu mỡ để sinh trưởng.</PlantCorn.description>
+
+    <PlantRice.label>Lúa</PlantRice.label>
+    <PlantRice.description>Cần sinh trưởng ở đất màu mỡ, thu hoạch nhanh, nhưng cần nấu ăn.</PlantRice.description>
+
+    <PlantHaygrass.label>Cỏ</PlantHaygrass.label>
+    <PlantHaygrass.description>Là thức ăn cho động vật, nhưng không phải con người. </PlantHaygrass.description>
+
+    <PlantStrawberry.label>Dâu</PlantStrawberry.label>
+    <PlantStrawberry.description>Ăn ngon ngay cả lúc còn tươi, tuy nhiên dễ bị hỏng.</PlantStrawberry.description>
+
+    <PlantCotton.label>Bông</PlantCotton.label>
+    <PlantCotton.description>Sợi thực vật được sử dụng làm ra vải.</PlantCotton.description>
+
+    <PlantDevilstrand.label>Nấm ác ma</PlantDevilstrand.label>
+    <PlantDevilstrand.description>Một loại nấm được biến đổi gien đến tạo ra loại lụa cao cấp. Được đồn đại nhiều bởi tính chất thần bý, nó được đặt tên nhằm gây ấn tượng với mọi người.</PlantDevilstrand.description>
+
+    <PlantHealroot.label>Thảo dược</PlantHealroot.label>
+    <PlantHealroot.description>Một loại gây chậm sinh trưởng sẽ cho thuốc thảo dược khi thu hoạch.\n\nNó được chọn nhân giống hàng thế kỷ bởi những người nhập cư. Đôi lúc nó được các thổ dân gọi là "bàn tay thầy thuốc" bởi năm loại dược tính lớn nhất của nó.</PlantHealroot.description>
+
+    <PlantHops.label>Cây bia</PlantHops.label>
+    <PlantHops.description>Cung cấp thành phần làm bia.</PlantHops.description>
+
+
+     <PlantPsychoid.label>Cây cần sa</PlantPsychoid.label>
+     <PlantPsychoid.description>Lá cần sa có thể được tinh chế thành nhiều dạng ma túy khác nhau</PlantPsychoid.description>
+
+     <PlantSmokeleaf.label>Cây thuốc lá</PlantSmokeleaf.label>
+     <PlantSmokeleaf.description>Lá thuốc có thể cuốn lại để hút.</PlantSmokeleaf.description>
+	 
+</LanguageData>

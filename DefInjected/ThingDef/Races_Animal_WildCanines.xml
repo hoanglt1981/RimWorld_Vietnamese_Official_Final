@@ -1,0 +1,43 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Warg.label>Sói hoang</Warg.label>
+    <Warg.description>Một giống sói cơ bắp cực khỏe. Các nhà khoa học đã nói rằng sói hoang là hậu duệ của những loại động vật được sử dụng làm vũ khi quân sự được tạo ra với mục đích đàn áp dân cư. Những kẻ mê tín coi chúng như công cụ của những vị thần nổi giận. Thức ăn của chúng là thịt tươi và xác chết.</Warg.description>
+    <Warg_Meat.label>thịt sói hoang</Warg_Meat.label>
+    <Warg_Leather.label>da sói hoang da </Warg_Leather.label>
+    <Warg_Corpse.label>xác sói hoang</Warg_Corpse.label>
+    <Warg_Corpse.description>một xác sói hoang.</Warg_Corpse.description>
+
+    <WolfTimber.label>Sói rừng</WolfTimber.label>
+    <WolfTimber.description>Một loài động vật ăn thịt mà nhiều nền văn hóa cổ xưa sợ hãi. Là những thợ săn xuất sắc, chúng có một cuộc sống phức tạp và cực kỳ thông minh.</WolfTimber.description>
+    <WolfTimber_Meat.label>thịt sói rừng</WolfTimber_Meat.label>
+    <WolfTimber_Leather.label>da sói rừng</WolfTimber_Leather.label>
+    <WolfTimber_Corpse.label>xác sói rừng</WolfTimber_Corpse.label>
+    <WolfTimber_Corpse.description>một xác sói rừng.</WolfTimber_Corpse.description>
+
+    <WolfArctic.label>Sói tuyết</WolfArctic.label>
+    <WolfArctic.description>Một biến thể của giống sói bắc cực cổ xưa. Là những thợ săn xuất sắc, chúng có một cuộc sống phức tạp và cực kỳ thông minh.</WolfArctic.description>
+    <WolfArctic_Leather.label>da sói tuyết</WolfArctic_Leather.label>
+    <WolfArctic_Corpse.label>xác sói tuyết</WolfArctic_Corpse.label>
+    <WolfArctic_Corpse.description>một xác sói tuyết.</WolfArctic_Corpse.description>
+
+    <FoxFennec.label>Hồ ly</FoxFennec.label>
+    <FoxFennec.description> Một loài cáo nguyên thủy nhỏ đến từ phía bắc châu Phi, Chúng có đôi tai rất lớn, chuyên săn các sinh vật nhỏ.</FoxFennec.description>
+    <FoxFennec_Meat.label>thịt hồ ly</FoxFennec_Meat.label>
+    <FoxFennec_Leather.label>da hồ ly</FoxFennec_Leather.label>
+    <FoxFennec_Corpse.label>xác hồ ly</FoxFennec_Corpse.label>
+    <FoxFennec_Corpse.description>một xác hồ ly.</FoxFennec_Corpse.description>
+
+    <FoxRed.label>Cáo đỏ</FoxRed.label>
+    <FoxRed.description>Một loại chó nhỏ tiến hóa để có thể săn con mồi nhỏ ở vùng khí hậu ôn đới</FoxRed.description>
+    <FoxRed_Leather.label>da cáo đỏ</FoxRed_Leather.label>
+    <FoxRed_Corpse.label>xác cáo đỏ</FoxRed_Corpse.label>
+    <FoxRed_Corpse.description>một xác cáo đỏ.</FoxRed_Corpse.description>
+
+    <FoxArctic.label>Cáo tuyết</FoxArctic.label>
+    <FoxArctic.description>Một loài thú săn mồi nhỏ ở phía bắc. Chúng thường săn những con mồi nhỏ như chuột, chuột đồng. Đôi khi chúng đào cả mét tuyết để tóm được con mồi của mình.</FoxArctic.description>
+    <FoxArctic_Leather.label>da cáo tuyết</FoxArctic_Leather.label>
+    <FoxArctic_Corpse.label>xác cáo tuyết</FoxArctic_Corpse.label>
+    <FoxArctic_Corpse.description>một xác cáo tuyết.</FoxArctic_Corpse.description>
+
+</LanguageData>

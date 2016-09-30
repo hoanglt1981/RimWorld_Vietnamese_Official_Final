@@ -1,0 +1,26 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <HerbalMedicine.label>Thuốc thảo dược</HerbalMedicine.label>
+    <HerbalMedicine.description>Các thành phần thuốc thảo dược có nguồn gốc từ cây thuốc . Nó không làm việc tốt thuốc công nghiệp, nhưng tốt hơn nhiều so với việc không có bất kì loại thuốc nào.</HerbalMedicine.description>
+
+    <Medicine.label>Thuốc</Medicine.label>
+    <Medicine.description>Thường được bác sỹ sử dụng để điều trị cho những người bị thương.</Medicine.description>
+
+    <GlitterworldMedicine.label>Thuốc cao cấp</GlitterworldMedicine.label>
+    <GlitterworldMedicine.description>Một loại thuốc tiên tiến từ chế tạo từ một công nghệ cao.</GlitterworldMedicine.description>
+
+    <ArtilleryShell.label>Đạn pháo</ArtilleryShell.label>
+    <ArtilleryShell.description>Bắn ra từ pháo phòng không</ArtilleryShell.description>
+
+    <Component.label>Linh kiện</Component.label>
+    <Component.description>Cần thiết để lắp ráp máy móc phức tạp hoặc thiết bị điện tử .</Component.description>
+
+
+<!--===============  A15  Neutroamine  ====================-->
+
+    <Neutroamine.label>Dung dịch</Neutroamine.label>
+    <Neutroamine.description>Một hóa chất tiền tổng hợp. Không có công dụng riêng ngoài việc làm thành phần để chế tạo thuốc</Neutroamine.description>
+
+
+</LanguageData>

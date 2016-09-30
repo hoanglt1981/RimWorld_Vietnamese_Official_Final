@@ -1,0 +1,17 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Hare.label>Thỏ</Hare.label>
+    <Hare.description>Một động vật ăn cỏ đơn độc, nhỏ bé, có thể nhanh chóng nhảy toát nguy hiểm.</Hare.description>
+    <Hare_Leather.label>da thỏ</Hare_Leather.label>
+    <Hare_Meat.label>thịt thỏ</Hare_Meat.label>
+    <Hare_Corpse.label>xác thỏ</Hare_Corpse.label>
+    <Hare_Corpse.description>một xác thỏ.</Hare_Corpse.description>
+
+    <Snowhare.label>Thỏ tuyết</Snowhare.label>
+    <Snowhare.description>Có khả năng sống tốt qua mua đông tàn bạo của phương bắc bằng cách đào hang dưới tuyết để tìm kiếm con mồi cũng như chỗ trú ẩn.</Snowhare.description>
+    <Snowhare_Leather.label>da thỏ tuyết</Snowhare_Leather.label>
+    <Snowhare_Corpse.label>xác thỏ tuyết</Snowhare_Corpse.label>
+    <Snowhare_Corpse.description>một xác thỏ tuyết.</Snowhare_Corpse.description>
+
+</LanguageData>

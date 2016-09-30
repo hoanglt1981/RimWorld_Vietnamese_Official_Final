@@ -1,0 +1,15 @@
+﻿<?xml  version="1.0"  encoding="utf-8"  ?>
+<LanguageData>
+
+    <!--===========================    Wild  -  clustering  bushes  (some  harvestable)  ==============================-->
+    <PlantAgave.label>Cây thùa</PlantAgave.label>
+    <PlantAgave.description>Một loại thực vật sa mạc. Cây và rễ có thể sử dụng làm thức ăn.</PlantAgave.description>
+
+    <!--============================  Wild  -  Cacti  ============================-->
+    <PlantSaguaroCactus.label>Cây xương rồng lớn</PlantSaguaroCactus.label>
+    <PlantSaguaroCactus.description>Một loại cây xương rồng phù hợp với môi trường đất khô hạn.</PlantSaguaroCactus.description>
+
+    <PlantPincushionCactus.label>Cây xương rồng gai</PlantPincushionCactus.label>
+    <PlantPincushionCactus.description>Một loại cây xương rồng nhỏ.</PlantPincushionCactus.description>
+
+</LanguageData>

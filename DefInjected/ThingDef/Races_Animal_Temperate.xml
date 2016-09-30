@@ -1,0 +1,44 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Deer.label>Nai</Deer.label>
+    <Deer.description> một loại trung hình đích làm thực động vật . một loại ở không bị quấy rầy đích dưới tình huống là một loại hòa bình đích động vật . </Deer.description>
+    <Deer_Leather.label>da nai</Deer_Leather.label>
+    <Deer_Meat.label>thịt nai</Deer_Meat.label>
+    <Deer_Corpse.label>xác nai</Deer_Corpse.label>
+    <Deer_Corpse.description>một xác nai.</Deer_Corpse.description>
+
+    <Ibex.label>Sơn dương</Ibex.label>
+    <Ibex.description> súc nuôi sơn dương đích tổ tông , dã sơn dương ở tại phần lớn sơn dương không thể sinh tồn đích số ít địa hình thượng , lấy địa y cùng thực bị vì thực . bọn họ lấy có thể ở quang ngốc ngốc đích trên vách đá nhảy tới nhảy lui , cùng với có lực đích đụng giác mà nổi tiếng . </Ibex.description>
+    <Ibex_Leather.label>da sơn dương</Ibex_Leather.label>
+    <Ibex_Meat.label>thịt sơn dương</Ibex_Meat.label>
+    <Ibex_Corpse.label>xác sơn dương</Ibex_Corpse.label>
+    <Ibex_Corpse.description>một xác sơn dương.</Ibex_Corpse.description>
+
+    <Elk.label>Mị lộc</Elk.label>
+    <Elk.description>lộc loại trong gia tộc đích một đại thành viên , đã thích ứng đích giá rét hoàn cảnh đích cuộc sống . </Elk.description>
+    <Elk_Leather.label>da mị lộc</Elk_Leather.label>
+    <Elk_Meat.label>thịt mị lộc</Elk_Meat.label>
+    <Elk_Corpse.label>xác mị lộc</Elk_Corpse.label>
+    <Elk_Corpse.description>một xác mị lộc.</Elk_Corpse.description>
+
+    <Caribou.label>Tuần lộc</Caribou.label>
+    <Caribou.description>lộc loại trong gia tộc đích một đại thành viên , đã thích ứng đích giá rét hoàn cảnh đích cuộc sống . </Caribou.description>
+    <Caribou_Leather.label>da tuần lộc</Caribou_Leather.label>
+    <Caribou_Meat.label>thịt tuần lộc</Caribou_Meat.label>
+    <Caribou_Corpse.label>xác tuần lộc</Caribou_Corpse.label>
+    <Caribou_Corpse.description>một xác tuần lộc.</Caribou_Corpse.description>
+
+    <WildBoar.label>Lợn rừng</WildBoar.label>
+    <WildBoar.description> mặc dù ở một ít văn hóa trong đây là không khiết đích động vật , loại này lông dài đích nhà heo tổ tiên bởi vì bọn họ tươi đẹp đích thịt mà nổi tiếng . </WildBoar.description>
+    <WildBoar_Corpse.label>xác lợn rừng</WildBoar_Corpse.label>
+    <WildBoar_Corpse.description> một xác heo rừng.</WildBoar_Corpse.description>
+
+    <Tortoise.label>Rùa</Tortoise.label>
+    <Tortoise.description> loại này người khoác trọng giáp đích lục được động vật bò sát bởi vì bọn họ chậm rãi tốc độ cùng trí mạng cắn kích mà nổi tiếng . </Tortoise.description>
+    <Tortoise_Leather.label>da rùa</Tortoise_Leather.label>
+    <Tortoise_Meat.label>thịt rùa</Tortoise_Meat.label>
+    <Tortoise_Corpse.label>xác rùa</Tortoise_Corpse.label>
+    <Tortoise_Corpse.description>một xác rùa.</Tortoise_Corpse.description>
+
+</LanguageData>

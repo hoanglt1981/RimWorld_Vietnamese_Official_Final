@@ -1,0 +1,28 @@
+<?xml  version="1.0"  encoding="utf-8"  ?>
+<LanguageData>
+
+    <Clear.label>Quang đãng</Clear.label>
+    <Clear.description>Trời quang đãng, không có bất kì điều gì đặc biệt.</Clear.description>
+
+    <Fog.label>Sương mù</Fog.label>
+    <Fog.description>Sương mù làm giảm độ chính xác của vũ khí tầm xa.</Fog.description>
+
+    <Rain.label>Mưa</Rain.label>
+    <Rain.description>Trời mưa làm giảm chính xác vũ khí tầm xa, giảm tốc độ di chuyển, nhưng cũng đồng thời dập tắt lửa.</Rain.description>
+
+    <DryThunderstorm.label>Sấm sét</DryThunderstorm.label>
+    <DryThunderstorm.description>Sấm sét rất nguy hiểm vì nó tạo thành hỏa hoạn lớn, lại không có mưa dập lửa.</DryThunderstorm.description>
+
+    <RainyThunderstorm.label>Mưa giông</RainyThunderstorm.label>
+    <RainyThunderstorm.description>Sét sẽ gây hỏa hoạn nhưng mưa cũng dập tắt lửa. Mưa sẽ làm giảm độ chính xác vũ khí tầm xa.</RainyThunderstorm.description>
+
+    <FoggyRain.label>Mưa mù</FoggyRain.label>
+    <FoggyRain.description>Giảm độ chính xác vũ khí tầm xa, giảm tốc độ di chuyển.</FoggyRain.description>
+
+    <SnowHard.label>Tuyết dày</SnowHard.label>
+    <SnowHard.description>Tuyết dày dập tắt lửa, nhưng giảm nặng chính xác của vũ khí tầm xa cũng như khả năng di chuyển.</SnowHard.description>
+
+    <SnowGentle.label>Tuyết nhẹ</SnowGentle.label>
+    <SnowGentle.description>Tuyết nhẹ dập tắt lửa, nhưng giảm đi chính xác của vũ khí tầm xa cũng như khả năng di chuyển.</SnowGentle.description>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <AIPersonaCore.label>Lõi AI nhân tạo</AIPersonaCore.label>
+    <AIPersonaCore.description>Một lõi máy tính siêu cấp mang trí thông minh nhân tạo như con người. Trong trạng thái độc lập thì lõi không hoạt động. Khi cài đặt vào một cấu trúc hỗ trợ, nó có thể trở thành thứ sức mạnh đáng sợ.</AIPersonaCore.description>
+
+    <Neurotrainer.label>Neurotrainer</Neurotrainer.label>
+    <Neurotrainer.description>Thiết bị huấn luyện chỉ sử dụng 1 lần bằng công nghệ nano. Nó được đặt vào trong mắt và giải phóng các cỗ máy siêu nhỏ vào não bộ người dùng, nhanh chóng tăng cường kĩ năng của họ.</Neurotrainer.description>
+	<Neurotrainer.comps.0.useLabel>Sử dụng neurotrainer để học {0}</Neurotrainer.comps.0.useLabel>
+	
+    <ThrumboHorn.label>Sừng Thrumbo</ThrumboHorn.label>
+    <ThrumboHorn.description>Cực kỳ sắc bén, rất cứng và giá trị ở mọi thị trường. Nó là một chiến tích thực sự.</ThrumboHorn.description>
+
+    <ElephantTusk.label>Ngà voi</ElephantTusk.label>
+    <ElephantTusk.description>Rất bền và giá trị. Một loại vũ khí chết người nhưng khó sử dụng.</ElephantTusk.description>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Joywire.stages.0.label>Joywire</Joywire.stages.0.label>
+  <Joywire.stages.0.description>Cảm giác thật khó tin.</Joywire.stages.0.description>
+
+  <ArtifactMoodBoost.stages.0.label>Cảm giác kì lạ.</ArtifactMoodBoost.stages.0.label>
+  <ArtifactMoodBoost.stages.0.description>Tôi thấy hơi lạ, nhưng cực thư giãn.</ArtifactMoodBoost.stages.0.description>
+
+  
+  <PsychicDrone.stages.0.label>Xung xoa dịu thần kinh (trung bình)</PsychicDrone.stages.0.label>
+  <PsychicDrone.stages.0.description>Nó giống như là một âm thanh bình yên vang lên trong tâm trí tôi, xoa dịu tôi, khiến tôi ngừng kích động.</PsychicDrone.stages.0.description>
+
+  <PsychicDrone.stages.1.label>Xung kích thích thần kinh (thấp)</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.1.description>Nó giống như đang cào sâu vào tâm trí tôi. Một âm thanh thầm thì. Tôi có thể diễn tả bằng vài từ, và tôi không thích chúng.</PsychicDrone.stages.1.description>
+
+  <PsychicDrone.stages.2.label>Xung kích thích thần kinh (trung bình)</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.2.description>Tôi cảm thấy như có ai đó giấu mặt đang nói chuyện với mình. Âm thanh luôn thanh đổi nhưng nội dụng thì vẫn vậy. Tôi cảm thấy như làm đau mọi người. Đem nó đi đi!</PsychicDrone.stages.2.description>
+
+  <PsychicDrone.stages.3.label>Xung kích thích thần kinh (cao)</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.3.description>Âm thanh lớn không chịu nổi. Thật khó để tập trung . Tôi thấy mình nói lại với nó, hét lên nó . Nhưng nó chỉ tiếp tục hét lên! </PsychicDrone.stages.3.description>
+
+  <PsychicDrone.stages.4.label>Xung kích thích thần kinh (nghiên trọng)</PsychicDrone.stages.4.label>
+  <PsychicDrone.stages.4.description>Trái tim tôi đập mạnh và tôi đang đổ mồ hôi. Tất cả tôi có thể nghĩ là là tổn thương, là đau khổ, là như tất cả kẻ thù vây quanh tôi. Họ là cơn ác mộng của tôi , cơn ác mộng của tôi , cơn ác mộng của tôi ...</PsychicDrone.stages.4.description>
+  
+  
+</LanguageData>

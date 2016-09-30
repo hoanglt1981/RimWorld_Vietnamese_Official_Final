@@ -1,0 +1,19 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <!--================================  Sculptures  ======================================-->
+    <SculptureSmall.label>Tượng nhỏ</SculptureSmall.label>
+    <SculptureSmall.description>Điêu khắc thành tác phẩm nghệ thuật từ một lượng nhỏ nguyên liệu.</SculptureSmall.description>
+
+    <SculptureLarge.label>Tượng lớn</SculptureLarge.label>
+    <SculptureLarge.description>Điêu khắc thành tác phẩm nghệ thuật từ một lượng lớn nguyên liệu.</SculptureLarge.description>
+
+    <SculptureGrand.label>Tượng siêu lớn</SculptureGrand.label>
+    <SculptureGrand.description>Điêu khắc thành tác phẩm nghệ thuật từ một lượng rất lớn nguyên liệu.</SculptureGrand.description>
+
+    <!--================================  Snowman  ======================================-->
+
+    <Snowman.label>Người tuyết</Snowman.label>
+    <Snowman.description>Một đống tuyết đắp thành, mang hình dánh một con người.</Snowman.description>
+
+</LanguageData>

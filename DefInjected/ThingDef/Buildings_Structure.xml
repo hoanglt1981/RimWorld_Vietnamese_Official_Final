@@ -1,0 +1,15 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <!--=========================  Doors  =============================-->
+    <Door.label>Cửa</Door.label>
+    <Door.description>Dùng phân chia phòng. Cần đóng mở bằng tay nên sẽ làm chậm di chuyển của mọi người.</Door.description>
+
+    <Autodoor.label>Cửa tự động</Autodoor.label>
+    <Autodoor.description>Dùng phân chia phòng. Tự hoạt động bằng điện năng, giúp mọi  người đi qua mà không bị giảm tốc độ.</Autodoor.description>
+
+    <!--=========================  Walls  =============================-->
+    <Wall.label>Tường</Wall.label>
+    <Wall.description>Không có cách nào đi xuyên qua tường. Phù hợp để giữ mái nhà. </Wall.description>
+
+</LanguageData>

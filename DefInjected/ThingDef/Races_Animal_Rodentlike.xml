@@ -1,0 +1,53 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Squirrel.label>Sóc</Squirrel.label>
+    <Squirrel.description>kiên cường lại linh hoạt thử loại động vật một loại , đuổi theo loài người dấu chân sinh tồn . </Squirrel.description>
+    <Squirrel_Leather.label>da sóc</Squirrel_Leather.label>
+    <Squirrel_Meat.label>thịt sóc</Squirrel_Meat.label>
+    <Squirrel_Corpse.label>xác sóc</Squirrel_Corpse.label>
+    <Squirrel_Corpse.description>một xác sóc.</Squirrel_Corpse.description>
+
+    <Alphabeaver.label>Hải ly</Alphabeaver.label>
+    <Alphabeaver.description>một loại bị người máy sửa đổi vì cao hiệu đích đốn củi công cụ đích đại hình hải ly . ở thiếu hụt đặc thù tự liêu đích dưới tình huống loại sinh vật này sẽ tiến vào một loại điên cuồng trạng thái cũng cắn nuốt cả gốc cây cả gốc cây đích cây cối . </Alphabeaver.description>
+    <Alphabeaver_Leather.label>da hải ly</Alphabeaver_Leather.label>
+    <Alphabeaver_Meat.label>thịt hải ly</Alphabeaver_Meat.label>
+    <Alphabeaver_Corpse.label>xác hải ly</Alphabeaver_Corpse.label>
+    <Alphabeaver_Corpse.description>một xác hải ly.</Alphabeaver_Corpse.description>
+
+    <Capybara.label>Chồn</Capybara.label>
+    <Capybara.description> lớn nhất thiên nhiên ngão xỉ động vật , chồn thích hợp ở nóng hổi đích trong rừng rậm cuộc sống . </Capybara.description>
+    <Capybara_Leather.label>da chồn</Capybara_Leather.label>
+    <Capybara_Meat.label>thịt chồn</Capybara_Meat.label>
+    <Capybara_Corpse.label>xác chồn</Capybara_Corpse.label>
+    <Capybara_Corpse.description>một xác chồn.</Capybara_Corpse.description>
+
+    <Chinchilla.label>Chuột lang</Chinchilla.label>
+    <Chinchilla.description> một thể tiểu mà đi động nhanh chóng ngão xỉ động vật , lấy kỳ dị thường mềm mại đích mao da ra tên . </Chinchilla.description>
+    <Chinchilla_Leather.label>da chuột lang</Chinchilla_Leather.label>
+    <Chinchilla_Meat.label>thịt chuột lang</Chinchilla_Meat.label>
+    <Chinchilla_Corpse.label>xác chuột lang</Chinchilla_Corpse.label>
+    <Chinchilla_Corpse.description>một xác chuột lang.</Chinchilla_Corpse.description>
+
+    <Boomrat.label>Chuột nổ</Boomrat.label>
+    <Boomrat.description> bất kể là từ cố ý đích vũ khí hóa người máy sửa đổi còn là hiếm thấy tự vệ ky chế . loại này con chuột giống nhau sinh vật ở tử vong lúc sẽ sinh ra một cuộc uy lực to lớn nổ tung.</Boomrat.description>
+    <Boomrat_Leather.label>da chuột nổ</Boomrat_Leather.label>
+    <Boomrat_Meat.label>thịt chuột nổ</Boomrat_Meat.label>
+    <Boomrat_Corpse.label>xác chuột nổ</Boomrat_Corpse.label>
+    <Boomrat_Corpse.description>một xác chuột nổ.</Boomrat_Corpse.description>
+
+    <Raccoon.label>Gấu trúc</Raccoon.label>
+    <Raccoon.description> một loại tiểu mà kiên cường động vật trải rộng với rừng rậm cùng buội cây buội rậm trung , bọn họ cơ hồ cái gì cũng ăn . </Raccoon.description>
+    <Raccoon_Leather.label>da gấu trúc</Raccoon_Leather.label>
+    <Raccoon_Meat.label>thịt gấu trúc</Raccoon_Meat.label>
+    <Raccoon_Corpse.label>xác gấu trúc</Raccoon_Corpse.label>
+    <Raccoon_Corpse.description>một xác gấu trúc.</Raccoon_Corpse.description>
+
+    <Rat.label>Chuột</Rat.label>
+    <Rat.description> lấy ô nhiễm phòng bếp truyền bá tật bệnh mà nổi tiếng đích động vật , cơ hồ cái gì cũng ăn , cơ hồ nơi nào cũng có thể ở . </Rat.description>
+    <Rat_Leather.label>da chuột</Rat_Leather.label>
+    <Rat_Meat.label>thịt chuột </Rat_Meat.label>
+    <Rat_Corpse.label>xác chuột</Rat_Corpse.label>
+    <Rat_Corpse.description>một xác chuột.</Rat_Corpse.description>
+
+</LanguageData>

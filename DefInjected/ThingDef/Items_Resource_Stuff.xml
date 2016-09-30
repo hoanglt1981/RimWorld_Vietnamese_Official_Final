@@ -1,0 +1,53 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <!--===============  Pure  stuffs:  Basics  ====================-->
+    <Silver.label>Bạc</Silver.label>
+    <Silver.description>Được sử dụng như đơn vị tiền tệ chính. Nó cũng được sử dụng để trang trí.</Silver.description>
+
+    <Gold.label>Vàng</Gold.label>
+    <Gold.description>Là thứ kim loại có sức hút nhất. Hàng triệu người đã chết khi cố đáp ứng như cầu bất tận về vàng của con người. Nó ít được sử dụng riêng, nhưng đẹp nổi bật và rất hiếm.</Gold.description>
+    <Gold.stuffProps.stuffAdjective>vàng</Gold.stuffProps.stuffAdjective>
+
+    <Steel.label>Thép</Steel.label>
+    <Steel.description>Một loại hợp kim sắt carbon sử dụng cho xây dựng kiến trúc, công cụ và vũ khí.</Steel.description>
+
+    <Plasteel.label>Titanium</Plasteel.label>
+    <Plasteel.description>Vật liệu trong kiến trúc không gian cao cấp. Nó cực kỳ mạnh mẽ cho cấu trúc phân tử độc đáo.</Plasteel.description>
+
+    <WoodLog.label>Gỗ</WoodLog.label>
+    <WoodLog.description>Từ cây gỗ hoặc từ các thực vật khác. Hữu dụng trong xây dựng kiến trúc, vũ khí hay các bộ phận thân thể đơn giản. Một khúc gỗ tươi còn có thể được sử dụng làm vũ khí.</WoodLog.description>
+    <WoodLog.stuffProps.stuffAdjective>gỗ</WoodLog.stuffProps.stuffAdjective>
+
+    <Uranium.label>Uranium</Uranium.label>
+    <Uranium.description>Kim loại cực kỳ dày và cứng. Ngoài việc được biết đến làm nhiên liệu cho lò phản ứng hạt nhân, tính chất vật lý của uranium còn tuyệt vời khi đóng vai trò chế tạo công cụ, vũ khí và áo giáp.</Uranium.description>
+
+    <Jade.label>Ngọc</Jade.label>
+    <Jade.description>Một khoáng thạch cứng có màu xanh lá. Vì vẻ đẹp và mức độ hiếm có mà ngọc được sử dụng làm đồ trang sức và những đồ trang trí đắt giá. Độ cứng và chắc chắn cũng khiến nó trở thành vật liệu tốt cho các loại vũ khí gậy gộc.</Jade.description>
+
+    <!--===============  Pure  stuffs:  Fabric,  leather,  etc    ====================-->
+    <Cloth.label>Vải</Cloth.label>
+    <Cloth.description>Dệt từ các sợi hữu cơ</Cloth.description>
+
+    <Synthread.label>Vải tổng hợp</Synthread.label>
+    <Synthread.description>Vải tổng hợp bằng công nghệ không gian, được thiết kế để làm quần áo. Nó mềm , nhẹ, mạnh mẽ, và cách ly tốt.</Synthread.description>
+
+    <DevilstrandCloth.label>Vải nấm ma</DevilstrandCloth.label>
+    <DevilstrandCloth.description>Tộng hợp từ sợi vi hữu cơ từ cây nấm ma. Rất khó dùng, nhưng cũng không tốt hơn so với vải thường.</DevilstrandCloth.description>
+
+    <Hyperweave.label>Vải siêu dệt</Hyperweave.label>
+    <Hyperweave.description>Được dệt thành tấm bằng công nghệ nano. Hơi nặng nhưng khó để phá hỏng. Công nghệ bí mật sản xuất vật liệu này chỉ được biết ở những nền văn minh tiên tiến nhất.</Hyperweave.description>
+
+    <MegatheriumWool.label>Lông lười tuyết</MegatheriumWool.label>
+    <MegatheriumWool.description>Thô và dài, điều đó giúp nó trở nên rất mạnh. Nó còn rất ấm áp.</MegatheriumWool.description>
+
+    <MuffaloWool.label>Lông trâu</MuffaloWool.label>
+    <MuffaloWool.description>Mềm, nhẹ và cách nhiệt rất tốt. Quần áo từ lông trâu có thể giữ nhiệt độ cơ thể ngay cả trong điều kiện khắc nghiệt.</MuffaloWool.description>
+
+    <CamelHair.label>Lông lạc đà</CamelHair.label>
+    <CamelHair.description> Quần áo từ lông lạc đà thường được mặc bởi du khách sa mạc du lịch đẻ bảo vệ khỏi sức nóng. Nó mang đến nhiệt độ tuyệt vời do tính chất nhiệt của nó.</CamelHair.description>
+
+    <AlpacaWool.label>Lông lạc đà alpaca</AlpacaWool.label>
+    <AlpacaWool.description>Một loại lông vô cùng mềm mại, và cực kỳ ấm áp.</AlpacaWool.description>
+
+</LanguageData>

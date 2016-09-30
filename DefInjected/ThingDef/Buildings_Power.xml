@@ -1,0 +1,22 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <PowerConduit.label>Dây dẫn điện</PowerConduit.label>
+    <PowerConduit.description>Một bộ dây điện dùng dẫn điện. Có thể đặt ở dưới những bức tường và các công trình khác.</PowerConduit.description>
+
+    <PowerSwitch.label>Công tắc nguồn</PowerSwitch.label>
+    <PowerSwitch.description>Sử dụng để chuyển đổi bật tắt nguồn điện. </PowerSwitch.description>
+
+    <FueledGenerator.label>Máy phát điện nguyên liệu</FueledGenerator.label>
+    <FueledGenerator.description>Sản xuất ra điện năng bằng việc tiêu thụ nhiên liệu gỗ. Thiết bị này cần được tiếp nhiên liệu bằng tay</FueledGenerator.description>
+
+    <Battery.label>Pin dự trữ</Battery.label>
+    <Battery.description>Lưu trữ điện này khi điện dư thừa và sử dụng khi thiếu điện. Coi chừng vì những pin dự trữ này thường phát nổ khi quá nóng hoặc ẩm ướt.</Battery.description>
+
+    <SolarGenerator.label>Tấm năng lượng mặt trời</SolarGenerator.label>
+    <SolarGenerator.description>Tạo ra điện năng từ ánh sáng mặt trời. Không hoạt động khi trời tối</SolarGenerator.description>
+
+    <GeothermalGenerator.label>Máy địa nhiệt</GeothermalGenerator.label>
+    <GeothermalGenerator.description>Tạo ra điện năng từ các mỏ nhiệt khí. cần phải đặt trên mỏ khí</GeothermalGenerator.description>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Love -->
+
+  <GotMarried.stages.0.label>Cưới {0}</GotMarried.stages.0.label>
+  <GotMarried.stages.0.description>Tôi đã cưới! Cuộc sống luôn đầy những khả năng!</GotMarried.stages.0.description>
+
+  <!-- Misc -->
+
+  <AttendedWedding.stages.0.label>Tham gia đám cưới</AttendedWedding.stages.0.label>
+  <AttendedWedding.stages.0.description>Thật tuyệt khi thấy hai con người đến với nhau, cùng xây một tương lai chung như vậy.</AttendedWedding.stages.0.description>
+
+  <AttendedParty.stages.0.label>Tham gia bữa tiệc</AttendedParty.stages.0.label>
+  <AttendedParty.stages.0.description>Tôi đã có khoảng thòi gian tuyệt vời tại bữa tiệc.</AttendedParty.stages.0.description>
+
+</LanguageData>

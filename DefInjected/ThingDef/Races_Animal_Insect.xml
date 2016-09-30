@@ -1,0 +1,19 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Megascarab.label>Giáp trùng cỡ lớn</Megascarab.label>
+    <Megascarab.description>Loại côn trùng lớn dựa trên công nghị di truyền loài bọ cánh cứng. Chúng từng là giáp trùng thợ của hệ sinh thái côn trùng chống lại cuộc xâm lược của phi sinh vật, nhưng giờ không nhìn thấy họ hàng nào của chúng. Dù vậy, kích thước và lớp vỏ chắc chắn khiến chúng trở nên nguy hiểm. Một sinh vật không giao tiếp, nó không thể tự sinh sản.</Megascarab.description>
+    <Megascarab_Corpse.label>xác giáp trùng</Megascarab_Corpse.label>
+    <Megascarab_Corpse.description>một xác giáp trùng.</Megascarab_Corpse.description>
+
+    <Spelopede.label>Trùng đào bới</Spelopede.label>
+    <Spelopede.description>Một con trùng cỡ vừa có kích thước tương đương 1 con cừu. Chúng là cấp giữa trong tổ, chịu trách nhiệm hầu hết công việc cũng như chiến đấu bằng móng vuốt.</Spelopede.description>
+    <Spelopede_Corpse.label>xác tiểu trùng</Spelopede_Corpse.label>
+    <Spelopede_Corpse.description>một xác trùng.</Spelopede_Corpse.description>
+
+    <Megaspider.label>Nhện cỡ lớn</Megaspider.label>
+    <Megaspider.description>Không hẳn là nhện. Nó là một kết quả của siêu công nghệ di truyền côn trùng với kích thước khổng lồ tương đương 1 con gấu. Được thiết kếcho công việc nặng nhọc và chiến đấu, lơp giáp ngực dày làm cho chúng rất khó bị hạ, trong khi lưỡi dao sắc bén dài khiến cho nó trở nên nguy hiển chết người.</Megaspider.description>
+    <Megaspider_Corpse.label>xác nhện cỡ lớn</Megaspider_Corpse.label>
+    <Megaspider_Corpse.description>một xác nhện.</Megaspider_Corpse.description>
+
+</LanguageData>

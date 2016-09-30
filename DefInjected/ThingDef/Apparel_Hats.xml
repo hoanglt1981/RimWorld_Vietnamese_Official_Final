@@ -1,0 +1,22 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Apparel_CowboyHat.label>Mũ cao bồi</Apparel_CowboyHat.label>
+    <Apparel_CowboyHat.description>Kiểu dáng thời trang, giúp che nắng và che mưa, đồng thời gia tăng thêm sức thu hút cho người đội. Đây là thứ quan trọng nhất với trong trang phục miền tây truyền thống.</Apparel_CowboyHat.description>
+
+    <Apparel_Tuque.label>Mũ trùm</Apparel_Tuque.label>
+    <Apparel_Tuque.description>Một loại mũ mềm và dày dặn, rất có lợi cho việc giữ ấm trong mùa đông.</Apparel_Tuque.description>
+
+    <Apparel_MilitaryHelmet.label>Mũ quân dụng</Apparel_MilitaryHelmet.label>
+    <Apparel_MilitaryHelmet.description>Trông cũ và nặng nề nhưng hiệu quả. Bảo vệ trước đạn tốc độ thấp, mảnh bỏm, mảnh vỡ, cắt vào đầu.</Apparel_MilitaryHelmet.description>
+
+    <Apparel_KevlarHelmet.label>Mũ chống đạn</Apparel_KevlarHelmet.label>
+    <Apparel_KevlarHelmet.description>Một loại mũ chiến đấu nhẹ cân. </Apparel_KevlarHelmet.description>
+
+    <Apparel_PsychicFoilHelmet.label>Mũ chống xung thần kinh </Apparel_PsychicFoilHelmet.label>
+    <Apparel_PsychicFoilHelmet.description>Một chiếc mũ dày chứa các tấm hấp thu xung thần kinh. Làm giảm đi va chạm của xung thần kinh</Apparel_PsychicFoilHelmet.description>
+
+    <Apparel_PowerArmorHelmet.label>Mũ giáp điện năng</Apparel_PowerArmorHelmet.label>
+    <Apparel_PowerArmorHelmet.description>Một phần của giáp điện năng, thứ hầu như được sử dụng bởi bộ binh hạng nặng</Apparel_PowerArmorHelmet.description>
+
+</LanguageData>

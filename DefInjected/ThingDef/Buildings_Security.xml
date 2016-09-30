@@ -1,0 +1,34 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <Sandbags.label>Bao cát</Sandbags.label>
+    <Sandbags.description> ngăn trở bắn tới đích đạn . </Sandbags.description>
+
+    <!--===============  Improvised  turret  ===============-->
+    <TurretGun.label>Súng máy tự động</TurretGun.label>
+    <TurretGun.description>Một súng máy tự động bắn vào các kẻ thù ở gần. Nó sẽ nổ khi bị phá hỏng. Nó được áp dụng công nghệ AI không phải quá thôn minh, vì thế việc không thể điều kiển trực tiếp việc bắn nhầm. Vì vậy cần cẩn thận với việc bắn nhầm</TurretGun.description>
+
+    <!--===============  Mortar  turret  ===============-->
+    <Turret_MortarBomb.label>Pháo cối (bom)</Turret_MortarBomb.label>
+    <Turret_MortarBomb.description>Loại Pháo cối bắn đạn nổ. Cần phải tiếp đạn. Nó sẽ bị nổ khi bị phá hỏng.</Turret_MortarBomb.description>
+	
+	<Artillery_MortarBomb.label>Pháo cối (bom)</Artillery_MortarBomb.label> <Artillery_MortarBomb.description>Sử dụng cho Pháo cối, bên trong nhồi bom. Tầm bắn xa nhưng rất không chính xác.</Artillery_MortarBomb.description>
+    <Bullet_MortarBomb.label>Đạn nổ</Bullet_MortarBomb.label>
+	
+	<Turret_MortarIncendiary.label>Pháo cối (cháy)</Turret_MortarIncendiary.label> <Turret_MortarIncendiary.description>Một loại pháo cối bắn ra đạn gây cháy. Cần tiếp đạn và khi bị phá hỏng sẽ phát nổ.</Turret_MortarIncendiary.description> <Artillery_MortarIncendiary.label>Pháo cối (cháy)</Artillery_MortarIncendiary.label> 
+	<Artillery_MortarIncendiary.description>Sử dụng cho pháo cối bắn đạn cháy. Bên trong nhồi nhiều bomb. Tầm bắn xa nhưng rất kém chính xác.</Artillery_MortarIncendiary.description> <Bullet_MortarIncendiary.label>Đạn cháy </Bullet_MortarIncendiary.label>
+	
+    <Turret_MortarEMP.label>Pháo điện từ</Turret_MortarEMP.label>
+    <Turret_MortarEMP.description>Một loại pháo bắn ra bom điện từ. Cần tiếp đạn, sẽ phát nổ khi bị phá hỏng </Turret_MortarEMP.description>
+	<Artillery_MortarEMP.label>Pháo điện từ</Artillery_MortarEMP.label> <Artillery_MortarEMP.description>Sử dụng cho pháo điện từ. Chứa nhiều bom điện từ bên trong. Bắn xa nhưng rất kém chính xác.</Artillery_MortarEMP.description> <Bullet_MortarEMP.label>Bom điện từ</Bullet_MortarEMP.label>
+    <!--====================  Traps  ========================  -->
+    <TrapDeadfall.label>Bẫy gai</TrapDeadfall.label>
+    <TrapDeadfall.description>Một vật nặng nhọn 2 đầu được treo lơ lửng bởi một chốt lẫy tinh vi. Khi nạn nhân chạm vào chốt lẫy này, vật nặng sẽ được thả và rồi vào đầu hoặc ngực anh ta. </TrapDeadfall.description>
+
+    <TrapIEDBomb.label>Bẫy bom</TrapIEDBomb.label>
+    <TrapIEDBomb.description>Một quả đạo pháo được nối với một chốt hãm tự tạo. Khi ai đó tác động tới chốt hãm, quả đạn sẽ phát nổ. Việc kích hoạt bẫy có chậm trễ ngẫu nhiên nên một kẻ thù nhanh nhẹn trốn thoát được. </TrapIEDBomb.description>
+
+    <TrapIEDIncendiary.label>Bẫy cháy</TrapIEDIncendiary.label>
+    <TrapIEDIncendiary.description>Chất nổ được trộn với chất gây cháy với một chất hóa học làm nhiệm vụ kích hoạt. Kích hoạt chất học này đơn giản và đáng tin cậy</TrapIEDIncendiary.description>
+
+</LanguageData>

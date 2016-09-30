@@ -1,0 +1,38 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <!--============================  Simple  mineables  ===============================-->
+    <CollapsedRocks.label>Trụ đá</CollapsedRocks.label>
+    <CollapsedRocks.description>Những viên đá bị sụp, bị ép tới mức đủ chắc chắn để giữ mái.</CollapsedRocks.description>
+
+    <!--============================  Resource  rocks  ===============================-->
+    <MineableSteel.label>Mỏ thép</MineableSteel.label>
+    <MineableSteel.description>Một phần còn lại của vài kiến trúc đổ nát cổ xưa. Tỷ lệ thép rất cao.</MineableSteel.description>
+
+    <MineableSilver.label>Mỏ bạc</MineableSilver.label>
+    <MineableSilver.description>Đá chứa một ít bạc.</MineableSilver.description>
+
+    <MineableGold.label>Mỏ vàng</MineableGold.label>
+    <MineableGold.description>Đá chứa một ít vàng.</MineableGold.description>
+
+    <MineableUranium.label>Mỏ Uranium</MineableUranium.label>
+    <MineableUranium.description>Đá chứa một ít uranium.</MineableUranium.description>
+
+    <MineablePlasteel.label>Mỏ Titanium</MineablePlasteel.label>
+    <MineablePlasteel.description>Mảnh vụn chắc chắn cổ xưa chứa nhiều titanium.</MineablePlasteel.description>
+
+    <MineableJade.label>Mỏ ngọc</MineableJade.label>
+    <MineableJade.description>Đá chứa một ít ngọc.</MineableJade.description>
+
+    <MineableComponents.label>Mỏ linh kiện</MineableComponents.label>
+    <MineableComponents.description>Những thiết bị máy móc cổ xưa được lèn chặt qua thời gian. Có thể đào để lấy ra linh kiện hữu dụng</MineableComponents.description>
+
+    <SteamGeyser.label>Mỏ khí</SteamGeyser.label>
+    <SteamGeyser.description>Nguồn khí tự nhiên</SteamGeyser.description>
+
+    <Hive.label>Tổ côn trùng</Hive.label>
+    <Hive.description>Tổ của những loại côn trùng không lồ. Theo thời gian, nó sẽ sinh ra những côn trùng và tổ khác</Hive.description>
+	
+	<GlowPod.label>Kén phát sáng</GlowPod.label> <GlowPod.description>Một chiếc kén sinh vật tạo ra bởi côn trùng khổng lồ. Nó sẽ từ phát sáng một thời gian dài trước khi chết</GlowPod.description>
+
+</LanguageData>

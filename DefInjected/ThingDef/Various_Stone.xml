@@ -1,0 +1,51 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <ChunkSlagSteel.label>Quặng thép</ChunkSlagSteel.label>
+
+    <Sandstone.label>Đá sa thạch</Sandstone.label>
+    <Sandstone.description>Một loại đá trầm tích do các hạt cát nén chặt lại mà thành.</Sandstone.description>
+
+    <ChunkSandstone.label>Đá sa thạch(viên)</ChunkSandstone.label>
+
+    <BlocksSandstone.label>Đá sa thạch(khối)</BlocksSandstone.label>
+    <BlocksSandstone.description>Khối đá sa thạch rắn. Sa thạch là một loại đá tương đối mềm và gia công dễ dàng.</BlocksSandstone.description>
+    <BlocksSandstone.stuffProps.stuffAdjective>đá sa thạch</BlocksSandstone.stuffProps.stuffAdjective>
+
+    <Granite.label>Đá hoa cương</Granite.label>
+    <Granite.description>Một loại đá cực kỳ rắn.</Granite.description>
+
+    <ChunkGranite.label>Đá đá hoa cương(viên)</ChunkGranite.label>
+
+    <BlocksGranite.label>Đá hoa cương(khối)</BlocksGranite.label>
+    <BlocksGranite.description>Khối đá hoa cương. Đá hoa cương là một loại đá cực kỳ cứng</BlocksGranite.description>
+    <BlocksGranite.stuffProps.stuffAdjective>đá hoa cương</BlocksGranite.stuffProps.stuffAdjective>
+
+    <Limestone.label>Đá vôi</Limestone.label>
+    <Limestone.description>Một loại đá trầm tích hình thành từ phần còn lại cứ những vỏ sò cổ đại.</Limestone.description>
+
+    <ChunkLimestone.label>Đá đá vôi(viên)</ChunkLimestone.label>
+
+    <BlocksLimestone.label>Đá vôi(khối)</BlocksLimestone.label>
+    <BlocksLimestone.description>Khối đá vôi.</BlocksLimestone.description>
+    <BlocksLimestone.stuffProps.stuffAdjective>đá vôi</BlocksLimestone.stuffProps.stuffAdjective>
+
+    <Slate.label>Đá phiến</Slate.label>
+    <Slate.description>Loại đá màu tối. Các lớp đá được phân tách rõ ràng.</Slate.description>
+
+    <ChunkSlate.label>Đá đá phiến(viên)</ChunkSlate.label>
+
+    <BlocksSlate.label>Đá phiến(khối)</BlocksSlate.label>
+    <BlocksSlate.description>Khối đá phiến. Nhìn có vẻ xấu xí nhưng rất dễ dàng gia công.</BlocksSlate.description>
+    <BlocksSlate.stuffProps.stuffAdjective>đá phiến</BlocksSlate.stuffProps.stuffAdjective>
+
+    <Marble.label>Đá cẩm thạch</Marble.label>
+    <Marble.description>Một loại đá mềm mại</Marble.description>
+
+    <ChunkMarble.label>Đá đá cẩm thạch(viên)</ChunkMarble.label>
+
+    <BlocksMarble.label>Đá cẩm thạch(khối)</BlocksMarble.label>
+    <BlocksMarble.description>Khối đá cẩm thạch rắn, mềm mại,đẹp, dễ dàng điêu khắc.</BlocksMarble.description>
+    <BlocksMarble.stuffProps.stuffAdjective>đá cẩm thạch</BlocksMarble.stuffProps.stuffAdjective>
+
+</LanguageData>

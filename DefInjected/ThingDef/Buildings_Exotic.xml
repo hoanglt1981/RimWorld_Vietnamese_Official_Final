@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CrashedPsychicEmanatorShipPart.label>Mảnh vỡ phi thuyền(thần kinh)</CrashedPsychicEmanatorShipPart.label>
+  <CrashedPsychicEmanatorShipPart.description>Một phần tan vỡ của một con tàu vũ trụ bí ẩn . Nó có thể chứa vật liệu kỳ lạ , máy tính thậm chí cả một AI nhân tạo. Chú ý: Đây là loại công nghệ có thể gây nguy hiểm!</CrashedPsychicEmanatorShipPart.description>
+
+  <CrashedPoisonShipPart.label>Mảnh vỡ phi thuyền(độc tố)</CrashedPoisonShipPart.label>
+  <CrashedPoisonShipPart.description>Một đâm tan vỡ của một con tàu vũ trụ bí ẩn . Nó có thể chứa vật liệu kỳ lạ , máy tính thậm chí bao một AI nhân tạo. Chú ý : Vật này đang tỏa ra chất độc xung quanh!</CrashedPoisonShipPart.description>
+
+  <ShipChunk.label>Mảnh vỡ phi thuyền</ShipChunk.label>
+  <ShipChunk.description>Một mảnh của một con tàu vũ trụ . Có thể được tháo rời để thu được tài nguyên hữu ích như thép và linh kiện.</ShipChunk.description>
+
+</LanguageData>

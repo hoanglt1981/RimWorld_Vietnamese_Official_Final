@@ -1,0 +1,37 @@
+﻿<?xml  version="1.0"  encoding="utf-8"  ?>
+<LanguageData>
+
+    <!--===========================    Wild  -  clustering  bushes  (some  harvestable)  ==============================-->
+    <PlantRaspberry.label>Cây mận</PlantRaspberry.label>
+    <PlantRaspberry.description>Một loại cây với quả mận đỏ ngon miệng. </PlantRaspberry.description>
+
+    <PlantBush.label>Cây bụi</PlantBush.label>
+    <PlantBush.description>Một loại cây thấp.</PlantBush.description>
+
+    <!--=======================  Wild  plants  -  carpets  ========================-->
+    <PlantGrass.label>Cỏ</PlantGrass.label>
+    <PlantGrass.description>Cỏ dại. Mọc ở mọi nơi dù ít ánh sáng và đất đai cằn cỗi.</PlantGrass.description>
+
+    <PlantDandelion.label>Cây bồ công anh</PlantDandelion.label>
+    <PlantDandelion.description>Một loài hoa dại, nhìn rất nghệ thuật.</PlantDandelion.description>
+
+    <PlantAstragalus.label>Cây tử vân anh</PlantAstragalus.label>
+    <PlantAstragalus.description>Một loài hoa dại nhỏ mọc ở khu vực khí hậu cao.</PlantAstragalus.description>
+
+    <PlantMoss.label>Rêu</PlantMoss.label>
+    <PlantMoss.description>Một loại thực vật hoang dã sinh trưởng ở nơi ẩm ướt và thiếu ánh sáng. Sức chống chịu mãnh liệt.</PlantMoss.description>
+
+    <!--============================  Wild  -  Trees  ============================-->
+    <PlantTreeOak.label>Cây sồi</PlantTreeOak.label>
+    <PlantTreeOak.description>Một loại cây chắc khỏe. Tuy sinh trưởng chậm nhưng lượng gỗ rất dồi dào.</PlantTreeOak.description>
+
+    <PlantTreePoplar.label>Cây dương</PlantTreePoplar.label>
+    <PlantTreePoplar.description>Loại cây mềm, sinh trưởng nhanh nhưng cho ít gỗ.</PlantTreePoplar.description>
+
+    <PlantTreePine.label>Cây tùng</PlantTreePine.label>
+    <PlantTreePine.description>Một loại cây lá kim lớn.</PlantTreePine.description>
+
+    <PlantTreeBirch.label>Cây phong</PlantTreeBirch.label>
+    <PlantTreeBirch.description>Một loại cây phương bắc mảnh mai như giấy.</PlantTreeBirch.description>
+
+</LanguageData>

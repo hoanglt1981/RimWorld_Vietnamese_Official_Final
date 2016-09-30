@@ -1,0 +1,30 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Cassowary.label>Gà gô</Cassowary.label>
+    <Cassowary.description>Một con chim lớn không bay được với lông sáng màu.</Cassowary.description>
+    <Cassowary_Leather.label>da gà gô</Cassowary_Leather.label>
+    <Cassowary_Meat.label>thịt gà gô</Cassowary_Meat.label>
+    <Cassowary_Corpse.label>xác gà gô</Cassowary_Corpse.label>
+    <Cassowary_Corpse.description>một xác gà gô.</Cassowary_Corpse.description>
+
+    <Emu.label>Chim emu</Emu.label>
+    <Emu.description>Một loại chính lớn với đôi mắt tròn và khuôn mặt xấu xí.</Emu.description>
+    <Emu_Leather.label>da chim emu</Emu_Leather.label>
+    <Emu_Corpse.label>xác chim emu</Emu_Corpse.label>
+    <Emu_Corpse.description>một xác chim emu.</Emu_Corpse.description>
+
+    <Ostrich.label>Đà điểu</Ostrich.label>
+    <Ostrich.description>Loài chim nguyên thủy lớn nhất, được biết đến với tốc độ nhanh, trứng khổng lồ và những cú đá đầy sức mạnh.</Ostrich.description>
+    <Ostrich_Leather.label>da đà điểu</Ostrich_Leather.label>
+    <Ostrich_Corpse.label>xác đà điểu</Ostrich_Corpse.label>
+    <Ostrich_Corpse.description>một xác đà điểu.</Ostrich_Corpse.description>
+
+    <Turkey.label>Gà tây</Turkey.label>
+    <Turkey.description>Ngắn, béo, không thể bay được biết đến với biệt danh vui nhộn "lấp lỗ". Chúng được thuần hóa một từ rất lâu những cũng sống cả ở hoang dã.</Turkey.description>
+    <Turkey_Leather.label>da gà tây</Turkey_Leather.label>
+    <Turkey_Meat.label>thịt gà tây</Turkey_Meat.label>
+    <Turkey_Corpse.label>xác gà tây</Turkey_Corpse.label>
+    <Turkey_Corpse.description>một xác gà tây.</Turkey_Corpse.description>
+
+</LanguageData>

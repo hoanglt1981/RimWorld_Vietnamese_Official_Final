@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- affecting opinion -->
+
+  <Affair.stages.0.label>Việc làm</Affair.stages.0.label>
+
+  <Incestuous.stages.0.label>Loạn luân</Incestuous.stages.0.label>
+
+  <Disfigured.stages.0.label>Biến dạng</Disfigured.stages.0.label>
+
+  <HardWorkerVsLazy.stages.0.label>Chăm chỉ vs Lường biếng</HardWorkerVsLazy.stages.0.label>
+
+  <TeetotalerVsChemicalInterest.stages.0.label>Kiêng cữ vs Đam mê hóa chất</TeetotalerVsChemicalInterest.stages.0.label>
+
+  <ChemicalInterestVsTeetotaler.stages.0.label>Đam mê hóa chất vs Kiêng cữ</ChemicalInterestVsTeetotaler.stages.0.label>
+
+  <Drunk.stages.0.label>Say xỉn</Drunk.stages.0.label>
+
+  <Pretty.stages.0.label>Dễ thương</Pretty.stages.0.label>
+  <Pretty.stages.1.label>Xin đẹp</Pretty.stages.1.label>
+
+  <Ugly.stages.0.label>Xấu xí</Ugly.stages.0.label>
+  <Ugly.stages.1.label>Xấu tệ hại</Ugly.stages.1.label>
+
+  <AnnoyingVoice.stages.0.label>Giọng khó nghe</AnnoyingVoice.stages.0.label>
+
+  <CreepyBreathing.stages.0.label>Hơi thở quái dị</CreepyBreathing.stages.0.label>
+
+  <Man.stages.0.label>Đàn ông</Man.stages.0.label>
+
+  <Woman.stages.0.label>Đàn bà</Woman.stages.0.label>
+
+  <ButcheredHumanlikeCorpseOpinion.stages.0.label>Làm thịt xác người</ButcheredHumanlikeCorpseOpinion.stages.0.label>
+
+  <AteRawHumanlikeMeat.stages.0.label>Ăn thịt người sống</AteRawHumanlikeMeat.stages.0.label>
+
+  <SoldPrisoner.stages.0.label>Bán tù nhân làm nô lệ</SoldPrisoner.stages.0.label>
+
+  <ExecutedPrisoner.stages.0.label>Xử tử tù nhân</ExecutedPrisoner.stages.0.label>
+
+  <KilledColonist.stages.0.label>Giết cư dân</KilledColonist.stages.0.label>
+
+  <KilledColonyAnimal.stages.0.label>Giết vật nuôi</KilledColonyAnimal.stages.0.label>
+
+  <KilledMajorColonyEnemy.stages.0.label>Giết kẻ thù lớn</KilledMajorColonyEnemy.stages.0.label>
+
+  <!-- affecting mood -->
+
+  <OpinionOfMyLover.stages.0.label>Quan điểm của {0} {1}</OpinionOfMyLover.stages.0.label>
+  <OpinionOfMyLover.stages.0.description>Ở bên người yêu khiến tôi cảm thấy thật tuyệt.</OpinionOfMyLover.stages.0.description>
+
+  <BondedAnimalMaster.stages.0.label>Chủ nhân của {0}</BondedAnimalMaster.stages.0.label>
+  <BondedAnimalMaster.stages.0.description>Ở bên vật nuôi gắn bó khiến tôi cảm thấy tốt hơn.</BondedAnimalMaster.stages.0.description>
+
+  <NotBondedAnimalMaster.stages.0.label>Không phải chủ nhân của {0}</NotBondedAnimalMaster.stages.0.label>
+  <NotBondedAnimalMaster.stages.0.description>Tôi nên ở cùng với vật nuôi của mình.</NotBondedAnimalMaster.stages.0.description>
+
+  <WantToSleepWithSpouseOrLover.stages.0.label>Muốn ngủ cùng {0}</WantToSleepWithSpouseOrLover.stages.0.label>
+  <WantToSleepWithSpouseOrLover.stages.0.description>Tôi không thích ngủ tách đối tác của mình.</WantToSleepWithSpouseOrLover.stages.0.description>
+
+</LanguageData>

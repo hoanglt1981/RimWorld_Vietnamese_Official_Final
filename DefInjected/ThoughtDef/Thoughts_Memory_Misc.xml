@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AteWithoutTable.stages.0.label>Ăn không dùng bàn</AteWithoutTable.stages.0.label>
+  <AteWithoutTable.stages.0.description>Tôi phải ăn trên mặt đất. Chúng ta không có cái bàn nào quanh đây à?</AteWithoutTable.stages.0.description>
+  
+  <SleepDisturbed.stages.0.label>Bị làm phiền khi ngủ</SleepDisturbed.stages.0.label>
+  <SleepDisturbed.stages.0.description>Tôi đã bị làm phiền khi đang ngủ bởi ai đó cứ đi gần bên. Một phòng riêng sẽ giải quyết vấn đề này.</SleepDisturbed.stages.0.description>
+
+  <NewColonyOptimism.stages.0.label>Lạc quan về thuộc địa mới</NewColonyOptimism.stages.0.label>
+  <NewColonyOptimism.stages.0.description>Chúng ra đã đáp xuống. Đây là một tình huống khó khăn, nhưng tôi vui mừng vì thành lập một thuộc địa mới.</NewColonyOptimism.stages.0.description>
+
+  <NewColonyHope.stages.0.label>Hi vọng về thuộc địa mới</NewColonyHope.stages.0.label>
+  <NewColonyHope.stages.0.description>Tôi thường làm như vậy, nhưng nó vẫn là một tình huống mới đầy thú vị. Tôi hi vọng sẽ làm được...</NewColonyHope.stages.0.description>
+
+  <SleptOutside.stages.0.label>Ngủ ngoài trời</SleptOutside.stages.0.label>
+  <SleptOutside.stages.0.description>Tôi đã phải ngủ người trời mà không có gì bảo vệ.</SleptOutside.stages.0.description>
+
+  <SleptOnGround.stages.0.label>Ngủ trên mặt đất</SleptOnGround.stages.0.label>
+  <SleptOnGround.stages.0.description>Tôi đã phải ngủ trên mặt đất như một con vật.</SleptOnGround.stages.0.description>
+
+  <SleptInCold.stages.0.label>Ngủ trong giá lạnh</SleptInCold.stages.0.label>
+  <SleptInCold.stages.0.description>Tôi đã phải ngủ trong cái lạnh. Chúng ta thực sự cần đến những chiếc đèn sưởi rồi đấy.</SleptInCold.stages.0.description>
+
+  <SleptInHeat.stages.0.label>Ngủ trong nóng bức</SleptInHeat.stages.0.label>
+  <SleptInHeat.stages.0.description>Tiiu đã ohảu ngủ trong cái nóng thiêu đốt. Chúng ta có thể lắp điều hòa không khí chứ?</SleptInHeat.stages.0.description>
+
+  <KnowPrisonerSold.stages.0.label>Tù nhân bị bán</KnowPrisonerSold.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>Thuộc địa vừa bán một vài tù nhân làm nô lệ. Đó là một suy nghĩ đáng lo ngại.</KnowPrisonerSold.stages.0.description>
+
+  <KnowGuestOrganHarvested.stages.0.label>Ai đó bị lấy nội tạng</KnowGuestOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>Thuộc địa vừa lấy nội tạng của ai đó. Nó thật kinh khủng. Lấy đi cơ thể của họ khi họ không có lựa chọn.</KnowGuestOrganHarvested.stages.0.description>
+
+  <KnowColonistOrganHarvested.stages.0.label>Cư dân bị lấy nội tạng</KnowColonistOrganHarvested.stages.0.label>
+  <KnowColonistOrganHarvested.stages.0.description>Ai đó lấy nội tạng của một cư dân. Thật kinh khủng. Lấy đi một phần cơ thể mà không cho họ lựa chọn.</KnowColonistOrganHarvested.stages.0.description>
+
+  <MyOrganHarvested.stages.0.label>Bị lấy nội tạng </MyOrganHarvested.stages.0.label>
+  <MyOrganHarvested.stages.0.description>Thuộc địa lấy nội tạng của tôi! Họ đối xử với tôi như cỗ máy vậy.</MyOrganHarvested.stages.0.description>
+
+  <WasImprisoned.stages.0.label>Bị bắt giam</WasImprisoned.stages.0.label>
+  <WasImprisoned.stages.0.description>Thuộc địa đã giam tôi vào tù, như nhôt con vật trong cũi vậy.</WasImprisoned.stages.0.description>
+
+  <GreenThumbHappy.stages.0.label>Gieo trồng thực vật</GreenThumbHappy.stages.0.label>
+  <GreenThumbHappy.stages.0.description>Thế giới này cần nhiều thực vật hơn nữa!</GreenThumbHappy.stages.0.description>
+
+  <Catharsis.stages.0.label>Rửa tội</Catharsis.stages.0.label>
+  <Catharsis.stages.0.description>Thật tốt khi cuối cùng cũng được bộc lộ cảm xúc của mình.</Catharsis.stages.0.description>
+
+  <Nuzzled.stages.0.label>Đánh hơi</Nuzzled.stages.0.label>
+  <Nuzzled.stages.0.description>Một vật nuôi dễ thương vừa đánh hơi tôi.</Nuzzled.stages.0.description>
+
+  <KnowBuriedInSarcophagus.stages.0.label>Chôn trong quan tài</KnowBuriedInSarcophagus.stages.0.label>
+  <KnowBuriedInSarcophagus.stages.0.description>Thuộc địa chôn ai đó trong chiếc quan tài trang trọng kia. Cầu cho linh hồn họ an nghỉ.</KnowBuriedInSarcophagus.stages.0.description>
+  
+
+  <!-- Human corpse butchering -->
+
+  <ButcheredHumanlikeCorpse.stages.0.label>Tôi đã làm thịt con người</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>Tôi đã làm thịt ai đó như một con vật.</ButcheredHumanlikeCorpse.stages.0.description>
+
+  <KnowButcheredHumanlikeCorpse.stages.0.label>Chúng tôi đã làm thịt con người</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>Chúng tôi đã làm thịt ai đó như một con vật.</KnowButcheredHumanlikeCorpse.stages.0.description>
+  
+
+  <!-- Combat -->
+
+  <ObservedLayingCorpse.stages.0.label>Thấy xác chết</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingCorpse.stages.0.description>Tôi đã thấy xác ai đó nằm trên mặt đất. Thật kinh tởm.</ObservedLayingCorpse.stages.0.description>
+
+  <ObservedLayingRottingCorpse.stages.0.label>Thấy xác chết thối rữa</ObservedLayingRottingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>Tôi đã thấy một xác chết thối rữa trên mặt đất. Thật là kinh tởm...</ObservedLayingRottingCorpse.stages.0.description>
+
+  <WitnessedDeathAlly.stages.0.label>Chứng kiến cái chết của đồng minh</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>Tôi đã thấy một trong số người mình nằm xuống. Khoảnh khắc trước họ vẫn sống, rồi chết đi chỉ trong chớp mắt.</WitnessedDeathAlly.stages.0.description>
+
+  <WitnessedDeathNonAlly.stages.0.label>Chứng kiến cái chết của người lạ</WitnessedDeathNonAlly.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>Tôi đã thấy ai đó chết.Khoảnh khắc trước họ vẫn sống, rồi chết đi chỉ trong chớp mắt.</WitnessedDeathNonAlly.stages.0.description>
+  
+  <WitnessedDeathFamily.stages.0.label>Chứng kiến cái chết của người thân</WitnessedDeathFamily.stages.0.label>
+    <WitnessedDeathFamily.stages.0.description>Tôi đã thấy người thân của mình chết. Giọt máu thân tình của tôi...</WitnessedDeathFamily.stages.0.description>
+
+
+  <WitnessedDeathBloodlust.stages.0.label>Chứng kiến cái chết một cách khát máu</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>Tôi đã thấy ai đó chết! Cảm giác đó thật phấn khích!</WitnessedDeathBloodlust.stages.0.description>
+
+  <KilledHumanlikeBloodlust.stages.0.label>Giết ai đó một cách tàn bạo</KilledHumanlikeBloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>Tôi đã giết người! Thật là quá vội vàng!</KilledHumanlikeBloodlust.stages.0.description>
+
+</LanguageData>

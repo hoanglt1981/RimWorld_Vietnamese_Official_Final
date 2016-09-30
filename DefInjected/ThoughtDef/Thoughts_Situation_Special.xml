@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Imprisoned.stages.0.label>Giam giữ</Imprisoned.stages.0.label>
+  <Imprisoned.stages.0.description>Tôi ghét bị giam lại.</Imprisoned.stages.0.description>
+
+  <SharedBedroom.stages.0.label>Ngủ chung phòng</SharedBedroom.stages.0.label>
+  <SharedBedroom.stages.0.description>Thật khó chịu khi phải ngủ chung phòng. Tôi muốn sự riêng tư.</SharedBedroom.stages.0.description>
+
+  <SharedBed.stages.0.label>Ngủ chung giường</SharedBed.stages.0.label>
+  <SharedBed.stages.0.description>Tôi phải ngủ chung giường với người tôi hoàn toàn không muốn.</SharedBed.stages.0.description>
+
+  <ColonistLeftUnburied.stages.0.label>Xác cư dân chưa chôn cất</ColonistLeftUnburied.stages.0.label>
+  <ColonistLeftUnburied.stages.0.description>Một trong số chúng ta đã chết và bị để mặc trên mặt đất. Không ai nên bị đối xử như vậy. Mọi người xứng đáng có một chỗ chôn cất.</ColonistLeftUnburied.stages.0.description>
+
+  <Naked.stages.0.label>Khỏa thân</Naked.stages.0.label>
+  <Naked.stages.0.description>Tôi đang khỏa thân. Thật nhục nhã.</Naked.stages.0.description>
+
+  <Pain.stages.0.label>Hơi đau</Pain.stages.0.label>
+  <Pain.stages.0.description>Arg... Đau đấy!</Pain.stages.0.description>
+  <Pain.stages.1.label>Tương đối đau</Pain.stages.1.label>
+  <Pain.stages.1.description>Ughhh... Khi nào cơn đau kết thúc?</Pain.stages.1.description>
+  <Pain.stages.2.label>Rất đau</Pain.stages.2.label>
+  <Pain.stages.2.description>Dừng nó lại đi.. dừng nó lại đi.. dừng nó lại đi!</Pain.stages.2.description>
+  <Pain.stages.3.label>Đau nghiêm trọng</Pain.stages.3.label>
+  <Pain.stages.3.description>AAAAAHHH! Giết tôi luôn đi!</Pain.stages.3.description>
+
+</LanguageData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Hungry.stages.0.label>Đói</Hungry.stages.0.label>
+  <Hungry.stages.0.description>Tôi đã không ăn gì một thời gian.</Hungry.stages.0.description>
+  <Hungry.stages.1.label>Đói khẩn cấp</Hungry.stages.1.label>
+  <Hungry.stages.1.description>Đói cồn cào ruột gan. Đói mềm người. Tôi cần thức ăn không thì chết đói mất!</Hungry.stages.1.description>
+  <Hungry.stages.2.label>Chết đói</Hungry.stages.2.label>
+  <Hungry.stages.2.description>Tôi chỉ muốn ăn dù là cái gì cũng được. Tôi thấy cơ thể mình đang chết dần....</Hungry.stages.2.description>
+
+  <Tired.stages.0.label>Mệt</Tired.stages.0.label>
+  <Tired.stages.0.description>Tôi đã không ngủ một thời gian rồi.</Tired.stages.0.description>
+  <Tired.stages.1.label>Rất mệt</Tired.stages.1.label>
+  <Tired.stages.1.description>Tôi thấy rất mệt. Tôi chỉ muốn nằm xuống và nghỉ ngơi một lúc...</Tired.stages.1.description>
+  <Tired.stages.2.label>Kiệt sức</Tired.stages.2.label>
+  <Tired.stages.2.description>Tôi quá kiệt sức để có thể đứng được. Mắt tôi nặng nề lắm rồi. Cho tôi ngủ đi...</Tired.stages.2.description>
+
+  <JoyLevel.stages.0.label>Hoàn toàn mất niềm vui</JoyLevel.stages.0.label>
+  <JoyLevel.stages.0.description>Rất lâu rồi tôi chưa làm bất cứ điều gì mà tôi thực sự ưa thích cả</JoyLevel.stages.0.description>
+  <JoyLevel.stages.1.label>Rất mất niềm vui</JoyLevel.stages.1.label>
+  <JoyLevel.stages.1.description>Tôi không bao giờ được nghỉ ngơi và tận hưởng bản thân ở đây.</JoyLevel.stages.1.description>
+  <JoyLevel.stages.2.label>Mất niềm vui</JoyLevel.stages.2.label>
+  <JoyLevel.stages.2.description>Tôi đã thực sự có thể dùng thời gian nghỉ cho thứ gì đó vui vẻ.</JoyLevel.stages.2.description>
+  <JoyLevel.stages.3.label>Đầy niềm vui</JoyLevel.stages.3.label>
+  <JoyLevel.stages.3.description>Tôi thường xuyên có khoảng thời gian tuyệt vời ở đây.</JoyLevel.stages.3.description>
+  <JoyLevel.stages.4.label>Cả tấn niềm vui</JoyLevel.stages.4.label>
+  <JoyLevel.stages.4.description>Tôi cảm thấy ưa thích bản thân rất nhiều. Mọi thứ đều hoàn hảo. Thật là tuyệt vời!</JoyLevel.stages.4.description>
+
+  <ComfortLevel.stages.0.label>Thiếu tiện nghi</ComfortLevel.stages.0.label>
+  <ComfortLevel.stages.0.description>Tôi thường xuyên cảm thấy thiếu tiện nghi. Tôi muốn quanh đây có thứ gì đó mềm mại để ngồi.</ComfortLevel.stages.0.description>
+  <ComfortLevel.stages.1.label>Tiện nghi</ComfortLevel.stages.1.label>
+  <ComfortLevel.stages.1.description>Tôi thường xuyên cảm thấy tiện nghi.</ComfortLevel.stages.1.description>
+  <ComfortLevel.stages.2.label>Rất tiện nghi</ComfortLevel.stages.2.label>
+  <ComfortLevel.stages.2.description>Tôi thường xuyên cảm thấy rất tiện nghi.</ComfortLevel.stages.2.description>
+  <ComfortLevel.stages.3.label>Cực kỳ tiện nghi</ComfortLevel.stages.3.label>
+  <ComfortLevel.stages.3.description>Tôi thường cảm thấy cực kỳ tiện nghi. Nơi này thật thu hút!</ComfortLevel.stages.3.description>
+  <ComfortLevel.stages.4.label>Tiện nghi xa xỉ</ComfortLevel.stages.4.label>
+  <ComfortLevel.stages.4.description>Tôi đang ở trên thiên đường!</ComfortLevel.stages.4.description>
+
+  <EnvironmentUgly.stages.0.label>Không gian xấu</EnvironmentUgly.stages.0.label>
+  <EnvironmentUgly.stages.0.description>Nơi này khá khó chịu khi bước vào.</EnvironmentUgly.stages.0.description>
+  <EnvironmentUgly.stages.1.label>Không gian rất xấu</EnvironmentUgly.stages.1.label>
+  <EnvironmentUgly.stages.1.description>Nơi này thực sự rất khó chịu. Tôi không muốn ở trong này.</EnvironmentUgly.stages.1.description>
+  <EnvironmentUgly.stages.2.label>Không gian ngột ngạt</EnvironmentUgly.stages.2.label>
+  <EnvironmentUgly.stages.2.description>Nơi đây rất khó thở. Cho tôi ra khỏi đây...</EnvironmentUgly.stages.2.description>
+  <EnvironmentPretty.stages.0.label>Không gian dễ chịu</EnvironmentPretty.stages.0.label>
+  <EnvironmentPretty.stages.0.description>Chỗ này thật đẹp.</EnvironmentPretty.stages.0.description>
+  <EnvironmentPretty.stages.1.label>Không gian rất dễ chịu</EnvironmentPretty.stages.1.label>
+  <EnvironmentPretty.stages.1.description>Tôi thực sự thích chỗ này. Nó thật đẹp.</EnvironmentPretty.stages.1.description>
+  <EnvironmentPretty.stages.2.label>Không gian tươi đẹp</EnvironmentPretty.stages.2.label>
+  <EnvironmentPretty.stages.2.description>Nơi này thật tươi đẹp. Nơi đây khiến tôi hưng phấn và yêu cuộc đời hơn.</EnvironmentPretty.stages.2.description>
+
+  <EnvironmentCramped.stages.0.label>Không gian chật hẹp</EnvironmentCramped.stages.0.label>
+  <EnvironmentCramped.stages.0.description>Nơi này thực sự nhỏ. Tôi thấy như thiếu không khí để thở.</EnvironmentCramped.stages.0.description>
+  <EnvironmentCramped.stages.1.label>Rất chật chội</EnvironmentCramped.stages.1.label>
+  <EnvironmentCramped.stages.1.description>Nơi đây quá ngột ngạt. Tôi thậm chí còn khong không có chỗ di chuyển. Tôi thấy như mình con chuột trong cũi nhỏ vậy.</EnvironmentCramped.stages.1.description>
+
+  <EnvironmentSpaciousInterior.stages.0.label>Rộng lớn</EnvironmentSpaciousInterior.stages.0.label>
+  <EnvironmentSpaciousInterior.stages.0.description>Đây là một khoảng không gian mở trong nhà thực sự thoải mái .</EnvironmentSpaciousInterior.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <MealSurvivalPack.label>Gói thực phẩm sinh tồn</MealSurvivalPack.label>
+    <MealSurvivalPack.description>Thức ăn đóng gói chất lượng cao, tạo ra để sử dụng trong hoàn cảnh sinh tồn</MealSurvivalPack.description>
+
+    <MealNutrientPaste.label>Món ăn dinh dưỡng</MealNutrientPaste.label>
+    <MealNutrientPaste.description>Một hỗn hợp trộn lẫn giữa dinh dưỡng, hydrocarbonate, vitamin, acid amin và các khoáng chất khác. Nó có tất cả mọi thức mà cơ thể cần, nhưng màu vị thì kinh khủng.</MealNutrientPaste.description>
+
+    <MealSimple.label>Món ăn đơn giản</MealSimple.label>
+    <MealSimple.description>Được nấu rất nhanh</MealSimple.description>
+
+    <MealFine.label>Món ăn cao cấp</MealFine.label>
+    <MealFine.description>Một món ăn phức tạp được chuẩn bị từ nhiều lựa chọn về thành phần.</MealFine.description>
+
+    <MealLavish.label>Món ăn quí tộc</MealLavish.label>
+    <MealLavish.description>là một tác phẩm đỉnh cao của nghệ thuật ẩm thực. Nó nuôi dưỡng cơ thể, suy nghĩ và cả linh hồn của người sử dụng </MealLavish.description>
+
+    <Kibble.label>Thức ăn gia súc</Kibble.label>
+    <Kibble.description>Thức ăn gia súc làm từ hỗn hợp thịt và thực vật.</Kibble.description>
+
+    <Pemmican.label>Lương khô</Pemmican.label>
+    <Pemmican.description>Một hỗn hợp nghiền trộn lẫn giữa chất béo và thực vật. Nó có vị nhạt nhẽo, nhưng không gây khó chịu, để được rất lâu mà không cần làm lạnh.</Pemmican.description>
+
+</LanguageData>

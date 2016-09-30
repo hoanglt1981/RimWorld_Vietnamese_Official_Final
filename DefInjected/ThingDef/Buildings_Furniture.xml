@@ -1,0 +1,71 @@
+<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================  Beds  ==============================-->
+    <SleepingSpot.label>Chỗ ngủ</SleepingSpot.label>
+    <SleepingSpot.description>Chỉ định vị trí ngủ trên mặt đất. Rất không thoải mái.</SleepingSpot.description>
+
+    <Bed.label>Giường đơn</Bed.label>
+    <Bed.description>Một tấm nệm ấm áp trên khung giường để nghỉ ngơi. </Bed.description>
+
+    <DoubleBed.label>Giường đôi</DoubleBed.label>
+    <DoubleBed.Description>Một giường 2 chỗ đơn giản thích hợp với 2 người.</DoubleBed.Description>
+
+    <RoyalBed.label>Giường hoàng gia</RoyalBed.label>
+    <RoyalBed.description>Một chiếc rồi dát vàng xa xỉ chỉ dành cho cuộc sống thượng lưu. Cực kì thoải mái và đẹp. Thích hợp cho 2 người.</RoyalBed.description>
+
+    <HospitalBed.label>Giường bệnh</HospitalBed.label>
+    <HospitalBed.description>Thiết kế dành riêng cho những người bị thương. Giúp tăng cơ hội thành công trong công việc y tế.</HospitalBed.description>
+
+    <!--===========================  Animal  beds  ===============================-->
+    <AnimalSleepingSpot.label>Chỗ mgủ vật nuôi</AnimalSleepingSpot.label>
+    <AnimalSleepingSpot.description>Chỉ định chỗ ngủ trên mặt đất cho vật nuôi.</AnimalSleepingSpot.description>
+
+    <AnimalSleepingBox.label>Hộp ngủ vật nuôi</AnimalSleepingBox.label>
+    <AnimalSleepingBox.description>Một chiếc hộp nhỏ để vật nuôi nằm ngủ. Chỉ thích hợp với những động vật nhỏ như gà, mèo hoặc chó con.</AnimalSleepingBox.description>
+
+    <AnimalBed.label>Giường ngủ vật nuôi</AnimalBed.label>
+    <AnimalBed.description>Một chiếc giường mềm mại để vật nuôi nằm ngủ. Phù hợp với tất cả động vật.</AnimalBed.description>
+
+    <!--=======================  Basic  domestic  furniture  ==============================-->
+    <Stool.label>Ghế đẩu</Stool.label>
+    <Stool.description>Ngồi tránh mỏi chân.</Stool.description>
+
+    <DiningChair.label>Ghế ngồi ăn</DiningChair.label>
+    <DiningChair.description>Một chiếc ghế thoải mái và hấp dẫn dành cho việc ngồi ăn uống.</DiningChair.description>
+
+    <Armchair.label>Ghế sofa</Armchair.label>
+    <Armchair.description>Một chiếc ghế lớn, mềm mại và thoải mái. Cực thích hợp cho việc giải trí.</Armchair.description>
+
+    <TableShort.label>Bàn vuông</TableShort.label>
+    <TableShort.description>Bàn để đồ ăn. Khi có ghế bên cạnh thì mọi người sẽ ăn ở đây.</TableShort.description>
+
+    <TableLong.label>Bàn dài</TableLong.label>
+    <TableLong.description>Bàn để đồ ăn. Khi có ghế bên cạnh thì mọi người sẽ ăn ở đây.</TableLong.description>
+
+    <PlantPot.label>Chậu cây</PlantPot.label>
+    <PlantPot.description>Trồng hoa trang trí ở trong này giúp tăng tâm trạng của những người xung quanh.</PlantPot.description>
+
+    <!--  ========================  Lighting  =======================  -->
+    <TorchLamp.label>Đuốc</TorchLamp.label>
+    <TorchLamp.description>Một ngọn đuối bằng gỗ để chiếu sáng một khu vực. Có thể tự động nạp nhiên liệu là gỗ. Nó cung cấp một lượng nhỏ sức nóng.</TorchLamp.description>
+
+    <StandingLamp.label>Đèn đứng</StandingLamp.label>
+    <StandingLamp.description>Có thể chiếu sáng cả một khu vực.</StandingLamp.description>
+
+    <StandingLamp_Red.label>Đèn đứng màu đỏ</StandingLamp_Red.label>
+    <StandingLamp_Red.description>Ánh sáng màu đỏ. Có thể chiếu sáng cả một khu vực.</StandingLamp_Red.description>
+
+    <StandingLamp_Green.label>Đèn đứng màu xanh lá</StandingLamp_Green.label>
+    <StandingLamp_Green.description>Ánh sáng màu xanh lá. Có thể chiếu sáng cả một khu vực.</StandingLamp_Green.description>
+
+    <StandingLamp_Blue.label>Đèn đứng màu xanh dương</StandingLamp_Blue.label>
+    <StandingLamp_Blue.description>Ánh sáng màu xanh dương. Có thể chiếu sáng cả một khu vực.</StandingLamp_Blue.description>
+    
+    <SunLamp.label>Đèn mặt trời</SunLamp.label>
+    <SunLamp.description>Chiếu sáng đủ để gieo trồng thực vật trong một khu vực, nhưng tiêu tốn một lượng điện năng khổng lồ</SunLamp.description>
+    <!--==============================  Storage  ==============================-->
+    <EquipmentRack.label>Giá để đồ</EquipmentRack.label>
+    <EquipmentRack.description>Vật phẩm đặt ở đây sẽ không bị hư hại ngay cả khi để bên ngoài trời</EquipmentRack.description>
+
+</LanguageData>

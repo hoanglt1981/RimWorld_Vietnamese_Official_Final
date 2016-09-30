@@ -1,0 +1,32 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <YorkshireTerrier.label>Chó Yorkshire</YorkshireTerrier.label>
+    <YorkshireTerrier.description>Một loại chó nhỏ nhưng cục cằn. Ban đầu để săn chuột, sau này nó trở thành chó biểu diễn và thành vật nuôi.</YorkshireTerrier.description>
+    <YorkshireTerrier_Leather.label>da Yorkshire</YorkshireTerrier_Leather.label>
+    <YorkshireTerrier_Meat.label>thịt Yorkshire</YorkshireTerrier_Meat.label>
+    <YorkshireTerrier_Corpse.label>xác Yorkshire</YorkshireTerrier_Corpse.label>
+    <YorkshireTerrier_Corpse.description>một xác chó Yorkshire.</YorkshireTerrier_Corpse.description>
+
+    <Husky.label>Chó Husky</Husky.label>
+    <Husky.description>Một loại chó to lớn, mạnh mẽ với lớp lông dày để thoảimái với môi trường bắc cực</Husky.description>
+    <Husky_Leather.label>da Husky</Husky_Leather.label>
+    <Husky_Meat.label>thịt Husky</Husky_Meat.label>
+    <Husky_Corpse.label>xác Husky</Husky_Corpse.label>
+    <Husky_Corpse.description>một xác chó Husky.</Husky_Corpse.description>
+
+    <LabradorRetriever.label>Chó Labrador</LabradorRetriever.label>
+    <LabradorRetriever.description>Một loại chó cỡ vừa rất linh hoạt. Nguyên bản nó được dùng để nhặt những con chim bị săn. Nó là một hộ vệ hoàn hảo, bạn chơi và là một người bạn gia đình.</LabradorRetriever.description>
+    <LabradorRetriever_Leather.label>da Labrador</LabradorRetriever_Leather.label>
+    <LabradorRetriever_Meat.label>thịt Labrador</LabradorRetriever_Meat.label>
+    <LabradorRetriever_Corpse.label>xác Labrador</LabradorRetriever_Corpse.label>
+    <LabradorRetriever_Corpse.description>một xác chó Labrador.</LabradorRetriever_Corpse.description>
+
+    <Cat.label>Mèo</Cat.label>
+    <Cat.description>Một trong những vật nuôi đầu tiên của loài người. Được biết đến với sự thân thiện, chúng là những người bạn đồng hành phổ biến cơi sự bình tĩnh, độc lập,mạnh khỏe và bộ lông rất đáng yêu.</Cat.description>
+    <Cat_Leather.label>da mèo</Cat_Leather.label>
+    <Cat_Meat.label>thịt mèo</Cat_Meat.label>
+    <Cat_Corpse.label>xác mèo</Cat_Corpse.label>
+    <Cat_Corpse.description>một xác mèo.</Cat_Corpse.description>
+
+</LanguageData>

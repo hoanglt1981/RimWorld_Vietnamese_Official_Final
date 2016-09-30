@@ -1,0 +1,20 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <PsychicInsanityLance.label>Thương điên loạn</PsychicInsanityLance.label>
+    <PsychicInsanityLance.description>Món cổ vật dùng 1 lần có khả năng khiến cho bất kì nhân vật nào rơi vào trạng thái điên cuồng, dù bất cứ nơi đâu.</PsychicInsanityLance.description>
+	<PsychicInsanityLance.comps.1.useLabel>Kích hoạt</PsychicInsanityLance.comps.1.useLabel>
+	
+    <PsychicShockLance.label>Thương choáng váng</PsychicShockLance.label>
+    <PsychicShockLance.description>Món cổ vật dùng 1 lần tạo nên sự rối loạn tâm lý với 1 một nhân, khiến họ rơi vào trạng thái tê liệt thần kinh một thời gian. Một món vũ khí sát thương não bộ có mức đe dọa cực lớn</PsychicShockLance.description>
+	<PsychicShockLance.comps.1.useLabel>Kích hoạt</PsychicShockLance.comps.1.useLabel>
+	
+    <PsychicAnimalPulser.label>Máy phát xung thần kinh động vật</PsychicAnimalPulser.label>
+    <PsychicAnimalPulser.description>Cổ vật 1 lần dùng khiến cho tất cả động vật trong vùng trở thành lũ săn người điên cuồng</PsychicAnimalPulser.description>
+	<PsychicAnimalPulser.comps.1.useLabel>Kích hoạt</PsychicAnimalPulser.comps.1.useLabel>
+	
+    <PsychicSoothePulser.label>Máy phát xung xoa dịu thần kinh</PsychicSoothePulser.label>
+    <PsychicSoothePulser.description>Cổ vật 1 lần dùng này mang lại tâm trạng hưng phấn cho tất cả mọi người trên bản đồ</PsychicSoothePulser.description>
+	<PsychicSoothePulser.comps.1.useLabel>Kích hoạt</PsychicSoothePulser.comps.1.useLabel>
+	
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Sand.label>Cát</Sand.label>
+
+    <Soil.label>Đất</Soil.label>
+
+    <MarshyTerrain.label>Đất lầy</MarshyTerrain.label>
+
+    <SoilRich.label>Đất thịt</SoilRich.label>
+
+    <Mud.label>Bùn</Mud.label>
+
+    <Marsh.label>Đầm lầy</Marsh.label>
+
+    <Gravel.label>Đất sỏi</Gravel.label>
+
+    <MossyTerrain.label>địa y</MossyTerrain.label>
+
+    <Ice.label>Băng</Ice.label>
+
+</LanguageData>

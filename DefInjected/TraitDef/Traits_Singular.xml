@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Nudist.degreeDatas.0.label>Khỏa thân</Nudist.degreeDatas.0.label>
+    <Nudist.degreeDatas.0.description>NAME thích cảm giác tự do không mặc gì. HECAP có thể mặc đồ, nhưng thấy thoải mái hơn khi không mặc.</Nudist.degreeDatas.0.description>
+
+    <Bloodlust.degreeDatas.0.label>Khát máu</Bloodlust.degreeDatas.0.label>
+    <Bloodlust.degreeDatas.0.description>NAME cảm thấy phấn khích khi truy đuổi kẻ thù, và không bao giờ e ngại trước máu me hay cái chết. HECAP thường đánh lộn gấp 2 lần</Bloodlust.degreeDatas.0.description>
+
+    <Psychopath.degreeDatas.0.label>Tâm thần</Psychopath.degreeDatas.0.label>
+    <Psychopath.degreeDatas.0.description>NAME không có sự đồng cảm. Sự đau đớn của ai đó không ảnh hưởng tới HIM chút nào. HECAP không quan tâm ai đó bị làm thịt, bị bắt giam, bị bán làm nô lệ hay không được chôn cất - trừ khi nó ảnh hưởng tới HIM. HECAP cũng không cảm thấy tâm trạng khá hơn khi giao tiếp.</Psychopath.degreeDatas.0.description>
+
+    <Cannibal.degreeDatas.0.label>Ăn thịt người</Cannibal.degreeDatas.0.label>
+    <Cannibal.degreeDatas.0.description>NAME được dạy rằng ăn thịt người là sai trái và kinh khủng. Nhưng lâu rồi có một lần HE ăn thử... và HE rất thích.</Cannibal.degreeDatas.0.description>
+
+    <Abrasive.degreeDatas.0.label>Mài mòn</Abrasive.degreeDatas.0.label>
+    <Abrasive.degreeDatas.0.description>NAME luôn nói chính xác suy nghĩ của HIS, đặc biệt những điều làm phiền HIM. Điều đó khiến mọi người lạc lối.</Abrasive.degreeDatas.0.description>
+
+    <TooSmart.degreeDatas.0.label>Quá thông minh</TooSmart.degreeDatas.0.label>
+    <TooSmart.degreeDatas.0.description>NAME quá thông minh với những gì HIS đang có. HECAP học hỏi nhanh hơn nhiều so với người khác, nhưng có thể khá lập dị.</TooSmart.degreeDatas.0.description>
+
+    <Brawler.degreeDatas.0.label>Nóng tính</Brawler.degreeDatas.0.label>
+    <Brawler.degreeDatas.0.description>NAME thích đánh nhau tay đôi. HISCAP có sự chính xác rất cao trong cận chiến, nhưng HE sẽ cảm thấy không vui với việc mang theo vũ khí tầm xa.</Brawler.degreeDatas.0.description>
+
+    <Masochist.degreeDatas.0.label>Biến thái</Masochist.degreeDatas.0.label>
+    <Masochist.degreeDatas.0.description>Với NAME, luôn có sự phấn khích với việc bị thương. HECAP không biết tại sao, HE chỉ cảm thấy khác biệt.</Masochist.degreeDatas.0.description>
+
+    <Prosthophile.degreeDatas.0.label>Tín đồ sinh hóa</Prosthophile.degreeDatas.0.label>
+    <Prosthophile.degreeDatas.0.description>NAME thấy giới hạn ở cơ thể con người của HIS. HECAP luôn mơ trở thành người sinh hóa.</Prosthophile.degreeDatas.0.description>
+
+    <Prosthophobe.degreeDatas.0.label>Tín đồ tự nhiên</Prosthophobe.degreeDatas.0.label>
+    <Prosthophobe.degreeDatas.0.description>NAME tin rằng cơ thể con người được giới hạn vì lý do nào đó. Với HIM, bộ phận sinh hóa là không phù hợp.</Prosthophobe.degreeDatas.0.description>
+
+    <GreenThumb.degreeDatas.0.label>Ngón tay xanh</GreenThumb.degreeDatas.0.label>
+    <GreenThumb.degreeDatas.0.description>NAME có niềm đam mê với việc làm vườn. HECAP được thưởng thêm điểm tâm trạng với mỗi thực vật mà HE gieo trồng.</GreenThumb.degreeDatas.0.description>
+
+    <NightOwl.degreeDatas.0.label>Cú đêm</NightOwl.degreeDatas.0.label>
+    <NightOwl.degreeDatas.0.description>NAME thích thức dậy trong đêm, và ngủ suốt ngày.\n\nHECAP sẽ cảm thấy được tăng cường tâm trạng nếu thức dậy ban đêm (23h-6h) và giảm tâm trạng nếu thức dậy ban ngày (11h-18h).</NightOwl.degreeDatas.0.description>
+
+    <Greedy.degreeDatas.0.label>Tham lam</Greedy.degreeDatas.0.label>
+    <Greedy.degreeDatas.0.description>NAME cần một phòng ngủ thực sự ấn tượng. HECAP giảm tâm trạng nếu HE không nhận được điều HE mong muốn.</Greedy.degreeDatas.0.description>
+
+    <Jealous.degreeDatas.0.label>Ganh ty</Jealous.degreeDatas.0.label>
+    <Jealous.degreeDatas.0.description>Với NAME, sẽ khó chịu khi có một phòng ngủ kém ấn tượng hơn ai đó. HECAP sẽ giảm tâm trạng nếu cư dân khác có phòng ngủ ấn tượng hơn.</Jealous.degreeDatas.0.description>
+
+    <Ascetic.degreeDatas.0.label>Khổ hạnh</Ascetic.degreeDatas.0.label>
+    <Ascetic.degreeDatas.0.description>NAME thích sống khổ hạnh. HECAP sẽ bị giảm tâm trạng khi HE có một căn phòng quá ấn tượng. HECAP cũng không thích món ăn xa xỉ và chỉ ăn đồ tưới - và thức ăn tươi cũng không ảnh hưởng tới HIM chút nào.</Ascetic.degreeDatas.0.description>
+
+    <Gay.degreeDatas.0.label>Đồng tính</Gay.degreeDatas.0.label>
+    <Gay.degreeDatas.0.description>NAME thường bị hấp dẫn bởi những người cùng giới tính với HIS.</Gay.degreeDatas.0.description>
+
+    <DislikesMen.degreeDatas.0.label>Ghét đàn ông</DislikesMen.degreeDatas.0.label>
+    <DislikesMen.degreeDatas.0.description>NAME thực sự ghét và không tin tưởng đàn ông.</DislikesMen.degreeDatas.0.description>
+
+    <DislikesWomen.degreeDatas.0.label>Ghét đàn bà</DislikesWomen.degreeDatas.0.label>
+    <DislikesWomen.degreeDatas.0.description>NAME thực sự ghét và không tin tưởng đàn bà.</DislikesWomen.degreeDatas.0.description>
+
+    <AnnoyingVoice.degreeDatas.0.label>Giọng khó chịu</AnnoyingVoice.degreeDatas.0.label>
+    <AnnoyingVoice.degreeDatas.0.description>Giọng nói của NAME là kiểu giọng mũi the thé, và HE có xu hướng nói chuyện sai lệch, cắt xén nội dung. Điều đó khiến mọi người không ưa HIM.</AnnoyingVoice.degreeDatas.0.description>
+
+    <CreepyBreathing.degreeDatas.0.label>Hơi thở quái dị</CreepyBreathing.degreeDatas.0.label>
+    <CreepyBreathing.degreeDatas.0.description>NAME thở nặng nề mọi lúc, và liên tục đổ mồ hôi. Mọi người thấy nó thật quái dị.</CreepyBreathing.degreeDatas.0.description>
+
+    <Pyromaniac.degreeDatas.0.label>Tín đồ của lửa</Pyromaniac.degreeDatas.0.label>
+    <Pyromaniac.degreeDatas.0.description>NAME yêu các ngọn lửa. HECAP sẽ thường xuyên đốt lửa mọi nơi và không dập tắt chúng.</Pyromaniac.degreeDatas.0.description>
+
+</LanguageData>

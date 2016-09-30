@@ -1,0 +1,15 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <!--=======================  Wild  plants  -  carpets  ========================-->
+    <PlantTallGrass.label>Cỏ cao</PlantTallGrass.label>
+    <PlantTallGrass.description>Cỏ hoang dã, làm chậm tốc độ mọi người khi bước lên nó.</PlantTallGrass.description>
+
+    <!--============================  Wild  -  Trees  ============================-->
+    <PlantTreeCecropia.label>Cây xơ</PlantTreeCecropia.label>
+    <PlantTreeCecropia.description>Một loại cây phổ biến ở rường nhiệt đới. Sinh trưởng nhanh, ít gỗ.</PlantTreeCecropia.description>
+
+    <PlantTreeTeak.label>Cây gỗ tếch</PlantTreeTeak.label>
+    <PlantTreeTeak.description>Một loại cây gỗ cực kỳ chắn chắn, thường được sử dụng làm thuyền ở thời cổ đại.</PlantTreeTeak.description>
+
+</LanguageData>

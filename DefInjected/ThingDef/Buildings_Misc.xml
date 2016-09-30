@@ -1,0 +1,43 @@
+<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <OrbitalTradeBeacon.label>Radar giao dịch quĩ đạo</OrbitalTradeBeacon.label>
+    <OrbitalTradeBeacon.description>Cần thiết cho việc giao dịch quĩ đạo. Bạn có thể bán đồ bằng cách đặt chúng gần thiết bị này. Nó có thể đặt trong hay ngoài nhà đều được.</OrbitalTradeBeacon.description>
+
+    <CommsConsole.label>Máy truyền tin</CommsConsole.label>
+    <CommsConsole.description>Cho phép kết nối từ xa với những lái buôn hay những phe phái khác trong việc giao dịch hoặc hòa bình.</CommsConsole.description>
+
+    <MultiAnalyzer.label>Máy đa phân tích</MultiAnalyzer.label>
+    <MultiAnalyzer.description>Tăng tốc độ nghiên cứu. Cần được đặt ở gần bàn nghiên cứu công nghệ cao. Một chiếc bàn nghiên cứu công nghệ cao chỉ có thể kết nối với 1 máy đa phân tích</MultiAnalyzer.description>
+
+    <VitalsMonitor.label>Máy theo dõi bệnh</VitalsMonitor.label>
+    <VitalsMonitor.description>Tăng chất lượng xử lý y tế. Cần phải đặt ở cạnh giường bệnh. Mỗi máy chỉ kết nối với một gường bệnh.</VitalsMonitor.description>
+
+    <ToolCabinet.label>Hộp dụng cụ</ToolCabinet.label>
+    <ToolCabinet.description>Tăng tốc độ làm việc. Cần được đặt gần các bàn làm việc. Mỗi bàn làm việc có thể liên kết với hai hộp dụng cụ.</ToolCabinet.description>
+
+    <FirefoamPopper.label>Bọt cứu hỏa</FirefoamPopper.label>
+    <FirefoamPopper.description>Khi tiếp xúc với ngọn lửa hay được sử dụng, thiết bị này sẽ mở và xịt ra hợp chất chống cháy lên một vùng quanh nó.</FirefoamPopper.description>
+
+    <MoisturePump.label>Máy bơm</MoisturePump.label>
+    <MoisturePump.description>Rất chậm để loại bỏ nước đọng ở gần, chuyển đổi đầm lầy hay vùng nước nong thành vùng đấy khô ráo. Hoàn toàn không hoạt động ở khu vực nước sâu.</MoisturePump.description>
+
+    <Grave.label>Mộ</Grave.label>
+    <Grave.description>Nơi yên nghỉ cuối cùng danh cho những người đã chết.Các cư dân sẽ viếng mộ để nhận được niềm vui thanh thản</Grave.description>
+
+    <Sarcophagus.label>Quan tài</Sarcophagus.label>
+    <Sarcophagus.description>Một nơi chôn trang hoàng dành cho những các chết vinh dự.</Sarcophagus.description>
+
+    <CryptosleepCasket.label>Buồng ngủ đông</CryptosleepCasket.label>
+    <CryptosleepCasket.description>Một thiết bị tự cấp nguồn được thiết kế để giữ một người trong trạng thái ngủ đông trong nhiều năm.</CryptosleepCasket.description>
+
+    <AncientCryptosleepCasket.label>Buồng ngủ đông cổ đại</AncientCryptosleepCasket.label>
+    <AncientCryptosleepCasket.description>Chiếc buồng ngủ đông dường như đã ở đây từ rất lâu rồi. Không ai biết được trong đó có chứa gì.</AncientCryptosleepCasket.description>
+
+    <MarriageSpot.label>Nơi cử hành hôn lễ</MarriageSpot.label>
+    <MarriageSpot.Description>Chỉ định nơi buổi hôn lễ sẽ được tổ chức. Người tham dự có thể theo dõi từ mọi phía</MarriageSpot.Description>
+
+    <PartySpot.label>Nơi tổ chức tiệc</PartySpot.label>
+    <PartySpot.Description>Chỉ định nơi bữa tiệc sẽ được tổ chức. Những vị khách của buổi tiệc sẽ sử dụng khu vực xung quanh điểm này</PartySpot.Description>
+
+</LanguageData>

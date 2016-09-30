@@ -1,0 +1,45 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Milk.label>Sữa</Milk.label>
+    <Milk.description>Sữa của động vật</Milk.description>
+
+    <InsectJelly.label>Thạch côn trùng</InsectJelly.label>
+    <InsectJelly.description>Loại được được dự trữ và sử dụng như thức ăn của các loại côn trùng quá khổ. Nó mềm, giàu dinh dưỡng và mang đến cảm giác vui vẻ cho người ăn. Bởi vì tính chất sinh học đặc trưng, nó có thể phù hợp với hầu hết sinh vật và không bị hư hỏng.</InsectJelly.description>
+
+    <EggChickenUnfertilized.label>Trứng gà(không ấp)</EggChickenUnfertilized.label>
+    <EggChickenUnfertilized.description>Loại trứng gà không thể ấp nở. Có thể ăn sống nhưng sẽ tuyệt hơn nhiều nếu chế biến.</EggChickenUnfertilized.description>
+
+    <EggChickenFertilized.label>Trứng gà(ấp)</EggChickenFertilized.label>
+    <EggChickenFertilized.description>Trứng gà có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra gà con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggChickenFertilized.description>
+
+    <EggCobraFertilized.label>Trứng rắn(ấp)</EggCobraFertilized.label>
+    <EggCobraFertilized.description>Trứng rắn có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra rắn con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggCobraFertilized.description>
+
+    <EggIguanaFertilized.label>Trứng cự đà(ấp)</EggIguanaFertilized.label>
+    <EggIguanaFertilized.description>Trứng cự đà có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra cự đà con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggIguanaFertilized.description>
+
+    <EggTortoiseFertilized.label>Trứng rùa(ấp)</EggTortoiseFertilized.label>
+    <EggTortoiseFertilized.description>Trứng rùa có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra rùa con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggTortoiseFertilized.description>
+
+      <!--  Cassowary  -->
+    
+    <EggCassowaryFertilized.label>Trứng gà gô(ấp)</EggCassowaryFertilized.label>
+    <EggCassowaryFertilized.description>Trứng gà gô có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra gà gô con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggCassowaryFertilized.description>
+    
+    <!--  Emu  -->
+    
+    <EggEmuFertilized.label>Trứng chim emu(ấp)</EggEmuFertilized.label>
+    <EggEmuFertilized.description>Trứng chim emu có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra chim con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggEmuFertilized.description>
+    
+    <!--  Ostrich  -->
+    
+    <EggOstrichFertilized.label>Trứng đà điểu(ấp)</EggOstrichFertilized.label>
+    <EggOstrichFertilized.description>Trứng đà điểu có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra đà điểu con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggOstrichFertilized.description>
+    
+    <!--  Turkey  -->
+
+    <EggTurkeyFertilized.label>Trứng gà tây(ấp)</EggTurkeyFertilized.label>
+    <EggTurkeyFertilized.description>Trứng gà tây có thể ấp nở. Nếu mọi thứ tốt đẹp, nó sẽ nở ra gà con. Nó có thể dùng ăn sống, nhưng sẽ tuyệt hơn nếu chế biến.</EggTurkeyFertilized.description>
+
+</LanguageData>

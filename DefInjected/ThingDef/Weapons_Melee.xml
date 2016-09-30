@@ -1,0 +1,25 @@
+﻿<?xml  version="1.0"  encoding="utf-8"  ?>
+<LanguageData>
+
+    <MeleeWeapon_Gladius.label>Kiếm ngắn</MeleeWeapon_Gladius.label>
+    <MeleeWeapon_Gladius.description>Một vũ khí cổ xưa. Đâm hay chém đều rất tốt.</MeleeWeapon_Gladius.description>
+
+    <MeleeWeapon_LongSword.label>Kiếm dài</MeleeWeapon_LongSword.label>
+    <MeleeWeapon_LongSword.description>Vũ khí cổ xưa của các vị vua, sử dụng để đâm hoặc chém, đặc biệt nguy hiểm khi cầm bên phải.</MeleeWeapon_LongSword.description>
+
+    <MeleeWeapon_Knife.label>Dao</MeleeWeapon_Knife.label>
+    <MeleeWeapon_Knife.description>Một trong những dụng cụ cổ xưa của nhân loại. Dao là vừa là loại công cụ sử dụng hàng ngày, vừa là một loại vũ khí chết người.</MeleeWeapon_Knife.description>
+
+    <MeleeWeapon_Shiv.label>Dao găm</MeleeWeapon_Shiv.label>
+    <MeleeWeapon_Shiv.description>Một loại vũ khí cải tiến từ dao.</MeleeWeapon_Shiv.description>
+
+    <MeleeWeapon_Spear.label>Giáo</MeleeWeapon_Spear.label>
+    <MeleeWeapon_Spear.description>Một loại gây với đầu sắc nhọn dùng đâm kẻ thù trong cận chiến.</MeleeWeapon_Spear.description>
+
+    <MeleeWeapon_Mace.label>Chùy</MeleeWeapon_Mace.label>
+    <MeleeWeapon_Mace.description>Một loại chùa được tính toán chế tạo để đạt hiệu quả va chạm chết người khi vung lên.</MeleeWeapon_Mace.description>
+
+    <MeleeWeapon_Club.label>Gậy</MeleeWeapon_Club.label>
+    <MeleeWeapon_Club.description>Vũ khí cổ xưa nhất của con người - một thanh gỗ nặng dần về phía đuôi, sử dụng để đánh chết kẻ thù. Đơn giản nhưng hiệu quả.</MeleeWeapon_Club.description>
+
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Beer.label>Bia</Beer.label>
+	<Beer.description>Bia có hương vị hấp dẫn, nhưng nguyên nhân chính là cảm giác say. Sử dụng quá nhiều có thể dẫn đến nghiện.</Beer.description>
+	<Wort.label>Lúa mạch</Wort.label>
+	<Wort.description>Là nguyên liệu chỉ yếu trước khi lên men. Cần một thời gian để ủ với men trước khi thành bia</Wort.description>
+	
+	<WakeUp.label>Cà phê</WakeUp.label>
+	<WakeUp.description>Giảm nhu cầu ngủ và cho phép người dùng làm việc trong thời gian dài mà không cảm thấy mệt mỏi.Một chất kích thích có khả năng gây nghiện.   Cơn nghiện cà phê làm giảm tinh thần và có thể dẫn đến tâm thần.</WakeUp.description>
+	
+	<SmokeleafJoint.label>Thuốc lá</SmokeleafJoint.label>
+	<SmokeleafJoint.description>Những sợi thuốc được cuộn trong một tờ giấy nhỏ được dùng để hút. Nó mang lại một tâm trạng rất tốt cho người sử dụng, nhưng cũng đem đến những vấn đề như tăng nhu cầu ăn uống, khả năng tập trung, khả năng di chuyển. Nó có thể gây nghiện dù tỷ lệ không cao.</SmokeleafJoint.description>
+	
+	<Flake.label>Nha phiến</Flake.label>
+	<Flake.description>Chiết xuất từ nhựa cây anh túc. Sử dụng bằng cách đốt mà hút khói. Nó mang lại trạng thái hưng phấn ngắn nhưng cực kỳ mạnh mẽ. Khá rẻ để sản xuất và đặt biệt dễ gây nghiện</Flake.description>
+	
+	<Yayo.label>Bạch phiến</Yayo.label>
+	<Yayo.description>Một loại bột trắng mịn dùng mũi hít và tạo ra một cảm giác phấn khích . Ma túy làm giảm nhu cầu ngủ và ngăn chặn cơn đau nhưng khả năng gây nghiện rất cao.</Yayo.description>
+	
+	<GoJuice.label>Hợp chất tăng lực</GoJuice.label>
+	<GoJuice.description>Một loại ma túy tổng hợp đầu tiên đã được phát triển cho từ những ngày đầu tiên của chiến tranh liên hành tinh. Nó ngăn chặn cơn đau, làm tăng khả năng chiến đấu của người sử dụng . Ngoài ra, nó tăng tốc độ di chuyển . \n\nTuy nhiên , các nhà hóa học đã phát triển loại thuốc này mà không có cách nào loại bỏ cơn nghiện nó. Một số người nhìn thấy lợi ích của nó, số khác thì coi nó là nhược điểm</GoJuice.description>
+	
+	<MalariBlock.label>Thuốc chống sốt rét</MalariBlock.label>
+	<MalariBlock.description>Một loại thuốc để chủ động chống lại bệnh sốt rét.Năm ngày uống một viên và chẳng còn lo lắng về bệnh sốt rét nữa.</MalariBlock.description>
+	
+	<Luciferium.label>Hợp chất Lucifer</Luciferium.label>
+	<Luciferium.description>Một hợp chất ma túy siêu cấp giúp tăng cường mọi khả năng cơ thể. Thật không may tác dụng của nó kéo dài từ năm đến sáu ngày. Trong lúc đó, nó gây ra tình trạng rối loạn tinh thần nghiêm trọng, điên loạn, và siết chết người sử dụng.\n\nNgười sử dụng sẽ bị phụ thuộc ngay từ liều dùng đầu tiên và không có khả năng từ bỏ.\n\nTrong các hợp chất may túy tổng hợp thì nó được gọi là "Bản hiệp ước của quỷ". Nhiều người đã giết bạn bè khi không tìm được viên thuốc màu đỏ quyến rũ đó</Luciferium.description>
+	
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <GrizzlyBear.label>Gấu xám</GrizzlyBear.label>
+    <GrizzlyBear.description>Động vật có vú ăn tạp rất lớn phù hợp thời tiết lạnh. Mỡ và lông dày của nó giữ ấm vào mùa đông .\n\nChế độ ăn uống của nó bao gồm cá , hoa quả , mật ong , và thịt. Gấu xám có khả năng sử dụng sức mạnh khổng lồ của mình và móng vuốt chết người để giết con mồi. Chúng tìm kiếm nhanh chóng những sinh vật chậm chạp.</GrizzlyBear.description>
+    <GrizzlyBear_Leather.label>da gấu xám</GrizzlyBear_Leather.label>
+    <GrizzlyBear_Meat.label>thịt gấu xám</GrizzlyBear_Meat.label>
+    <GrizzlyBear_Corpse.label>xác gấu xám</GrizzlyBear_Corpse.label>
+    <GrizzlyBear_Corpse.description>một xác hùng xám.</GrizzlyBear_Corpse.description>
+
+    <PolarBear.label>Gấu trắng</PolarBear.label>
+    <PolarBear.description>Sống ở vùng đá xa về phía bắc. Mỡ và lông dày của nó giữ ấm vào mùa đông .\n\nChế độ ăn uống của nó bao gồm cá , hoa quả , mật ong , và thịt. Gấu xám có khả năng sử dụng sức mạnh khổng lồ của mình và móng vuốt chết người để giết con mồi. Chúng tìm kiếm nhanh chóng những sinh vật chậm chạp.</PolarBear.description>
+    <PolarBear_Leather.label>da gấu trắng</PolarBear_Leather.label>
+    <PolarBear_Corpse.label>xác gấu trắng</PolarBear_Corpse.label>
+    <PolarBear_Corpse.description>một xác gấu trắng.</PolarBear_Corpse.description>
+
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MetalTile.label>Gạch lát kim loại</MetalTile.label>
+    <MetalTile.Description>Gạch lát kim loại nhìn giống như sàn phi thuyền. Đẹp nhưng trông công nhân với lạnh lẽo.</MetalTile.Description>
+
+    <SilverTile.label>Gạch lát bạc</SilverTile.label>
+    <SilverTile.Description>Đắt giá và xây dựng rất chậm, nhưng rất đẹp. Một sự lựa chọn hoàn hảo phù hợp với tất cả các căn phòng xa xỉ.</SilverTile.Description>
+
+    <GoldTile.label>Gạch lát vàng</GoldTile.label>
+    <GoldTile.Description>Dạng sàn nhà đẹp và ấn tượng nhất. Cực kỳ đắt và cần khối lượng công việc rất nhiều để hoàn thành.</GoldTile.Description>
+
+    <SterileTile.label>Gạch vô trùng</SterileTile.label>
+    <SterileTile.Description>Giữ cho căn phòng sạch sẽ. Cực kỳ hữu ý đối với phòng bệnh nhằm giúp bệnh nhân tránh việc bị nhiễm trùng. Trông bình thường và làm cũng khá lâu.</SterileTile.Description>
+
+    <PavedTile.label>Gạch lát</PavedTile.label>
+    <PavedTile.Description>Dạng gạch bê tông. Khá rẻ và giúp di chuyển nhanh hơn, nhưng trông bình thường và xây cũng lâu.</PavedTile.Description>
+
+    <Concrete.label>Đổ bê tông</Concrete.label>
+    <Concrete.Description>Bê tông khô nhanh. Giúp di chuyển nhanh, giá rẻ, thi công nhanh chóng nhưng nhìn thì xấu.</Concrete.Description>
+
+    <WoodPlankFloor.label>Sàn gỗ</WoodPlankFloor.label>
+    <WoodPlankFloor.Description>Sàn gỗ tự nhiên, mang lại sự ấm áp và cảm giác ngọt ngào.</WoodPlankFloor.Description>
+
+    <CarpetRed.label>Thảm đỏ</CarpetRed.label>
+    <CarpetRed.Description>Sang trọng với thảm màu hoa hồng đáng yếu.</CarpetRed.Description>
+
+    <CarpetGreen.label>Thảm xanh lá</CarpetGreen.label>
+    <CarpetGreen.Description>Cảm giác tự nhiên với thảm màu xanh lá.</CarpetGreen.Description>
+
+    <CarpetBlue.label>Thảm xanh dương</CarpetBlue.label>
+    <CarpetBlue.Description>Sang trọng với thảm màu xanh dương mát mẻ.</CarpetBlue.Description>
+
+    <CarpetCream.label>Thảm màu kem</CarpetCream.label>
+    <CarpetCream.Description>Thảm màu kem.</CarpetCream.Description>
+
+    <CarpetDark.label>Thảm màu tối</CarpetDark.label>
+    <CarpetDark.Description>Trông chuyên nghiệp với thảm màu tối.</CarpetDark.Description>
+
+</LanguageData>

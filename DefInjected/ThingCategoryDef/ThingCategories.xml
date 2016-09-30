@@ -1,0 +1,50 @@
+<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <Root.label>Gốc</Root.label>
+
+<!--    <Resources.label>Tài nguyên</Resources.label> -->
+    <Foods.label>Đồ ăn</Foods.label>
+    <FoodMeals.label>Thức ăn</FoodMeals.label>
+    <FoodRaw.label>Thức ăn tươi</FoodRaw.label>
+    <MeatRaw.label>Thịt tươi</MeatRaw.label>
+    <PlantFoodRaw.label>Ngũ cốc</PlantFoodRaw.label>
+    <AnimalProductRaw.label>Sản phẩm từ động vật</AnimalProductRaw.label>
+    <EggsUnfertilized.label>Trứng (không nở)</EggsUnfertilized.label>
+    <EggsFertilized.label>Trứng (có nở)</EggsFertilized.label>
+
+    <Manufactured.label>Chế phẩm</Manufactured.label>
+    <Textiles.label>Vải vóc</Textiles.label>
+    <Leathers.label>Da thuộc</Leathers.label>
+    <Medicine.label>Thuốc men</Medicine.label>
+    <ResourcesRaw.label>Tài nguyên thô</ResourcesRaw.label>
+    <PlantMatter.label>Nguyên liệu trồng trọt</PlantMatter.label>
+    <StoneBlocks.label>Đá</StoneBlocks.label>
+
+    <Drugs.label>Chất kích thích</Drugs.label>
+    <Items.label>Vật phẩm</Items.label>
+    <Furniture.label>Đồ đạc</Furniture.label>
+    <Art.label>Tác phẩm nghệ thuật</Art.label>
+    <Unfinished.label>Chưa hoàn thành</Unfinished.label>
+    <Artifacts.label>Đồ quý hiếm</Artifacts.label>
+    <Weapons.label>Vũ khí</Weapons.label>
+    <WeaponsMelee.label>Vũ khí cận chiến</WeaponsMelee.label>
+    <WeaponsRanged.label>Vũ khí tầm xa</WeaponsRanged.label>
+    <Grenades.label>Lựu đạn</Grenades.label>
+
+    <Apparel.label>Trang phục</Apparel.label>
+    <Headgear.label>Mũ nón</Headgear.label>
+
+    <BodyParts.label>Phần cơ thể</BodyParts.label>
+    <BodyPartsNatural.label>Phần cơ thể tự nhiên</BodyPartsNatural.label>
+    <BodyPartsArtificial.label>Phần cơ thể nhân tạo</BodyPartsArtificial.label>
+
+    <Chunks.label>Quặng</Chunks.label>
+    <StoneChunks.label>Đá quặng</StoneChunks.label>
+
+    <Corpses.label>Xác</Corpses.label>
+    <CorpsesHumanlike.label>Xác người</CorpsesHumanlike.label>
+    <CorpsesAnimal.label>Xác động vật</CorpsesAnimal.label>
+    <CorpsesMechanoid.label>Xác phi sinh vật</CorpsesMechanoid.label>
+
+</LanguageData>

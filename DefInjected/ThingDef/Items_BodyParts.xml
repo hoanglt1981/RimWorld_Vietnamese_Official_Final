@@ -1,0 +1,37 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Heart.label>Tim</Heart.label>
+    <Heart.description>Cung cấp máu và oxy cho tất cả các bộ phận cơ thể. Sẵn sàng tìm chủ nhận mới.</Heart.description>
+
+    <Lung.label>Phổi</Lung.label>
+    <Lung.description>Phần trọng yếu của hệ hộ hấp.</Lung.description>
+
+    <Kidney.label>Thận</Kidney.label>
+    <Kidney.description>Lọc và loại bỏ các tạp chất trong máu.</Kidney.description>
+
+    <Liver.label>Gan</Liver.label>
+    <Liver.description>Đóng vai trò cực kỳ quan trọng trong hệ tuần hoàn.</Liver.description>
+
+    <SimpleProstheticLeg.label>Chân cơ khí đơn giản</SimpleProstheticLeg.label>
+    <SimpleProstheticLeg.description>Được tạo ra để thay thế chân đã mất. Không thực sự thoải mái nhưng khá hiệu quả.</SimpleProstheticLeg.description>
+
+    <SimpleProstheticArm.label>Tay cơ khí đơn giản</SimpleProstheticArm.label>
+    <SimpleProstheticArm.description>Đơn giản nhưng rất bền.</SimpleProstheticArm.description>
+
+    <BionicEye.label>Mắt sinh học</BionicEye.label>
+    <BionicEye.description>Một phần là công nghệ cao được tạo ra không chỉ hoàn toàn thay thế mắt thông thường, mà còn mang lại khả năng siêu thị giác.</BionicEye.description>
+
+    <BionicArm.label>Tay sinh học</BionicArm.label>
+    <BionicArm.description>Một trong những sản phẩm công nghệ tinh vi nhất. Mang lại sức mạnh cực lớn cho người sử dụng.</BionicArm.description>
+
+    <BionicLeg.label>Chân sinh học</BionicLeg.label>
+    <BionicLeg.description>Chân sinh học sử dụng công nghệ cắt cạnh để mang đếu cho người sở hữu khả năng đi chuyển cực thoải mái và sức mạnh.</BionicLeg.description>
+
+    <PowerClaw.label>Móng sức mạnh</PowerClaw.label>
+    <PowerClaw.description>Bàn tay thay thế cực kỳ mạnh mẽ với 3 móng vuốt chết người.</PowerClaw.description>
+
+    <ScytherBlade.label>Liêm đao</ScytherBlade.label>
+    <ScytherBlade.description>Thay thế bàn tay bằng những lưỡi đao được lấy từ xác của bọ ngựa máy. Không thoải mái lắm nhưng hiệu quả làm vũ khí cận chiến.</ScytherBlade.description>
+
+</LanguageData>

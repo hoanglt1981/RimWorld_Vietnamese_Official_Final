@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MoodOffsetSanguine.stages.0.label>Lạc quan</MoodOffsetSanguine.stages.0.label>
+  <MoodOffsetSanguine.stages.0.description>Phần thưởng tự nhiên của đặc điểm Lạc quan.</MoodOffsetSanguine.stages.0.description>
+
+  <MoodOffsetOptimist.stages.0.label>Yêu đời</MoodOffsetOptimist.stages.0.label>
+  <MoodOffsetOptimist.stages.0.description>Phần thưởng tự nhiên của đặc điểm Yêu đời.</MoodOffsetOptimist.stages.0.description>
+
+  <MoodOffsetPessimist.stages.0.label>Bi quan</MoodOffsetPessimist.stages.0.label>
+  <MoodOffsetPessimist.stages.0.description>Phần thưởng tự nhiên của đặc điểm Bi quan.</MoodOffsetPessimist.stages.0.description>
+
+  <MoodOffsetDepressive.stages.0.label>Trầm cảm</MoodOffsetDepressive.stages.0.label>
+  <MoodOffsetDepressive.stages.0.description>Phần thưởng tự nhiên của đặc điểm Trầm cảm.</MoodOffsetDepressive.stages.0.description>
+
+</LanguageData>

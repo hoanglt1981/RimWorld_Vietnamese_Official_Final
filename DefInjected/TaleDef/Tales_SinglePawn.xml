@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <LandedInPod.label>hạ cánh trong khoang</LandedInPod.label>
+    <LandedInPod.rulePack.rulesStrings.0>tale_noun-&gt;cuộc hạ cánh trong khoang cứu sinh của [pawn_nameShortDef]</LandedInPod.rulePack.rulesStrings.0>
+    <LandedInPod.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đang hạ cánh trong khoang cứu sinh [circumstance_group]</LandedInPod.rulePack.rulesStrings.1>
+    <LandedInPod.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] đang rơi xuống trong khoang cứu sinh [circumstance_group]</LandedInPod.rulePack.rulesStrings.2>
+    <LandedInPod.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang va chạm với mặt đất trong khoang cứu sinh [circumstance_group]</LandedInPod.rulePack.rulesStrings.3>
+    <LandedInPod.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] đang ngồi trong khoang cứu sinh [circumstance_group]</LandedInPod.rulePack.rulesStrings.4>
+    <LandedInPod.rulePack.rulesStrings.5>circumstance_phrase-&gt;phía trước một [terrainfeature]</LandedInPod.rulePack.rulesStrings.5>
+    <LandedInPod.rulePack.rulesStrings.6>circumstance_phrase-&gt;với lực khó tin</LandedInPod.rulePack.rulesStrings.6>
+    <LandedInPod.rulePack.rulesStrings.7>circumstance_phrase-&gt;trong bụi và đá</LandedInPod.rulePack.rulesStrings.7>
+    <LandedInPod.rulePack.rulesStrings.8>circumstance_phrase-&gt;với tên lửa đẩy bắn ra đột ngột</LandedInPod.rulePack.rulesStrings.8>
+    <LandedInPod.rulePack.rulesStrings.9>circumstance_phrase-&gt;trong một cuộc hạ cánh chính xác</LandedInPod.rulePack.rulesStrings.9>
+    <LandedInPod.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] đang chăm chú tập trung vào việc điều khiển.</LandedInPod.rulePack.rulesStrings.10>
+    <LandedInPod.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] có [pawn_possessive] ánh mắt thật gần và nhìn có vẻ lo lắng.</LandedInPod.rulePack.rulesStrings.11>
+    <LandedInPod.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun] đang bất tỉnh, [pawn_possessive] lưỡi lè ra và nước dãi nhỏ giọt.</LandedInPod.rulePack.rulesStrings.12>
+    <LandedInPod.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] đang mỉm cười với niềm vui nghiệt ngã.</LandedInPod.rulePack.rulesStrings.13>
+    <LandedInPod.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] dường như không có ý kiến việc gì [pawn_pronoun] sẽ làm.</LandedInPod.rulePack.rulesStrings.14>
+    <LandedInPod.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] gắn với [pawn_possessive] ánh mắt gần gũi, hoàn toàn bất lực.</LandedInPod.rulePack.rulesStrings.15>
+    <LandedInPod.rulePack.rulesStrings.16>desc_sentence-&gt;Có một ngọn lửa đang lan dần ra phía sau khoang cứu sinh.</LandedInPod.rulePack.rulesStrings.16>
+    <LandedInPod.rulePack.rulesStrings.17>desc_sentence-&gt;Một [animal] ở gần đang giật mình nhìn lên.</LandedInPod.rulePack.rulesStrings.17>
+    <LandedInPod.rulePack.rulesStrings.18>desc_sentence-&gt;Một [animal] đang chạy trốn va chạm trong sự sợ hãi.</LandedInPod.rulePack.rulesStrings.18>
+    <LandedInPod.rulePack.rulesStrings.19>desc_sentence-&gt;Có một [terrainfeature] trong khung cảnh.</LandedInPod.rulePack.rulesStrings.19>
+    <LandedInPod.rulePack.rulesStrings.20>desc_sentence-&gt;Một [outlander] yên lặng theo dõi từ xa.</LandedInPod.rulePack.rulesStrings.20>
+
+    <Vomited.label>nôn mửa</Vomited.label>
+    <Vomited.rulePack.rulesStrings.0>tale_noun-&gt;bãi nôn mửa của [pawn_nameShortDef]</Vomited.rulePack.rulesStrings.0>
+    <Vomited.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] nôn mửa trên mặt đất [circumstance_group]</Vomited.rulePack.rulesStrings.1>
+    <Vomited.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] trông ghê tởm khi looking phủ đầy chất dịch nôn mửa [circumstance_group]</Vomited.rulePack.rulesStrings.2>
+    <Vomited.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] tăng gấp đôi và nôn ọe ra sàn [circumstance_group]</Vomited.rulePack.rulesStrings.3>
+    <Vomited.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] quỳ trên [pawn_possessive] đầu gối, nôn mửa ra sàn nhà [circumstance_group]</Vomited.rulePack.rulesStrings.4>
+    <Vomited.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong khi nhìn có vẻ đau đớn</Vomited.rulePack.rulesStrings.5>
+    <Vomited.rulePack.rulesStrings.6>circumstance_phrase-&gt;với sự xấu hổ lớn</Vomited.rulePack.rulesStrings.6>
+    <Vomited.rulePack.rulesStrings.7>circumstance_phrase-&gt;như mọi người nhìn vào</Vomited.rulePack.rulesStrings.7>
+    <Vomited.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_pronoun] dường như toàn toàn không có ý thức về những gì xung quanh [pawn_objective].</Vomited.rulePack.rulesStrings.8>
+    <Vomited.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_possessive] khuôn mặt tự sưng lên.</Vomited.rulePack.rulesStrings.9>
+    <Vomited.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] gần như mất ý thức, [pawn_possessive] lưỡi lè ra và dớt dãi tùm lum.</Vomited.rulePack.rulesStrings.10>
+    <Vomited.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] đang co giật dữ dội.</Vomited.rulePack.rulesStrings.11>
+    <Vomited.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_pronoun] trông có vẻ xấu hổ.</Vomited.rulePack.rulesStrings.12>
+    <Vomited.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] dường như đang cố cười to, bất chấp hoàn cảnh.</Vomited.rulePack.rulesStrings.13>
+    <Vomited.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] nhìn như sắp hết hơi, giống như hoàn toàn trống rỗng vì nôn mửa.</Vomited.rulePack.rulesStrings.14>
+    <Vomited.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] được tô điểm bao quanh bởi tầng nghệ thuật của bùn đất .</Vomited.rulePack.rulesStrings.15>
+    <Vomited.rulePack.rulesStrings.16>desc_sentence-&gt;A [animal] đang ăn những vết nôn trên mặt đất.</Vomited.rulePack.rulesStrings.16>
+
+    <Drunk.label>say xỉn</Drunk.label>
+    <Drunk.rulePack.rulesStrings.0>tale_noun-&gt;Cơn say xỉn nghiêm trọng của [pawn_nameShortDef]</Drunk.rulePack.rulesStrings.0>
+    <Drunk.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đang lảo đảo vì say xỉn [circumstance_group]</Drunk.rulePack.rulesStrings.1>
+    <Drunk.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] đang nghiêng [pawn_possessive] đầu lại và nốc rượu [circumstance_group]</Drunk.rulePack.rulesStrings.2>
+    <Drunk.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] tham lam thu thập chai rượu [circumstance_group]</Drunk.rulePack.rulesStrings.3>
+    <Drunk.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] đang uống rất nhiều [circumstance_group]</Drunk.rulePack.rulesStrings.4>
+    <Drunk.rulePack.rulesStrings.5>circumstance_phrase-&gt;lãng quên [pawn_possessive] mọi thứ xung quanh</Drunk.rulePack.rulesStrings.5>
+    <Drunk.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong trạng thái lê tê phê</Drunk.rulePack.rulesStrings.6>
+    <Drunk.rulePack.rulesStrings.7>circumstance_phrase-&gt;trong khi hỏi [pawn_possessive] sự tồn tại của bản thân</Drunk.rulePack.rulesStrings.7>
+    <Drunk.rulePack.rulesStrings.8>circumstance_phrase-&gt;trong khi khóc [pawn_possessive]</Drunk.rulePack.rulesStrings.8>
+    <Drunk.rulePack.rulesStrings.9>circumstance_phrase-&gt;trong khi cười điên dại</Drunk.rulePack.rulesStrings.9>
+    <Drunk.rulePack.rulesStrings.10>circumstance_phrase-&gt;trong khi khóc nức nở</Drunk.rulePack.rulesStrings.10>
+    <Drunk.rulePack.rulesStrings.11>circumstance_phrase-&gt;trong khi nhìn thật thảm hại</Drunk.rulePack.rulesStrings.11>
+    <Drunk.rulePack.rulesStrings.12>circumstance_phrase-&gt;trong khi trừng mắt giận dữ với mọi người xung quanh [pawn_objective]</Drunk.rulePack.rulesStrings.12>
+    <Drunk.rulePack.rulesStrings.13>circumstance_phrase-&gt;trong khi liếc ai đó ở gần</Drunk.rulePack.rulesStrings.13>
+    <Drunk.rulePack.rulesStrings.14>circumstance_phrase-&gt;trong khi tập trung cởi đồ</Drunk.rulePack.rulesStrings.14>
+    <Drunk.rulePack.rulesStrings.15>circumstance_phrase-&gt;với một ngón tay trong [pawn_possessive] miệng</Drunk.rulePack.rulesStrings.15>
+    <Drunk.rulePack.rulesStrings.16>circumstance_phrase-&gt;trong khi kiềm chế nôn mửa</Drunk.rulePack.rulesStrings.16>
+    <Drunk.rulePack.rulesStrings.17>circumstance_phrase-&gt;mà không cần quan tâm đến thế giới</Drunk.rulePack.rulesStrings.17>
+    <Drunk.rulePack.rulesStrings.18>circumstance_phrase-&gt;với dục vọng trong [pawn_possessive] mắt</Drunk.rulePack.rulesStrings.18>
+    <Drunk.rulePack.rulesStrings.19>circumstance_phrase-&gt;trong khi xem lại những bóng ma của [pawn_possessive] quá khứ</Drunk.rulePack.rulesStrings.19>
+    <Drunk.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_pronoun] dường như hoàn toàn không ý thức mọi thứ xung quanh [pawn_objective].</Drunk.rulePack.rulesStrings.20>
+    <Drunk.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_possessive] khuôn mặt dường như đang bị sưng lên.</Drunk.rulePack.rulesStrings.21>
+    <Drunk.rulePack.rulesStrings.22>desc_sentence-&gt;[pawn_pronoun] gần mất ý thức, [pawn_possessive] lưỡi lè ra và khạc nhổ lung tung.</Drunk.rulePack.rulesStrings.22>
+    <Drunk.rulePack.rulesStrings.23>desc_sentence-&gt;[pawn_pronoun] trông có vẻ buồn vui lẫn lộn.</Drunk.rulePack.rulesStrings.23>
+    <Drunk.rulePack.rulesStrings.24>desc_sentence-&gt;[pawn_pronoun] có một vết bẩn [pawn_possessive] phía trước.</Drunk.rulePack.rulesStrings.24>
+    <Drunk.rulePack.rulesStrings.25>desc_sentence-&gt;Có một con đường của những chai rượu bỏ lại sau lưng [pawn_objective].</Drunk.rulePack.rulesStrings.25>
+    <Drunk.rulePack.rulesStrings.26>desc_sentence-&gt;Có một chất màu trắng trên [pawn_possessive] quần.</Drunk.rulePack.rulesStrings.26>
+    <Drunk.rulePack.rulesStrings.27>desc_sentence-&gt;[pawn_pronoun] dường như thiếu một chiếc giày.</Drunk.rulePack.rulesStrings.27>
+    <Drunk.rulePack.rulesStrings.28>desc_sentence-&gt;[pawn_possessive] đầu tóc hoàn toàn lộn xộn.</Drunk.rulePack.rulesStrings.28>
+
+    <WasOnFire.label>bắt lửa</WasOnFire.label>
+    <WasOnFire.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] đang bắt lửa</WasOnFire.rulePack.rulesStrings.0>
+    <WasOnFire.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đang điên cuồng dập lửa trên [pawn_possessive] cơ thể [circumstance_group]</WasOnFire.rulePack.rulesStrings.1>
+    <WasOnFire.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] bao phủ bởi ngọn lửa [circumstance_group]</WasOnFire.rulePack.rulesStrings.2>
+    <WasOnFire.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang quỳ, tay giơ lên đầu, cố gắng dập lửa trên [pawn_possessive] người [circumstance_group]</WasOnFire.rulePack.rulesStrings.3>
+    <WasOnFire.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] đang lăn lộn trên sàn trong khi bốc cháy [circumstance_group]</WasOnFire.rulePack.rulesStrings.4>
+    <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong khi người khác nhìn vào
+    <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong khi gần như khỏa thân</WasOnFire.rulePack.rulesStrings.6>
+    <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase-&gt;với ý định tập trung</WasOnFire.rulePack.rulesStrings.7>
+    <WasOnFire.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_possessive] tươi đang bị đốt thành than.</WasOnFire.rulePack.rulesStrings.8>
+    <WasOnFire.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_possessive] đôi mắt mở to đầy hoảng loạn.</WasOnFire.rulePack.rulesStrings.9>
+    <WasOnFire.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] có vẻ như gần mất ý thức; [pawn_possessive] đôi mắt không còn sự sống.</WasOnFire.rulePack.rulesStrings.10>
+    <WasOnFire.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_possessive] miệng mở ra như [pawn_pronoun] gào thét trợ giúp.</WasOnFire.rulePack.rulesStrings.11>
+    <WasOnFire.rulePack.rulesStrings.12>desc_sentence-&gt;Những ngọn lửa bao phủ đầu anh ta.</WasOnFire.rulePack.rulesStrings.12>
+    <WasOnFire.rulePack.rulesStrings.13>desc_sentence-&gt;Một biểu tượng hào quang của lửa vây quanh khuôn mặt anh ta.</WasOnFire.rulePack.rulesStrings.13>
+    <WasOnFire.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] đang cười điên dại.</WasOnFire.rulePack.rulesStrings.14>
+    <WasOnFire.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] dường như trở nên đánh mất [pawn_objective] bản thân.</WasOnFire.rulePack.rulesStrings.15>
+    <WasOnFire.rulePack.rulesStrings.16>desc_sentence-&gt;Một làn khói đang tắt [pawn_objective].</WasOnFire.rulePack.rulesStrings.16>
+    <WasOnFire.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_pronoun] được tô điểm đầy nghệ thuật theo phong cách xác chết.</WasOnFire.rulePack.rulesStrings.17>
+
+    <MentalStateBerserk.label>nổi loạn</MentalStateBerserk.label>
+    <MentalStateBerserk.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] trở nên nổi loạn</MentalStateBerserk.rulePack.rulesStrings.0>
+    <MentalStateBerserk.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đang bay vào cơn nổi loạn [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.1>
+    <MentalStateBerserk.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] đang trở nên điên rồ, điên cuồng dữ dội [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.2>
+    <MentalStateBerserk.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] vấp phía trước với cái nhìn tâm thần vào [pawn_possessive] mặt [circumstance_group]</MentalStateBerserk.rulePack.rulesStrings.3>
+    <MentalStateBerserk.rulePack.rulesStrings.4>circumstance_phrase-&gt;trong khi cố gắng cởi đồ</MentalStateBerserk.rulePack.rulesStrings.4>
+    <MentalStateBerserk.rulePack.rulesStrings.5>circumstance_phrase-&gt;dường như không có lý do</MentalStateBerserk.rulePack.rulesStrings.5>
+    <MentalStateBerserk.rulePack.rulesStrings.6>circumstance_phrase-&gt;như người khác thu mình sợ hãi</MentalStateBerserk.rulePack.rulesStrings.6>
+    <MentalStateBerserk.rulePack.rulesStrings.7>circumstance_phrase-&gt;như một người bạn bỏ chạy</MentalStateBerserk.rulePack.rulesStrings.7>
+    <MentalStateBerserk.rulePack.rulesStrings.8>circumstance_phrase-&gt;bởi vì sự căng thẳng</MentalStateBerserk.rulePack.rulesStrings.8>
+    <MentalStateBerserk.rulePack.rulesStrings.9>circumstance_phrase-&gt;như một bước cuối cùng</MentalStateBerserk.rulePack.rulesStrings.9>
+    <MentalStateBerserk.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] đang run lên với sự giận dữ không kiểm soát.</MentalStateBerserk.rulePack.rulesStrings.10>
+    <MentalStateBerserk.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_possessive] răng nhe ra trong tiếng gầm gừ chết người.</MentalStateBerserk.rulePack.rulesStrings.11>
+    <MentalStateBerserk.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_possessive] đôi mắt như hồ chứa sự điên rồ chết chóc.</MentalStateBerserk.rulePack.rulesStrings.12>
+    <MentalStateBerserk.rulePack.rulesStrings.13>desc_sentence-&gt;Nước bọt đang bay từ trong [pawn_possessive] miệng như [pawn_possessive] gào thét với cơn thịnh nộ.</MentalStateBerserk.rulePack.rulesStrings.13>
+    <MentalStateBerserk.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] đã mất một phần [pawn_possessive] trang phục.</MentalStateBerserk.rulePack.rulesStrings.14>
+    <MentalStateBerserk.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] đang nhăn nhó khổ sở.</MentalStateBerserk.rulePack.rulesStrings.15>
+    <MentalStateBerserk.rulePack.rulesStrings.16>desc_sentence-&gt;[pawn_pronoun] có vẻ cười điên dại.</MentalStateBerserk.rulePack.rulesStrings.16>
+    <MentalStateBerserk.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_pronoun] được miêu tả với khuôn mặt gầm gừ của một con [animal].</MentalStateBerserk.rulePack.rulesStrings.17>
+    <MentalStateBerserk.rulePack.rulesStrings.18>desc_sentence-&gt;biểu tượng [animal]bao quanh [pawn_possessive] đầu.</MentalStateBerserk.rulePack.rulesStrings.18>
+    <MentalStateBerserk.rulePack.rulesStrings.19>desc_sentence-&gt;[pawn_pronoun] có một sat khí lóe lên trong [pawn_possessive] mắt.</MentalStateBerserk.rulePack.rulesStrings.19>
+    <MentalStateBerserk.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_possessive] toàn bộ cơ thể như run lên vì thù hận.</MentalStateBerserk.rulePack.rulesStrings.20>
+    <MentalStateBerserk.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_possessive] khuôn mặt đặttrong một cái nhìn của sự thanh thản.</MentalStateBerserk.rulePack.rulesStrings.21>
+    <MentalStateBerserk.rulePack.rulesStrings.22>desc_sentence-&gt;Một giọt nước mắt lăn dài trên [pawn_possessive] mặt.</MentalStateBerserk.rulePack.rulesStrings.22>
+
+    <MentalStateGaveUp.label>từ bỏ</MentalStateGaveUp.label>
+    <MentalStateGaveUp.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] từ bỏ trong tuyệt vọng</MentalStateGaveUp.rulePack.rulesStrings.0>
+    <MentalStateGaveUp.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] cuối cùng đã từ bỏ trong sự căng thẳng [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.1>
+    <MentalStateGaveUp.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] đang thổn thức không kiểm soát được [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.2>
+    <MentalStateGaveUp.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang vấp ngã xung quanh với biểu hiện hoàn toàn suy sụy trên [pawn_possessive] mặt [circumstance_group]</MentalStateGaveUp.rulePack.rulesStrings.3>
+    <MentalStateGaveUp.rulePack.rulesStrings.4>circumstance_phrase-&gt;trong khi tập trung cởi đồ</MentalStateGaveUp.rulePack.rulesStrings.4>
+    <MentalStateGaveUp.rulePack.rulesStrings.5>circumstance_phrase-&gt;dường như không có lý do</MentalStateGaveUp.rulePack.rulesStrings.5>
+    <MentalStateGaveUp.rulePack.rulesStrings.6>circumstance_phrase-&gt;như những người khác thông cảm</MentalStateGaveUp.rulePack.rulesStrings.6>
+    <MentalStateGaveUp.rulePack.rulesStrings.7>circumstance_phrase-&gt;như một người bạn đã khóc</MentalStateGaveUp.rulePack.rulesStrings.7>
+    <MentalStateGaveUp.rulePack.rulesStrings.8>circumstance_phrase-&gt;bởi vì sự căng thẳng</MentalStateGaveUp.rulePack.rulesStrings.8>
+    <MentalStateGaveUp.rulePack.rulesStrings.9>circumstance_phrase-&gt;như một bước đi cuối cùng</MentalStateGaveUp.rulePack.rulesStrings.9>
+    <MentalStateGaveUp.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] có những giọt nước mắt lăn dài trên [pawn_possessive] khuôn mặt.</MentalStateGaveUp.rulePack.rulesStrings.10>
+    <MentalStateGaveUp.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] đang cười lớn trong sâu thẳm của [pawn_possessive] biểu cảm.</MentalStateGaveUp.rulePack.rulesStrings.11>
+    <MentalStateGaveUp.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_nameShortDef] đang nhìn lên trên, như muốn hỏi sự giúp đỡ từ trên cao.</MentalStateGaveUp.rulePack.rulesStrings.12>
+    <MentalStateGaveUp.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] đang tự xé [pawn_possessive] quần áo.</MentalStateGaveUp.rulePack.rulesStrings.13>
+    <MentalStateGaveUp.rulePack.rulesStrings.14>desc_sentence-&gt;[pawn_pronoun] dường như hoàn toàn không ý thức được xung quanh [pawn_objective].</MentalStateGaveUp.rulePack.rulesStrings.14>
+    <MentalStateGaveUp.rulePack.rulesStrings.15>desc_sentence-&gt;[pawn_pronoun] trông như buồn vui lẫn lộn.</MentalStateGaveUp.rulePack.rulesStrings.15>
+    <MentalStateGaveUp.rulePack.rulesStrings.16>desc_sentence-&gt;[pawn_pronoun] có vết nhơ [pawn_possessive] phía trước.</MentalStateGaveUp.rulePack.rulesStrings.16>
+    <MentalStateGaveUp.rulePack.rulesStrings.17>desc_sentence-&gt;[pawn_pronoun] dường như mất một chiếc giày.</MentalStateGaveUp.rulePack.rulesStrings.17>
+    <MentalStateGaveUp.rulePack.rulesStrings.18>desc_sentence-&gt;[pawn_possessive] đầu tóc hoàn toàn lộn xộn.</MentalStateGaveUp.rulePack.rulesStrings.18>
+
+    <WalkedNaked.label>khỏa thân đi lại</WalkedNaked.label>
+    <WalkedNaked.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] đang khỏa thân đi dạo</WalkedNaked.rulePack.rulesStrings.0>
+    <WalkedNaked.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] [nude_action] trong khi ở trạng thái tự nhiên [circumstance_group]</WalkedNaked.rulePack.rulesStrings.1>
+    <WalkedNaked.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] [nude_action] trong lúc khỏa thân [circumstance_group]</WalkedNaked.rulePack.rulesStrings.2>
+    <WalkedNaked.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] [nude_action], khỏa thân, [circumstance_group]</WalkedNaked.rulePack.rulesStrings.3>
+    <WalkedNaked.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] [nude_action] không có bất kỳ quần áo [circumstance_group]</WalkedNaked.rulePack.rulesStrings.4>
+    <WalkedNaked.rulePack.rulesStrings.5>nude_action-&gt;đang nghênh ngang</WalkedNaked.rulePack.rulesStrings.5>
+    <WalkedNaked.rulePack.rulesStrings.6>nude_action-&gt;đang nô đùa</WalkedNaked.rulePack.rulesStrings.6>
+    <WalkedNaked.rulePack.rulesStrings.7>nude_action-&gt;đang nhảy nhót</WalkedNaked.rulePack.rulesStrings.7>
+    <WalkedNaked.rulePack.rulesStrings.8>nude_action-&gt;đang đi lại</WalkedNaked.rulePack.rulesStrings.8>
+    <WalkedNaked.rulePack.rulesStrings.9>nude_action-&gt;thứ khệnh khạng [pawn_possessive]</WalkedNaked.rulePack.rulesStrings.9>
+    <WalkedNaked.rulePack.rulesStrings.10>nude_action-&gt;đang đi khệnh khạng</WalkedNaked.rulePack.rulesStrings.10>
+    <WalkedNaked.rulePack.rulesStrings.11>nude_action-&gt;đang đi nhón chân</WalkedNaked.rulePack.rulesStrings.11>
+    <WalkedNaked.rulePack.rulesStrings.12>nude_action-&gt;đang dạo chơi</WalkedNaked.rulePack.rulesStrings.12>
+    <WalkedNaked.rulePack.rulesStrings.13>nude_action-&gt;đang nghiên cứu khu vực</WalkedNaked.rulePack.rulesStrings.13>
+    <WalkedNaked.rulePack.rulesStrings.14>circumstance_phrase-&gt;với một ý thức về mục đích</WalkedNaked.rulePack.rulesStrings.14>
+    <WalkedNaked.rulePack.rulesStrings.15>circumstance_phrase-&gt;không có chút xấu hổ</WalkedNaked.rulePack.rulesStrings.15>
+    <WalkedNaked.rulePack.rulesStrings.16>circumstance_phrase-&gt;trong khi người khác nhìn vào</WalkedNaked.rulePack.rulesStrings.16>
+    <WalkedNaked.rulePack.rulesStrings.17>circumstance_phrase-&gt;không có lý do rõ ràng</WalkedNaked.rulePack.rulesStrings.17>
+    <WalkedNaked.rulePack.rulesStrings.18>circumstance_phrase-&gt;trong khi động vật bối rối nhìn vào</WalkedNaked.rulePack.rulesStrings.18>
+    <WalkedNaked.rulePack.rulesStrings.19>desc_sentence-&gt;[pawn_nameShortDef] được gợi lên rõ ràng.</WalkedNaked.rulePack.rulesStrings.19>
+    <WalkedNaked.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_nameShortDef] được phủ trong hơi ẩm không giải thích được.</WalkedNaked.rulePack.rulesStrings.20>
+    <WalkedNaked.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_nameShortDef] đang thở nặng nề mà không có lý do rõ ràng.</WalkedNaked.rulePack.rulesStrings.21>
+    <WalkedNaked.rulePack.rulesStrings.22>desc_sentence-&gt;[pawn_nameShortDef] đang âu yếm một bụi cây.</WalkedNaked.rulePack.rulesStrings.22>
+
+    <AteRawHumanlikeMeat.label>ăn thịt người sống</AteRawHumanlikeMeat.label>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.0>tale_noun-&gt;bữa ăn thịt người của [pawn_nameShortDef]</AteRawHumanlikeMeat.rulePack.rulesStrings.0>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] [eat_gerund] thịt của một người bạn [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.1>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] [eat_gerund] thịt từ tay người [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.2>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] [eat_gerund] thịt tươi của người [circumstance_group]</AteRawHumanlikeMeat.rulePack.rulesStrings.3>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.4>eat_gerund-&gt;đang ăn</AteRawHumanlikeMeat.rulePack.rulesStrings.4>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.5>eat_gerund-&gt;đang tiêu hóa</AteRawHumanlikeMeat.rulePack.rulesStrings.5>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.6>eat_gerund-&gt;đang nhai</AteRawHumanlikeMeat.rulePack.rulesStrings.6>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund-&gt;đang nuốt xuống</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund-&gt;đang tiêu thụ</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund-&gt;đang nuốt</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund-&gt;cannibalizing</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase-&gt;với một ý thức mục đích</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase-&gt;không có dấu hiệu xấu hổ</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase-&gt;với một cái nhìn hổ thẹn</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.14>circumstance_phrase-&gt;trong khi người khác nhìn vào</AteRawHumanlikeMeat.rulePack.rulesStrings.14>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.15>circumstance_phrase-&gt;với sự thích thú</AteRawHumanlikeMeat.rulePack.rulesStrings.15>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.16>circumstance_phrase-&gt;một cách điên cuồng, giống như [pawn_possessive] cuộc sống phụ thuộc vào nó</AteRawHumanlikeMeat.rulePack.rulesStrings.16>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.17>desc_sentence-&gt;khuôn mặt của [pawn_nameShortDef]phủ trong máu và dịch.</AteRawHumanlikeMeat.rulePack.rulesStrings.17>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.18>desc_sentence-&gt;[pawn_nameShortDef] đang liếm  [pawn_possessive] những ngón tay.</AteRawHumanlikeMeat.rulePack.rulesStrings.18>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.19>desc_sentence-&gt;[pawn_nameShortDef] có máu và một ít thịt rơi [pawn_possessive] phía trước.</AteRawHumanlikeMeat.rulePack.rulesStrings.19>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.20>desc_sentence-&gt;[pawn_nameShortDef] ở giữa một hồ máu lớn.</AteRawHumanlikeMeat.rulePack.rulesStrings.20>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.21>desc_sentence-&gt;[pawn_nameShortDef] đang nhìn ai khác gần đó với sự thích thú đen tối.</AteRawHumanlikeMeat.rulePack.rulesStrings.21>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.22>desc_sentence-&gt;Miếng thịt đang tỏa sáng và xuất hiện mọng nước.</AteRawHumanlikeMeat.rulePack.rulesStrings.22>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.23>desc_sentence-&gt;Miếng thịt đang tràn lên khắp cơ thể của [pawn_nameShortDef].</AteRawHumanlikeMeat.rulePack.rulesStrings.23>
+
+    <CraftedArt.label>chế tác</CraftedArt.label>
+    <CraftedArt.rulePack.rulesStrings.0>tale_noun-&gt;the time [pawn_nameShortDef] chế tác [thing_labelIndefinite]</CraftedArt.rulePack.rulesStrings.0>
+    <CraftedArt.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đang chế tác [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.1>
+    <CraftedArt.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] đang hoàn thiện [pawn_possessive] công việc ở [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.2>
+    <CraftedArt.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang chế tác ở [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.3>
+    <CraftedArt.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] đang thưc hiện [thing_labelIndefinite] [circumstance_group]. [quality_sentence]. [title_sentence]</CraftedArt.rulePack.rulesStrings.4>
+    <CraftedArt.rulePack.rulesStrings.5>circumstance_phrase-&gt;mức sự tập trung cao độ</CraftedArt.rulePack.rulesStrings.5>
+    <CraftedArt.rulePack.rulesStrings.6>circumstance_phrase-&gt;với sự hài lòng trên [pawn_possessive] face</CraftedArt.rulePack.rulesStrings.6>
+    <CraftedArt.rulePack.rulesStrings.7>circumstance_phrase-&gt;ở [pawn_possessive] bàn làm việc</CraftedArt.rulePack.rulesStrings.7>
+    <CraftedArt.rulePack.rulesStrings.8>circumstance_phrase-&gt;với cường độ cao</CraftedArt.rulePack.rulesStrings.8>
+    <CraftedArt.rulePack.rulesStrings.9>desc_sentence-&gt;Có những dụng cụ rải rác xung quanh.</CraftedArt.rulePack.rulesStrings.9>
+    <CraftedArt.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_pronoun] bị xước xát và sẹo do quá trình chế tác.</CraftedArt.rulePack.rulesStrings.10>
+    <CraftedArt.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_pronoun] phủ đầy mồ hôi.</CraftedArt.rulePack.rulesStrings.11>
+    <CraftedArt.rulePack.rulesStrings.12>desc_sentence-&gt;Khu vực làm việc được tổ chức cao, với mọi dụng cụ ở đúng nơi qui định.</CraftedArt.rulePack.rulesStrings.12>
+    <CraftedArt.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_pronoun] được làm theo cách cường điều hóa để xuất hiện mạnh mẽ hơn.</CraftedArt.rulePack.rulesStrings.13>
+    <CraftedArt.rulePack.rulesStrings.14>desc_sentence-&gt;The size of [thing_labelDefinite] được cường điều hóa để nhấn mạnh sự quan trọng.</CraftedArt.rulePack.rulesStrings.14>
+    <CraftedArt.rulePack.rulesStrings.15>desc_sentence-&gt;[thing_labelDefinite] có thêm một ánh sáng nghệ thuật. Nó dường như là một thiên thần.</CraftedArt.rulePack.rulesStrings.15>
+    <CraftedArt.rulePack.rulesStrings.16>desc_sentence-&gt;[pawn_nameShortDef] mờ dần vào cảnh nền để nhấn mạnh [pawn_possessive] sự sáng tạo mới.</CraftedArt.rulePack.rulesStrings.16>
+    <CraftedArt.rulePack.rulesStrings.17>desc_sentence-&gt;[quantity_adjphrase] người xem xung quanh [pawn_objective].</CraftedArt.rulePack.rulesStrings.17>
+    <CraftedArt.rulePack.rulesStrings.18>desc_sentence-&gt;Một đám đông cổ vũ từ cảnh nền.</CraftedArt.rulePack.rulesStrings.18>
+    <CraftedArt.rulePack.rulesStrings.19>quality_sentence-&gt;[thing_labelDefinite] nhìn đạt chất lượng [thing_quality]</CraftedArt.rulePack.rulesStrings.19>
+    <CraftedArt.rulePack.rulesStrings.20>quality_sentence-&gt;[thing_labelDefinite] đạt chất lượng [thing_quality]</CraftedArt.rulePack.rulesStrings.20>
+    <CraftedArt.rulePack.rulesStrings.21>quality_sentence-&gt;Chế tác của [pawn_nameShortDef] đạt chất lượng [thing_quality]</CraftedArt.rulePack.rulesStrings.21>
+    <CraftedArt.rulePack.rulesStrings.22>title_sentence-&gt;tiêu đề [pawn_nameShortDef] đặt cho [thing_labelDefinite] được viết bên dưới: [thing_title]</CraftedArt.rulePack.rulesStrings.22>
+    <CraftedArt.rulePack.rulesStrings.23>title_sentence-&gt;[thing_labelDefinite] được ca ngợi với tiêu đề: [thing_title]</CraftedArt.rulePack.rulesStrings.23>
+    <CraftedArt.rulePack.rulesStrings.24>title_sentence-&gt;Tiêu đề của [thing_labelDefinite], [thing_title], treo ở cảnh nền</CraftedArt.rulePack.rulesStrings.24>
+
+    <StruckMineable.label>khai thác khoáng sản</StruckMineable.label>
+    <StruckMineable.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] đập [thing_label]</StruckMineable.rulePack.rulesStrings.0>
+    <StruckMineable.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đập [thing_label] [circumstance_group]</StruckMineable.rulePack.rulesStrings.1>
+    <StruckMineable.rulePack.rulesStrings.2>circumstance_phrase-&gt;trong khi khai khoáng</StruckMineable.rulePack.rulesStrings.2>
+    <StruckMineable.rulePack.rulesStrings.3>circumstance_phrase-&gt;trong khi đào</StruckMineable.rulePack.rulesStrings.3>
+    <StruckMineable.rulePack.rulesStrings.4>circumstance_phrase-&gt;trong khi đào hầm</StruckMineable.rulePack.rulesStrings.4>
+    <StruckMineable.rulePack.rulesStrings.5>circumstance_phrase-&gt;với sự ngạc nhiên</StruckMineable.rulePack.rulesStrings.5>
+    <StruckMineable.rulePack.rulesStrings.6>circumstance_phrase-&gt;với vẻ hài lòng</StruckMineable.rulePack.rulesStrings.6>
+    <StruckMineable.rulePack.rulesStrings.7>desc_sentence-&gt;[pawn_nameShortDef] đang nhăn mày [pawn_possessive].</StruckMineable.rulePack.rulesStrings.7>
+    <StruckMineable.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_nameShortDef] đang nhảy lên vì vui sướng.</StruckMineable.rulePack.rulesStrings.8>
+    <StruckMineable.rulePack.rulesStrings.9>desc_sentence-&gt;[pawn_nameShortDef] đang ra dấu một người bạn.</StruckMineable.rulePack.rulesStrings.9>
+    <StruckMineable.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_nameShortDef] đang thét lên hạnh phúc.</StruckMineable.rulePack.rulesStrings.10>
+    <StruckMineable.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_nameShortDef] đang cười không kiểm soát.</StruckMineable.rulePack.rulesStrings.11>
+    <StruckMineable.rulePack.rulesStrings.12>desc_sentence-&gt;[pawn_nameShortDef] đổ mồ hôi và bẩn thỉu vì công việc.</StruckMineable.rulePack.rulesStrings.12>
+    <StruckMineable.rulePack.rulesStrings.13>desc_sentence-&gt;[pawn_nameShortDef] đổ mồ hôi và bẩn thỉu vì công việc.</StruckMineable.rulePack.rulesStrings.13>
+
+    <FinishedResearchProject.label>hoàn thành hạng mục nghiên cứu</FinishedResearchProject.label>
+    <FinishedResearchProject.rulePack.rulesStrings.0>tale_noun-&gt;[pawn_nameShortDef] hoàn thành nghiên cứu [project_label]</FinishedResearchProject.rulePack.rulesStrings.0>
+    <FinishedResearchProject.rulePack.rulesStrings.1>image-&gt;[pawn_nameFull] đang thực hiện hạng mục nghiên cứu [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.1>
+    <FinishedResearchProject.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] đang học tập bí mật của [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.2>
+    <FinishedResearchProject.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang nghiên cứu [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.3>
+    <FinishedResearchProject.rulePack.rulesStrings.4>circumstance_phrase-&gt;với sự tập trung cao độ</FinishedResearchProject.rulePack.rulesStrings.4>
+    <FinishedResearchProject.rulePack.rulesStrings.5>circumstance_phrase-&gt;cô đơn tại [pawn_possessive] bàn</FinishedResearchProject.rulePack.rulesStrings.5>
+    <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong khi đang nắm giấy trong [pawn_possessive] tay</FinishedResearchProject.rulePack.rulesStrings.6>
+    <FinishedResearchProject.rulePack.rulesStrings.7>circumstance_phrase-&gt;với cái nhìn của đam mê</FinishedResearchProject.rulePack.rulesStrings.7>
+    <FinishedResearchProject.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_nameShortDef] đang đổ mồ hôi.</FinishedResearchProject.rulePack.rulesStrings.8>
+    <FinishedResearchProject.rulePack.rulesStrings.9>desc_sentence-&gt;Công việc xuất hiện sự phức tạp đặc biệt.</FinishedResearchProject.rulePack.rulesStrings.9>
+    <FinishedResearchProject.rulePack.rulesStrings.10>desc_sentence-&gt;[pawn_nameShortDef] đã hoàn toàn vây quanh bởi hàng loạt dụng cụ và thiết bị .</FinishedResearchProject.rulePack.rulesStrings.10>
+    <FinishedResearchProject.rulePack.rulesStrings.11>desc_sentence-&gt;[pawn_nameShortDef] đang nhìn trừng trừng vào [pawn_possessive] phát hiện với một cảm giác kì diệu.</FinishedResearchProject.rulePack.rulesStrings.11>
+
+    <ButcheredHumanlikeCorpse.label>xác người bị làm thịt</ButcheredHumanlikeCorpse.label>
+
+</LanguageData>

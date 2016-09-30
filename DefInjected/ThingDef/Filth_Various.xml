@@ -1,0 +1,20 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <FilthDirt.label>Bùn</FilthDirt.label>
+    <FilthAnimalFilth.label>Phân động vật</FilthAnimalFilth.label>
+    <FilthSand.label>Cát vụn</FilthSand.label>
+    <RockRubble.label>Đá vụn</RockRubble.label>
+    <BuildingRubble.label>Vụn thi công</BuildingRubble.label>
+    <SandbagRubble.label>Vụn bao cát</SandbagRubble.label>
+
+    <FilthBlood.label>Máu</FilthBlood.label>
+    <FilthBloodInsect.label>Máu côn trùng</FilthBloodInsect.label>
+    <FilthAmnioticFluid.label>Nước ối</FilthAmnioticFluid.label>
+    <FilthSlime.label>Chất nhầy</FilthSlime.label>
+    <FilthVomit.label>Bãi nôn</FilthVomit.label>
+    <FilthFireFoam.label>Bọt cứu hỏa</FilthFireFoam.label>
+    <FilthFuel.label>Vết cháy nhiên liệu</FilthFuel.label>
+    <FilthFuel.description>Những dấu vết thiêu đối trên mặt đất</FilthFuel.description>
+
+</LanguageData>

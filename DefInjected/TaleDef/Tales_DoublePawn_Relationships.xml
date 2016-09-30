@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <BondedWithAnimal.label>phát triển gắn bó</BondedWithAnimal.label>
+    <BondedWithAnimal.rulePack.rulesStrings.0>tale_noun-&gt;Sự gắn bó giữa [human_nameShortDef] với [animal_nameShortDef]</BondedWithAnimal.rulePack.rulesStrings.0>
+    <BondedWithAnimal.rulePack.rulesStrings.1>image-&gt;[human_nameFull] đang gắn bó với [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.1>
+    <BondedWithAnimal.rulePack.rulesStrings.2>image-&gt;[human_nameFull] đang thể hiện sự gắn bó mật thiết với [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.2>
+    <BondedWithAnimal.rulePack.rulesStrings.3>image-&gt;[human_nameFull] đang nhận ra [human_possessive] thực sự yêu thương [animal_nameFull] [circumstance_group]</BondedWithAnimal.rulePack.rulesStrings.3>
+    <BondedWithAnimal.rulePack.rulesStrings.4>circumstance_phrase-&gt;trong khi những vật nuôi khác đang nhìn</BondedWithAnimal.rulePack.rulesStrings.4>
+    <BondedWithAnimal.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong khi đang nhìn [animal_nameShortDef]'s eyes</BondedWithAnimal.rulePack.rulesStrings.5>
+    <BondedWithAnimal.rulePack.rulesStrings.6>circumstance_phrase-&gt;với một cảm giác hài lòng</BondedWithAnimal.rulePack.rulesStrings.6>
+    <BondedWithAnimal.rulePack.rulesStrings.7>desc_sentence-&gt;[animal_nameShortDef] đang rúc vào lòng [human_nameShortDef].</BondedWithAnimal.rulePack.rulesStrings.7>
+    <BondedWithAnimal.rulePack.rulesStrings.8>desc_sentence-&gt;[animal_nameShortDef] trông như đang nghỉ ngơi và tận hưởng tình yêu thương.</BondedWithAnimal.rulePack.rulesStrings.8>
+    <BondedWithAnimal.rulePack.rulesStrings.9>desc_sentence-&gt;[animal_nameShortDef] đứng thẳng và nhìn rất quí tộc.</BondedWithAnimal.rulePack.rulesStrings.9>
+    <BondedWithAnimal.rulePack.rulesStrings.10>desc_sentence-&gt;[animal_nameShortDef] đang phản ứng tích cực.</BondedWithAnimal.rulePack.rulesStrings.10>
+
+    <BecameLover.label>trở thành người yêu</BecameLover.label>
+    <BecameLover.rulePack.rulesStrings.0>tale_noun-&gt;[firstPawn_nameShortDef] và [secondPawn_nameShortDef] trở thành người yêu</BecameLover.rulePack.rulesStrings.0>
+    <BecameLover.rulePack.rulesStrings.1>image-&gt;[firstPawn_nameFull] đang thì thầm những điều ngọt ngào vô nghĩa vào tai [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.1>
+    <BecameLover.rulePack.rulesStrings.2>image-&gt;[firstPawn_nameFull] dắt tay [secondPawn_nameFull] lên giường [circumstance_group]</BecameLover.rulePack.rulesStrings.2>
+    <BecameLover.rulePack.rulesStrings.3>image-&gt;[firstPawn_nameFull] đang nô đùa trên giường với [secondPawn_nameFull] [circumstance_group]</BecameLover.rulePack.rulesStrings.3>
+    <BecameLover.rulePack.rulesStrings.4>image-&gt;[firstPawn_nameFull] đang hôn [secondPawn_nameFull] thật sâu [circumstance_group]</BecameLover.rulePack.rulesStrings.4>
+    <BecameLover.rulePack.rulesStrings.5>circumstance_phrase-&gt;trên một chiếc giường lớn phi thực tế</BecameLover.rulePack.rulesStrings.5>
+    <BecameLover.rulePack.rulesStrings.6>circumstance_phrase-&gt;giữa những tấm khăn trải giường</BecameLover.rulePack.rulesStrings.6>
+    <BecameLover.rulePack.rulesStrings.7>circumstance_phrase-&gt;với cảnh tượng ít quần áo</BecameLover.rulePack.rulesStrings.7>
+    <BecameLover.rulePack.rulesStrings.8>circumstance_phrase-&gt;trong khi cả hai đẫm mồ hôi</BecameLover.rulePack.rulesStrings.8>
+    <BecameLover.rulePack.rulesStrings.9>desc_sentence-&gt;[firstPawn_nameShortDef] đang rúc vào [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.9>
+    <BecameLover.rulePack.rulesStrings.10>desc_sentence-&gt;[firstPawn_nameShortDef] đang nhìn vào mắt [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.10>
+    <BecameLover.rulePack.rulesStrings.11>desc_sentence-&gt;[firstPawn_nameShortDef] đang thở vào [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.11>
+    <BecameLover.rulePack.rulesStrings.12>desc_sentence-&gt;[firstPawn_nameShortDef] là phong cách nghệ thuật gắn với [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.12>
+    <BecameLover.rulePack.rulesStrings.13>desc_sentence-&gt;[firstPawn_nameShortDef] là một hình ảnh phản chiếu gần của [secondPawn_nameShortDef].</BecameLover.rulePack.rulesStrings.13>
+    <BecameLover.rulePack.rulesStrings.14>desc_sentence-&gt;[firstPawn_nameShortDef] đang chạm vào [secondPawn_nameShortDef] một cách thông thạo.</BecameLover.rulePack.rulesStrings.14>
+
+    <Breakup.label>chia tay</Breakup.label>
+    <Breakup.rulePack.rulesStrings.0>tale_noun-&gt;cuộc chia tay giữa [firstPawn_nameShortDef] và [secondPawn_nameShortDef]</Breakup.rulePack.rulesStrings.0>
+    <Breakup.rulePack.rulesStrings.1>image-&gt;[firstPawn_nameFull] đang ngồi với [secondPawn_nameFull] cho một cuộc nói chuyện khó chịu [circumstance_group]</Breakup.rulePack.rulesStrings.1>
+    <Breakup.rulePack.rulesStrings.2>image-&gt;[firstPawn_nameFull] đang đứng cách xa [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.2>
+    <Breakup.rulePack.rulesStrings.3>image-&gt;[firstPawn_nameFull] đang đẩy [secondPawn_nameFull] ra khỏi giường [circumstance_group]</Breakup.rulePack.rulesStrings.3>
+    <Breakup.rulePack.rulesStrings.4>image-&gt;[firstPawn_nameFull] đang từ chối cái ôm từ [secondPawn_nameFull] [circumstance_group]</Breakup.rulePack.rulesStrings.4>
+    <Breakup.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong khoảnh khắc của sự buồn chán cùng cực</Breakup.rulePack.rulesStrings.5>
+    <Breakup.rulePack.rulesStrings.6>circumstance_phrase-&gt;giống như cái nhìn của một người xa lạ</Breakup.rulePack.rulesStrings.6>
+    <Breakup.rulePack.rulesStrings.7>circumstance_phrase-&gt;giống như nhìn người khác</Breakup.rulePack.rulesStrings.7>
+    <Breakup.rulePack.rulesStrings.8>desc_sentence-&gt;[secondPawn_nameShortDef] đang thổn thức không kiểm soát.</Breakup.rulePack.rulesStrings.8>
+    <Breakup.rulePack.rulesStrings.9>desc_sentence-&gt;[secondPawn_nameShortDef] đang giễu cợt và khóc cùng lúc.</Breakup.rulePack.rulesStrings.9>
+    <Breakup.rulePack.rulesStrings.10>desc_sentence-&gt;[secondPawn_nameShortDef] cứng mặt vì choáng váng.</Breakup.rulePack.rulesStrings.10>
+    <Breakup.rulePack.rulesStrings.11>desc_sentence-&gt;[firstPawn_nameShortDef] là phong cách nghệ thuật xa rời với [secondPawn_nameShortDef].</Breakup.rulePack.rulesStrings.11>
+    <Breakup.rulePack.rulesStrings.12>desc_sentence-&gt;[secondPawn_nameShortDef] đã sụp đổ trên sàn nhà trong run rẩy.</Breakup.rulePack.rulesStrings.12>
+    <Breakup.rulePack.rulesStrings.13>desc_sentence-&gt;[secondPawn_nameShortDef] khoa chân múa tay đầy tức giận với [firstPawn_nameShortDef].</Breakup.rulePack.rulesStrings.13>
+
+    <Marriage.label>đám cưới</Marriage.label>
+    <Marriage.rulePack.rulesStrings.0>tale_noun-&gt;đám cưới của [firstPawn_nameShortDef] với[secondPawn_nameShortDef]</Marriage.rulePack.rulesStrings.0>
+    <Marriage.rulePack.rulesStrings.1>image-&gt;[firstPawn_nameFull] đang cưới [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.1>
+    <Marriage.rulePack.rulesStrings.2>image-&gt;[firstPawn_nameFull] đang nói [firstPawn_possessive] lời thề hôn ước với [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.2>
+    <Marriage.rulePack.rulesStrings.3>image-&gt;[firstPawn_nameFull] đang đi xuống hành lang với [secondPawn_nameFull] [circumstance_group]</Marriage.rulePack.rulesStrings.3>
+    <Marriage.rulePack.rulesStrings.4>image-&gt;[firstPawn_nameFull] đang nắm tay [secondPawn_nameFull] trong suốt buổi lễ thành hôn [circumstance_group]</Marriage.rulePack.rulesStrings.4>
+    <Marriage.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong một buổi lễ trang nghiêm</Marriage.rulePack.rulesStrings.5>
+    <Marriage.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong khi cả hai đang cười mãn nguyện</Marriage.rulePack.rulesStrings.6>
+    <Marriage.rulePack.rulesStrings.7>circumstance_phrase-&gt;trong khi những người khác đang nhìn một cách long trọng</Marriage.rulePack.rulesStrings.7>
+    <Marriage.rulePack.rulesStrings.8>desc_sentence-&gt;[firstPawn_nameShortDef] đang rúc vào [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.8>
+    <Marriage.rulePack.rulesStrings.9>desc_sentence-&gt;[firstPawn_nameShortDef] đang khóa mắt với [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.9>
+    <Marriage.rulePack.rulesStrings.10>desc_sentence-&gt;[firstPawn_nameShortDef] đang thỏ thẻ vơi [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.10>
+    <Marriage.rulePack.rulesStrings.11>desc_sentence-&gt;[firstPawn_nameShortDef] là phong cách nghệ thuật gắn với [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.11>
+    <Marriage.rulePack.rulesStrings.12>desc_sentence-&gt;[firstPawn_nameShortDef] là hình ảnh phản chiếu gần của [secondPawn_nameShortDef].</Marriage.rulePack.rulesStrings.12>
+    <Marriage.rulePack.rulesStrings.13>desc_sentence-&gt;[firstPawn_nameShortDef] đang chạm vào [secondPawn_nameShortDef] một cách thông thạo.</Marriage.rulePack.rulesStrings.13>
+
+</LanguageData>

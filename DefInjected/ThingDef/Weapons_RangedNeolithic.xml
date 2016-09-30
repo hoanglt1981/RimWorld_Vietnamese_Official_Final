@@ -1,0 +1,19 @@
+﻿<?xml  version="1.0"  encoding="utf-8"  ?>
+<LanguageData>
+
+    <Arrow_Short.label>Tên ngắn</Arrow_Short.label>
+
+    <Bow_Short.label>Cung ngắn</Bow_Short.label>
+    <Bow_Short.description>Một loại cung ngắn đơn giản, chế tạo đơn giản, được sử dụng hầu hết các công nghệ nguyên thủy.</Bow_Short.description>
+
+    <Pilum_Thrown.label>Phi lao</Pilum_Thrown.label>
+
+    <Pila.label>Lao</Pila.label>
+    <Pila.description>Một bó lao với những cây lao chỉ sử dụng 1 lần để ném đi.</Pila.description>
+
+    <Arrow_Great.label>Tên dài</Arrow_Great.label>
+
+    <Bow_Great.label>Cung dài</Bow_Great.label>
+    <Bow_Great.description>Loại trường cung mạnh mẽ, bắn ra những mũi tên nặng nề ở khoảng cách rất xa.</Bow_Great.description>
+
+</LanguageData>

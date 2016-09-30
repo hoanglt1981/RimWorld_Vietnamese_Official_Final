@@ -1,0 +1,16 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+        <Obedience.label>Phục tùng</Obedience.label>
+        <Obedience.description>Vật nuôi có thể chủ nhân để đi theo và bảo vệ.</Obedience.description>
+
+        <Release.label>Thả</Release.label>
+        <Release.description>Cho phép vật nuôi tấn công mục tiêu ở xa, mà không phải ở gần bảo vệ chủ.</Release.description>
+
+        <Rescue.label>Cứu giúp</Rescue.label>
+        <Rescue.description>Vật nuôi có thể cứu giúp đồng minh bị thương đến nơi an toàn.</Rescue.description>
+
+        <Haul.label>Vận chuyển</Haul.label>
+        <Haul.description>Vật nuôi có thể vận chuyển đồ.</Haul.description>
+
+</LanguageData>

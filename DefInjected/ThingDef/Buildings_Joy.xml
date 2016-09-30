@@ -1,0 +1,25 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <HorseshoesPin.label>Cọc móng ngựa</HorseshoesPin.label>
+    <HorseshoesPin.description>Một trò chơi cổ xưa với vài chiếc móng ngựa và một cọc lớn trên mặt đất. Người chơi quăng món ngựa từ xa và cố gắng để chúng rơi xuống càng gần xung quanh cọc càng tốt. Trò chơi này rất thư giãn, có tác dụng tập luyện tay và mắt.</HorseshoesPin.description>
+
+    <ChessTable.label>Bàn cờ</ChessTable.label>
+    <ChessTable.description>Trò chơi cổ của những vị vua. Rất vui khi chơi, thậm chí dù chỉ chơi 1 mình.</ChessTable.description>
+
+    <BilliardsTable.label>Bàn bi-a</BilliardsTable.label>
+    <BilliardsTable.description>Một chiếc bàn mặt nhung mềm với bốn biên phản xạ để chơi nhiều loại trò chơi bi-a khác nhau</BilliardsTable.description>
+
+    <TubeTelevision.label>Tivi thường</TubeTelevision.label>
+    <TubeTelevision.description>Một thiết bị màn hình sử dụng bóng để trình diễn các âm thanh và hình ảnh chuyển động. Ngay cả trong rimworld, thường có một máy phát cũ  ít nhất khá thú vị chạy cái gì đó .</TubeTelevision.description>
+
+    <FlatscreenTelevision.label>Tivi màn hình phẳng</FlatscreenTelevision.label>
+    <FlatscreenTelevision.description>Một ti vi công nghệ cao với màn hình phẳng mang đến hình ảnh trong trẻo và màu sắc sống động. Thoảim mái và đẳng cấp hơn so với ti vi thường</FlatscreenTelevision.description>
+
+    <MegascreenTelevision.label>Tivi màn hình siêu lớn</MegascreenTelevision.label>
+    <MegascreenTelevision.description>Một chiếc ti vi công nghệ cao khổng lồ. Màn hình siêu rộng, hình ảnh siêu rực rỡ như nhảy khỏi màn hình. Cực kỳ tiện nghi.</MegascreenTelevision.description>
+
+    <Telescope.label>Kính thiên văn</Telescope.label>
+    <Telescope.description>Dành cho những nhà thiên văn nghiệp dư. Rất thư giãn và là thú vui của một số con người nhất định</Telescope.description>
+
+</LanguageData>

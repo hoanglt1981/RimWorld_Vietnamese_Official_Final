@@ -1,0 +1,33 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Hay.label>Cỏ</Hay.label>
+    <Hay.description>Giàu dinh dưỡng, thu hoạch và bó lại để lưu trữ. Cỏ là thức ăn gia súc tốt, nhưng không ăn được đối với con người.</Hay.description>
+
+    <RawHops.label>Lúa mạch</RawHops.label>
+    <RawHops.description>Lúa mạch thô. Một loại nguyên liệu cần thiết để làm bia.</RawHops.description>
+
+    <RawPotatoes.label>Khoai tây</RawPotatoes.label>
+    <RawPotatoes.description>Khoai tây tươi.</RawPotatoes.description>
+
+    <RawRice.label>Gạo thô</RawRice.label>
+    <RawRice.description>Gạo thô.</RawRice.description>
+
+    <RawAgave.label>Quả thùa</RawAgave.label>
+    <RawAgave.description>Trái cây thùa tươi.</RawAgave.description>
+
+    <RawCorn.label>Ngô</RawCorn.label>
+    <RawCorn.description>Ngô tươi.</RawCorn.description>
+
+    <RawBerries.label>Dâu</RawBerries.label>
+    <RawBerries.description>Ăn rất thích dù ăn tươi.</RawBerries.description>
+
+<!--===============  A15  change  ====================-->
+
+    <PsychoidLeaves.label>Cần sa</PsychoidLeaves.label>
+    <PsychoidLeaves.description>Lá tươi từ thực vật gây ảnh hưởng thần kinh. </PsychoidLeaves.description>
+
+    <SmokeleafLeaves.label>Lá thuốc</SmokeleafLeaves.label>
+    <SmokeleafLeaves.description>Lá tươi của cây thuốc lá. Có thể quấn lại để hút.</SmokeleafLeaves.description>
+
+</LanguageData>

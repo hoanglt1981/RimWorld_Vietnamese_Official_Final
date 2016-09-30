@@ -1,0 +1,19 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <Proj_GrenadeFrag.label>Lựu đạn</Proj_GrenadeFrag.label>
+
+    <Weapon_GrenadeFrag.label>Lựu đạn</Weapon_GrenadeFrag.label>
+    <Weapon_GrenadeFrag.description>Một loại lựu đạn kiểu cũ.</Weapon_GrenadeFrag.description>
+
+    <Proj_GrenadeMolotov.label>Bom xăng</Proj_GrenadeMolotov.label>
+
+    <Weapon_GrenadeMolotov.label>Bom xăng</Weapon_GrenadeMolotov.label>
+    <Weapon_GrenadeMolotov.description>Chai thủy tinh chứa đầy dung dịch gây cháy, với một miếng vải cháy ở miệng chai. Món vũ khí ưu thích của những kẻ quá khích hay những chiến binh tuyệt vọng. </Weapon_GrenadeMolotov.description>
+
+    <Proj_GrenadeEMP.label>Lựu đạn điện từ</Proj_GrenadeEMP.label>
+
+    <Weapon_GrenadeEMP.label>Lựu đạn điện từ</Weapon_GrenadeEMP.label>
+    <Weapon_GrenadeEMP.description>Lựu đạn phát ra các xung điện từ phá hỏng các thiết bị điện tử.</Weapon_GrenadeEMP.description>
+
+</LanguageData>

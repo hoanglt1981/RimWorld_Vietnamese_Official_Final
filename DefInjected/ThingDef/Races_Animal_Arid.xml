@@ -1,0 +1,39 @@
+﻿<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Muffalo.label>Bò tuyết</Muffalo.label>
+    <Muffalo.description>Một loại gia súc ăn cỏ lớn có nguồn gốc từ trâu. Hòa bình trừ khi bị quấy rối.</Muffalo.description>
+    <Muffalo_Leather.label>da bò</Muffalo_Leather.label>
+    <Muffalo_Meat.label>thịt bò</Muffalo_Meat.label>
+    <Muffalo_Corpse.label>xác bò</Muffalo_Corpse.label>
+    <Muffalo_Corpse.description>một xác bò tuyết.</Muffalo_Corpse.description>
+
+    <Gazelle.label>Linh dương</Gazelle.label>
+    <Gazelle.description>Nhỏ, cực kỳ nhanh chóng với bước nhảy vọt đáng kinh ngạc.</Gazelle.description>
+    <Gazelle_Leather.label>da linh dương</Gazelle_Leather.label>
+    <Gazelle_Meat.label>thịt linh dương</Gazelle_Meat.label>
+    <Gazelle_Corpse.label>xác linh dương</Gazelle_Corpse.label>
+    <Gazelle_Corpse.description>một xác linh dương.</Gazelle_Corpse.description>
+
+    <Iguana.label>Kì đà</Iguana.label>
+    <Iguana.description>Loài thằn lằn lớn thường ăn thực vật . Tuy nhiên khi tức giận , khả năng ẩn mình và móng vuốt sắc nhọn làm cho nó khá nguy hiểm.</Iguana.description>
+    <Iguana_Leather.label>da kì đà</Iguana_Leather.label>
+    <Iguana_Meat.label>thịt kì đà</Iguana_Meat.label>
+    <Iguana_Corpse.label>xác kì đà</Iguana_Corpse.label>
+    <Iguana_Corpse.description>một xác kì đà.</Iguana_Corpse.description>
+
+    <Rhinoceros.label>Tê giác</Rhinoceros.label>
+    <Rhinoceros.description>Động vật có vú lớn thường khá ôn hòa , nhưng nó sẽ không ngần ngại để sạc sử dụng sừng để chống lại những kẻ trộm.</Rhinoceros.description>
+    <Rhinoceros_Leather.label>da tê giác</Rhinoceros_Leather.label>
+    <Rhinoceros_Meat.label>thịt tê giác</Rhinoceros_Meat.label>
+    <Rhinoceros_Corpse.label>xác tê giác</Rhinoceros_Corpse.label>
+    <Rhinoceros_Corpse.description>một xác tê giác.</Rhinoceros_Corpse.description>
+
+    <Dromedary.label>Lạc đà</Dromedary.label>
+    <Dromedary.description>Thích nghi tốt với môi trường sống khô cằn mà hang tuần mà không có nước. Là họ hàng xa của loài ngựa.</Dromedary.description>
+    <Dromedary_Leather.label>da lạc đà</Dromedary_Leather.label>
+    <Dromedary_Meat.label>thịt lạc đà</Dromedary_Meat.label>
+    <Dromedary_Corpse.label>xác lạc đà</Dromedary_Corpse.label>
+    <Dromedary_Corpse.description>một xác lạc đà.</Dromedary_Corpse.description>
+
+</LanguageData>

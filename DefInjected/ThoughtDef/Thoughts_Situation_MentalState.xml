@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CurrentlyInMentalStateAggro.stages.0.label>Suy nghĩ bạo lực</CurrentlyInMentalStateAggro.stages.0.label>
+  <CurrentlyInMentalStateAggro.stages.0.description>Muốn giết chóc! ... Muốn giết chóc! ... Muốn giết chóc!</CurrentlyInMentalStateAggro.stages.0.description>
+
+  <CurrentlyInMentalStateSad.stages.0.label>Suy nghĩ buồn bã</CurrentlyInMentalStateSad.stages.0.label>
+  <CurrentlyInMentalStateSad.stages.0.description>Tất cả là quá nhiều...</CurrentlyInMentalStateSad.stages.0.description>
+
+  <CurrentlyInMentalStatePanic.stages.0.label>Suy nghĩ hoảng loạn</CurrentlyInMentalStatePanic.stages.0.label>
+  <CurrentlyInMentalStatePanic.stages.0.description>Tôi phải ra khỏi đây!</CurrentlyInMentalStatePanic.stages.0.description>
+
+</LanguageData>
