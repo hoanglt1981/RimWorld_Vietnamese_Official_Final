@@ -1,7 +1,7 @@
 ﻿RimWorld Vietnam
 ================
 
-This is the Vietnam translation data for RimWorld.
+This is the official Vietnam language translation data for RimWorld alpha 15.
 
 See this page for license info:
 
