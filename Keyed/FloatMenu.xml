@@ -39,7 +39,7 @@
   <AnimalsSkillTooLow>Kĩ năng động vật quá thấp</AnimalsSkillTooLow>
 	<NoComponentsToRepair>cần linh kiện</NoComponentsToRepair>
 	<NoFuelToRefuel>cần nhiên liệu {0}</NoFuelToRefuel>
-  <NoWort>cần wort</NoWort>
+  <NoWort>cần lúa mạch</NoWort>
   
   <ConsumeThing>Ăn {0}</ConsumeThing>
   
