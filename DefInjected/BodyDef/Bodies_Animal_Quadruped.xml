@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <QuadrupedAnimalWithPaws.label>Động vật bốn chân</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPawsAndTail.label>Động vật bốn chân</QuadrupedAnimalWithPawsAndTail.label>
+  <QuadrupedAnimalWithHooves.label>Động vật bốn chân</QuadrupedAnimalWithHooves.label>
+  <QuadrupedAnimalWithHoovesAndHump.label>Động vật bốn chân</QuadrupedAnimalWithHoovesAndHump.label>
+  <QuadrupedAnimalWithHoovesAndTusks.label>Động vật bốn chân</QuadrupedAnimalWithHoovesAndTusks.label>
+  <QuadrupedAnimalWithHoovesTusksAndTrunk.label>Động vật bốn chân</QuadrupedAnimalWithHoovesTusksAndTrunk.label>
+  <QuadrupedAnimalWithHoovesAndHorn.label>Động vật bốn chân</QuadrupedAnimalWithHoovesAndHorn.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>Động vật bốn chân</QuadrupedAnimalWithClawsTailAndJowl.label>
+
+  <TurtleLike.label>Họ rùa</TurtleLike.label>
+  <Monkey.label>Khỉ</Monkey.label>
+
+</LanguageData>

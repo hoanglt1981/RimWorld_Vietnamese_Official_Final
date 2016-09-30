@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Disease_Flu.label>Cúm</Disease_Flu.label>
+
+    <Disease_Plague.label>Dịch hạch</Disease_Plague.label>
+
+    <Disease_Malaria.label>Sốt rét</Disease_Malaria.label>
+
+    <Disease_SleepingSickness.label>Bệnh ngủ</Disease_SleepingSickness.label>
+
+    <Disease_FibrousMechanites.label>Côn trùng xâp nhập</Disease_FibrousMechanites.label>
+
+    <Disease_SensoryMechanites.label>Mất cảm giác</Disease_SensoryMechanites.label>
+
+    <Disease_GutWorms.label>Giun sán</Disease_GutWorms.label>
+
+    <Disease_MuscleParasites.label>Xơ cứng cơ bắp</Disease_MuscleParasites.label>
+
+</LanguageData>

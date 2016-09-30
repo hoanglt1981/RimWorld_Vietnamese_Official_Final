@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Inspect.label>Kiểm tra</Inspect.label>
+
+    <Architect.label>Kiến trúc</Architect.label>
+    <Architect.description>Chỉ định cư dân nơi và thứ phải xây dựng, ruộng, lưu trữ vật phẩm, và hơn nữa.</Architect.description>
+
+    <Work.label>Công việc</Work.label>
+    <Work.description>Lựa chọn việc cần làm cũng như thứ tự ưu tiên cho cư dân.</Work.description>
+
+    <Restrict.label>Giới hạn</Restrict.label>
+    <Restrict.description>Giới hạn dân cư những hoạt động nhất định ở thời điểm trong ngày, hay khu vực được cấp phép.</Restrict.description>
+
+    <Assign.label>Chỉ định</Assign.label>
+    <Assign.description>Thiết lập cho dân cư ăn mặc như thế nào và phản ứng ra sao khi gặp kẻ thù.</Assign.description>
+
+    <Animals.label>Động vật</Animals.label>
+    <Animals.description>Thiết lập cách đối xử của các cư dân với vật nuôi.</Animals.description>
+
+    <Research.label>Nghiên cứu</Research.label>
+    <Research.description>Kiểm tra và quyết định các hạng mục nghiên cứu.</Research.description>
+
+    <Factions.label>Phe phái</Factions.label>
+    <Factions.description>Tổng quan về mối quan hệ giữa thuộc địa và các phe nhóm.</Factions.description>
+
+    <World.label>Thế giới</World.label>
+    <World.description>Kiểm tra bản đồ thế giới.</World.description>
+
+    <History.label>Lịch sử</History.label>
+    <History.description>Tổng quan những ghi chép về lịch sử của thuộc địa.</History.description>
+
+    <Menu.label>Menu</Menu.label>
+    <Menu.description>Thay đổi thiết lập, lưu, tải hoặc thoát khỏi trò chơi.</Menu.description>
+
+</LanguageData>

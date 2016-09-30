@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Wealth.label>tài chính</Wealth.label>
+    <Wealth.graphLabelY>Tổng số</Wealth.graphLabelY>
+
+    <Population.label>dân số</Population.label>
+    <Population.graphLabelY>Công dân</Population.graphLabelY>
+
+    <ColonistMood.label>tâm trạng cư dân</ColonistMood.label>
+    <ColonistMood.graphLabelY>Phần trăm</ColonistMood.graphLabelY>
+
+</LanguageData>

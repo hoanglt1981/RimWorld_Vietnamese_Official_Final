@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <RomanceAttempt.label>Tỏ tình</RomanceAttempt.label>
+  <RomanceAttempt.logRulesInitiator.rulesStrings.0>logentry->Tập trung thu hút [other_nameShortIndef] vào sự lãng mạng.</RomanceAttempt.logRulesInitiator.rulesStrings.0>
+  <RomanceAttempt.logRulesRecipient.rulesStrings.0>logentry->Bị thu hút bởi [other_nameShortIndef].</RomanceAttempt.logRulesRecipient.rulesStrings.0>
+
+  <Breakup.label>Chia tay</Breakup.label>
+  <Breakup.logRulesInitiator.rulesStrings.0>logentry->Chia tay với [other_nameShortIndef].</Breakup.logRulesInitiator.rulesStrings.0>
+  <Breakup.logRulesRecipient.rulesStrings.0>logentry->Đã bị [other_nameShortIndef] chia tay.</Breakup.logRulesRecipient.rulesStrings.0>
+
+  <MarriageProposal.label>Cầu hôn</MarriageProposal.label>
+  <MarriageProposal.logRulesInitiator.rulesStrings.0>logentry->Cầu hôn với [other_nameShortIndef].</MarriageProposal.logRulesInitiator.rulesStrings.0>
+  <MarriageProposal.logRulesRecipient.rulesStrings.0>logentry->Đã được [other_nameShortIndef] cầu hôn.</MarriageProposal.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

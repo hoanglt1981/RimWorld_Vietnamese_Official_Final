@@ -1,0 +1,13 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <AridShrubland.label>Đất phong hóa</AridShrubland.label>
+    <AridShrubland.description>Một vùng đất khô cằn nhưng chưa trở thành sa mạc thật sự. Thực vật ở đây chủ yếu là cỏ, cây bụi, những loại cây gỗ nhỏ, số lượng động vật ít . </AridShrubland.description>
+
+    <Desert.label>Sa mạc</Desert.label>
+    <Desert.description>Rất khô cằn và nóng. Khó để tồn tại ở nơi đây</Desert.description>
+
+    <ExtremeDesert.label>Hoang mạc</ExtremeDesert.label>
+    <ExtremeDesert.description>Khu vực vô cùng khô nóng, thiếu vắng hầu hết các loại sinh vật. Các nóng điên cuồng cùng lượng thực vật ít ỏi khiến cho sự sống rất khó tồn tại, ngay cả đối với những loài động vật thích nghi cao</ExtremeDesert.description>
+
+</LanguageData>

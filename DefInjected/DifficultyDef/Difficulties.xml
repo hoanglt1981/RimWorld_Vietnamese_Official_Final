@@ -1,0 +1,21 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+<!--change  at  A15-->
+
+    <VeryEasy.label>Rất dễ</VeryEasy.label>
+    <VeryEasy.description>Dành cho những ai muốn giải trí và xây dựng thuộc địa mở rộng. Có tồn tại những nguy cơ nhưng cực kỳ yếu. Một vài sự kiện nguy hiểm sẽ không được sử dụng.</VeryEasy.description>
+
+    <Easy.label>Dễ</Easy.label>
+    <Easy.description>Dành cho người đầu tiên chơi game này, hoặc cho những game thủ phổ thông muốn có vài thử thách. Những nguy cơ nguy hiểm nhưng không tàn bạo được đưa vào trò chơi.</Easy.description>
+
+    <Medium.label>Bình thường</Medium.label>
+    <Medium.description>Mộ hành tinh thông dụng với những mối đe dọa tương đối nguy hiểm. Bạn nên cân nhắc chế độ này cho tới khi đã có kinh nghiệm chơi.</Medium.description>
+
+    <Hard.label>Khó</Hard.label>
+    <Hard.description>Một thử thách thực sự. Thành công ở chế độ này cần đến hiểu biết rất tốt và chắc chắn về chiến thuật, cùng sự may mắn.</Hard.description>
+
+    <VeryHard.label>Rất khó</VeryHard.label>
+    <VeryHard.description>Khó đến mức biến thái. Kẻ thù mạnh mẽ, giá cả nghèo nàn, thức ăn ít ỏi và cư dân thì cộc cằn. Tất cả sẽ thử thách sức chịu đựng của bạn</VeryHard.description>
+
+</LanguageData>

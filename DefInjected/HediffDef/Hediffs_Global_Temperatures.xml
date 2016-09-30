@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Heatstroke.label>Đột quị</Heatstroke.label>
+  <Heatstroke.stages.0.label>tiềm ẩn</Heatstroke.stages.0.label>
+  <Heatstroke.stages.1.label>nhẹ</Heatstroke.stages.1.label>
+  <Heatstroke.stages.2.label>tương đối</Heatstroke.stages.2.label>
+  <Heatstroke.stages.3.label>nặng</Heatstroke.stages.3.label>
+  <Heatstroke.stages.4.label>nghiêm trọng</Heatstroke.stages.4.label>
+
+  <Hypothermia.label>Cảm lạnh</Hypothermia.label>
+  <Hypothermia.stages.0.label>tiềm ẩn</Hypothermia.stages.0.label>
+  <Hypothermia.stages.1.label>rét</Hypothermia.stages.1.label>
+  <Hypothermia.stages.2.label>nhẹ</Hypothermia.stages.2.label>
+  <Hypothermia.stages.3.label>nặng</Hypothermia.stages.3.label>
+  <Hypothermia.stages.4.label>nghiêm trọng</Hypothermia.stages.4.label>
+
+</LanguageData>

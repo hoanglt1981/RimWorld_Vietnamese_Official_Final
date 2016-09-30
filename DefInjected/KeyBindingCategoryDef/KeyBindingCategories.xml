@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <GameMapCamera.label>camera</GameMapCamera.label>
+    <GameMapCamera.description>Điều khiển camera.</GameMapCamera.description>
+
+    <Game.label>Trong trò chơi</Game.label>
+    <Game.description>Chế độ điều khiển thuộc địa được áp dụng trong hầu hết tình huống.</Game.description>
+
+    <SelectionMisc.label>khác</SelectionMisc.label>
+    <SelectionMisc.description>Generic controls that are re-used by many items and objects throughout the game.</SelectionMisc.description>
+
+    <SelectionSpecial.label>đặc biệt</SelectionSpecial.label>
+    <SelectionSpecial.description>Điều khiển đặc biệt dành cho các chức năng đặc biệt hoặc các đồ vật đặc biệt.</SelectionSpecial.description>
+
+    <Architect.label>kiến trúc</Architect.label>
+    <Architect.description>Điều khiển thông thường cho mục chế độ kiến trúc.</Architect.description>
+
+    <MainTabs.label>Mục chính</MainTabs.label>
+    <MainTabs.description>Điều khiển cho các mục chính.</MainTabs.description>
+
+    <Development.label>Công cụ phát triển</Development.label>
+    <Development.description>Điều khiển cho nhà phát triển và chỉnh sửa. Chỉ kích hoạt ở chế độ nhà phát triển.</Development.description>
+
+</LanguageData>

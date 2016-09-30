@@ -1,0 +1,51 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Cut.label>Bị chém</Cut.label>
+    <Cut.deathMessage>{0} bị chém chết.</Cut.deathMessage>
+
+    <Crush.label>Bị đập</Crush.label>
+    <Crush.deathMessage>{0} bị đập chết</Crush.deathMessage>
+
+    <Blunt.label>Bị đánh</Blunt.label>
+    <Blunt.deathMessage>{0} bị đánh chết.</Blunt.deathMessage>
+
+    <Stab.label>Bị đâm</Stab.label>
+    <Stab.deathMessage>{0} bị đâm chết.</Stab.deathMessage>
+
+    <Bullet.label>Trúng đạn</Bullet.label>
+    <Bullet.deathMessage>{0} trúng đạn chết.</Bullet.deathMessage>
+
+    <Arrow.label>Trúng tên </Arrow.label>
+    <Arrow.deathMessage>{0} trúng tên chết.</Arrow.deathMessage>
+
+    <Scratch.label>Bị cào</Scratch.label>
+    <Scratch.deathMessage>{0} bị cào chết.</Scratch.deathMessage>
+
+    <Bite.label>Bị cắn</Bite.label>
+    <Bite.deathMessage>{0} bị cắn chết.</Bite.deathMessage>
+
+    <ToxicBite.label>Bị độc cắn</ToxicBite.label>
+	<ToxicBite.deathMessage>{0} bị độc cắn chết.</ToxicBite.deathMessage>
+	
+    <Bomb.label>Bị nổ</Bomb.label>
+    <Bomb.deathMessage>{0} bị nổ chết.</Bomb.deathMessage>
+
+    <Flame.label>Bị bỏng</Flame.label>
+    <Flame.deathMessage>{0} bị bỏng chết.</Flame.deathMessage>
+
+    <Burn.label>Bị thiêu</Burn.label>
+	<Burn.deathMessage>{0} bị thiêu chết.</Burn.deathMessage>
+	
+    <Frostbite.label>Bị lạnh</Frostbite.label>
+    <Frostbite.deathMessage>{0} bị chết rét.</Frostbite.deathMessage>
+
+    <SurgicalCut.label>Cắt phẫu thuật</SurgicalCut.label>
+    <SurgicalCut.deathMessage>{0} bị phẫu thuật chết.</SurgicalCut.deathMessage>
+
+    <ExecutionCut.label>Xử tử</ExecutionCut.label>
+    <ExecutionCut.deathMessage>{0} bị xử tử.</ExecutionCut.deathMessage>
+
+</LanguageData>  
+  
+

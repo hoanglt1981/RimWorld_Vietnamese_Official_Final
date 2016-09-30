@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MechanicalThorax.label>Ngực</MechanicalThorax.label>
+  <LeftBlade.label>Lưỡi trái</LeftBlade.label>
+  <RightBlade.label>Lưỡi phải</RightBlade.label>
+  <MechanicalNeck.label>Cổ</MechanicalNeck.label>
+  <MechanicalHead.label>Đầu</MechanicalHead.label>
+  <LeftSightSensor.label>Cảm biến tầm nhìn trái</LeftSightSensor.label>
+  <RightSightSensor.label>Cảm biến tầm nhìn phải</RightSightSensor.label>
+  <LeftHearingSensor.label>Cảm biến âm thanh trái</LeftHearingSensor.label>
+  <RightHearingSensor.label>Cảm biến âm thanh phải</RightHearingSensor.label>
+  <SmellSensor.label>Cảm biến mùi</SmellSensor.label>
+  <LeftMechanicalShoulder.label>Vai trái</LeftMechanicalShoulder.label>
+  <LeftMechanicalArm.label>Tay trái</LeftMechanicalArm.label>
+  <LeftMechanicalHand.label>Bàn tay trái</LeftMechanicalHand.label>
+  <LeftHandMechanicalPinky.label>Ngón út (trái)</LeftHandMechanicalPinky.label>
+  <LeftHandMechanicalMiddleFinger.label>Ngón giữa (trái)</LeftHandMechanicalMiddleFinger.label>
+  <LeftHandMechanicalIndexFinger.label>Ngón trỏ (trái)</LeftHandMechanicalIndexFinger.label>
+  <LeftHandMechanicalThumb.label>Ngón cái (trái)</LeftHandMechanicalThumb.label>
+  <RightMechanicalShoulder.label>Vai phải</RightMechanicalShoulder.label>
+  <RightMechanicalArm.label>Tay phải</RightMechanicalArm.label>
+  <RightMechanicalHand.label>Bàn tay phải</RightMechanicalHand.label>
+  <RightHandMechanicalPinky.label>Ngón út (phải)</RightHandMechanicalPinky.label>
+  <RightHandMechanicalMiddleFinger.label>Ngón giữa (phải)</RightHandMechanicalMiddleFinger.label>
+  <RightHandMechanicalIndexFinger.label>Ngón trỏ (phải)</RightHandMechanicalIndexFinger.label>
+  <RightHandMechanicalThumb.label>Ngón cái (phải)</RightHandMechanicalThumb.label>
+  <LeftMechanicalLeg.label>Chân trái</LeftMechanicalLeg.label>
+  <LeftMechanicalFoot.label>Bàn chân trái</LeftMechanicalFoot.label>
+  <RightMechanicalLeg.label>Chân phải</RightMechanicalLeg.label>
+  <RightMechanicalFoot.label>Bàn chân phải</RightMechanicalFoot.label>
+  <MechanicalCentipedeBodyFirstRing.label>Vòng một</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodySecondRing.label>Vòng hai</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>Vòng ba</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>Vòng tư</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodyFifthRing.label>Vòng năm</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodySixthRing.label>Vòng sáu</MechanicalCentipedeBodySixthRing.label>
+  <ArtificialBrain.label>Não nhân tạo</ArtificialBrain.label>
+
+</LanguageData>

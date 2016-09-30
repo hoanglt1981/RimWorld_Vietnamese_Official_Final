@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <SolarFlare.label>Bão từ</SolarFlare.label>
+    <SolarFlare.description>Một trận bão từ đã bắt đầu. Các xung điện từ sẽ làm tê liệt hoạt động của tất cả thiết bị điện tử..</SolarFlare.description>
+    <SolarFlare.endMessage>Trận bão từ đã kết thúc.</SolarFlare.endMessage>
+
+    <Eclipse.label>Nhật thực</Eclipse.label>
+    <Eclipse.description>Nhật thực phủ bóng tối lên khắp khu vực. Nó sẽ rất tồi, cho dù là bàn ngày.</Eclipse.description>
+    <Eclipse.endMessage>Nhật thực kết thúc.</Eclipse.endMessage>
+
+    <PsychicDrone.label>Xung kích thích thần kinh</PsychicDrone.label>
+    <PsychicDrone.description>Một AI mạnh mẽ ở xa đang phát ra hàng loạt xung kích thích thần kinh khiến mọi người trở nên điên loạn.</PsychicDrone.description>
+    <PsychicDrone.endMessage>Xung kích thích thần kinh đã dừng lại.</PsychicDrone.endMessage>
+
+    <PsychicSoothe.label>Xung xoa dịu thần kinh</PsychicSoothe.label>
+    <PsychicSoothe.description>Một AI mạnh mẽ ở xa đang phát ra hàng loạt xung xoa dịu thần kinh khiến mọi người bình tĩnh và ổn định suy nghĩ.</PsychicSoothe.description>
+    <PsychicSoothe.endMessage>Xung xoa dịu thần kinh đã dừng lại.</PsychicSoothe.endMessage>
+
+    <ToxicFallout.label>Bụi phóng xạ</ToxicFallout.label>
+    <ToxicFallout.description>Một vụ cháy hóa chất ở xa đã phát tán lượng lớn độc tố lên toàn khu vực.Tất cả sinh vật không được che chắn sẽ đau ốm vì độc tốc tích tụ trong cơ thể..</ToxicFallout.description>
+    <ToxicFallout.endMessage>Sự tệ hại của bụi phóng xạ đã được xử lý.</ToxicFallout.endMessage>
+
+    <VolcanicWinter.label>Núi lửa mùa đông</VolcanicWinter.label>
+    <VolcanicWinter.description>Không khí trở nên ngạt thở vì bụi núi lửa, đồng thời làm giảm đi ánh sáng mặt trời chiếu xuống. Nhiệt độ sẽ trở nên lạnh hơn khiến thực vật sinh trưởng chậm lại.</VolcanicWinter.description>
+    <VolcanicWinter.endMessage>Hầu hết núi lửa đã đừng hoạt động.</VolcanicWinter.endMessage>
+
+    <HeatWave.label>Sóng nhiệt</HeatWave.label>
+    <HeatWave.description>Một trận sóng nhiệt nguy hiểm đang nướng chín cả khu vực.</HeatWave.description>
+    <HeatWave.endMessage>Trận sóng nhiệt đã kết thúc.</HeatWave.endMessage>
+
+    <ColdSnap.label>Rét đột ngột</ColdSnap.label>
+    <ColdSnap.description>Một trận rét đột ngột đầy bất thường đang đóng băng cả khu vực.</ColdSnap.description>
+    <ColdSnap.endMessage>Trận rét đột ngột đã kết thúc.</ColdSnap.endMessage>
+
+    <Flashstorm.label>Giông tốt</Flashstorm.label>
+    <Flashstorm.description>Lượng sét nghiêm trọng đang đánh vào một khu vực nhỏ.</Flashstorm.description>
+    <Flashstorm.endMessage>Giông tố đã tan đi.</Flashstorm.endMessage>
+
+    <ClimateCycle.label>Vòng tuần hoàn khí hậu</ClimateCycle.label>
+    <ClimateCycle.description>A vòng tuần hoàn khí hậu kéo dài nhiều năm vì quĩ đạo hình elip của hành tinh.</ClimateCycle.description>
+
+    <Planetkiller.label>Hủy diệt hành tinh</Planetkiller.label>
+    <Planetkiller.description>Một vũ khí hủy diệt hành tinh giữa các vì sao đang tới gần hành tinh này. Khi nó đánh trúng, tất cả sự sống sẽ bị hủy diệt.</Planetkiller.description>
+
+</LanguageData>

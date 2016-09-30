@@ -1,0 +1,13 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <BorealForest.label>Rừng băng giá</BorealForest.label>
+    <BorealForest.description>Rừng rậm phương bắc với cây lá kim là chủ yếu. Mặc dù thời tiết lạnh giá, trong rừng vẫn phổ biến nhiều loại động vật lớn nhỏ</BorealForest.description>
+
+    <Tundra.label>Đồng bằng băng giá</Tundra.label>
+    <Tundra.description>Một vùng đất hầu như đóng băng, chỉ có một ít rau củ, cơ hồ không có cây cối. Nơi đây chỉ có ít động vật ăn cỏ cùng kẻ đi săn chúng</Tundra.description>
+
+    <IceSheet.label>Băng dày</IceSheet.label>
+    <IceSheet.description> Bề mặt địa hình bao phủ bởi băng giá dày cả cây số. Ở đây không có đất màu, nên cũng không có thực vật. Động vật ở đây chỉ có thể di chuyển đi, hoặc là chết cóng</IceSheet.description>
+
+</LanguageData>

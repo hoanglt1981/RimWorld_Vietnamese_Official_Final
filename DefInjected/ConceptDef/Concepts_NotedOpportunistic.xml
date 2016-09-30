@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Rescuing.label>Cứu giúp</Rescuing.label>
+    <Rescuing.helpText>Để cứu giúp một người bị thương, lựa chọn một cư dân khỏe mạnh và chuột phải vào đối tượng bị thương.\n\nNếu bạn cứu giúp một người lạ, họ sẽ không gia nhập thuộc địa ngay. Họ có thể đơn gian đi luôn sau khi hồi phục. Nếu bạn muốn chắc chắn việc họ gia nhập, bắt giữ họ và chiêu hàng.</Rescuing.helpText>
+
+    <Capturing.label>Bắt giữ</Capturing.label>
+    <Capturing.helpText>Khi một kẻ thù gục ngã trên mặt đất nhưng chưa chết, bạn có thể BẮT GIỮ họ.\n\nĐể bắt giữ, lựa chọn cư dân, chuột phải vào mục tiêu mất năng lực, và lựa chọn Bắt giữ.\n\nBạn cũng sẽ cần thêm giường được đánh dấu dành cho tù nhân.</Capturing.helpText>
+
+    <PersonalShields.label>Khiên cá nhân</PersonalShields.label>
+    <PersonalShields.helpText>Khiên cá nhân ngăn chặn các tấn công tầm xa đến và đi. Nó không có tác dụng với tấn công cận chiến.\n\nĐể chiến đấu với khiên cá nhân, hoặc là kết hợp hỏa lực tập trung, hoặc đánh cận chiến.</PersonalShields.helpText>
+
+    <InteractingWithTraders.label>Tương tác với lái buôn</InteractingWithTraders.label>
+    <InteractingWithTraders.helpText>Bạn có thể nói chuyện với người mang dấu ? trên đầu.\n\nLựa chọn một cư dân và chuột phải vào nhân vật có dấu ? trên đầu.</InteractingWithTraders.helpText>
+
+    <Drafting.label>Chiến đấu</Drafting.label>
+    <Drafting.helpText>Để điều khiển cư dân trực tiếp trong giao chiến, cho họ Chiến đấu bằng cách lựa chọn họ và nhấn và nút CHIẾN ĐẤU.\n\nMột cư dân chiến đấu sẽ chỉ làm những gì bạn bảo, và chỉ có thể thực hiện các hành động giao chiến. Ai có vũ khí sẽ sử dụng chúng khi có thể.\n\nĐừng để cư dân chiến đấu mãi mãi -  họ sẽ đói bụng và trở nên không vui.</Drafting.helpText>
+
+    <BuildOrbitalTradeBeacon.label>Xây dựng radar giao dịch quĩ đạo</BuildOrbitalTradeBeacon.label>
+    <BuildOrbitalTradeBeacon.helpText>Để gửi đồ vật hoặc bạc tới lái buôn quĩ đạo, bạn phải xây một RADAR GIAO DỊCH QUĨ ĐẠO và đặ một bãi vật liệu ở gần đấy.</BuildOrbitalTradeBeacon.helpText>
+
+    <AnimalsDontAttackDoors.label>Động vật không tấn công cửa</AnimalsDontAttackDoors.label>
+    <AnimalsDontAttackDoors.helpText>Động vật săn người thông thường sẽ không tấn công cửa hoặc tháp canh ngừng hoạt động.\n\nBạn có thể chạy trốn chúng bằng cách ở trong hoặc sau những bức tường. Nhưng chúng sẽ chờ đợi bạn.</AnimalsDontAttackDoors.helpText>
+
+    <BillsTab.label>Mục Đơn hàng</BillsTab.label>
+    <BillsTab.helpText>Để cho cư dân làm việc ở các bàn, lựa chọn bàn và mở mục Đơn hàng. Ở đấy, bạn có thể nói món ăn nào cần được nấu, cáu gù cần chế tạo, sinh vật nào cần làm thịt.</BillsTab.helpText>
+
+    <OpeningComms.label>Sử dụng thiết bị liên lạc</OpeningComms.label>
+    <OpeningComms.helpText>Để liên lạc, lựa chọn một cư dân và chuột phải vào thiết bị liên lạc.</OpeningComms.helpText>
+
+    <DrugAddiction.label>Nghiện ngập</DrugAddiction.label>
+    <DrugAddiction.helpText>Bạn có thể quan sát ham muốn sử dụng chất kích thích của cư dân ở mục Nhu cầu của họ.\n\nCấp độ nhu cầu của họ về 0 càng lâu, mức nghiện ngập của họ chuyển thành trạng thái "rút lui" gây ra các tác dụng tiêu cực khác nhau.\n\nTuy nhiên, sau một thời gian dài ở rút lui, mức nghiện ngập của họ sẽ kết thúc và nhu cầu chất kích thích sẽ biến mất.</DrugAddiction.helpText>
+
+    <DrugPolicies.label>Chính sách dược phẩm</DrugPolicies.label>
+    <DrugPolicies.helpText>Bạn có thể chỉ định cư dân được sử dụng loại chất kích thích đặc biệt theo một lịch trình đặc biệt. Ví dụ, bạn có thể khiến họ sử dụng thuốc chống sốt rét đều đặn, hoặc uống một li bia mỗi ngày để giữ hạnh phúc.\n\nMở mục CHỈ ĐỊNH và nhấn vào nút 'Quản lý chính sách dược phẩm'. Tạo ra một chính sách dược phẩm mới. Rồi bạn có thể chỉ định chính sách này cho các cư dân.\n\nCư dân có thể vẫn sử dụng chất kích thích không phải trong chính sách của họ. Bạn có thể nói họ nên làm gì, nhưng họ cũng theo ham muốn của chính bản thân!</DrugPolicies.helpText>
+
+    <TVForSickPeople.label>Tivi cho những người ốm</TVForSickPeople.label>
+    <TVForSickPeople.helpText>Người bị ốm có thể xem tivi khi nằm trên giường.</TVForSickPeople.helpText>
+
+    <PrisonerTab.label>Mục Tù nhân</PrisonerTab.label>
+    <PrisonerTab.helpText>Nhìn vào mục 'Tù nhân' của một tù nhân để đặt cách họ được đối xử.\n\nBạn có thể đặt họ có bị chiêu hàng, bỏ qua hay xử tử hay không, có được ăn hay không, và loại loại chăm sóc y tế mà họ nhận được.\n\nCư dân với công việc Giám sát sẽ tương tác với các tù nhân.</PrisonerTab.helpText>
+
+    <SetGrowingZonePlant.label>Đặt loại thực vật gì được trồng</SetGrowingZonePlant.label>
+    <SetGrowingZonePlant.helpText>Bạn có thể đặt loại thực vật được trồng trong khu vực gieo trồng. Bạn có thể gieo trồng cả cây nữa!\n\nChỉ việc lựa chọn khu vực gieo trồng, mở mục Gieo trồng, và chọn nút 'Thực vật'.</SetGrowingZonePlant.helpText>
+
+    <DrugBurning.label>Thiêu hủy dược phẩm</DrugBurning.label>
+    <DrugBurning.helpText>Chất kích thích có thể hữu ích, nhưng cũng có thể dẫn tới những nghiện ngập nguy hại.\n\nNếu bạn muốn né tránh chất kích thích trong thuộc địa, bạn có lựa chọn thiêu hủy chúng ở lửa trại/lò thiêu điện.</DrugBurning.helpText>
+
+</LanguageData>

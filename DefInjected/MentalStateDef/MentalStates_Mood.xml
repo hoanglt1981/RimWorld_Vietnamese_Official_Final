@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <Berserk.label>Nổi điên</Berserk.label>
+  <Berserk.beginLetterLabel>Nổi điên</Berserk.beginLetterLabel>
+  <Berserk.beginLetter>{0} đã nổi điên!</Berserk.beginLetter>
+  <Berserk.recoveryMessage>{0} đã hết nổi điên.</Berserk.recoveryMessage>
+  <Berserk.baseInspectLine>Trạng thái: Nổi điên</Berserk.baseInspectLine>
+
+  <FireStartingSpree.label>Nghịch lửa</FireStartingSpree.label>
+  <FireStartingSpree.beginLetterLabel>Nghịch lửa</FireStartingSpree.beginLetterLabel>
+  <FireStartingSpree.beginLetter>{0} bắt đầu châm lửa lung tung.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.recoveryMessage>{0} đã hết nghịch lửa.</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.baseInspectLine>Trạng thái: Nghịch lửa</FireStartingSpree.baseInspectLine>
+
+  <GiveUpExit.label>Từ bỏ</GiveUpExit.label>
+  <GiveUpExit.beginLetterLabel>Từ bỏ</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetter>{0} đã rời Thuộc địa.</GiveUpExit.beginLetter>
+  <GiveUpExit.recoveryMessage>{0} thay đổi suy nghĩa và trở về với thuộc địa.</GiveUpExit.recoveryMessage>
+  <GiveUpExit.baseInspectLine>Trạng thái: Từ bỏ</GiveUpExit.baseInspectLine>
+
+  <!-- Mental breaks: serious -->
+
+
+  <WanderPsychotic.label>Lang thang tâm thần</WanderPsychotic.label>
+  <WanderPsychotic.beginLetterLabel>Mê muội</WanderPsychotic.beginLetterLabel>
+  <WanderPsychotic.beginLetter>{0} đang đi lang thang trong trạng thái tâm thần.</WanderPsychotic.beginLetter>
+  <WanderPsychotic.recoveryMessage>{0} đã dừng việc đi lang thang trong trạng thái bất ổn.</WanderPsychotic.recoveryMessage>
+  <WanderPsychotic.baseInspectLine>Trạng thái: Lang thang tâm thần</WanderPsychotic.baseInspectLine>
+
+  <!-- Mental breaks: minor -->
+
+  <BingingFood.label>Nôn ọe</BingingFood.label>
+  <BingingFood.beginLetterLabel>Nôn ọe</BingingFood.beginLetterLabel>
+  <BingingFood.beginLetter>{0} đã bị nôn ọe thì thức ăn.</BingingFood.beginLetter>
+  <BingingFood.recoveryMessage>{0} đã hết bị nôn ọe.</BingingFood.recoveryMessage>
+  <BingingFood.baseInspectLine>Trạng thái: Nôn ọe</BingingFood.baseInspectLine>
+  
+  <WanderSad.label>Lang thang buồn bã</WanderSad.label>
+  <WanderSad.beginLetterLabel>Buồn bã</WanderSad.beginLetterLabel>
+  <WanderSad.beginLetter>{0} đang lang thang một cách buồn bã</WanderSad.beginLetter>
+  <WanderSad.recoveryMessage>{0} đã hết lang thang buồn bã.</WanderSad.recoveryMessage>
+  <WanderSad.baseInspectLine>Trạng thái: Lang thang buồn bã</WanderSad.baseInspectLine>
+  
+  <WanderOwnRoom.label>Trốn tránh trong phòng</WanderOwnRoom.label>
+  <WanderOwnRoom.beginLetterLabel>Trốn tránh</WanderOwnRoom.beginLetterLabel>
+  <WanderOwnRoom.beginLetter>{0} đã trốn tránh trong phòng HIS, tách khỏi mọi người.</WanderOwnRoom.beginLetter>
+  <WanderOwnRoom.recoveryMessage>{0} đã hết trốn tránh trong phòng HIS.</WanderOwnRoom.recoveryMessage>
+  <WanderOwnRoom.baseInspectLine>Trạng thái: Trốn tránh trong phòng</WanderOwnRoom.baseInspectLine>
+
+
+
+  <!-- Unused? -->
+
+</LanguageData>

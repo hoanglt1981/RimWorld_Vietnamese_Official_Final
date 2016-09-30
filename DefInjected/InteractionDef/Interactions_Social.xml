@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <Chitchat.label>Trò chuyện</Chitchat.label>
+  <Chitchat.logRulesInitiator.rulesStrings.0>logentry->Có cuộc nói chuyện tốt đẹp với [other_nameShortIndef].</Chitchat.logRulesInitiator.rulesStrings.0>
+
+  <DeepTalk.label>Tâm sự</DeepTalk.label>
+  <DeepTalk.logRulesInitiator.rulesStrings.0>logentry->Đã tâm sự với [other_nameShortIndef].</DeepTalk.logRulesInitiator.rulesStrings.0>
+
+  <Slight.label>Coi thường</Slight.label>
+  <Slight.logRulesInitiator.rulesStrings.0>logentry->Xem thường [other_nameShortIndef].</Slight.logRulesInitiator.rulesStrings.0>
+  <Slight.logRulesRecipient.rulesStrings.0>logentry->Bị [other_nameShortIndef] xem thường.</Slight.logRulesRecipient.rulesStrings.0>
+
+  <Insult.label>Xỉ nhục</Insult.label>
+  <Insult.logRulesInitiator.rulesStrings.0>logentry->Xỉ nhục [other_nameShortIndef].</Insult.logRulesInitiator.rulesStrings.0>
+  <Insult.logRulesRecipient.rulesStrings.0>logentry->Bị [other_nameShortIndef] xỉ nhục.</Insult.logRulesRecipient.rulesStrings.0>
+
+</LanguageData>

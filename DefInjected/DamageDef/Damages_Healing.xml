@@ -1,0 +1,9 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Repair.label>Sửa chữa</Repair.label>
+    <HealInjury.label>Chữa vết thương</HealInjury.label>
+    <HealGlobal.label>Chữa toàn bộ</HealGlobal.label>
+    <RestoreBodyPart.label>Phục hồi phần cơ thể</RestoreBodyPart.label>
+
+</LanguageData>

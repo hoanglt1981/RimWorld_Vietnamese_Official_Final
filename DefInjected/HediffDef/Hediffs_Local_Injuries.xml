@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Misc.label>Khác</Misc.label>
+  <Misc.comps.0.labelTendedWell>băng bó</Misc.comps.0.labelTendedWell>
+  <Misc.comps.0.labelTended>băng bó ít</Misc.comps.0.labelTended>
+  <Misc.comps.0.labelTendedWellInner>khâu</Misc.comps.0.labelTendedWellInner>
+  <Misc.comps.0.labelTendedInner>khâu ít</Misc.comps.0.labelTendedInner>
+  <Misc.comps.0.labelSolidTendedWell>cố định</Misc.comps.0.labelSolidTendedWell>
+  <Misc.comps.0.labelSolidTended>cố định thấp</Misc.comps.0.labelSolidTended>
+  <Misc.injuryProps.destroyedLabel>mất</Misc.injuryProps.destroyedLabel>
+
+  <Burn.label>Bỏng</Burn.label>
+  <Burn.comps.0.labelTendedWell>băng bó</Burn.comps.0.labelTendedWell>
+  <Burn.comps.0.labelTended>băng bó ít</Burn.comps.0.labelTended>
+  <Burn.comps.0.labelTendedWellInner>khâu</Burn.comps.0.labelTendedWellInner>
+  <Burn.comps.0.labelTendedInner>khâu ít</Burn.comps.0.labelTendedInner>
+  <Burn.comps.0.labelSolidTendedWell>cố định</Burn.comps.0.labelSolidTendedWell>
+  <Burn.comps.0.labelSolidTended>cố định thấp</Burn.comps.0.labelSolidTended>
+  <Burn.comps.2.oldLabel>Sẹo bỏng</Burn.comps.2.oldLabel>
+  <Burn.injuryProps.destroyedLabel>cháy</Burn.injuryProps.destroyedLabel>
+  <Burn.injuryProps.destroyedOutLabel>đốt cháy</Burn.injuryProps.destroyedOutLabel>
+
+  <Crush.label>Đập</Crush.label>
+  <Crush.comps.0.labelTendedWell>băng bó</Crush.comps.0.labelTendedWell>
+  <Crush.comps.0.labelTended>ít băng bó</Crush.comps.0.labelTended>
+  <Crush.comps.0.labelTendedWellInner>khâu</Crush.comps.0.labelTendedWellInner>
+  <Crush.comps.0.labelTendedInner>ít khâu</Crush.comps.0.labelTendedInner>
+  <Crush.comps.0.labelSolidTendedWell>cố định</Crush.comps.0.labelSolidTendedWell>
+  <Crush.comps.0.labelSolidTended>ít cố định</Crush.comps.0.labelSolidTended>
+  <Crush.comps.2.oldLabel>Sẹo</Crush.comps.2.oldLabel>
+  <Crush.injuryProps.destroyedLabel>nát</Crush.injuryProps.destroyedLabel>
+
+  <Crack.label>Nứt</Crack.label>
+  <Crack.comps.0.labelTendedWell>chữa</Crack.comps.0.labelTendedWell>
+  <Crack.comps.0.labelTended>ít chữa</Crack.comps.0.labelTended>
+  <Crack.comps.0.labelTendedWellInner>chữa</Crack.comps.0.labelTendedWellInner>
+  <Crack.comps.0.labelTendedInner>ít chữa</Crack.comps.0.labelTendedInner>
+  <Crack.comps.0.labelSolidTendedWell>chữa</Crack.comps.0.labelSolidTendedWell>
+  <Crack.comps.0.labelSolidTended>ít chữa</Crack.comps.0.labelSolidTended>
+  <Crack.injuryProps.destroyedLabel>gãy</Crack.injuryProps.destroyedLabel>
+
+  <Cut.label>Cắt</Cut.label>
+  <Cut.comps.0.labelTendedWell>băng bó</Cut.comps.0.labelTendedWell>
+  <Cut.comps.0.labelTended>ít băng bó</Cut.comps.0.labelTended>
+  <Cut.comps.0.labelTendedWellInner>khâu</Cut.comps.0.labelTendedWellInner>
+  <Cut.comps.0.labelTendedInner>ít khâu</Cut.comps.0.labelTendedInner>
+  <Cut.comps.0.labelSolidTendedWell>cố định</Cut.comps.0.labelSolidTendedWell>
+  <Cut.comps.0.labelSolidTended>ít cố định</Cut.comps.0.labelSolidTended>
+  <Cut.comps.2.oldLabel>Sẹo</Cut.comps.2.oldLabel>
+  <Cut.injuryProps.destroyedLabel>cô lập</Cut.injuryProps.destroyedLabel>
+  <Cut.injuryProps.destroyedOutLabel>cắt bỏ</Cut.injuryProps.destroyedOutLabel>
+
+  <SurgicalCut.label>Cắt phẫu thuật</SurgicalCut.label>
+  <SurgicalCut.comps.0.labelTendedWell>băng bó</SurgicalCut.comps.0.labelTendedWell>
+  <SurgicalCut.comps.0.labelTended>ít băng bó</SurgicalCut.comps.0.labelTended>
+  <SurgicalCut.comps.0.labelTendedWellInner>khâu</SurgicalCut.comps.0.labelTendedWellInner>
+  <SurgicalCut.comps.0.labelTendedInner>ít khâu</SurgicalCut.comps.0.labelTendedInner>
+  <SurgicalCut.comps.0.labelSolidTendedWell>cố định</SurgicalCut.comps.0.labelSolidTendedWell>
+  <SurgicalCut.comps.0.labelSolidTended>ít cố định</SurgicalCut.comps.0.labelSolidTended>
+  <SurgicalCut.comps.1.oldLabel>Phẫu thuật</SurgicalCut.comps.1.oldLabel>
+  <SurgicalCut.injuryProps.destroyedLabel>cô lập</SurgicalCut.injuryProps.destroyedLabel>
+  <SurgicalCut.injuryProps.destroyedOutLabel>cắt bỏ</SurgicalCut.injuryProps.destroyedOutLabel>
+
+  <Scratch.label>Cào</Scratch.label>
+  <Scratch.comps.0.labelTendedWell>băng bó</Scratch.comps.0.labelTendedWell>
+  <Scratch.comps.0.labelTended>ít băng bó</Scratch.comps.0.labelTended>
+  <Scratch.comps.0.labelTendedWellInner>khâu</Scratch.comps.0.labelTendedWellInner>
+  <Scratch.comps.0.labelTendedInner>ít khâu</Scratch.comps.0.labelTendedInner>
+  <Scratch.comps.0.labelSolidTendedWell>cố định</Scratch.comps.0.labelSolidTendedWell>
+  <Scratch.comps.0.labelSolidTended>ít cố định</Scratch.comps.0.labelSolidTended>
+  <Scratch.comps.2.oldLabel>Sẹo</Scratch.comps.2.oldLabel>
+  <Scratch.injuryProps.destroyedLabel>phá</Scratch.injuryProps.destroyedLabel>
+  <Scratch.injuryProps.destroyedOutLabel>cắt bỏ</Scratch.injuryProps.destroyedOutLabel>
+
+  <Bite.label>Cắn</Bite.label>
+  <Bite.comps.0.labelTendedWell>băng bó</Bite.comps.0.labelTendedWell>
+  <Bite.comps.0.labelTended>ít băng bó</Bite.comps.0.labelTended>
+  <Bite.comps.0.labelTendedWellInner>khâu</Bite.comps.0.labelTendedWellInner>
+  <Bite.comps.0.labelTendedInner>ít khâu</Bite.comps.0.labelTendedInner>
+  <Bite.comps.0.labelSolidTendedWell>cố định</Bite.comps.0.labelSolidTendedWell>
+  <Bite.comps.0.labelSolidTended>ít cố định</Bite.comps.0.labelSolidTended>
+  <Bite.comps.2.oldLabel>Sẹo</Bite.comps.2.oldLabel>
+  <Bite.injuryProps.destroyedLabel>cắn</Bite.injuryProps.destroyedLabel>
+  <Bite.injuryProps.destroyedOutLabel>cắn ra</Bite.injuryProps.destroyedOutLabel>
+
+  <Stab.label>Đâm</Stab.label>
+  <Stab.comps.0.labelTendedWell>băng bó</Stab.comps.0.labelTendedWell>
+  <Stab.comps.0.labelTended>ít băng bó</Stab.comps.0.labelTended>
+  <Stab.comps.0.labelTendedWellInner>khâu</Stab.comps.0.labelTendedWellInner>
+  <Stab.comps.0.labelTendedInner>ít khâu</Stab.comps.0.labelTendedInner>
+  <Stab.comps.0.labelSolidTendedWell>cố định</Stab.comps.0.labelSolidTendedWell>
+  <Stab.comps.0.labelSolidTended>ít cố định</Stab.comps.0.labelSolidTended>
+  <Stab.comps.2.oldLabel>Sẹo</Stab.comps.2.oldLabel>
+  <Stab.injuryProps.destroyedLabel>cô lập</Stab.injuryProps.destroyedLabel>
+  <Stab.injuryProps.destroyedOutLabel>cắt bỏ</Stab.injuryProps.destroyedOutLabel>
+
+  <Gunshot.label>Trúng đạn</Gunshot.label>
+  <Gunshot.comps.0.labelTendedWell>băng bó</Gunshot.comps.0.labelTendedWell>
+  <Gunshot.comps.0.labelTended>ít băng bó</Gunshot.comps.0.labelTended>
+  <Gunshot.comps.0.labelTendedWellInner>khâu</Gunshot.comps.0.labelTendedWellInner>
+  <Gunshot.comps.0.labelTendedInner>ít khâu</Gunshot.comps.0.labelTendedInner>
+  <Gunshot.comps.0.labelSolidTendedWell>cố định</Gunshot.comps.0.labelSolidTendedWell>
+  <Gunshot.comps.0.labelSolidTended>ít cố định</Gunshot.comps.0.labelSolidTended>
+  <Gunshot.comps.2.oldLabel>Sẹo</Gunshot.comps.2.oldLabel>
+  <Gunshot.injuryProps.destroyedLabel>bắn</Gunshot.injuryProps.destroyedLabel>
+  <Gunshot.injuryProps.destroyedOutLabel>bắn trúng</Gunshot.injuryProps.destroyedOutLabel>
+
+  <Shredded.label>Explosion</Shredded.label>
+  <Shredded.comps.0.labelTendedWell>băng bó</Shredded.comps.0.labelTendedWell>
+  <Shredded.comps.0.labelTended>ít băng bó</Shredded.comps.0.labelTended>
+  <Shredded.comps.0.labelTendedWellInner>khâu</Shredded.comps.0.labelTendedWellInner>
+  <Shredded.comps.0.labelTendedInner>ít khâu</Shredded.comps.0.labelTendedInner>
+  <Shredded.comps.0.labelSolidTendedWell>cố định</Shredded.comps.0.labelSolidTendedWell>
+  <Shredded.comps.0.labelSolidTended>ít cố định</Shredded.comps.0.labelSolidTended>
+  <Shredded.comps.2.oldLabel>Sẹo</Shredded.comps.2.oldLabel>
+  <Shredded.injuryProps.destroyedLabel>cô lập</Shredded.injuryProps.destroyedLabel>
+  <Shredded.injuryProps.destroyedOutLabel>cắt bỏ</Shredded.injuryProps.destroyedOutLabel>
+
+  <Bruise.label>Thâm tím</Bruise.label>
+  <Bruise.comps.0.labelTendedWell>băng bó</Bruise.comps.0.labelTendedWell>
+  <Bruise.comps.0.labelTended>ít băng bó</Bruise.comps.0.labelTended>
+  <Bruise.comps.0.labelTendedWellInner>khâu</Bruise.comps.0.labelTendedWellInner>
+  <Bruise.comps.0.labelTendedInner>ít khâu</Bruise.comps.0.labelTendedInner>
+  <Bruise.comps.0.labelSolidTendedWell>cố định</Bruise.comps.0.labelSolidTendedWell>
+  <Bruise.comps.0.labelSolidTended>ít cố định</Bruise.comps.0.labelSolidTended>
+  <Bruise.injuryProps.destroyedLabel>cắt</Bruise.injuryProps.destroyedLabel>
+  <Bruise.injuryProps.destroyedOutLabel>loại bỏ</Bruise.injuryProps.destroyedOutLabel>
+
+  <Frostbite.label>Tê cóng</Frostbite.label>
+  <Frostbite.comps.0.labelTendedWell>băng bó</Frostbite.comps.0.labelTendedWell>
+  <Frostbite.comps.0.labelTended>ít băng bó</Frostbite.comps.0.labelTended>
+  <Frostbite.comps.0.labelTendedWellInner>khâu</Frostbite.comps.0.labelTendedWellInner>
+  <Frostbite.comps.0.labelTendedInner>ít khâu</Frostbite.comps.0.labelTendedInner>
+  <Frostbite.comps.0.labelSolidTendedWell>cố định</Frostbite.comps.0.labelSolidTendedWell>
+  <Frostbite.comps.0.labelSolidTended>ít cố định</Frostbite.comps.0.labelSolidTended>
+  <Frostbite.comps.2.oldLabel>Sẹo</Frostbite.comps.2.oldLabel>
+  <Frostbite.injuryProps.destroyedLabel>liệt</Frostbite.injuryProps.destroyedLabel>
+
+  <!-- Missing body part -->
+
+  <MissingBodyPart.label>tàn tật</MissingBodyPart.label>
+
+</LanguageData>

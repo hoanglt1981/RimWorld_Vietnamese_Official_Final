@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <PegLeg.label>Chân gỗ</PegLeg.label>
+  <Denture.label>Hàm gỗ</Denture.label>
+  <SimpleProstheticLeg.label>Chân giả</SimpleProstheticLeg.label>
+  <SimpleProstheticArm.label>Tay giả</SimpleProstheticArm.label>
+  <BionicEye.label>Mắt sinh hóa</BionicEye.label>
+  <BionicArm.label>Tay sinh hóa</BionicArm.label>
+  <BionicLeg.label>Chân sinh hóa</BionicLeg.label>
+  <PowerClaw.label>Vuốt sức mạnh</PowerClaw.label>
+  <ScytherBlade.label>Dao bọ ngựa</ScytherBlade.label>
+
+</LanguageData>

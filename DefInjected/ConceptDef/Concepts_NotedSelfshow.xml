@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <CameraDolly.label>Di chuyển camera</CameraDolly.label>
+    <CameraDolly.helpText>Di chuyển camera bằng cách nhấn giữ và kéo chuột 3 (chuột giữa hoặc chuột phải) hoặc sử dụng các phím {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}.</CameraDolly.helpText>
+
+    <CameraZoom.label>Thu phóng camera</CameraZoom.label>
+    <CameraZoom.helpText>Phóng to và thu nhỏ với CUỘN CHUỘT hoặc các phím {Key:MapZoomIn} và {Key:MapZoomOut}.</CameraZoom.helpText>
+
+    <TimeControls.label>Điều khiển thời gian</TimeControls.label>
+    <TimeControls.helpText>Bạn có thể tăng tốc thời gian.\n\nThử điều điểu thời gian với các phím {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, and {Key:TimeSpeedSuperfast}, hoặc với phần điều khiển thời gian ở góc dưới bên phải.</TimeControls.helpText>
+
+    <Pause.label>Tạm dừng</Pause.label>
+    <Pause.helpText>Nhấn {Key:TogglePause} để tạm dừng hoặc tiếp tục trò chơi.\n\nBạn có thể đưa ra các mệnh lệnh trong khi tạm dừng.\n\nNhớ điều này - nếu mọi thứ quay cuồng, hãy nhấn {Key:TogglePause}!</Pause.helpText>
+
+    <Stockpiles.label>Bãi vật liệu</Stockpiles.label>
+    <Stockpiles.helpText>Cư dân cần chỗ nào đó để cất giữ đồ. Chỉ định một BÃI VẬT LIỆU để cất giữ mọi thứ.\n\nTìm bãi vật liệu trong phần KHU VỰC của mục KIẾN TRÚC phía dưới bên trái.</Stockpiles.helpText>
+
+    <Forbidding.label>Cấm và không cấm</Forbidding.label>
+    <Forbidding.helpText>Cư dân sẽ không tương tác với đồ vật được đánh dấu NGHIÊM CẤM.\n\nĐồ vật bị nghiêm cấm sẽ có một kí hiệu X nhỏ màu đỏ. Lựa chọn một đồ vật bị cấm và sử dụng phần điều khiển ở dưới để KHÔNG CẤM.</Forbidding.helpText>
+
+    <GrowingFood.label>Khu vực trồng trọt</GrowingFood.label>
+    <GrowingFood.helpText>Để gieo trồng thức ăn, đặt KHU TRỒNG TRỌT ở mục KIẾN TRÚC.\n\nNó chỉ có thể được đặt trên vùng đất màu mỡ.</GrowingFood.helpText>
+
+    <EquippingWeapons.label>Trang bị vũ khí</EquippingWeapons.label>
+    <EquippingWeapons.helpText>Cư dân của bạn đến với một vài vũ khí. Trang bị chúng!\n\nSLựa chọn từng cư dân và chuột phải vào vũ khí mà bạn muốn họ trang bị.</EquippingWeapons.helpText>
+
+    <Alerts.label>Báo động</Alerts.label>
+    <Alerts.helpText>Báo động ở bên rìa phải màn hình sẽ nói cho bạn về những vấn đề bạn cần để tâm.\n\nHãy chú ý đến những báo động.</Alerts.helpText>
+
+    <Mining.label>Khai mỏ</Mining.label>
+    <Mining.helpText>Bạn có thể chỉ định nơi khai mỏ bằng cách mở mục KIẾN TRÚC và lựa chọn phần Lệnh.\n\nVài loại quặng có chứa THÉP, VÀNG, TITANIUM và những vật liệu hữu dụng khác.</Mining.helpText>
+
+    <WorkTab.label>Tùy chỉnh công việc</WorkTab.label>
+    <WorkTab.helpText>Bạn có thể đặt tùy chỉnh công việc cho từng cư dân ở mục CÔNG VIỆC phía dưới bên phải màn hình.\n\nHọ sẽ luôn thực hiện công việc có ưu tiên cao nhất mà họ có thể tìm thấy.\n\nNếu không ai được thiết lập loại công việc cụ thê, hoặc nếu họ bận với những nhiệm vụ ưu tiên cao hơn, nó sẽ không bao giờ được thực hiện.</WorkTab.helpText>
+
+    <ForbiddingDoors.label>Không cấm cửa</ForbiddingDoors.label>
+    <ForbiddingDoors.helpText>Bạn có thể CẤM cửa khiến cho cư dân và vật nuôi không thể đi qua chúng.\n\nNhớ đó không phải là cửa khóa. Cửa luôn được khóa, nên kẻ thù không thể tự do đi qua. Nghiêm cấm chỉ hướng dẫn cư dân không sử dụng cửa. Cư dân đang điên loạn vẫn có thể sử dụng cửa bằng mọi cách.</ForbiddingDoors.helpText>
+
+    <CoverAndShooting.label>Che chắn và bắn</CoverAndShooting.label>
+    <CoverAndShooting.helpText>Điều quan trọng nhất cần làm trong chiến đấu từ xa là sử dụng che chắn.\n\nChe chắn chỉ hoat động khi cư dân chạm vào nó, và nó nằm giữa cư dân với kẻ thù.\n\nBạn có thể đặt cư dân sau góc tường. Họ sẽ học cách để bắn.\n\nHầu như mọi thứ đều có thể sử dụng để che chắn, nhưng có một vài thứ tác dụng hơn những thứ khác. Ẩn sau một cái cây thì tốt hơn là không có gì, nhưng ẩn sau bao cát thì tốt hơn là sử dụng cái cây.</CoverAndShooting.helpText>
+
+    <AnimalTaming.label>Thuần hóa động vật</AnimalTaming.label>
+    <AnimalTaming.helpText>Bạn có thể chỉ định cư dân để thuần hóa động vật hoang với chỉ định THUẦN HÓA.\n\nCư dân sẽ mang thức ăn cho động vật và chú ý thuần hóa chúng.\n\nCoi chừng: một số động vật có thể phản ứng bạo lực với việc thuần hóa thất bại.</AnimalTaming.helpText>
+
+    <AnimalTraining.label>Huấn luyện động vật</AnimalTraining.label>
+    <AnimalTraining.helpText>Bạn có thể chỉ định vật nuôi được huấn luyện kĩ năng đặc biệt ở mục HUẤN LUYỆN.\n\nVật nuôi không thể liên tục huấn luyện; chúng cần thời gian giữa các lần huấn luyện.</AnimalTraining.helpText>
+
+    <InfoCard.label>Thẻ thông tin</InfoCard.label>
+    <InfoCard.helpText>Thẻ thông tin cho bạn phân tích đầy đủ về mọi đồ vật, người, công trình.\n\nLựa chọn một người hoặc đồ vật và mở thẻ thông tin của họ với nút nhấn 'i' trên bảng quan sát.</InfoCard.helpText>
+
+    <StorageTab.label>Kho chứa</StorageTab.label>
+    <StorageTab.helpText>Bạn có thể tùy chỉnh bãi vật liệ và công trình lưu trữ bằng cách lựa chọn chúng và mở KHO CHỨA phía trên bên phải bảng quan sát.\n\nTrong kho chứa của một bãi vật liệu, bạn có thể mở rộng danh mục để chấp nhận hoặc từ chối đồ vật đặc biệt. Nhấn vào tam giác bên trái tên danh mục.\n\nBạn có thể thay đổi mức ƯU TIÊN của kho chứ. Cư dân sẽ lấp đầy các kho chứa ưu tiên cao hơn trước, và chuyển đồ vật từ ưu tiên thấp tới ưu tiên cao.</StorageTab.helpText>
+
+    <HomeArea.label>Khu vực nhà chính</HomeArea.label>
+    <HomeArea.helpText>KHU VỰC NHÀ CHÍNH cho cư dân biết khu vực cần lau dọn và chữa cháy.\n\nXác định KHU VỰC NHÀ CHÍNH với phần KHU VỰC trong mục KIẾN TRÚC.</HomeArea.helpText>
+
+    <SpoilageAndFreezers.label>Hư thối và đóng băng</SpoilageAndFreezers.label>
+    <SpoilageAndFreezers.helpText>Hầu hết thức ăn sẽ bị hư thối sau một thời gian ngắn.\n\nĐể ngăng ngừa điều này, bạn cần xây dựng một khu vực đông lạnh.\n\nĐể xây dựng một khu đông lạnh, thi công một phòng kín, và đặt một hoặc hai điều hòa nhiệt độ lên tường. Đặt điều hòa nhiệt độ tới nhiệt độ phù hợp.\n\nThức ăn đóng băng sẽ không bị hư thối.</SpoilageAndFreezers.helpText>
+
+    <Deterioration.label>Hư hỏng đồ vật</Deterioration.label>
+    <Deterioration.helpText>Đồ vật để ngoài trời sẽ bị hư hỏng dần.\n\nNếu bạn muốn lưu trữ chúng trong thời gian dài, cất chúng dưới mái.</Deterioration.helpText>
+
+    <HostilityResponse.label>Chế độ phản ứng với sự thù địch</HostilityResponse.label>
+    <HostilityResponse.helpText>Bạn có thể thiết lập cách cư dân tự động phản ứng với nguy cơ như động vật săn mồi.\n\nChọn lựa từ chế độ BỎ CHẠY, TẤN CÔNG, và BỎ QUA trong mục CHỈ ĐỊNH.</HostilityResponse.helpText>
+
+    <AllowedAreas.label>Khu vực cấp phép</AllowedAreas.label>
+    <AllowedAreas.helpText>Cư dân và vật nuôi có thể được chỉ định về KHU VỰC CẤP PHÉP. Nó nghiêm cấm việc họ nhận đích đến bên ngoài khu vực cấp phép.\n\nNó có thể sử dụng cho, ví dụ như là nghiêm cấm cư dân đi ra ngoài.\n\nBạn có thể tạo ra nhiều khu vực cấp phép và chỉ định chúng cho những cư dân và vật nuôi khác nhau.\n\nTạo ra, xóa bỏ, và chỉ định khu vực cấp phép ở mục GIỚI HẠN.\n\nTô khu vực được cấp phép ở trên bản đô fbằng cách sử dụng chỉ định MỞ RỘNG KHU VỰC CẤP PHÉP và HỦY BỎ KHU VỰC CẤP PHÉP ở mục KIẾN TRÚC.</AllowedAreas.helpText>
+
+    <MedicalOperations.label>Phẫu thuật y tế</MedicalOperations.label>
+    <MedicalOperations.helpText>Để chỉ định một cuộc phẫu thuật y tế, như thu hoạch nội tạng hoặc gắn bộ phận giả, mở mục SỨC KHỎE của cư dân, và chuyển qua mục PHẪU THUẬT.</MedicalOperations.helpText>
+
+    <TimeAssignments.label>Chỉ định thời gian</TimeAssignments.label>
+    <TimeAssignments.helpText>Bạn có thể điều chỉnh khoảng thời gian hoạt động trong ngày của cư dân bằng cách sử dụng mục GIỚI HẠN.</TimeAssignments.helpText>
+
+    <ManualWorkPriorities.label>Quyền ưu tiên công việc thủ công</ManualWorkPriorities.label>
+    <ManualWorkPriorities.helpText>Một trong những phần quan trọng nhất của RimWorld là lựa chọn một thiết lập công việc tốt cho các cư dân.\n\nThiết lập công việc nghèo nàn có thể để những công việc thiết yếu không được hoàn thành thời gian dài trong khi cư dân phí thời gian vào những nhiệm vụ kém quan trọng.\n\nĐể đưa ra nhiều điều khiển về loại công việc mà cư dân làm, bạn có thể sử dụng chế độ ƯU tiên Thủ công trong mục CÔNG VIỆC.\n\nỞ chế độ này, mỗi cư dân có một con số ưu tiên cho từng loại công việc. Cư dân sẽ ưu tiên công việc 1 từ trái quá phải, rồi ưu tiên công việc 2 từ trái qua phải, và cứ thế.\n\nSử dụng các tùy chỉnh thông minh là cần thiết cho một thuộc địa lớn và tự hoạt động tốt.</ManualWorkPriorities.helpText>
+
+    <GettingMoreTraders.label>Có thêm nhiều lái buôn</GettingMoreTraders.label>
+    <GettingMoreTraders.helpText>Nhiều đoàn lái buôn hơn sẽ đến thăm bạn nếu bạn liên minh với nhiều phe hơn.\n\nNếu bạn không có liên minh, chẳng có đoàn lữ hành nào ghé thăm!\n\nBạn cũng có thể trả cho liên minh để họ gửi đoàn lái buôn đến bằng cách gọi họ qua thiết bị liên lạc.</GettingMoreTraders.helpText>
+
+    <InspectRoomStats.label>Quan sát thông tin phòng</InspectRoomStats.label>
+    <InspectRoomStats.helpText>Bạn có thể quan sát mức độ ấn tượng, giàu có, và vẻ đẹp của từng căn phòng bằng chuyển đổi THỂ HIỆN THÔNG SỐ PHÒNG ở phía dưới bên phải.</InspectRoomStats.helpText>
+
+    <Outfits.label>Trang phục</Outfits.label>
+    <Outfits.helpText>Cư dân sẽ tự cố gắng mặc trang phục mới nhất, chất lượng cao nhất mà họ có thể.\n\nBạn không cần chỉ định thủ công từng phần của trang phục cho cư dân (tất nhiên vẫn có thể, nếu bạn muốn).\n\nĐể chỉ định giới hạn cho mặc đồ gì, mở mục CHỈ ĐỊNH, sử dụng hộp thoại "Quản lý trang phục" để thiết kế trang phục mới, và rồi chỉ định cho các cư dân.</Outfits.helpText>
+
+    <FirePreparation.label>Đề phòng hỏa hoạn</FirePreparation.label>
+    <FirePreparation.helpText>Những vụ cháy có thể dễ dàng thiêu rụi cả thuộc địa. Để đánh bại chúng, bạn cần chuẩn bị trước khi chúng xảy ra.\nNhững phần thiết kế này có thể giúp giảm sức phá hoại của hỏa hoạn:\n1. Bất kể xây dựng công trình lớn như thế nào, xây cách nhau một khoảng trống ở giữa.\n2. Sử dụng những vật liệu bắt lửa kém. Gỗ tuy rẻ và nhanh - nhưng lại rất bắt lửa.\n3. Xây dựng bình cứu hỏa để ngăn chặn những ngon lửa lan đến căn cứ của bạn. Một con đường lát gạch rộng 3 đến 4 ô sẽ ngăn chặn ngay những ngọn lửa lớn.</FirePreparation.helpText>
+
+    <HistoryTab.label>Mục lịch sử</HistoryTab.label>
+    <HistoryTab.helpText>Bạn có thể xem lịch sử phát triển của thuộc địa qua thời gian ở mục LỊCH SỬ phía dưới màn hình.</HistoryTab.helpText>
+
+    <ClickingMessages.label>Nhấn vào thông báo</ClickingMessages.label>
+    <ClickingMessages.helpText>Bạn có thể nhấn vào thông báo ở góc trên bên trái màn hình để lập tức chuyển trung tâm camera tới hạng mục đó.</ClickingMessages.helpText>
+
+    <ShotAccuracyTooltip.label>Thông tin nhỏ về độ chính xác khi bắn</ShotAccuracyTooltip.label>
+    <ShotAccuracyTooltip.helpText>Bạn có thể xem những tính toán về sự chính xác của từng phát bắn.\n\nĐể làm việc này, lựa chọn tay súng, rồi di chuột đến mục tiêu. Thông tin nhỏ sẽ chỉ ra cơ hội để bắn trúng, và một phân tích về định mức cơ hội để có thể bắn trúng mục tiêu.</ShotAccuracyTooltip.helpText>
+
+    <FriendlyFireSafety.label>An toàn trong việc bắn nhầm</FriendlyFireSafety.label>
+    <FriendlyFireSafety.helpText>Việc bắn nhầm không bao giờ xảy ra nếu tay súng ở gần đồng minh.\n\nVí dụ, bạn có thể an toàn để một cư dân cận chiến trực tiếp phía trước một tay súng. Tay súng sẽ bắn qua vai người bạn của mình.\n\nĐây là cách tốt để kết hợp giữa chiến binh tầm xa và cận chiến.</FriendlyFireSafety.helpText>
+
+</LanguageData>

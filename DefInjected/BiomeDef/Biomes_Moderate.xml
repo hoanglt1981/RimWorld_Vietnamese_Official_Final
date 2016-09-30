@@ -1,0 +1,13 @@
+﻿<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <Ocean.label>Đại dương</Ocean.label>
+    <Ocean.description>Biển cả rộng lớn. Tố cho các loài cá - nhưng không có lợi cho bạn</Ocean.description>
+
+    <TemperateForest.label>Rừng ôn đới</TemperateForest.label>
+    <TemperateForest.description>Một điều kiện sống thân thiện với rừng cây phong phú cùng đất đai màu mỡ. Rất nhiều loại động vật đặc biệt di chuyển quanh đây. </TemperateForest.description>
+
+    <TropicalRainforest.label>Rừng nhiệt đới</TropicalRainforest.label>
+    <TropicalRainforest.description>Rừng rậm dày đặc. Với sự phát triển cao của các loại động vật hoang dã dữ tợn mà nơi đây sẽ khó cho việc tồn tại cũng như xây dựng</TropicalRainforest.description>
+
+</LanguageData>

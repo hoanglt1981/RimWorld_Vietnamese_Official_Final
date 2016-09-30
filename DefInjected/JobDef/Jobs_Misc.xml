@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Goto.reportString>di chuyển.</Goto.reportString>
+  <GotoSafeTemperature.reportString>tìm kiếm nhiệt độ an toàn.</GotoSafeTemperature.reportString>
+  <GotoWander.reportString>đi lang thang.</GotoWander.reportString>
+  <Wait.reportString>đứng.</Wait.reportString>
+  <WaitDowned.reportString>nằm.</WaitDowned.reportString>
+  <WaitSafeTemperature.reportString>đợi ở nhiệt độ an toàn.</WaitSafeTemperature.reportString>
+  <WaitWander.reportString>đợi lang thang.</WaitWander.reportString>
+  <WaitCombat.reportString>đợi mục tiêu.</WaitCombat.reportString>
+  <AttackStatic.reportString>tấn công TargetA an.</AttackStatic.reportString>
+  <AttackMelee.reportString>cận chiến TargetA.</AttackMelee.reportString>
+  <SocialFight.reportString>đánh lộn với TargetA.</SocialFight.reportString>
+  <Equip.reportString>trang bị TargetA.</Equip.reportString>
+  <TakeInventory.reportString>mang theo TargetA.</TakeInventory.reportString>
+  <Wear.reportString>mặc TargetA.</Wear.reportString>
+  <RemoveApparel.reportString>loại bỏ TargetA.</RemoveApparel.reportString>
+  <Strip.reportString>lột bỏ TargetA.</Strip.reportString>
+  <Open.reportString>mở TargetA.</Open.reportString>
+  <RearmTrap.reportString>tái kích hoạt TargetA.</RearmTrap.reportString>
+  <Refuel.reportString>nạp nhiên liệu cho TargetA.</Refuel.reportString>
+  <ManTurret.reportString>đứng canh.</ManTurret.reportString>
+  <EnterCryptosleepCasket.reportString>bước vào buồng ngủ đông.</EnterCryptosleepCasket.reportString>
+  <UseNeurotrainer.reportString>sử dụng Neurotrainer.</UseNeurotrainer.reportString>
+  <UseArtifact.reportString>kích hoạt Cổ vật.</UseArtifact.reportString>
+  <TriggerFirefoamPopper.reportString>bóp bình cứu hỏa.</TriggerFirefoamPopper.reportString>
+  <ClearSnow.reportString>quét dọn tuyết.</ClearSnow.reportString>
+  <Vomit.reportString>nôn ọe.</Vomit.reportString>
+  <Flick.reportString>gạt công tắc.</Flick.reportString>
+  <TradeWithPawn.reportString>giao dịch với TargetA.</TradeWithPawn.reportString>
+  <FleeAndCower.reportString>bỏ chạy.</FleeAndCower.reportString>
+  <Ignite.reportString>đốt TargetA.</Ignite.reportString>
+  <BeatFire.reportString>dập lửa.</BeatFire.reportString>
+  <ExtinguishSelf.reportString>tự dập tắt.</ExtinguishSelf.reportString>
+  <Ingest.reportString>ăn TargetA.</Ingest.reportString>
+  <LayDown.reportString>từ chối thực hiện.</LayDown.reportString>
+  <FillFermentingBarrel.reportString>đổ đầy TargetA.</FillFermentingBarrel.reportString>
+  <TakeBeerOutOfFermentingBarrel.reportString>lấy bia của TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
+  <!-- Love -->
+
+  <Lovin.reportString>làm tình.</Lovin.reportString>
+
+</LanguageData>

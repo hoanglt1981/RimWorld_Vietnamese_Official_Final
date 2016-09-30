@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<CreateWorldParams.text>Chào mừng đến với RimWorld. Hướng dẫn này sẽ dạy cho bạn cách chơi game.\n\nBước đầu tiên là khởi tạo ra một thế giới.\n\nTrang này thiết lập cách mà thế giới được khởi tạo ra.\n\nNhững thiết lập cơ bản đều tốt - Bạn chỉ việc tiếp tục và nhấn KHỞI TẠO!</CreateWorldParams.text>
+	
+	<ChooseLandingSite.text>Ở đây bạn sẽ lựa chọn khu vực hạ cánh của mình.\n\nCó nhiều môi trường khác nhau, nhưng lúc nào, hãy bắt đầu với một môi trường thân thiện.\n\nChọn vào khu vực hạ cánh với môi trường rừng ôn đới và địa hình bằng phẳng và nhấn LỰA CHỌN KHU VỰC.</ChooseLandingSite.text>
+	<ChooseLandingSite.rejectInputMessage>Xin hãy lựa chọn một khu vực hạ cánh rừng ôn đới với địa hình bẳng phẳng.</ChooseLandingSite.rejectInputMessage>
+	
+	<RandomizeCharacter.text>Bây giờ bạn sẽ tạo ra nhân vật!\n\nThử một nhân vật ngẫu nhiên với nút nhấn NGẪU NHIÊN</RandomizeCharacter.text>
+	<RandomizeCharacter.rejectInputMessage>Xin thử một nhân vật ngẫu nhiên trước.</RandomizeCharacter.rejectInputMessage>
+
+	<AcceptStartingPawns.text>Tuyệt!\n\nNgẫu nhiên lần nữa nếu bạn muốn - nhưng đừng cố gắng kiếm một nhân vật hoàn hảo. Mọi người đều có điểm yếu, và điều đó khiến câu chuyện trở nên thú vị.\n\nBạn cũng có thể đổi tên nhân vật bằng cách nhấn vào tên của họ.\n\nNhấn BẮT ĐẦU khi bạn đã sẵn sàng.</AcceptStartingPawns.text>
+	
+	<MapCameraDolly.text>Giờ bạn đang ở trên mặt đất!\n\nHãy thử di chuyển camera xung quanh.\n\nSử dụng các phím {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight}, hoặc nhấn và kéo bằng chuột giữa.\n\nThử ngay đi!</MapCameraDolly.text>
+	
+	<MapCameraZoom.text>Tuyệt vời!\n\nBạn cũng có thể phóng to thu nhỏ bằng cuộn chuột, hoặc phím {Key:MapZoomIn} - {Key:MapZoomOut}.\n\nThử ngay đi!</MapCameraZoom.text>
+	
+	<Pause.text>Bạn có thể dừng thời gian!\n\nĐiều đó nghĩa là bạn không bao giờ cần phải vội. Bạn có thể tạm dừng và dành thời giải quyết vấn đề.\n\nThử tạm dừng với phím {Key:TogglePause}, hoặc sử dụng phần điều khiển thời gian ở góc dưới bên phải màn hình.</Pause.text>
+	
+	<TimeControls.text>Bạn cũng có thể tăng tốc độ thời gian.\n\nThử điều khiển với phím {Key:TimeSpeedNormal}, {Key:TimeSpeedFast}, và {Key:TimeSpeedSuperfast}; hoặc với bộ điều khiển thời gian ở góc dưới bên phải.</TimeControls.text>
+	
+	<MakeStockpile.text>Tuyệt!\n\nGiờ hãy tạo ra một bãi vật liệu để cư dân biết nơi để cất giữ đồ vật.\n\n1. Nhấn vào bảng KIẾN TRÚC ở góc dưới bên trái.\n\n2. Nhấn vào mục KHU VỰC.\n\n3. Lựa chọn công cụ Khu chứa đồ.\n\n 4. Nhấn và kéo thành một khoảnh vuông trên bản đồ.</MakeStockpile.text>
+	<MakeStockpile.rejectInputMessage>Xin hãy tạo bãi vật liệu ở khu vực phù hợp.</MakeStockpile.rejectInputMessage>
+	<MakeStockpile.onMapInstruction>Đặt bãi vật liệu ở đây\n(kéo từ góc sang góc)</MakeStockpile.onMapInstruction>
+	
+	<EndStockpileDesignating.text>Chuột phải để thoát chế độ chỉ định bãi vật liệu.</EndStockpileDesignating.text>
+	
+	<UnforbidStartingResources.text>Giờ, để cho phép cư dân mang đồ vật tới bãi vật liệu, bạn cần không cấm đồ vật.\n\n1. Nhấn để chọn đồ vật.\n\n2. Nhấn vào lệnh CHUYỂN ĐỔI KHÔNG CẤM để không cấm chúng.\n\n(Tip: Nhấn đúp vào đồ vật để đánh dấu các đồ vật cùng loại trong khu vực) </UnforbidStartingResources.text>
+	<UnforbidStartingResources.rejectInputMessage>Xin hãy không cấm đồ vật.</UnforbidStartingResources.rejectInputMessage>
+	<UnforbidStartingResources.onMapInstruction>Không cấm vật này.</UnforbidStartingResources.onMapInstruction>
+	
+	<BuildRoomWalls.text>Ngon lành! Tiếp theo chúng ta sẽ xây phòng.\n\n1. Nhấn vào KIẾN TRÚC.\n\n2. Nhấn vào CÔNG TRÌNH.\n\n3. Lựa chọn TƯỜNG.\n\n4. Lựa chọn GỖ làm nguyên liệu.\n\n5. Kéo ra theo dạng dánh dấu trên bản đồ.</BuildRoomWalls.text>
+	<BuildRoomWalls.rejectInputMessage>Xin hãy xây tường gỗ theo rìa hình vuông được đánh dấu.</BuildRoomWalls.rejectInputMessage>
+	<BuildRoomWalls.onMapInstruction>Xây tường</BuildRoomWalls.onMapInstruction>
+	
+	<BuildRoomDoor.text>Giờ đặt CỬA vào vị trí bất kì trên tường.\n\nCỬA nằm bên cạnh TƯỜNG trong CÔNG TRÌNH.</BuildRoomDoor.text>
+	<BuildRoomDoor.rejectInputMessage>Xin hãy đặt cửa trên tường.</BuildRoomDoor.rejectInputMessage>
+	<BuildRoomDoor.onMapInstruction>Xây cái cửa trên tường</BuildRoomDoor.onMapInstruction>
+	
+	<BuildBeds.text>Cư dân sẽ bắt đầu xây dựng phòng ngay!\n\nGiờ họ cần ngủ một lát. Đặt 3 GIƯỜNG trong phòng.\n\nTìm chúng ở mục ĐỒ ĐẠC.</BuildBeds.text>
+	<BuildBeds.rejectInputMessage>Xin hãy xây dựng giường trong phòng.</BuildBeds.rejectInputMessage>
+	<BuildBeds.onMapInstruction>Xây dựng 3 giường trong phòng</BuildBeds.onMapInstruction>
+	
+	<BuildTorchLamp.text>Bạn cũng có có ít ánh sáng bên trong. hoặc cư dân sẽ nhăn nhó vì bóng tối.\n\nXây dựng một ĐUỐC trong phòng.</BuildTorchLamp.text>
+	<BuildTorchLamp.rejectInputMessage>Xin hãy xây dựng đuốc trong phòng.</BuildTorchLamp.rejectInputMessage>
+	<BuildTorchLamp.onMapInstruction>Xây dựng đuốc trong phòng</BuildTorchLamp.onMapInstruction>
+	
+	<BuildAnimalSleepingSpot.text>Vật nuôi sẽ ngủ bên trong cùng bạn, đặt CHỖ NGỦ VẬT NUÔI trong phòng.\n\nChỗ ngủ vật nuôi không cần phải xây dựng - chỉ là đánh dấu chỉ định chỗ ngủ trên mặt đất.</BuildAnimalSleepingSpot.text>
+	<BuildAnimalSleepingSpot.rejectInputMessage>Xin hãy đặt chỗ ngủ vật nuôi trong phòng.</BuildAnimalSleepingSpot.rejectInputMessage>
+	<BuildAnimalSleepingSpot.onMapInstruction>Đặt chỗ ngủ vật nuôi \ntrong phòng</BuildAnimalSleepingSpot.onMapInstruction>
+	
+	<BuildHorseshoesPin.text>Cư dân cần có nơi giải trí hoặc họ sẽ buồn bã!\n\nXây CỌC MÓNG NGỰA bên ngoài, gần phòng.</BuildHorseshoesPin.text>
+	<BuildHorseshoesPin.rejectInputMessage>Xin hãy đặt cọc móng ngựa gần phòng.</BuildHorseshoesPin.rejectInputMessage>
+	<BuildHorseshoesPin.onMapInstruction>Đặt cọc móng ngựa /ngần phòng</BuildHorseshoesPin.onMapInstruction>
+	
+	<MakeGrowingZone.text>Ngôi nhà đã được xây dựng!\n\nCư dân sẽ cần gì đó để ăn, hãy đặt KHU VỰC TRỒNG TRỌT được đánh dấu trên bản đồ.\n\nĐây là nơi cư dân sẽ gieo trồng ngũ cốc.</MakeGrowingZone.text>
+	<MakeGrowingZone.rejectInputMessage>Xin hãy tạo một khu vực trồng trọ trên khu vực đánh dấu.</MakeGrowingZone.rejectInputMessage>
+	<MakeGrowingZone.onMapInstruction>Đặt khu vực trồng trọt.\n(kéo góc sang góc)</MakeGrowingZone.onMapInstruction>
+	
+	<SetToGrowRice.text>Bạn có thể chỉ định loại thực vật sẽ được gieo trồng ở khu vực trồng trọt.\n\n1. Chuột phải để thoái chế độ kiến trúc.\n2. Nhấn vào khu vực trồng trọt để chọn lựa.\n3. Nhấn vào lệnh 'Lựa chọn thực vật' ở phía dưới và chuyển thành LÚA. </SetToGrowRice.text>
+	<SetToGrowRice.rejectInputMessage>Xin hãy đặt khu vực trồng trọt là trồng lúa.</SetToGrowRice.rejectInputMessage>
+	<SetToGrowRice.onMapInstruction>Đặt khu vực trồng trọt này thành trồng lúa</SetToGrowRice.onMapInstruction>
+	
+	<EquipWeapons.text>Cư dân cần trang bị vũ khí. Để trang bị vũ khí:\n\n1. Nhấn vào một cư dân để lựa chọn.\n2. Chuột phải vào vũ khí muốn trang bị.\n3. Chọn 'trang bị vũ khí' ở mục mở rộng.\n\nThực hiện việc này với từng cư dân</EquipWeapons.text>
+	<EquipWeapons.rejectInputMessage>Xin hãy trang bị vũ khí cho cư dân.</EquipWeapons.rejectInputMessage>
+	<EquipWeapons.onMapInstruction>Trang bị vũ khí này</EquipWeapons.onMapInstruction>
+	<BuildFueledStove.text>Hoàn hảo!\n\nGiờ bạn cần tao ra một cái bếp để nấu ăn.\n\nXây một BẾP CỦI trong phòng.</BuildFueledStove.text>
+	<BuildFueledStove.rejectInputMessage>Xin hãy xây bếp củi trong phòng.</BuildFueledStove.rejectInputMessage>
+	<BuildFueledStove.onMapInstruction>Xây một bếp củi trong phòng</BuildFueledStove.onMapInstruction>
+	
+	<AddBillSimpleMeal.text>Cư dân cần được chỉ bảo nên nấu gì.\n\n1. Mệnh lệnh nếu ăn được thêm tự thêm vào bếp. Một khi đơn hàng đã được tạo, cư dân sẽ tự động làm việc.\n\n1. Đợi bếp được xây xong.\n2. Nhấn và chọn bép.\n3. Mở mục ĐƠN HÀNG.\n4. Nhấn THÊM ĐƠN.\n5. Lựa chọn NẤU MÓN ĂN ĐƠN GIẢN ở mục mở rộng.\n6. Nhấn vào nút + để tăng số lượng lên 10.\n\nNhớ là bạn có thể tăng tốc thời gian nếu xây dựng quá lâu.\n\nBạn cũng có thể lựa chọn cư dân và chuộtphải vào bếp để ưu tiên xây nó.</AddBillSimpleMeal.text>
+	<AddBillSimpleMeal.rejectInputMessage>Xin hãy thêm một đơn hàng để nấu đồ ăn đơn giản ở bếp.</AddBillSimpleMeal.rejectInputMessage>
+	<AddBillSimpleMeal.onMapInstruction>Lựa chọn này</AddBillSimpleMeal.onMapInstruction>
+	
+	<MineSteel.text>Giờ cư dân sẽ nấu một ít thức ăn! Thật ngon miệng!\n\nTiếp theo, bạn muốn đào một ít khoáng sản. Tôi đã tái hiện vài mỏ thế gần căn cứ của bạn.\n\nLựa chọn chỉ định KHAI MỎ và kéo lên mỏ thế để chỉ định đào.</MineSteel.text>
+	<MineSteel.rejectInputMessage>Xin hãy sử dụng chỉ định 'khai mỏ' trên mỏ thép.</MineSteel.rejectInputMessage>
+	<MineSteel.onMapInstruction>Chỉ định tất cả thứ này\nđể khai khoáng</MineSteel.onMapInstruction>
+	
+	<ChopTrees.text>Bạn muốn thu hoạch một ít gỗ. Chỉ định ít cây cần chặt.\n\nLựa chọn chỉ định CHẶT CÂY và chỉ định 10 cây cần chặt.\n\n(Tip: Bạn có thể kéo một hộp trên những cái cây để chỉ định nhiều cây cùng lúc)</ChopTrees.text>
+	<ChopTrees.rejectInputMessage>Xin hãy kéo chỉ định 'chặt cây" trên những cái cây.</ChopTrees.rejectInputMessage>
+	
+	<OpenMainTabWork.text>Bạn có thể điều khiển cư dân thực hiện công việc gì.\n\nMở mục CÔNG VIỆC ở bên dưới màn hình.</OpenMainTabWork.text>
+	<OpenMainTabWork.rejectInputMessage>Xin hãy mở mục 'Công việc'.</OpenMainTabWork.rejectInputMessage>
+	
+	<ChangeWorkSettings.text>Bạn có thể điều khiển ai làm công việc gì bằng đánh dấu chọn. Cư dân sẽ làm nhiệm vụ theo lệnh, từ trái qua phải.\n\nThử đổi vài thiết lập ngay bây giờ.\n\nCoi chừng - Cư dân luôn theo ưu tiên công việc, kể cả khiến họ làm những việc ngu ngốc! Thiếp lập một chế độ công việc thông minh là chìa khóa cho sự thành công trong RimWorld. Vyậ nên hãy chỉnh công việc cẩn thận và xem chúng thường xuyên!</ChangeWorkSettings.text>
+	<ChangeWorkSettings.rejectInputMessage>Xin hãy mở mục 'Công việc' và thay đổi một vài thiết lập.</ChangeWorkSettings.rejectInputMessage>
+	
+	
+	
+	<BuildSimpleResearchBench.text>Để tân tiến, bạn cần nghiên cứu công nghệ mới.\n\nXây dựng một BÀN NGHIÊN CỨU ĐƠN GIẢN bằng gỗ trong phòng.</BuildSimpleResearchBench.text>
+	<BuildSimpleResearchBench.rejectInputMessage>Xin hãy đặt một bàn nghiên cứu đơn giản bằng gỗ trong phòng.</BuildSimpleResearchBench.rejectInputMessage>
+	<BuildSimpleResearchBench.onMapInstruction>Xây một bàn nghiên cứu đơn giản bằng gỗ\ntrong phòng</BuildSimpleResearchBench.onMapInstruction>
+	
+	<OpenMainTabResearch.text>Hoàn hảo! Kế tiếp, bạn muốn lựa chọn thứ gì sẽ nghiên cứu.\n\nMở mục NGHIÊN CỨU.</OpenMainTabResearch.text>
+	<OpenMainTabResearch.rejectInputMessage>Xin mở mục 'Nghiên cứu'.</OpenMainTabResearch.rejectInputMessage>
+	
+	<SelectResearchProject.text>Giờ chỉ việc lựa chọn điều gì bạn muốn nghiên cứu trước.\n\nBạn có thể phải đợi đến khi bàn nghiên cứu được xây dựng xong.\n\nNếu nó quá lâu, sử dụng mục CÔNG VIỆC để gán thêm cư dân làm Xây dựng.</SelectResearchProject.text>
+	<SelectResearchProject.rejectInputMessage>Xin hãy lựa chọn hạng mục nghiên cứu.</SelectResearchProject.rejectInputMessage>
+	
+	<ExpandAreaHome.text>Tiếp theo, bạn sẽ học về việc mở rộng KHU VỰC NHÀ CHÍNH.\n\nKhu vực nhà chính được tự động thêm khi bạn xây dựng mọi thứ - nhưng bạn cũng có thể chủ động mở rộng nó.\n\nLựa chọn công cụ MỞ RỘNG KHU VỰC NHÀ CHÍNH và kéo ra một khu vực mới trên bản đồ.</ExpandAreaHome.text>
+	<ExpandAreaHome.rejectInputMessage>Xin hãy mở rộng khu vực nhà chính một ít, dành cho bài học.</ExpandAreaHome.rejectInputMessage>
+	
+	<ExpandAreaBuildRoof.text>KHU VỰC XÂY MÁI chỉ định nơi cư dân sẽ cố xây mái nhà.\n\nMái tự động lợp khi bạn khép kín một căn phòng mới.\n\nLựa chọn công cụ MỞ RỘNG KHU VỰC XÂY MÁI và kéo ra hình dạng mái che phía trước ngôi nhà.</ExpandAreaBuildRoof.text>
+	<ExpandAreaBuildRoof.rejectInputMessage>Xin hãy mở rộng khu vực xây mái một ít, dành cho bài học.</ExpandAreaBuildRoof.rejectInputMessage>
+	
+	<BuildSandbags.text>Tuyệt lắm!Bạn đã học các vận hành cư dân đơn giản! Sau cùng, kẻ thù sẽ cướp phá thuộc địa của bạn. Đã đến lúc chuẩn bị cho việc đó.\n\nLựa chọn chỉ định BAO CÁT và kéo bao cát ra khu vực chỉ định.</BuildSandbags.text>
+	<BuildSandbags.rejectInputMessage>Xin hãy xây vài bao cát trong khu vực đánh dấu.</BuildSandbags.rejectInputMessage>
+	<BuildSandbags.onMapInstruction>Xây bao cát ở đây</BuildSandbags.onMapInstruction>
+	
+	<FinishSandbags.text>Nào cùng đợi xây xong tất cả công trình của bạn./n/nKhuyến nghị dùng mục CÔNG VIỆC để gắn thêm cư dân làm Xây dựng.\n\nBạn cũng có thẻ tăng tốc thời gian để ít phải chờ đợi hơn.\n\nKhi mọi thứ đã xây xong, tôi sẽ gửi một kẻ tấn công tới kiểm tra việc phòng thủ của bạn!</FinishSandbags.text>
+	<FinishSandbags.rejectInputMessage>Xin hãy đợi các cư dân hoàn thành xây dựng bao cát.</FinishSandbags.rejectInputMessage>
+	
+	<DownRaider.text>Tôi đã gửi một kẻ cướp tới tấn công thuộc địa của bạn!\n\n1. Tạm dừng trò chơi bằng cách nhấn {Key:TogglePause}.\n2. Đọc dòng chữ màu đỏ phía dưới bên phải màn hình.\n3. Chuyển các cư dân sang CHIẾN ĐẤU bằng việc lựa chọn họ và nhấn lệnh CHIẾN ĐẤU.\n4. Chuột phải để họ tới vị trí bên trong ô bao cát, chạm vào các bao cát.\n5. Tiếp tục trò chơi.\n\nCư dân cần chạm vào các vật thể che chắn để hưởng lợi ích đó. Một khi bạn được che chắn, hãy đợi cho tới khi kẻ tấn công xuất hiện. Cư dân sẽ tự động bắn.</DownRaider.text>
+	<DownRaider.onMapInstruction>Đưa cư dân tới đây\nchạm vào bao cát để che chắn</DownRaider.onMapInstruction>
+	
+	<UndraftAll.text>Thành công! Giờ hãy CỞI CHIẾN tất cả cư dân bằng việc sử dụng cùng lệnh trước đó.\n\nNó sẽ để họ quay về với lịch trình của họ.</UndraftAll.text>
+	
+	<ChooseStoryteller.text>Đây là kết thúc của bài hướng dẫn!\n\nCòn cả tấn thứ để học, bao gồm tù nhân, săn bắn, giao dịch, thuần hóa động vật, và nhiều thứ nữa. Nhưng bạn đã học được những bước cơ bản.\n\nThảm họa ngẫu nhiên đã được loại bỏ trong suốt bài hướng dẫn này. Để bắt đầu một trò chơi thực tế:\n\n1. Mở mục MENU ở góc dưới bên phải.\n2. Lựa chọn LỰA CHỌN.\3. nhấn LỰA CHỌN NGƯỜI DẪN CHUYỆN.\n4. Lựa chọn một người kể chuyện và mức độ khó khăn sẽ ảnh hưởng tới bạn.\n\nChúc may mắn, và có nhiều niềm vui.</ChooseStoryteller.text>
+	<ChooseStoryteller.rejectInputMessage>Xin hãy chuyển thành một người dẫn̉ chuyện bình thường để kết thúc bài hướng dẫn.</ChooseStoryteller.rejectInputMessage>
+	
+	</LanguageData>

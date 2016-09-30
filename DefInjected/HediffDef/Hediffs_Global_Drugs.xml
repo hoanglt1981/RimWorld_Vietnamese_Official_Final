@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AlcoholHigh.label>Rượu mạnh</AlcoholHigh.label>
+	<AlcoholHigh.stages.0.label>tiềm ẩn</AlcoholHigh.stages.0.label>
+	<AlcoholHigh.stages.1.label>ấm</AlcoholHigh.stages.1.label>
+	<AlcoholHigh.stages.2.label>say</AlcoholHigh.stages.2.label>
+	<AlcoholHigh.stages.3.label>say nặng</AlcoholHigh.stages.3.label>
+	<AlcoholHigh.stages.4.label>rất nặng</AlcoholHigh.stages.4.label>
+	<AlcoholHigh.stages.5.label>mù mờ</AlcoholHigh.stages.5.label>
+	<AlcoholAddiction.label>Nghiện rượu</AlcoholAddiction.label>
+	<AlcoholAddiction.stages.0.label>Rút lui</AlcoholAddiction.stages.0.label>
+	
+	<Hangover.label>Cồn</Hangover.label>
+	<Hangover.stages.0.label>nhẹ</Hangover.stages.0.label>
+	<Hangover.stages.1.label>nặng</Hangover.stages.1.label>
+	<Hangover.stages.2.label>đau nhói</Hangover.stages.2.label>
+
+	<WakeUpHigh.label>Cafe đậm đặc</WakeUpHigh.label>
+	<WakeUpTolerance.label>Tỉnh táo</WakeUpTolerance.label>
+	<WakeUpAddiction.label>Nghiện Cafe</WakeUpAddiction.label>
+	<WakeUpAddiction.stages.0.label>Rút lui</WakeUpAddiction.stages.0.label>
+	
+	<SmokeleafHigh.label>Thuốc lá</SmokeleafHigh.label>
+	<SmokeleafAddiction.label>Nghiện thuốc lá</SmokeleafAddiction.label>
+	<SmokeleafAddiction.stages.0.label>Rút lui</SmokeleafAddiction.stages.0.label>
+	
+	<FlakeHigh.label>Ma túy (Cần sa)</FlakeHigh.label>
+	<YayoHigh.label>Ma túy (Cocain)</YayoHigh.label>
+	<PsychiteAddiction.label>Nghiện may túy</PsychiteAddiction.label>
+	<PsychiteAddiction.stages.0.label>Rút lui</PsychiteAddiction.stages.0.label>
+	
+	<GoJuiceHigh.label>Nước tăng lực</GoJuiceHigh.label>
+	<GoJuiceAddiction.label>Nghiện nước tăng lực</GoJuiceAddiction.label>
+	<GoJuiceAddiction.stages.0.label>Rút lui</GoJuiceAddiction.stages.0.label>
+	
+	
+	<LuciferiumHigh.label>Cỏ Mỹ</LuciferiumHigh.label>
+	<LuciferiumAddiction.label>Nghiện cỏ Mỹ</LuciferiumAddiction.label>
+	<LuciferiumAddiction.stages.0.label>Không vừa lòng</LuciferiumAddiction.stages.0.label>
+	
+	<MalariBlockHigh.label>Thuốc sốt rét</MalariBlockHigh.label>
+	
+	
+	
+	
+</LanguageData>

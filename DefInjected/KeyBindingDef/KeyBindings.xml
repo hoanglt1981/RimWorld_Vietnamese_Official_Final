@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MapdịhUp.label>dịch lên</MapdịhUp.label>
+
+    <MapdịhDown.label>dịch xuống</MapdịhDown.label>
+
+    <MapdịhLeft.label>dịch trái</MapdịhLeft.label>
+
+    <MapdịhRight.label>dịch phải</MapdịhRight.label>
+
+    <MapZoomIn.label>phóng to</MapZoomIn.label>
+
+    <MapZoomOut.label>thu nhỏ</MapZoomOut.label>
+
+    <TakeScreenshot.label>chụp hình</TakeScreenshot.label>
+
+    <ToggleScreenshotMode.label>chuyển chế độ hình ảnh</ToggleScreenshotMode.label>
+
+    <SelectNextInCell.label>select next in cell</SelectNextInCell.label>
+
+    <TogglePause.label>tạm dừng/tiếp tục trò chơi</TogglePause.label>
+
+    <TimeSpeedNormal.label>tốc độ trò chơi: bình thường</TimeSpeedNormal.label>
+
+    <TimeSpeedFast.label>tốc độ trò chơi: nhanh</TimeSpeedFast.label>
+
+    <TimeSpeedSuperfast.label>tốc độ trò chơi: rất nhanh</TimeSpeedSuperfast.label>
+
+    <TimeSpeedUltrafast.label>tốc độ trò chơi: siêu nhanh (gỡ lỗi)</TimeSpeedUltrafast.label>
+
+    <PreviousColonist.label>cư dân trước</PreviousColonist.label>
+
+    <NextColonist.label>cư dân sau</NextColonist.label>
+
+    <Misc1.label>Misc 1</Misc1.label>
+
+    <Misc2.label>Misc 2</Misc2.label>
+
+    <Misc3.label>Misc 3</Misc3.label>
+
+    <Misc4.label>Misc 4</Misc4.label>
+
+    <Misc5.label>Misc 5</Misc5.label>
+
+    <Misc6.label>Misc 6</Misc6.label>
+
+    <Misc7.label>Misc 7</Misc7.label>
+
+    <Misc8.label>Misc 8</Misc8.label>
+
+    <Misc9.label>Misc 9</Misc9.label>
+
+    <Misc10.label>Misc 10</Misc10.label>
+
+    <Misc11.label>Misc 11</Misc11.label>
+
+    <Misc12.label>Misc 12</Misc12.label>
+
+    <CommandTogglePower.label>chuyển đổi điện</CommandTogglePower.label>
+
+    <CommandItemForbid.label>chuyển đổi nghiêm cấm</CommandItemForbid.label>
+
+    <CommandColonistDraft.label>chiến đấu</CommandColonistDraft.label>
+
+    <DesignatorCancel.label>hoãn</DesignatorCancel.label>
+
+    <DesignatorDeconstruct.label>phá dỡ</DesignatorDeconstruct.label>
+
+    <DesignatorRotateLeft.label>xoay trái</DesignatorRotateLeft.label>
+
+    <DesignatorRotateRight.label>xoay phải</DesignatorRotateRight.label>
+
+    <TickOnce.label>đánh dấu một lần</TickOnce.label>
+
+    <ToggleGodMode.label>chuyển đổi chế độ bất tử</ToggleGodMode.label>
+
+    <ToggleDebugLog.label>chuyển đổi bản ghi sửa lỗi</ToggleDebugLog.label>
+
+    <ToggleDebugActionsMenu.label>chuyển đổi mục hoạt động sửa lỗi</ToggleDebugActionsMenu.label>
+
+    <ToggleDebugLogMenu.label>chuyển đổi mục bản ghi sửa lỗi</ToggleDebugLogMenu.label>
+
+    <ToggleDebugInspector.label>chuyển đổi quan sát sửa lỗi</ToggleDebugInspector.label>
+
+    <ToggleDebugSettingsMenu.label>chuyển đổi mục tùy chỉnh sửa lỗi</ToggleDebugSettingsMenu.label>
+
+</LanguageData>

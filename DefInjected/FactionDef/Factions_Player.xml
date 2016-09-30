@@ -1,0 +1,12 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <PlayerColony.label>Thuộc địa</PlayerColony.label>
+    <PlayerColony.description>Là căn cứ của bạn</PlayerColony.description>
+    <PlayerColony.pawnsPlural>cư dân</PlayerColony.pawnsPlural>
+
+    <PlayerTribe.label>Bộ lạc</PlayerTribe.label>
+    <PlayerTribe.description>Là bộ lạc của bạn</PlayerTribe.description>
+    <PlayerTribe.pawnsPlural>thổ dân</PlayerTribe.pawnsPlural>
+
+</LanguageData>

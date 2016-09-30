@@ -1,0 +1,24 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Spacer.label>người vũ trụ</Spacer.label>
+    <Spacer.description>Người đến từ không gian khác.</Spacer.description>
+    <Spacer.pawnsPlural>người vũ trụ</Spacer.pawnsPlural>
+    <Spacer.fixedName>Người vũ trụ</Spacer.fixedName>
+
+    <SpacerHostile.label>người vũ trụ</SpacerHostile.label>
+    <SpacerHostile.description>Người đến từ không gian khác.</SpacerHostile.description>
+    <SpacerHostile.pawnsPlural>người vũ trụ</SpacerHostile.pawnsPlural>
+    <SpacerHostile.fixedName>Người vũ trụ</SpacerHostile.fixedName>
+
+    <Mechanoid.label>Sào huyệt máy móc</Mechanoid.label>
+    <Mechanoid.description>Một sào huyệt của sinh vật máy móc cổ xưa.</Mechanoid.description>
+    <Mechanoid.pawnsPlural>máy móc</Mechanoid.pawnsPlural>
+    <Mechanoid.fixedName>Một sào huyệt máy moc</Mechanoid.fixedName>
+
+    <Insect.label>Côn trùng</Insect.label>
+    <Insect.description>Côn trùng thông thường và dử tợn.</Insect.description>
+    <Insect.pawnsPlural>côn trùng</Insect.pawnsPlural>
+    <Insect.fixedName>côn trùng</Insect.fixedName>
+
+</LanguageData>

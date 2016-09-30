@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GutWorms.label>Giun sán</GutWorms.label>
+
+  <MuscleParasites.label>Kí sinh trùng</MuscleParasites.label>
+  <MuscleParasites.stages.0.label>nhẹ</MuscleParasites.stages.0.label>
+  <FibrousMechanites.label>Xơ cứng cơ</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>đau nhẹ</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>đau nặng</FibrousMechanites.stages.1.label>
+
+  <SensoryMechanites.label>Mất cảm giác</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>đau nhẹ</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>đau nặng</SensoryMechanites.stages.1.label>
+
+  <WoundInfection.label>Nhiễm trùng</WoundInfection.label>
+  <WoundInfection.stages.0.label>nhẹ</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>nặng</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>rất nặng</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>cực nặng</WoundInfection.stages.3.label>
+  <WoundInfection.stages.4.label>nghiêm trọng</WoundInfection.stages.4.label>
+
+  <Flu.label>Cúm</Flu.label>
+  <Flu.stages.0.label>tiềm ẩn</Flu.stages.0.label>
+  <Flu.stages.1.label>nhẹ</Flu.stages.1.label>
+  <Flu.stages.2.label>nặng</Flu.stages.2.label>
+  <Flu.stages.3.label>rất nặng</Flu.stages.3.label>
+  <Flu.stages.4.label>nghiêm trọng</Flu.stages.4.label>
+
+  <Plague.label>Bệnh dịch</Plague.label>
+  <Plague.stages.0.label>nhẹ</Plague.stages.0.label>
+  <Plague.stages.1.label>nhẹ</Plague.stages.1.label>
+  <Plague.stages.2.label>nặng</Plague.stages.2.label>
+  <Plague.stages.3.label>rất nặng</Plague.stages.3.label>
+  <Plague.stages.4.label>cực nặng</Plague.stages.4.label>
+  <Plague.stages.5.label>nghiêm trọng</Plague.stages.5.label>
+
+  <Malaria.label>Sốt rét</Malaria.label>
+  <Malaria.stages.0.label>nhẹ</Malaria.stages.0.label>
+  <Malaria.stages.1.label>nhẹ</Malaria.stages.1.label>
+  <Malaria.stages.2.label>nặng</Malaria.stages.2.label>
+  <Malaria.stages.3.label>nghiêm trọng</Malaria.stages.3.label>
+  <Malaria.stages.4.label>nghiêm trọng</Malaria.stages.4.label>
+
+  <SleepingSickness.label>Ốm ngủ</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>tiềm ẩn</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>nhẹ</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>nhẹ</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>nặng</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>nghiêm trọng</SleepingSickness.stages.4.label>
+  <SleepingSickness.stages.5.label>nghiêm trọng</SleepingSickness.stages.5.label>
+  <SleepingSickness.stages.6.label>nghiêm trọng</SleepingSickness.stages.6.label>
+
+</LanguageData>

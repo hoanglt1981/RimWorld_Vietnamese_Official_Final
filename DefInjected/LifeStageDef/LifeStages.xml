@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MechanoidFullyFormed.label>hoàn chỉnh</MechanoidFullyFormed.label>
+
+    <HumanlikeBaby.label>sơ sinh</HumanlikeBaby.label>
+
+    <HumanlikeToddler.label>tập đi</HumanlikeToddler.label>
+
+    <HumanlikeChild.label>trẻ con</HumanlikeChild.label>
+
+    <HumanlikeTeenager.label>thiếu niên</HumanlikeTeenager.label>
+	<HumanlikeTeenager.adjective>niên thiếu.</HumanlikeTeenager.adjective>
+    <HumanlikeAdult.label>trưởng thành</HumanlikeAdult.label>
+
+    <EusocialInsectLarva.label>sâu</EusocialInsectLarva.label>
+
+    <EusocialInsectJuvenile.label>non</EusocialInsectJuvenile.label>
+
+    <EusocialInsectAdult.label>trưởng thành</EusocialInsectAdult.label>
+
+    <AnimalBaby.label>sơ sinh</AnimalBaby.label>
+
+    <AnimalJuvenile.label>thiếu niên</AnimalJuvenile.label>
+
+    <AnimalAdult.label>trưởng thành</AnimalAdult.label>
+
+</LanguageData>

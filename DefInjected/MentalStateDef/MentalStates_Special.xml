@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Special mental states -->
+
+  <WanderConfused.label>Lang thang khó hiểu</WanderConfused.label>
+  <WanderConfused.beginLetterLabel>Bối rối</WanderConfused.beginLetterLabel>
+  <WanderConfused.beginLetter>{0} trở suy sụp và đang đi lang thang xung quanh đầy khó hiểu.</WanderConfused.beginLetter>
+  <WanderConfused.recoveryMessage>{0} không còn bối rối nữa.</WanderConfused.recoveryMessage>
+  <WanderConfused.baseInspectLine>Trạng thái: Bối rối và đi lang thang</WanderConfused.baseInspectLine>
+
+  <PanicFlee.label>Chạy hoảng loạn</PanicFlee.label>
+  <PanicFlee.beginLetterLabel>Chạy</PanicFlee.beginLetterLabel>
+  <PanicFlee.beginLetter>{0} đang chạy trong hoảng loạn.</PanicFlee.beginLetter>
+  <PanicFlee.recoveryMessage>{0} không còn bỏ chạy hoảng loạn nữa.</PanicFlee.recoveryMessage>
+  <PanicFlee.baseInspectLine>Trạng thái: Chạy hoảng loạn</PanicFlee.baseInspectLine>
+
+  <Manhunter.label>Săn người</Manhunter.label>
+  <Manhunter.beginLetterLabel>Săn người</Manhunter.beginLetterLabel>
+  <Manhunter.beginLetter>{0} trở thanh một kẻ săn người.</Manhunter.beginLetter>
+  <Manhunter.recoveryMessage>Cơn khát máu của {0} đã qua.</Manhunter.recoveryMessage>
+  <Manhunter.baseInspectLine>Giận dữ: Săn người</Manhunter.baseInspectLine>
+
+  <SocialFighting.label>Đánh lộn</SocialFighting.label>
+  <SocialFighting.recoveryMessage>{0} và {1} đã đánh lộn với nhau.</SocialFighting.recoveryMessage>
+  <SocialFighting.baseInspectLine>Trạng thái: Đánh lộn</SocialFighting.baseInspectLine>
+
+</LanguageData>

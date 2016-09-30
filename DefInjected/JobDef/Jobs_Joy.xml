@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Meditative -->
+
+  <Skygaze.reportString>ngắm bầu trời.</Skygaze.reportString>
+  <Meditate.reportString>suy nghĩ.</Meditate.reportString>
+  <Pray.reportString>cầu nguyện.</Pray.reportString>
+  <GoForWalk.reportString>đi dạo.</GoForWalk.reportString>
+  <BuildSnowman.reportString>đắp người tuyết.</BuildSnowman.reportString>
+  <VisitGrave.reportString>viếng mộ.</VisitGrave.reportString>
+  <ViewArt.reportString>thưởng thức nghệ thuật.</ViewArt.reportString>
+
+  <!-- Social -->
+
+  <SocialRelax.reportString>giao tiếp vui vẻ.</SocialRelax.reportString>
+  <VisitSickPawn.reportString>cổ vũ tinh thần bệnh nhân TargetA.</VisitSickPawn.reportString>
+
+  <!-- Building interaction -->
+
+  <PlayHorseshoes.reportString>chơi trò móng ngựa.</PlayHorseshoes.reportString>
+  <PlayChess.reportString>chơi cờ.</PlayChess.reportString>
+  <PlayBilliards.reportString>chơi bi-a.</PlayBilliards.reportString>
+  <WatchTelevision.reportString>xem tivi.</WatchTelevision.reportString>
+  <UseTelescope.reportString>sử dụng kính thiên văn.</UseTelescope.reportString>
+
+</LanguageData>

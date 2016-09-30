@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <WorldCameraMovement.label>Di chuyển camera xem bản đồ</WorldCameraMovement.label>
+    <WorldCameraMovement.helpText>Phóng to với LĂN CHUỘT hoặc phím {Key:MapZoomIn} và {Key:MapZoomOut}.\n\nDi chuyển với các phím {Key:MapDollyUp}-{Key:MapDollyLeft}-{Key:MapDollyDown}-{Key:MapDollyRight} , hoặc GIỮ CHUỘT GIỮA và KÉO.</WorldCameraMovement.helpText>
+
+</LanguageData>

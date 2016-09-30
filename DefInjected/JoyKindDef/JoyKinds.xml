@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Work.label>làm việc</Work.label>
+  <Meditative.label>trầm tư</Meditative.label>
+  <Lewd.label>dâm dục</Lewd.label>
+  <Social.label>giao tiếp</Social.label>
+  <Chemical.label>hóa học</Chemical.label>
+  <Gluttonous.label>tham ăn</Gluttonous.label>
+  <GamingDexterity.label>chơi game khéo léo</GamingDexterity.label>
+  <GamingCerebral.label>chơi game nhanh nhạy</GamingCerebral.label>
+  <Passive.label>bị động</Passive.label>
+  <Study.label>học tập</Study.label>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Deterioration.label>Biến chất</Deterioration.label>
+
+    <Mining.label>Khai khoáng</Mining.label>
+
+    <Rotting.label>Hư thối</Rotting.label>
+
+    <Extinguish.label>Dập tắt</Extinguish.label>
+
+    <Stun.label>Choáng</Stun.label>
+    <Stun.deathMessage>{0} bị choáng tới chết.</Stun.deathMessage>
+
+    <EMP.label>Điện từ</EMP.label>
+    <EMP.deathMessage>{0} bị điện từ giết chết.</EMP.deathMessage>
+
+</LanguageData>

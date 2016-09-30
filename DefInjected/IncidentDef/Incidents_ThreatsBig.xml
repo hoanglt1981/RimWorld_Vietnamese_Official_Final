@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RaidEnemy.label>Kẻ thù đánh cướp</RaidEnemy.label>
+
+    <Infestation.label>Côn trùng xuất hiện</Infestation.label>
+    <Infestation.letterLabel>Phá hoại</Infestation.letterLabel>
+    <Infestation.letterText>Một ổ côn trùng xâm nhập!\n\nHãy hủy diệt nó ngay trước khi nó lan thành nhiều tổ khác và sinh ra côn trùng xâm chiếm mọi nơi. Hãy coi chừng vì côn trùng sẽ bảo vệ tổ của nó.</Infestation.letterText>
+
+    <ManhunterPack.label>Thú săn người</ManhunterPack.label>
+
+    <PsychicEmanatorShipPartCrash.label>Mảnh vỡ phi thuyền(thần kinh)</PsychicEmanatorShipPartCrash.label>
+    <PsychicEmanatorShipPartCrash.letterLabel>Mảnh vỡ phi thuyền(thần kinh)</PsychicEmanatorShipPartCrash.letterLabel>
+    <PsychicEmanatorShipPartCrash.letterText>Một mảnh vỡ lớn từ phi thuyền cổ đại vừa rồi xuống.\n\nNó khiến cư dân cảm thấy khó chịu và có hành động khó hiểu. Đó là do nó có AI nhân tạo với khả năng phát xung kích thích thần kinh.\n\nHãy hủy diệt nó ngay. Nhưng coi chừng - AI kia không thân thiện đâu!</PsychicEmanatorShipPartCrash.letterText>
+
+    <PoisonShipPartCrash.label>Mảnh vỡ phi thuyền(độc tố)</PoisonShipPartCrash.label>
+    <PoisonShipPartCrash.letterLabel>Mảnh vỡ phi thuyền(độc tố)</PoisonShipPartCrash.letterLabel>
+    <PoisonShipPartCrash.letterText>Một mảnh vỡ lớn từ phi thuyền cổ đại vừa rồi xuống.\n\nNó đang tỏa ra khí độc phóng xạ giết hại những sinh vật xung quanh.\n\nHãy hủy diệt nó ngay.</PoisonShipPartCrash.letterText>
+
+    <AnimalInsanityMass.label>Bầy thú nổi điên</AnimalInsanityMass.label>
+
+</LanguageData>

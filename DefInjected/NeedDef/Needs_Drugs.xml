@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+	<Chemical_WakeUp.label>Coffe</Chemical_WakeUp.label>
+    <Chemical_WakeUp.description>Bởi vì nghiện nên nễn phải sử dụng chất này thường xuyên. Việc cai nghiện cần thời gian dài cấm sử dụng.</Chemical_WakeUp.description>    
+	
+	<Chemical_Smokeleaf.label>Thuốc lá</Chemical_Smokeleaf.label>
+    <Chemical_Smokeleaf.description>Bởi vì nghiện nên nễn phải sử dụng chất này thường xuyên. Việc cai nghiện cần thời gian dài cấm sử dụng.</Chemical_Smokeleaf.description>    
+	
+	<Chemical_Psychite.label>Thuốc phiện</Chemical_Psychite.label>
+    <Chemical_Psychite.description>Bởi vì nghiện nên nễn phải sử dụng chất này thường xuyên. Việc cai nghiện cần thời gian dài cấm sử dụng.</Chemical_Psychite.description>    
+	
+	<Chemical_GoJuice.label>Nước tăng lực</Chemical_GoJuice.label>
+    <Chemical_GoJuice.description>Bởi vì nghiện nên nễn phải sử dụng chất này thường xuyên. Việc cai nghiện cần thời gian dài cấm sử dụng.</Chemical_GoJuice.description>    
+	
+	<Chemical_Alcohol.label>Rượu</Chemical_Alcohol.label>
+    <Chemical_Alcohol.description>Bởi vì nghiện nên nễn phải sử dụng chất này thường xuyên. Việc cai nghiện cần thời gian dài cấm sử dụng.</Chemical_Alcohol.description>    
+	
+	<Chemical_Luciferium.label>Cỏ mỹ</Chemical_Luciferium.label>
+    <Chemical_Luciferium.description>Cơ thể được cải thiện bằng cách sử dụng cỏ Mỹ.\n\nViệc sử dụng chất ma túy này thường xuyên khiến các cơ bắp mất dần sức lực, khiến người nghiện sẽ nổi điên và hung hăng cho đến chết.\n\nHoàn toàn không có cách cai nghiện chất này.</Chemical_Luciferium.description>    
+	
+	
+</LanguageData>

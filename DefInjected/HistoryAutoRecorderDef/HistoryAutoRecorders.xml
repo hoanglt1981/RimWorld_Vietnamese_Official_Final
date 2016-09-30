@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <WealthTotal.label>Giàu có</WealthTotal.label>
+
+    <WealthItems.label>Giàu có(vật phẩm)</WealthItems.label>
+
+    <WealthBuildings.label>Giàu có(công trình)</WealthBuildings.label>
+
+    <FreeColonists.label>Cư dân tự do</FreeColonists.label>
+
+    <Prisoners.label>Tù nhân</Prisoners.label>
+
+    <ColonistMood.label>Tâm trạng cư dân</ColonistMood.label>
+
+</LanguageData>

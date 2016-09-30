@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ShipChunkDrop.label>Mảnh vỡ phi thuyền</ShipChunkDrop.label>
+
+    <OrbitalTraderArrival.label>Lái buôn hành tinh</OrbitalTraderArrival.label>
+
+    <TraderCaravanArrival.label>Thương nhân</TraderCaravanArrival.label>
+
+    <VisitorGroup.label>Nhóm du khách</VisitorGroup.label>
+
+    <TravelerGroup.label>Nhóm lữ hành</TravelerGroup.label>
+
+    <ResourcePodCrash.label>Khoang tài nguyên</ResourcePodCrash.label>
+
+    <RaidFriendly.label>Cướp phá hữu nghị</RaidFriendly.label>
+
+    <WandererJoin.label>Dân du mục gia nhập</WandererJoin.label>
+
+    <RefugeePodCrash.label>Khoang thoát hiểm</RefugeePodCrash.label>
+
+    <PsychicSoothe.label>Xung xoa dịu thần kinh</PsychicSoothe.label>
+
+    <SelfTame.label>Tự thuần hóa</SelfTame.label>
+
+    <FarmAnimalsWanderIn.label>Động vật lang thang vào</FarmAnimalsWanderIn.label>
+
+</LanguageData>

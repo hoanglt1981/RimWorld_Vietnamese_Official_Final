@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <TradeGoodsMustBeNearBeacon.label>Hàng hóa giao dịch và radar giao dịch</TradeGoodsMustBeNearBeacon.label>
+    <TradeGoodsMustBeNearBeacon.helpText>Muốn gửi đồ hoặc tiền cho lái buôn quĩ đạo, bạn cần xây dựng một RADAR GIAO DỊCH QUĨ ĐẠO và đặt một bãi chứa vật liệu ở gần nó.</TradeGoodsMustBeNearBeacon.helpText>
+
+    <ArrestingCreatesEnemies.label>Bắt giữ khiến mối quan hệ phe phái rất tệ</ArrestingCreatesEnemies.label>
+    <ArrestingCreatesEnemies.helpText>Cảnh báo: Người mà bạn đang có bắt giữ sẽ không chịu im lặng.\n\nNếu bạn bắt giữ một người không phải cư dân, toàn bộ phe của họ sẽ trở thành kẻ thù với bạn.</ArrestingCreatesEnemies.helpText>
+
+    <SwitchFlickingDesignation.label>Chỉ định gạt công tác chỉ là sự chỉ định</SwitchFlickingDesignation.label>
+    <SwitchFlickingDesignation.helpText>Ghi chú: Việc này chỉ là sự chỉ định rằng cư dân sẽ gạt công tắc.\n\nKhông có gì thực sự xảy ra cho đến khi cư dân (được phân công Gạt công tắc ở mục Công việc) tới và gạt công tắc bằng tay.</SwitchFlickingDesignation.helpText>
+
+</LanguageData>

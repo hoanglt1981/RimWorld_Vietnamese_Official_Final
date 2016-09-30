@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Head.label>Đầu</Head.label>
+  <Skull.label>Sọ</Skull.label>
+  <Brain.label>Não</Brain.label>
+  <LeftEye.label>Mắt trái</LeftEye.label>
+  <RightEye.label>Mắt phải</RightEye.label>
+  <LeftEar.label>Tai trái</LeftEar.label>
+  <RightEar.label>Tai phải</RightEar.label>
+  <Nose.label>Mũi</Nose.label>
+  <Jaw.label>Hàm</Jaw.label>
+  <Neck.label>Cổ</Neck.label>
+  <Rib.label>Xương sườn</Rib.label>
+  <Spine.label>Xương sống</Spine.label>
+  <LeftLeg.label>Chân trái</LeftLeg.label>
+  <LeftFoot.label>Bàn chân trái</LeftFoot.label>
+  <RightLeg.label>Chân phải</RightLeg.label>
+  <RightFoot.label>Bàn chân phải</RightFoot.label>
+
+</LanguageData>

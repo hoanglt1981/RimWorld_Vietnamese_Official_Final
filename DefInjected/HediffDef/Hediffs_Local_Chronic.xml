@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BadBack.label>Đau lưng</BadBack.label>
+  <Frail.label>Yếu ớt</Frail.label>
+  <Cataract.label>Đục thủy tinh thể</Cataract.label>
+  <HearingLoss.label>Khiếm thính</HearingLoss.label>
+  <Dementia.label>Lú lẫn</Dementia.label>
+
+  <Alzheimers.label>Liệt rung</Alzheimers.label>
+  <Alzheimers.stages.0.label>rất nhẹ</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>nhẹ</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>nặng</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>nghiêm trọng</Alzheimers.stages.3.label>
+
+  <Asthma.label>Hen suyễn</Asthma.label>
+  <Asthma.stages.0.label>nhẹ</Asthma.stages.0.label>
+  <Asthma.stages.1.label>tương đối</Asthma.stages.1.label>
+  <Asthma.stages.2.label>nặng</Asthma.stages.2.label>
+
+  <HeartArteryBlockage.label>Tắc mạch vành</HeartArteryBlockage.label>
+  <HeartArteryBlockage.stages.0.label>rất nhẹ</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>nhẹ</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>tương đối</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>nặng</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>rất nặng</HeartArteryBlockage.stages.4.label>
+  <HeartArteryBlockage.stages.5.label>nghiêm trọng</HeartArteryBlockage.stages.5.label>
+
+  <Carcinoma.label>Ung thư da</Carcinoma.label>
+  <Carcinoma.stages.0.label>rất nhẹ</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>nhẹ</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>tương đối</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>nặng</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>rất nặng</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>nghiêm trọng</Carcinoma.stages.5.label>
+
+</LanguageData>

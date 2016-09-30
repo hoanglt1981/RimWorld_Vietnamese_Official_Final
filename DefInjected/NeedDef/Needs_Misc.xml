@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Mood.label>Tâm trạng</Mood.label>
+    <Mood.description>Thể hiện mức độ hạnh phúc hay căng thẳng của một người. Nếu tâm trạng quá thấp sẽ dễ dẫn đến sự điên loạn.</Mood.description>
+
+    <Food.label>Thức ăn</Food.label>
+    <Food.description>Là khối lượng dinh dưỡng sinh vật tiêu thụ thường xuyên. Nếu thức ăn hết, cơn đói sẽ hành hạ liên tục</Food.description>
+
+    <Rest.label>Nghỉ ngơi</Rest.label>
+    <Rest.description>Là số lần sinh vật cần ngủ hàng ngày.</Rest.description>
+
+    <Joy.label>Vui vẻ</Joy.label>
+    <Joy.description>Vui vẻ thể hiện việc cần làm trong suốt thời gian. Hãy nhớ việc lặp lại các hành động sẽ làm giảm sự vui vẻ.</Joy.description>
+
+    <Beauty.label>Thẩm mỹ</Beauty.label>
+    <Beauty.description>Phản ánh cảm nhận của một người về quang cảnh xung quanh.</Beauty.description>
+
+    <Comfort.label>Thoải mái</Comfort.label>
+    <Comfort.description>Nhận được từ việc nằm ngồi trên những đồ đạc cao cấp.</Comfort.description>
+
+    <Space.label>Không gian</Space.label>
+    <Space.description>Phản ánh sự cảm nhận sự tự do di chuyển. Sẽ có hại nếu liên tục hoạt động trong một căn phòng chật hẹp.</Space.description>
+
+</LanguageData>

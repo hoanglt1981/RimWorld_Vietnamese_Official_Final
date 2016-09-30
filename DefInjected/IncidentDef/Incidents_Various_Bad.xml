@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Eclipse.label>Nhật thực</Eclipse.label>
+    <Eclipse.letterLabel>Nhật thực</Eclipse.letterLabel>
+    <Eclipse.letterText>Một trong những mặt trăng đã che lấp mặt trời. Nhật thực đã bắt đầu.</Eclipse.letterText>
+
+    <SolarFlare.label>Bão từ</SolarFlare.label>
+    <SolarFlare.letterLabel>Bão từ</SolarFlare.letterLabel>
+    <SolarFlare.letterText>Một trận bão từ đã bắt đầu.\n\nCác xung điện từ sẽ làm tê liệt hoạt động của tất cả thiết bị điện tử.\n\nHiện tượng này sẽ chấm dứt sau 1 ngày.</SolarFlare.letterText>
+
+    <PsychicDrone.label>Xung kích thích thần kinh</PsychicDrone.label>
+
+    <ToxicFallout.label>Bụi phóng xạ</ToxicFallout.label>
+    <ToxicFallout.letterLabel>Bụi phóng xạ</ToxicFallout.letterLabel>
+    <ToxicFallout.letterText>Một vụ cháy hóa chất ở xa đã phát tán lượng lớn độc tố lên toàn khu vực.\n\nTất cả sinh vật không được che chắn sẽ đau ốm vì độc tốc tích tụ trong cơ thể.\n\nThảm hỏa nãy sẽ diễn ra bất cứ đâu trong thời gian vài ngày, có thể cả tháng.</ToxicFallout.letterText>
+
+    <VolcanicWinter.label>Núi lửa mùa đông</VolcanicWinter.label>
+    <VolcanicWinter.letterLabel>Núi lửa mùa đông</VolcanicWinter.letterLabel>
+    <VolcanicWinter.letterText>Một núi lửa lớn ở xa đã hoạt động và phun ra hàng trăm kilômet khối bụi vào không khí.\n\nLớp bụi này sẽ che khuất mặt trời, khiến cho nhiệt độ giảm mạnh trong vài tuần, thậm chí vài tháng.</VolcanicWinter.letterText>
+
+    <HeatWave.label>Sóng nhiệt</HeatWave.label>
+    <HeatWave.letterLabel>Sóng nhiệt</HeatWave.letterLabel>
+    <HeatWave.letterText>Một sóng nhiệt bất thường xuất hiện. Hãy coi chừng những trận đột quỵ.</HeatWave.letterText>
+
+    <ColdSnap.label>Rét đột ngột</ColdSnap.label>
+    <ColdSnap.letterLabel>Rét đột ngột</ColdSnap.letterLabel>
+    <ColdSnap.letterText>Một trận rét đột ngột xuất hiện bất ngờ. Hãy coi chừng những trận cảm lạnh và thực vật chết rét.</ColdSnap.letterText>
+
+    <Flashstorm.label>Giông tố</Flashstorm.label>
+    <Flashstorm.letterLabel>Giông tố</Flashstorm.letterLabel>
+    <Flashstorm.letterText>Một lượng sét cực mạnh đang đánh xuống một khu nhỏ. Nó có thể dẫn tới cháy lan rộng.</Flashstorm.letterText>
+
+    <ShortCircuit.label>Đảo mạch</ShortCircuit.label>
+
+    <CropBlight.label>Mất mùa</CropBlight.label>
+
+    <Alphabeavers.label>Bầy hải ly</Alphabeavers.label>
+
+</LanguageData>

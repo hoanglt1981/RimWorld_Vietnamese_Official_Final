@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- torso for animals -->
+
+  <Body.label>Cơ thể</Body.label>
+  <Beak.label>Mỏ</Beak.label>
+  <InsectHead.label>Đầu</InsectHead.label>
+  <SnakeBody.label>Thân</SnakeBody.label>
+  <SnakeHead.label>Đầu</SnakeHead.label>
+  <SnakeMouth.label>Miệng</SnakeMouth.label>
+  <InsectHeart.label>Tim</InsectHeart.label>
+  <InsectNostril.label>Mũi</InsectNostril.label>
+  <InsectMouth.label>Miệng</InsectMouth.label>
+  <Jowl.label>Hàm</Jowl.label>
+  <Tail.label>Đuôi</Tail.label>
+  <LeftAntenna.label>Râu trái</LeftAntenna.label>
+  <RightAntenna.label>Râu phải</RightAntenna.label>
+  <Pronotum.label>Halsschild</Pronotum.label>
+  <Shell.label>Mai</Shell.label>
+  <LeftElytra.label>Cánh trái</LeftElytra.label>
+  <RightElytra.label>Cánh phải</RightElytra.label>
+  <LeftTusk.label>Nanh trái</LeftTusk.label>
+  <RightTusk.label>Nanh phải</RightTusk.label>
+  <Trunk.label>Thân</Trunk.label>
+  <Horn.label>Sừng</Horn.label>
+  <HeadClaw.label>Đầu vuốt</HeadClaw.label>
+  <Hump.label>Bướu</Hump.label>
+  <TurtleShell.label>Giáp</TurtleShell.label>
+  <Plastron.label>Yếm</Plastron.label>
+  <TurtleBeak.label>Mỏ rùa</TurtleBeak.label>
+
+  <!-- animals legs -->
+
+  <FrontLeftLeg.label>Chân trước trái</FrontLeftLeg.label>
+  <FrontRightLeg.label>Chân trước phải</FrontRightLeg.label>
+  <MiddleLeftLeg.label>Chân giữa trái</MiddleLeftLeg.label>
+  <MiddleRightLeg.label>Chân giữa phải</MiddleRightLeg.label>
+  <RearLeftLeg.label>Chân sau trái</RearLeftLeg.label>
+  <RearRightLeg.label>Chân sau phải</RearRightLeg.label>
+
+  <FrontLeftInsectLeg.label>Chân trước trái</FrontLeftInsectLeg.label>
+  <FrontRightInsectLeg.label>Chân trước phải</FrontRightInsectLeg.label>
+  <MiddleLeftInsectLeg.label>Chân giữa trái</MiddleLeftInsectLeg.label>
+  <MiddleRightInsectLeg.label>Chân giữa phải</MiddleRightInsectLeg.label>
+  <RearLeftInsectLeg.label>Chân sau trái</RearLeftInsectLeg.label>
+  <RearRightInsectLeg.label>Chân sau phải</RearRightInsectLeg.label>
+
+  <FrontLeftPaw.label>Vuốt trước trái</FrontLeftPaw.label>
+  <FrontRightPaw.label>Vuốt trước phải</FrontRightPaw.label>
+  <RearLeftPaw.label>Vuốt sau trái</RearLeftPaw.label>
+  <RearRightPaw.label>Vuốt sau phải</RearRightPaw.label>
+  <FrontLeftHoof.label>Móng trước trái</FrontLeftHoof.label>
+  <FrontRightHoof.label>Móng trước phải</FrontRightHoof.label>
+  <RearLeftHoof.label>Móng sau trái</RearLeftHoof.label>
+  <RearRightHoof.label>Móng sau phải</RearRightHoof.label>
+
+  <FrontLeftLegFirstClaw.label>Vuốt thứ nhất chân trái trước</FrontLeftLegFirstClaw.label>
+  <FrontLeftLegSecondClaw.label>Vuốt thứ hai chân trái trước</FrontLeftLegSecondClaw.label>
+  <FrontLeftLegThirdClaw.label>Vuốt thứ ba chân trái trước</FrontLeftLegThirdClaw.label>
+  <FrontLeftLegFourthClaw.label>Vuốt thứ tư chân trái trước</FrontLeftLegFourthClaw.label>
+  <FrontLeftLegFifthClaw.label>Vuốt thứ năm chân trái trước</FrontLeftLegFifthClaw.label>
+  <FrontRightLegFirstClaw.label>Vuốt thứ nhất chân phải trước</FrontRightLegFirstClaw.label>
+  <FrontRightLegSecondClaw.label>Vuốt thứ hai chân phải trước</FrontRightLegSecondClaw.label>
+  <FrontRightLegThirdClaw.label>Vuốt thứ ba chân phải trước</FrontRightLegThirdClaw.label>
+  <FrontRightLegFourthClaw.label>Vuốt thứ tư chân phải trước</FrontRightLegFourthClaw.label>
+  <FrontRightLegFifthClaw.label>Vuốt thứ năm chân phải trước</FrontRightLegFifthClaw.label>
+
+  <RearLeftLegFirstClaw.label>Vuốt thứ nhất chân trái sau</RearLeftLegFirstClaw.label>
+  <RearLeftLegSecondClaw.label>Vuốt thứ hai chân trái sau</RearLeftLegSecondClaw.label>
+  <RearLeftLegThirdClaw.label>Vuốt thứ ba chân trái sau</RearLeftLegThirdClaw.label>
+  <RearLeftLegFourthClaw.label>Vuốt thứ tư chân trái sau</RearLeftLegFourthClaw.label>
+  <RearLeftLegFifthClaw.label>Vuốt thứ năm chân trái sau</RearLeftLegFifthClaw.label>
+  <RearRightLegFirstClaw.label>Vuốt thứ nhất chân phải sau</RearRightLegFirstClaw.label>
+  <RearRightLegSecondClaw.label>Vuốt thứ hai chân phải sau</RearRightLegSecondClaw.label>
+  <RearRightLegThirdClaw.label>Vuốt thứ ba chân phải sau</RearRightLegThirdClaw.label>
+  <RearRightLegFourthClaw.label>Vuốt thứ tư chân phải sau</RearRightLegFourthClaw.label>
+  <RearRightLegFifthClaw.label>Vuốt thứ năm chân phải sau</RearRightLegFifthClaw.label>
+
+</LanguageData>

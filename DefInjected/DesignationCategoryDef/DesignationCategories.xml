@@ -1,0 +1,40 @@
+<?xml  version="1.0"  encoding="utf-8"?>
+<LanguageData>
+
+    <Orders.label>Lệnh</Orders.label>
+    <Orders.description>Chỉ định một tương tác đặc biệt với một thứ đặc biệt.</Orders.description>
+
+    <Zone.label>Khu vực</Zone.label>
+    <Zone.description>CHỉ định khu vực hoạt động thường xuyên của cư dân.</Zone.description>
+
+    <Structure.label>Công trình</Structure.label>
+    <Structure.description>Công trình kiến trúc như tường và dây diện.</Structure.description>
+
+    <Production.label>Sản xuất</Production.label>
+    <Production.description>Công trình dùng chế biến thức ăn.</Production.description>
+
+    <Furniture.label>Đồ đạc</Furniture.label>
+    <Furniture.description>Những kiến trúc nhỏ.</Furniture.description>
+
+    <Power.label>Điện năng</Power.label>
+    <Power.description>Phát điện, truyền điện và quản lý điện.</Power.description>
+
+    <Security.label>Bảo vệ</Security.label>
+    <Security.description>Công trình bảo vệ và chiến đấu.</Security.description>
+
+    <Misc.label>Khác</Misc.label>
+    <Misc.description>Những kiến trúc khác.</Misc.description>
+
+    <Floors.label>Sàn nhà</Floors.label>
+    <Floors.description>Vật liệu mặt sàn.</Floors.description>
+
+    <Joy.label>Vui vẻ</Joy.label>
+    <Joy.description>Những thứ giải trí thú vị mà cư dân ưu thích</Joy.description>
+
+    <Ship.label>Phi thuyền</Ship.label>
+    <Ship.description>Linh kiện cho tàu thoát nạn</Ship.description>
+
+    <Temperature.label>Nhiệt độ</Temperature.label>
+    <Temperature.description>Thiết bị điều chỉnh nhiệt độ.</Temperature.description>
+
+</LanguageData>

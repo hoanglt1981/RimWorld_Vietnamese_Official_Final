@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Item hauling -->
+
+  <HaulToCell.reportString>vận chuyển TargetA.</HaulToCell.reportString>
+  <HaulToContainer.reportString>vận chuyển TargetA.</HaulToContainer.reportString>
+  
+  <!--============= Special hauling ===============-->
+  
+  <Steal.reportString>đánh cắp TargetA.</Steal.reportString>
+  <Kidnap.reportString>bắt cóc TargetA.</Kidnap.reportString>
+
+  <!-- Pawn hauling -->
+
+  <Rescue.reportString>cứu giúp TargetA.</Rescue.reportString>
+  <CarryToCryptosleepCasket.reportString>mang TargetA tới buồng ngủ đông.</CarryToCryptosleepCasket.reportString>
+  <Capture.reportString>bắt giữ TargetA.</Capture.reportString>
+  <Arrest.reportString>bắt giam TargetA gefangen.</Arrest.reportString>
+  <ReleasePrisoner.reportString>thả TargetA.</ReleasePrisoner.reportString>
+  <EscortPrisonerToBed.reportString>hộ tống TargetA tới giường.</EscortPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>mang tù nhân TargetA bị thương về giường.</TakeWoundedPrisonerToBed.reportString>
+  <TakeToBedToOperate.reportString>đưa TargetA đến giường bệnh.</TakeToBedToOperate.reportString>
+
+  <!-- Animal handling -->
+
+  <Slaughter.reportString>làm thịt TargetA.</Slaughter.reportString>
+  <Shear.reportString>vắt sữa của TargetA.</Shear.reportString>
+  <Milk.reportString>xén lông TargetA.</Milk.reportString>
+  <Tame.reportString>thuần hóa TargetA.</Tame.reportString>
+  <Train.reportString>huấn luyện TargetA.</Train.reportString>
+
+
+  <!-- Construction and repair -->
+  
+  <PlaceNoCostFrame.reportString>xây dựng TargetA.</PlaceNoCostFrame.reportString>
+  <FinishFrame.reportString>xây dựng TargetA.</FinishFrame.reportString>
+  <Deconstruct.reportString>ohá dỡ TargetA ab.</Deconstruct.reportString>
+  <Uninstall.reportString>gỡ bỏ TargetA.</Uninstall.reportString>
+  <Repair.reportString>sửa chữa TargetA.</Repair.reportString>
+  <FixBrokenDownBuilding.reportString>thay thế linh kiện bị hỏng của TargetA.</FixBrokenDownBuilding.reportString>
+  <BuildRoof.reportString>xây mái nhà.</BuildRoof.reportString>
+  <RemoveRoof.reportString>dỡ mái nhà.</RemoveRoof.reportString>
+  
+  <!-- Medical -->
+  
+  <FeedPatient.reportString>cho TargetB ăn TargetA.</FeedPatient.reportString>
+  <TendPatient.reportString>chăm sóc TargetA.</TendPatient.reportString>
+  
+  
+  <!-- Misc -->
+
+  <DeliverFood.reportString>mang TargetB cho TargetA.</DeliverFood.reportString>
+  <DoBill.reportString>thực hiện đơn hàng tại TargetA.</DoBill.reportString>
+  <Clean.reportString>lau dọn TargetA.</Clean.reportString>
+  <Research.reportString>nghiên cứu.</Research.reportString>
+  <Hunt.reportString>săn bắn TargetA.</Hunt.reportString>
+  <UseCommsConsole.reportString>sử dụng máy liên lạc.</UseCommsConsole.reportString>
+  <Mine.reportString>đào TargetA.</Mine.reportString>
+  <SmoothFloor.reportString>làm nhẵn sàn nhà.</SmoothFloor.reportString>
+  <RemoveFloor.reportString>loại bỏ sàn nhà.</RemoveFloor.reportString>
+  <Sow.reportString>gieo trồng TargetA.</Sow.reportString>
+  <Harvest.reportString>thu hoạch TargetA.</Harvest.reportString>
+  <CutPlant.reportString>chặt TargetA.</CutPlant.reportString>
+  <PrisonerFriendlyChat.reportString>trò chuyện với TargetA.</PrisonerFriendlyChat.reportString>
+  <PrisonerAttemptRecruit.reportString>tập trung chiêu hàng TargetA.</PrisonerAttemptRecruit.reportString>
+  <PrisonerExecution.reportString>xử tử TargetA.</PrisonerExecution.reportString>
+  <BuryCorpse.reportString>chôn TargetA.</BuryCorpse.reportString>
+  <OperateDeepDrill.reportString>hút mỏ ở TargetA.</OperateDeepDrill.reportString>
+
+</LanguageData>

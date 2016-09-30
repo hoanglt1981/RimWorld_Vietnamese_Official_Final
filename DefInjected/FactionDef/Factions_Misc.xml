@@ -1,0 +1,19 @@
+<?xml  version="1.0"  encoding="UTF-8"?>
+<LanguageData>
+
+    <Outlander.label>Thị trấn bên ngoài</Outlander.label>
+    <Outlander.description>Một nơi sinh sống nhỏ của người người sống sót.\n\nNhững người này đã sống ở đây rất lâu, và họ đã mất đi hầu hết những công nghệ của mình. Họ thường làm việc với những dụng cụ đơn thuần và tự vệ bằng súng.\n\nHọ đang lo ngại những vấn đề về giao dịch, lòng tin và sinh tồn</Outlander.description>
+    <Outlander.pawnsPlural>người bên ngoài</Outlander.pawnsPlural>
+    <Outlander.leaderTitle>Thị trấn truỏng</Outlander.leaderTitle>
+
+    <Tribe.label>Bộ lạc</Tribe.label>
+    <Tribe.description>Những người đã ở đây từ rất lâu. Có thể tổ tiên họ đã đáp xuống đây hàng trăm năm trước. Cũng có thể họ sống sót sau khi trận đại hồng thủy hủy diệt nền văn minh nơi này. Dù thế nào, bộ lạc là những người du cư với những dụng cụ và vũ khí thô sơ.\n\nChỉ số ít dễ nổi giận; phần đông thường liên minh và giao dịch dù với những người xa lạ. Thân cận hay chiêu mộ họ đều rất khó vì sự khác biệt trong giao tiếp và suy nghĩ.\n\nMặc dù với trình độ yếu ớt, nhưng bằng kĩ năng chiến đấu cơ bản, với số lượng lớn và sự cứng rắn thì họ vẫn là những kẻ thù nguy hiểm hoặc là những người bạn giá trị.</Tribe.description>
+    <Tribe.pawnsPlural>thổ dân</Tribe.pawnsPlural>
+    <Tribe.leaderTitle>Tộc trưởng</Tribe.leaderTitle>
+
+    <Pirate.label>Hải tặc</Pirate.label>
+    <Pirate.description>Một nhóm cướp.\n\nChúng không trồng trọt, không xây dựng, cũng ít khi giao dịch. Họ giàu có dựa trên việc thương xuyên cướp bóc trong vùng.\n\nCông nghệ của họ dựa trên thứ họ hay đánh cắp được. Hầu hết sử dụng súng, một số ít may mắn hơn sử dụng vũ khí công nghẹ cao, số khác lại thích cận chiến</Pirate.description>
+    <Pirate.pawnsPlural>hải tặc</Pirate.pawnsPlural>
+    <Pirate.leaderTitle>Thủ lĩnh</Pirate.leaderTitle>
+
+</LanguageData>
