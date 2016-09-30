@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ClickToJumpToProblem>Chọn để chuyển tới vấn đề</ClickToJumpToProblem>
+
+  <BreakRiskMinor>Nguy cơ suy sụp nhỏ</BreakRiskMinor>
+  <BreakRiskMajor>Nguy cơ suy sụp lớn</BreakRiskMajor>
+  <BreakRiskExtreme>Nguy cơ suy sụp nghiêm trọng</BreakRiskExtreme>
+ 
+  <BreakRiskMinorDesc>Những cư dân tâm trạng kém và sẽ dẫn tới sa sút nhỏ về tinh thần bất kỳ lúc nào:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Những cư dân tâm trạng rất kém và sẽ dẫn tới sa sút lớn về tinh thần bất kỳ lúc nào:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Những cư dân đang căng thẳng trầm trọng và sẽ dẫn tới sa sút nghiêm trọng về tinh thần (kèm bạo lực) bất kỳ lúc nào:\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Kiểm tra phần nhu cầu của những cư dân này xem điều gì làm phiền họ .\n\nĐể giúp cho cư dân cảm thấy tốt hơn, có thể làm cho họ món ăn cao cấp, tăng thời gian vui chơi trong ngày và đồ giải trí đẹp hơn, đem lại môi trường tốt hơn, cho uống bia rượu và hút thuốc, cũng như nhiều việc khác nữa.</BreakRiskDescEnding>
+  
+  <ColonistNeedsRescue>Cư dân cần cứu giúp</ColonistNeedsRescue>
+  <ColonistsNeedRescue>Những cư dân cần cứu giúp</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>  Những cư dân đang gục ngã:\n\n{0}\nGửi cư dân khác tới cứu giúp và đưa họ về giường nghỉ.\n\n(Để cứu giúp, chọn cư dân khác, rồi chuột phải và nạn nhân và lựa chọn Cứu giúp.</ColonistsNeedRescueDesc>
+
+  <NeedDefenses>Cần phòng thủ</NeedDefenses>
+  <NeedDefensesDesc>Bạn đã ở đây một thời gian và chắc chắn đã bị nhìn thấy. Bọn cướp sẽ tấn công sớm.\n\nBạn nên chuẩn bị phòng thủ như là bẫy chúng, dùng túi cát hoặc tháp canh.</NeedDefensesDesc>
+
+  <NeedDoctor>Cần bác sỹ</NeedDoctor>
+  <NeedDoctorDesc>Những cư dân này cần chăm sóc y tế, nhưng bạn không có cư dân khỏe mạnh làm công việc Bác sỹ.\n\n{0}\nThiết lập một cư dân khỏe mạnh làm công việc Bác sỹ. Nếu không xử lý, các vết thương không bao giờ làm hẳn và có thể trở thành vĩnh viễn.</NeedDoctorDesc>
+
+  <NeedMiner>Cần thợ mỏ</NeedMiner>
+  <NeedMinerDesc>Bạn đã chỉ định vài tảng đá để đào, nhưng không có cư dân làm công việc Thợ mỏ.\n\nThiết lập một cư dân làm công việc Thợ mỏ.</NeedMinerDesc>
+
+  <NeedWarden>Cần cai ngục</NeedWarden>
+  <NeedWardenDesc>Bạn có một tù nhân, nhưng không có cư dân làm công việc Cai ngục.\n\nThiếp lập một cư dân làm công việc Cai ngục.</NeedWardenDesc>
+
+  <LowFood>Ít thức ăn</LowFood>
+  <LowFoodDesc>Bạn chỉ còn {0} lượng thức ăn trong kho. Ít đến mức nguy hiểm.\n\nTrồng trọt, mua, tìm kiếm, hoặc giết một ít thức ăn.</LowFoodDesc>
+
+  <LowMedicine>Ít thuốc men</LowMedicine>
+  <LowMedicineDesc>Bạn chỉ còn {0} số thuốc trong kho.\n\nHãy mua thêm một ít từ lái buôn.</LowMedicineDesc>
+  <NoMedicineDesc>Bạn đã hết thuốc trong kho.\n\nHãy mua thêm từ lái buôn.</NoMedicineDesc>
+  
+  <NeedColonistBeds>Cần giường ngủ cho cư dân</NeedColonistBeds>
+  <NeedColonistBedsDesc>Bạn đang có nhiều cư dân hơn số giường ngủ. Ai đó sẽ thiếu chỗ ngủ.\n\nHoặc làm thêm giường, hoặc chuyển giường tù nhân thành giường cho cư dân.\n\nNếu bạn hết nguyên liệu, những điểm đánh dấu để ngủ miễn phí và đặt được ngay.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Thợ săn thiếu vũ khí tầm xa</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Một cư dân được đặt làm công việc Thợ săn nhưng không có vũ khí tầm xa .\n\nHọ sẽ không đi săn cho tới khi được trang bị vũ khí tầm xa.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Ăn mặc rách nát</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Những cư dân này đang mặc đồ rách nát khiến họ thấy buồn:\n\n{0}\nHãy lấy cho họ một vài trang phục không quá hư hại.\n\nBạn có thể tự may trang phục ở bàn thợ may, hoặc mua từ lái buôn.</AlertTatteredApparelDesc>
+
+  <Starvation>Đói ăn</Starvation>
+  <StarvationDesc>Những cư dân này đang bị đói:\n\n{0}\nHãy lấy thức ăn cho họ.</StarvationDesc>
+
+  <StarvationAnimals>Động vật đói ăn</StarvationAnimals>
+  <StarvationAnimalsDesc>Những vật nuôi này đang bị đói:\n\n{0}\nHãy lấy thức ăn cho chúng.</StarvationAnimalsDesc>
+
+  <Exhaustion>Kiệt sức</Exhaustion>
+  <ExhaustionDesc>Những cư dân này đang kiệt sức và cần nghỉ ngơi:\n\n{0}\nHãy cho họ nghỉ ngơi. Họ sẽ cần giường ngủ dành cho cư dân, đồng thời chắc chắn họ không thực hiện quân sự.</ExhaustionDesc>
+
+  <NeedFoodHopper>Cần bồn chứa thức ăn</NeedFoodHopper>
+  <NeedFoodHopperDesc>Bạn có một máy pha chế dinh dưỡng không có bồn chứa bên cạnh.\n\nĐể làm việc, máy cần lấy nguyên liệu từ thùng chứa thực phẩm thô liền kề.\n\nHãy xây một bồn chứa liền kề với máy pha chế.</NeedFoodHopperDesc>
+
+  <NeedMealSource>Cần nguyên liệu cho bữa ăn</NeedMealSource>
+  <NeedMealSourceDesc>Bạn không có cách nào thực hiện bữa ăn từ thực phẩm thô.\n\nHãy xây bếp nấu, đống lửa trại hoặc máy pha chế dinh dưỡng.\n\n(Nhớ không được đặt trong nhà tù, kẻo các cư dân sẽ không thể sử dụng.)</NeedMealSourceDesc>
+
+  <NeedJoySource>Cần nơi giải trí</NeedJoySource>
+  <NeedJoySourceDesc>Cư dân của bạn cần thỏa mãn nhu cầu vui vẻ, nhưng bạn chưa có một trò giải trí.\n\nHãy giúp họ bằng cách xây dựng trụ móng ngựa, bàn cờ hoặc những trò khác .</NeedJoySourceDesc>
+
+  <NeedBatteries>Cần pin trữ điện</NeedBatteries>
+  <NeedBatteriesDesc>Bạn chỉ có tấm năng lượng mặt trời mà khong có pin trữ điện. Điều đó có nghĩa bạn sẽ mất điện mỗi khi mặt trời lặn.\n\nHãy xây một hoặc vài pin trữ điện để giúp bạn qua buổi đêm.</NeedBatteriesDesc>
+
+  <BrawlerHasRangedWeapon>Người nóng tính trang bị vũ khí tầm xa</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Một trong những cư dân mang đặc điểm Nóng tính, nhưng lại đang trang bị vũ khí tầm xa. Nó khiến họ thấy không vui.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Người dùng khiên trang bị vũ khí tầm xa</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Một trong những cư dân có khiên cá nhân và mang theo vũ khí tầm xa. Họ sẽ không thể bắn xuyên qua khiên (trừ khi mục tiêu chạm vào họ).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Cần hạng mục nghiên cứu</NeedResearchProject>
+  <NeedResearchProjectDesc>Bạn có thiết bị nghiên cứu nhưng lại không lựa chọn hạng mục nào.\n\nHãy mở phần nghiên cứu và lựa chọn một hạng mục.</NeedResearchProjectDesc>
+  
+  <ColonistsIdle>{0} cư dân nhàn rỗi </ColonistsIdle>
+  <ColonistsIdleDesc>Những cư dân đang di chuyển nhàn rỗi:\n\n{0}\nBạn nên tìm cho họ công việc sản xuất để làm.</ColonistsIdleDesc>
+
+  <ColonistNeedsTreatment>Cư dân cần điều trị</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Những cư dân cần điều trị y tế. Nếu không họ có thể mất mạng vì vết thương, hoặc sẽ bị tổn thương vĩnh viễn.\n\n{0}\nĐiều trị bằng cách đưa họ đến giường bệnh.\n\n(Đầu tiên, thiết lập giường bệnh bằng cách lựa chọn giường ngủ rồi chuyển thành giường bệnh. Tiếp theo, chọn cư dân bị thương và chuột phải vào giường bệnh để cho họ thành bệnh nhân.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Thân nhiệt giảm</AlertHypothermia>
+  <AlertHypothermiaDesc>Những cư dân này đang khổ sở vì thân nhiệt giảm.\n\n{0}\nHãy chắc chắn rằng quần áo họ thích hợp với thời tiết và không gian trong phòng đủ ấm.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} Bệnh nhân đợi phẫu thuật y tế</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Những bệnh nhân này đang đợi phẫu thuật y tế:\n\n{0}\nHãy chắc chắn rằng bạn có đầy đủ thiết bị y tế và một bác sỹ đang rảnh rỗi.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Cháy!</FireInHomeArea>
+  <FireInHomeAreaDesc>Có cháy ở khu vực nhà.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Bệnh tật trầm trọng</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>Những người có nguy cơ tử vong vì bệnh tật trầm trọng:\n\n{0}\nHãy chắc chắn lấy cho họ dịch vụ y tế tốt nhất có thể.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>Những người có nguy cơ tử vong vì bệnh tật trầm trọng :\n\n{0}\nNếu có thể, hãy loại bỏ và thay thế các phần bị lây nhiễm để giữ tính mạng cho họ.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Bàn bi-a cần không gian</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Một trong số những bàn bi-a có bị cản trở ngay cạnh nên các cư dân không sử dụng được.\n\nMột bàn bi-a cần có không gian trống xung quanh thì mới sử dụng được.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>THợ săn mang khiên và vũ khí tầm xa</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>Một trong số các thợ săn sử dụng vũ khí tầm xa và khiên nên không bắn được.\n\nHọ sẽ không thể đi săn tới khi bỏ khiên.</HunterHasShieldAndRangedWeaponDesc>
+  
+  <NeedWarmClothes>Cần quần áo ấm</NeedWarmClothes>
+  <NeedWarmClothesDesc>Ít nhất { 0 } cư dân của bạn đang ở trong mùa lạnh , không có quần áo ấm.</NeedWarmClothesDesc>
+  <NeedWarmClothesForAllDesc>Tất cả thuộc địa của bạn đang ở trong mùa lạnh , không có quần áo ấm.</NeedWarmClothesForAllDesc>
+  <NeedWarmClothesDesc1>Ít nhất {0} cư dân của bạn sẽ thiếu quần áo ấm khi mùa lạnh tới.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Tất cả cư dân của bạn sẽ thiếu quần áo khi mùa lạnh tới.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Nhiệt độ ngoài trời đang đạt mức {0}.\n\nBạn có thể may quần áo ấm bằng bàn thợ may, hoặc mua từ lái buôn.</NeedWarmClothesDesc2>
+  
+</LanguageData>

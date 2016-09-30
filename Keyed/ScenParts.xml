@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ======================== Non-grouped ========================-->
+  
+  <ScenPart_PlayerFaction>Phe của bạn là một {0}.</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawns>Bắt đầu với {0} người.</ScenPart_StartWithPawns>
+  <RandomPet>Vật nuôi ngẫu nhiên</RandomPet>
+
+  <ScenPart_StartingResearchFinished>Bắt đầu với nghiên cứu: {0}</ScenPart_StartingResearchFinished>
+  
+  <ScenPart_ArriveInDropPods>Đến từ khoang cứu sinh.</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>Chỉ số "{0}" sẽ tăng lên toàn diện bằng {1}.</ScenPart_StatFactor>
+
+
+  <!-- Pawn modifiers -->
+  <ScenPart_PawnsHaveHediff>{0} có {1} cơ hội bắt đầu với {2}.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>severity: {0}</ConfigurableSeverity>
+
+  <ScenPart_SetNeed>{0} có {1} có {2} đặt giữa {3} và {4}.</ScenPart_SetNeed>
+  <ConfigurableLevel>cấp độ: {0}</ConfigurableLevel>
+
+  <ScenPart_PawnsHaveTrait>{0} có {1} cơ hội bắt đầu với đặc điểm: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>Người chơi và sinh vật sẽ nổ khi chết ({0}, bán kính {1}).</ScenPart_OnPawnDeathExplode>
+
+  <!-- Pawn filters -->
+  <ScenPart_StartingPawnAgeMin>Cư dân của bạn ở độ tuổi thấp nhất là {0}.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>Cư dân của bạn ở độ tuổi cao nhất là {0}.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>Cư dân của bạn sẽ ở khoảng giữa {0} và {1} tuổi.</ScenPart_StartingPawnAgeRange>
+
+
+  <!-- ======================== Grouped ========================-->
+
+  <ScenPart_StartWith>Bắt đầu với</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>Bản đố sẽ rải rác</ScenPart_MapScatteredWith>
+  <ScenPart_PermaMapCondition>Điều kiện thường xuyên của bản đồ</ScenPart_PermaMapCondition>
+  <ScenPart_DisableIncident>Bỏ giới hạn</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>Tạo giới hạn</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>Không thể xây dựng</ScenPart_DisallowBuilding>
+
+</LanguageData>

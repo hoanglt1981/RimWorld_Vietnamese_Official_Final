@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MainPageCredit>Một thuộc địa giả lập tạo ra bởi Tynan Sylvester</MainPageCredit>
+  
+  <Credits_Developers>Nhà phát triển</Credits_Developers>
+  <Credit_DirectionVarious>Định hướng, thiết kế, lập trình, tạo hình</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Nhạc và âm thanh</Credit_MusicAndSound>
+  <Credit_Code>Lập trình</Credit_Code>
+  <Credit_GameArt>Tạo hình trò chơi</Credit_GameArt>
+  <Credit_MenuArt>Tạo hình mục chọn</Credit_MenuArt>
+  <Credit_AdditionalCode>Lập trình bên ngoài</Credit_AdditionalCode>
+  
+  <Credit_SpecialThanks>Đặc biệt cảm ơn</Credit_SpecialThanks>
+
+  <Credits_TitleCommunity>Community volunteers</Credits_TitleCommunity>
+  <Credit_Tester>Thử nghiệm</Credit_Tester>
+  <Credit_ModDonation>Mod donor</Credit_ModDonation>
+  <Credit_WritingDonation>Writing donor</Credit_WritingDonation>
+  <Credit_Moderator>Quản trị</Credit_Moderator>
+  <Credit_WikiMaster>Wiki master</Credit_WikiMaster>
+
+  <Credits_TitleLanguage>Ngôn ngữ {0}</Credits_TitleLanguage>
+  <Credit_Writer>Người viết</Credit_Writer>
+  <Credit_Translator>Người dịch</Credit_Translator>
+  <Credit_OpenSourceLibraries>Thư viện mã nguồn mở</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Noise generation</Credit_NoiseGeneration>
+
+  <ThanksForPlaying>Cảm ơn vì đã chơi!</ThanksForPlaying>
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  
+  <DaysLower>ngày</DaysLower>
+  <SecondsLower>giây</SecondsLower>
+
+  <SeasonSpring>Xuân</SeasonSpring>
+  <SeasonSummer>Hạ</SeasonSummer>
+  <SeasonFall>Thu</SeasonFall>
+  <SeasonWinter>Đông</SeasonWinter>
+
+  <Born>Sinh: {0}</Born>
+  <AgeChronological>Tuổi thực: {0} năm, {1} mùa, {2} ngày</AgeChronological>
+  <AgeBiological>Tuổi sinh học: {0} năm, {1} mùa, {2} ngày</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 năm</Period1Year>
+  <PeriodYears>{0} năm</PeriodYears>
+  <Period1Season>1 mùa</Period1Season>
+  <PeriodSeasons>{0} mùa</PeriodSeasons>
+  <Period1Day>1 ngày</Period1Day>
+  <PeriodDays>{0} ngày</PeriodDays>
+  <Period1Hour>1 giờ</Period1Hour>
+  <PeriodHours>{0} giờ</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Đã bắt đầu</Started>
+  <Lasted>Đã hết</Lasted>
+  <OccurredTimeAgo>chiễm giữ {0} ngày trước</OccurredTimeAgo>
+  
+</LanguageData>

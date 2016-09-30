@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CallOnRadio>Gọi {0}</CallOnRadio>
+  <CannotUseReason>Không thể sử dụng ({0})</CannotUseReason>
+	<CannotUseSolarFlare>Không thể sử dụng (bức xạ mặt trời)</CannotUseSolarFlare>
+	<CannotUseNoPower>Không thể sử dụng (không có năng lượng)</CannotUseNoPower>
+	<CannotUseNoPath>Không thể sử dụng (không có đường)</CannotUseNoPath>
+  <CannotUseReserved>Không thể sử dụng (dự trữ)</CannotUseReserved>
+  <CannotUseFull>Không thể sử dụng (đầy)</CannotUseFull>
+  
+  <FireAt>Bắn vào {0}</FireAt>
+
+  <OutOfRange>ngoài tầm</OutOfRange>
+  <CannotHitTarget>không thể bắn mục tiêu</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} không phù hợp bạo lực</IsIncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} không chiến đấu</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>không thể chỉ huy non-controlled units</CannotOrderNonControlledLower>
+
+  <OrderManThing>Đàn ông {0}</OrderManThing>
+  
+  <MeleeAttack>Cận chiến {0}</MeleeAttack>
+  <MeleeAttackToDeath>Cận chiến {0} tới chết</MeleeAttackToDeath>
+  <NoPath>không có đường</NoPath>
+
+	<ForbiddenLower>cấm</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>ngoài khu vực cấp phép</ForbiddenOutsideAllowedAreaLower>
+	<SociallyImproperLower>giao tiếp không thích hợp</SociallyImproperLower>
+  <PrisonerRoomLower>phòng giam</PrisonerRoomLower>
+	<BurningLower>thiêu đốt</BurningLower>
+	<NoEmptyPlaceLower>không có địa điểm trống thiết lập để lưu trữ</NoEmptyPlaceLower>
+	<AlreadyFilledLower>đã đầy</AlreadyFilledLower>
+	<MissingMaterials>cần nguyên liệu</MissingMaterials>
+  <MissingSkill>kĩ năng quá thấp</MissingSkill>
+	<NoEmptyGraveLower>không có mộ trống được thiết lập để chôn cất</NoEmptyGraveLower>
+  <AnimalInteractedTooRecently>động vật đã giao tiếp quá thường xuyên</AnimalInteractedTooRecently>
+  <NoUsableFood>không có thức ăn sử dụng được</NoUsableFood>
+  <NoFood>không có lương thực</NoFood>
+  <AnimalsSkillTooLow>Kĩ năng động vật quá thấp</AnimalsSkillTooLow>
+	<NoComponentsToRepair>cần linh kiện</NoComponentsToRepair>
+	<NoFuelToRefuel>cần nhiên liệu {0}</NoFuelToRefuel>
+  <NoWort>cần wort</NoWort>
+  
+  <ConsumeThing>Ăn {0}</ConsumeThing>
+  
+  <CannotGoNoPath>Không thể đi tới đây (không có đường)</CannotGoNoPath>
+  <GoHere>Tới đây</GoHere>
+  
+  <Arrest>Bắt giam {0}</Arrest>
+  <TryToArrest>Cố bắt giam {0}</TryToArrest>
+  <CannotArrest>Không thể bắt giam</CannotArrest>
+
+  <Capture>Bắt giữ {0}</Capture>
+  <CannotCapture>Không thể bắt giữ</CannotCapture>
+
+  <Rescue>Cấp cứu {0}</Rescue>
+  <CannotRescue>Không thể cấp cứu</CannotRescue>
+
+  <CarryToCryptosleepCasket>Mang {0} tới buồng ngủ đông</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Không thể mang tới buồng ngủ đông</CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Không có sẵn buồng ngủ đông.</NoCryptosleepCasket>
+  <NoPrisonerBed>Không với tới, không cấp trước, quá gần giường tù nhân.</NoPrisonerBed>
+  <NoNonPrisonerBed>Không với tới, giường ngủ đã có chủ.</NoNonPrisonerBed>
+  <NoAnimalBed>Không với tới, ổ động vật đã có chủ.</NoAnimalBed>
+  <Reserved>Dành riêng cho ai đó.</Reserved>
+  <ReservedBy>Dành riêng bởi {0}</ReservedBy>
+  <IsReservedBy>{0} được dành riêng cho {1}.</IsReservedBy>
+
+  <Incapable>Không phù hợp</Incapable>
+  <IncapableOfCapacity>không phù hợp với {0}</IncapableOfCapacity>
+
+  <MinSkill>Kĩ năng thấp nhất</MinSkill>
+  
+  <Equip>Trang bị {0}</Equip>
+  <EquipWarningBrawler>(người nóng tính sẽ thấy không vui)</EquipWarningBrawler>
+  <CannotEquip>Không thể trang bị {0}</CannotEquip>
+  
+  <ForceWear>Ép mặc {0}</ForceWear>
+  <CannotWear>Không thể mặc {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>thiếu những phần cơ thể</CannotWearBecauseOfMissingBodyParts>
+  
+  <Strip>Lột bỏ {0}</Strip>
+  <CannotStrip>Không thể lột bỏ {0}</CannotStrip>
+
+  <Deposit>Ký gửi {0} vào {1}</Deposit>
+  <CannotDeposit>Không thể ký gửi {0} vào {1}</CannotDeposit>
+
+  <SelfDestructHere>Tự hủy ở đây</SelfDestructHere>
+  
+  <Drop>Thả rơi {0}</Drop>
+
+  <UseMedicalBed>Nghỉ ngơi cho khỏe</UseMedicalBed>
+  <NotInjured>Không bị thương</NotInjured>
+  <SomeoneElseSleeping>Bị chiếm chỗ</SomeoneElseSleeping>
+  
+  <TradeWith>Giao dịch với {0}</TradeWith>
+  <CannotTrade>Không thể giao dịch</CannotTrade>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Vào buồng ngủ đông</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Mở buồng ngủ đông</OpenCryptosleepCasket>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Không thể {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Không thể ưu tiên (không phù hợp với {0})</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Đã {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeWorkTypeDisabled>Không thể ưu tiên (không bao giờ làm {0})</CannotPrioritizeWorkTypeDisabled>
+  
+  <CannotPrioritizeNotAssignedToWorkType>Không thể ưu tiên (không được thiết lập làm {0})</CannotPrioritizeNotAssignedToWorkType>
+
+  <CannotPrioritizeResearch>Không thể ưu tiên (nghiên cứu là nhiệm vụ dài lâu)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Không thể ưu tiên ({0} bị ngăn cản)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Không thể ưu tiên ({0} ngoài vùng cấp phép)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Ưu tiên {0} {1}</PrioritizeGeneric>
+  
+</LanguageData>

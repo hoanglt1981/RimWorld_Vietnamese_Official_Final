@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Hủy bỏ</DesignatorCancel>
+  <DesignatorCancelDesc>Hủy bỏ chỉ định xây dựng, đào mỏ, vận chuyển, thu hoạch, và các chỉ định khác.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Cắt cây</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>Đánh dấu những cây sẽ bị cắt và phá hủy. Cây cối sẽ hoàn toàn bị gỡ bỏ, và sản lượng cũng như thức ăn sẽ được thu hoạch.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Phá dỡ</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Phá dỡ thứ này và lấy về một phần nguyên liệu .</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>Tháo gỡ</DesignatorUninstall>
+  <DesignatorUninstallDesc>Tháo gỡ thứ này để có thể di chuyển, bán, hoặc đặt vào nơi khác.</DesignatorUninstallDesc>
+
+  <DesignatorHarvest>Thu hoạch</DesignatorHarvest>
+  <DesignatorHarvestDesc>Đánh dấu cây cối để thu hoạch thức ăn hoặc sản phẩm khác.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Chặt gỗ</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>Đánh dấu những cây sẽ bị chặt để lấy gỗ.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Vận chuyển đồ</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Đánh dấu đá quặng và những thứ khác để vận chuyển ra bãi rác. Điều này không cần thiết đối với những thứ như thức ăn hoặc xác vì chúng luôn có thể vận chuyển.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Có thể chỉ định những thứ vận chuyển nhưng không thường xuyên (như đá quặng).</MustHaulHaulables>
+
+  <DesignatorHunt>Săn bắn</DesignatorHunt>
+  <DesignatorHuntDesc>Đánh dấu những động vật sẽ bị bị săn bởi thợ săn.</DesignatorHuntDesc>
+
+  <DesignatorMine>Khai mỏ</DesignatorMine>
+  <DesignatorMineDesc>Chỉ định khu vực núi đá để đào mỏ.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Nền nhà nhẵn</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Chỉ định khu vực nền đá xù xì sẽ được làm nhẵn.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Kế hoạch</DesignatorPlan>
+  <DesignatorPlanDesc>Chỉ định kế hoạch về vị trí. Sẽ không có gì ngoại trừ giúp bạn các kết hoạch mở rộng trong tương lai.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Gỡ bỏ kế hoạch</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Gỡ bỏ các chỉ định kế hoạch.</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>Mở rộng khu vực nhà chính</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Các cư dân sẽ chỉ sửa chữa công trình, lau dọn sàn nhà và dập lửa trong khu vực nhà chính.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Xóa khu vực nhà chính</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Loại bỏ một khu vực nhà chính. Các cư dân sẽ không còn lau dọn, sửa chữa hay chữa cháy nữa.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>Mở rộng khu vực xây mái</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Các cư dân sẽ xây mái tại khu vực này.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Loại bỏ khu vực xây mái</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Loại bỏ khu vực mà dân cư sẽ xây mái. Những mái nhà cũ vấn còn, tuy nhiên các cư dân sẽ không xây thêm.</DesignatorAreaBuildRoofClearDesc>
+
+  <DesignatorAreaNoRoofExpand>Mở rộng khu vực không xây mái</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Các cư dân sẽ loại bỏ mái nhà tại khu vực này (ngoại trừ phần trên núi không thể loại bỏ).</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Loại bỏ khu vực không xây mái</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Loại bỏ khu vực không mái, vậy nên các cư dân sẽ không còn dỡ bỏ mái nhà tại khu vực này.</DesignatorAreaNoRoofClearDesc>
+
+  <DesignatorAreaSnowClearExpand>Mở rộng khu vực dọn tuyết</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Tạo ra một khu vực mà các cư dân sẽ cố làm sạch tuyết.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Loại bỏ khu vực dọn tuyết</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Xóa bỏ khu vực dọn tuyết. Các cư dân sẽ không cố làm sạch tuyết khu vực này nữa.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>Mở rộng khu vực cấp phép</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>Mở rộng một khu vực cấp phép.\n\nKhu vực cấp phép được thiết lập để áp dụng cho các cư dân. Họ sẽ không nhận việc hay thực hiện mong muốn ở bên ngoài khu vực này.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>Loại bỏ khu vực cấp phép</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>Loại bỏ những phần từ khu vực cấp phép.\n\nKhu vực cấp phép được thiết lập để áp dụng cho các cư dân. Họ sẽ không nhận việc hay thực hiện mong muốn ở bên ngoài khu vực này.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>Quản lý các khu vực...</ManageAreas>
+
+  <DesignatorGrowingZoneDesc>Tạo ra một khu vực mà các cư dân sẽ trồng trọt một loại cây cụ thể.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Tạo ra một bãi vật liệu để lưu trữ tài nguyên.\nCông cụ này cũng có thể mở rộng bất cứ bãi vật liệu sẵn có.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Tạo ra một bãi vật liệu để chứa quặng và đá viên.\nCông cụ này cũng có thể mở rộng bất cứ bãi vật liệu sẵn có.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>Loại bỏ khu vực</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Loại bỏ khu vực như bãi vật liệu hay khu vực trồng trọt.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Chiếm giữ</DesignatorClaim>
+  <DesignatorClaimDesc>Chiếm giữ các công trình trung lập về thuộc địa, bao gồm cả những tàn tích cổ xưa và khu căn cứ tấn công bỏ hoang. Những công trình bị chiếm giữ có thể được các cư dân sửa chữa và bảo dưỡng.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>Loại bỏ sàn nhà</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Loại bỏ sàn nhà để lộ ra mặt đất phía dưới.</DesignatorRemoveFloorDesc>
+
+  <DesignatorStrip>Lột bỏ</DesignatorStrip>
+  <DesignatorStripDesc>Lột bỏ trang phục từ xác chết hay những người bị thương.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Đặt lại bẫy</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Đặt lại một bẫy lò xo để nó có thể tái kích hoạt.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Mở</DesignatorOpen>
+  <DesignatorOpenDesc>Mở toàn bộ mộ hay thùng chứa.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Giết mổ</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Giết mổ một vật nuôi.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>Thuần hóa</DesignatorTame>
+  <DesignatorTameDesc>Thuần hóa một động vật hoang dã.</DesignatorTameDesc>
+
+
+  <!-- Failure messages -->
+  <UnchosenStuff>Chưa chọn lựa nguyên liệu</UnchosenStuff>
+  <TooCloseToMapEdge>Quá gần mép bản đồ .</TooCloseToMapEdge>
+  <OutOfBounds>Ngoài giới hạn.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Không thể đặt ở khu vực chưa được phát hiện.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Điểm tương tác bị chặn bởi {0}.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Điểm tương tác nằm ngoài giới hạn.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Điểm tương tác sẽ bị chặn bởi {0}.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} có thể chặn {1}'s điểm tương tác.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Mặt đất ở đây đã {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Mặt đất đã được đánh dấu để làm nhẵn.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Thứ giống hệt đã tồn tại.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Thiết kế giống hệt đã tồn tại.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Mặt đất ở đây không hỗ trợ điều này.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Khoảng không đã bị chiếm giữ.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Cần mục tiêu một sàn nhà có thể gỡ bỏ .</TerrainMustBeRemovable>
+  
+  
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>Mở rộng {0} hoặc\nTạo mới {1}</ExpandOrCreateZone>
+  <CreateNewZone>Tạo mới {0}</CreateNewZone>
+  
+  
+  <!-- Desc helpers -->
+  <TransmitsPower>Công suất</TransmitsPower>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>Không</WorkTagNone>
+  <WorkTagIntellectual>Trí thức</WorkTagIntellectual>
+  <WorkTagManualDumb>Việc tay chân</WorkTagManualDumb>
+  <WorkTagManualSkilled>Việc đầu óc</WorkTagManualSkilled>
+  <WorkTagViolent>Bạo lực</WorkTagViolent>
+  <WorkTagCaring>Mang vác</WorkTagCaring>
+  <WorkTagSocial>Giao tiếp</WorkTagSocial>
+  <WorkTagScary>Sợ hãi</WorkTagScary>
+  <WorkTagAnimals>Động vật</WorkTagAnimals>
+  <WorkTagArtistic>Nghệ thuật</WorkTagArtistic>
+  <WorkTagCrafting>Chế tạo</WorkTagCrafting>
+  <WorkTagCooking>Nấu nướng</WorkTagCooking>
+  <WorkTagFirefighting>Cứu hỏa</WorkTagFirefighting>
+  <WorkTagCleaning>Lau dọn</WorkTagCleaning>
+  <WorkTagHauling>Vận chuyển</WorkTagHauling>
+  <WorkTagPlantWork>Trồng trọt</WorkTagPlantWork>
+  <WorkTagMining>Thợ mỏ</WorkTagMining>
+
+</LanguageData>

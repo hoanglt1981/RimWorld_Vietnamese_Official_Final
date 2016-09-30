@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterLabelAnimalInsanitySingle>Động vật điên</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>Một {0} bản địa đã nổi điên. Nó sẽ tấn công bất kì ai nó thấy.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>Lũ động vật điên!</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Một vài dạng bức xạ tinh thần đã quét qua khu vực này. Cư dân của bạn vẫn ổn, nhưng...\n\nNó có vẻ như một đám {0} trong khu vực đang trở lên điên loạn.</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>Mất mùa</LetterLabelCropBlight>
+  <CropBlight>Một thảm họa mất mùa bí ẩn đã hủy hoại cây trồng của bạn.</CropBlight>
+
+  <LetterLabelMiracleHeal>Phép màu</LetterLabelMiracleHeal>
+  <MiracleHeal>{0} đã trải qua một sự hồi phục thần kỳ!</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <EnemyRaidWalkIn>Một nhóm {0} từ {1} đang đến gần.</EnemyRaidWalkIn>
+  <EnemyRaidEdgeDrop>Một nhóm {0} từ {1} đến từ khoang cứu sinh đang tiến gần.</EnemyRaidEdgeDrop>
+  <EnemyRaidCenterDrop>Một nhóm {0} từ {1} đã đáp xuống ngay phía trên!</EnemyRaidCenterDrop>
+  <EnemyRaidLeaderPresent>1 trong những {0} - {1}, là thủ lĩnh của phe này.</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <FriendlyRaidWalkIn>Một nhóm bạn bè {0} từ {1} đã đến gần.</FriendlyRaidWalkIn>
+  <FriendlyRaidEdgeDrop>Một nhóm bạn bè {0} từ {1} hạ cánh từ quĩ đạo ở gần.</FriendlyRaidEdgeDrop>
+  <FriendlyRaidCenterDrop>Một nhóm bạn bè {0} từ {1} hạ cánh từ quĩ đạo ngay phía trên!</FriendlyRaidCenterDrop>
+  <FriendlyRaidLeaderPresent>Một trong những {0} - {1}, là thủ lĩnh của họ.</FriendlyRaidLeaderPresent>
+
+  <LetterLabelRefugeePodCrash>Khoang thoát hiểm</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>Bạn phát hiện ra một khoang thoát hiểm rơi gần.\n\nNếu ai đó sống sót sau vụ va chạm, họ cũng bị thương nặng.\n\nBạn có thể cứu giúp và thả họ đi, hoặc bắt giữ chiêu hàng hay làm nô lệ.</RefugeePodCrash>
+
+  <LetterLabelCargoPodCrash>Khoang chứa hàng</LetterLabelCargoPodCrash>
+  <CargoPodCrash>Bạn phát hiện một cụm khoang hàng rơi ở gần.\n\nBiết đâu bạn sẽ tìm được thứ gì hữu ích trong đó.</CargoPodCrash>
+
+  <AnElectricalConduit>Hộp dẫn điện</AnElectricalConduit>
+  <ShortCircuit>Sự cố ở {0} khiến dòng điện đảo mạch.\n\nTất cả {1} Wd điện năng của hệ thống pin dự trữ đã mất sau vụ chập điện.</ShortCircuit>
+  <ShortCircuitWasLarge>Lượng lớn điện năng đã tạo ra một vụ nổ đáng kể.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>Một vụ nổ thật sự lớn đấy!</ShortCircuitWasHuge>
+
+  <TraderArrival>Một tàu lái buôn đang bay gần.\n\nHọ được biết đến như {0}. Họ là một {1}.</TraderArrival>
+
+  <SingleTravelerPassing>Một {0} từ {1} đang bay ngang. HECAP được gọi là {2}.</SingleTravelerPassing>
+  <GroupTravelersPassing>Một nhóm lữ hành từ {0} đang đi ngang qua.</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>Du khách</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>Một {0} từ {1} đang tới thăm thuộc địa.\n\nHECAP là {2}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>\n\nHECAP có rất ít đồ để giao dịch.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nHECAP là thủ lĩnh của phe.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>Du khách</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>Một nhóm từ {0} đang ghé thăm thuộc địa.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>\n\nHọ có rất ít đồ để giao dịch.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>\n\nMột trong số những du khách - {0}, là thủ lĩnh của phe.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>Du khách từ {0} đang rời đi.</VisitorsLeaving>
+
+  <LetterLabelWandererJoin>Lữ hành gia nhập</LetterLabelWandererJoin>
+  <WandererJoin>Một {0} tên NAME đã đến muốn gia nhập thuộc địa. HECAP là một {1}.</WandererJoin>
+
+  <LetterLabelManhunterPackArrived>Đội săn người</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>Một nhóm săn người {0} đã xuất hiện trong khu vực. Chúng sẽ di chuyển trong vùng, tìm kiếm người còn sống.\n\nChúng không qua được cửa nên sẽ an toàn nếu bạn không ra ngoài. Chúng cũng không tấn công tháp canh ngừng hoạt động nên có thể cứu chúng bằng cách tắt điện tháp canh hoặc ngừng bắn.\n\nSau vài ngày, chúng sẽ bỏ đi.</ManhunterPackArrived>
+ 
+  <!-- Crashed ship part-->
+ 
+  <MessageAnimalInsanityPulse>Một kiến trúc cổ xưa đã phát ra xung kích thích thần kinh khiến động vật ở gần nổi điên.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>Một phần con tàu hư hỏng đã phát ra xung kích thích thần kinh khiến cư dân {0} phát điên.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>Tỉnh giấc {0} ngày trước</AwokeDaysAgo>
+  <PsychicDroneLevel>Cấp độ xung thần kinh: {0}</PsychicDroneLevel>
+  <PsychicDroneLevelLow>Thấp</PsychicDroneLevelLow>
+  <PsychicDroneLevelMedium>Trung bình</PsychicDroneLevelMedium>
+  <PsychicDroneLevelHigh>Cao</PsychicDroneLevelHigh>
+  <PsychicDroneLevelExtreme>Nghiêm trọng</PsychicDroneLevelExtreme>
+  <LetterLabelPsychicDroneLevelIncreased>Mức độ ảnh hưởng tăng lên</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Một phần con tàu hư hỏng đang phát ra xung kích thích thần kinh mạnh mẽ hơn. Mọi nhân loại trong khu vực sẽ cảm thấy khó chịu, sợ hãi, và bắt đầu hoang tưởng.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <LetterLabelAgentRevealed>Gián điệp</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} bị phát hiện là gián điệp của kẻ thù {1}.\n\nHiện chúng đang tìm cách bỏ trốn.</LetterAgentRevealed>
+
+  <!-- Distant psychic drone -->
+  <LetterLabelPsychicDrone>Xung kích thích thần kinh</LetterLabelPsychicDrone>
+  <LetterIncidentPsychicDrone>Mọi cư dân mang giới tính {0} nhăn nhó vì đau và khơi lên thù hận!\n\n. Nó đang phát ra xung kích thích thần kinh mạnh lên toàn khu vực, nhưng chỉ thường xuyên ảnh hưởng tới giới tính {0}. Một vài ngày tới đây sẽ có những người tâm trạng kém đi.</LetterIncidentPsychicDrone>
+
+  <LetterLabelPsychicSoothe>Xung xoa dịu thần kinh</LetterLabelPsychicSoothe>
+  <LetterIncidentPsychicSoothe>Mọi cư dân mang giới tính {0} cười vui vẻ và cảm thấy hạnh phúc!\n\n. Nó đang phát ra xung xoa dịu thần kinh mạnh lên toàn khu vực, nhưng chỉ thường xuyên ảnh hưởng tới giới tính {0}. Một vài ngày tới đây sẽ có những người tâm trạng tốt hơn.</LetterIncidentPsychicSoothe>
+
+  <!-- Beavers -->
+  <LetterLabelBeaversArrived>Hải ly!</LetterLabelBeaversArrived>
+  <BeaversArrived>Một đàn hải ly đực đói khát đã xuất hiện.\n\nCố tiêu diệt chúng trước khi chúng tàn phá hết thực vật trong vùng.</BeaversArrived>
+  
+  <!-- Refugee chased -->
+  <RefugeeChasedInitial>Một {1} có tên {0} liên hệ với bạn từ rất gần. HECAP bị truy đuổi bởi {2} từ {3}!\n\nHECAP cầu xin sự an toàn gia nhập vào thuộc địa. Về mặt sinh học, HE {4} tuổi.\n\nHãy coi chừng vì nếu chấp nhận bạn sẽ phải chiến đấu với {2} sau đít HIS.</RefugeeChasedInitial>
+  <RefugeeChasedInitial_Accept>Cung cấp sự an toàn</RefugeeChasedInitial_Accept>
+  <RefugeeChasedInitial_Reject>Bỏ qua tin tức này</RefugeeChasedInitial_Reject>
+  <RefugeeChasedRejected>{0} hoảng loạn hét lên trong loa trước khi bạn cắt liên hệ.</RefugeeChasedRejected>
+
+  <!-- Self-tame -->
+  <LetterLabelAnimalSelfTame>{0} tự thuần hóa</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} trở thành vật nuôi.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} trở thành vật nuôi. Nó được chỉ định {1}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} trở thành vật nuôi. Cư dân quyết định đặt tên là {1}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->  
+  <LetterLabelFarmAnimalsWanderIn>{0} gia nhập</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Một nhóm {0}, bị bỏ rơi hoặc thất lạc, đã rong ruổi tại khu vực này.\n\nHọ dường như quen với việc tiếp xúc con người nên quyết định gia nhập thuộc địa.</LetterFarmAnimalsWanderIn>
+
+  <!-- Thrumbo passes -->  
+  <LetterLabelThrumboPasses>Thrumbos quý hiếm</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>Một đàn thrumbos nhỏ đi lang thang trong khu vực.\n\nTuy bản chất ôn hòa tự nhiên, chúng lại vô cùng nguy hiểm khi bị khiêu khích. Một vài lái buôn sẵn lòng trả giá cao cho bộ da và chiếc sừng quý hiếm của chúng.\n\nChúng sẽ rời đi trong vài ngày tới.</LetterThrumboPasses>
+
+  <!-- Trader caravan --> 
+  <LetterLabelTraderCaravanArrival>{1} từ {0}</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Một lữ hàng từ {0} đang tiếp cận. Họ là {1}.\n\nHọ sẽ ở gần thuộc địa trong vài ngày tới. Bạn có thể tấn công họ, tuy nhiên sẽ làm phe của họ nổi giận!</LetterTraderCaravanArrival>
+ 
+  <!-- Building breaks down -->  
+  <LetterLabelBuildingBrokenDown>Hỏng hóc: {0}</LetterLabelBuildingBrokenDown>
+  <LetterBuildingBrokenDown>{0} đã hỏng. Nó sẽ không hoạt động cho tới khi có người sửa chữa.</LetterBuildingBrokenDown>
+
+  <!-- Ransom demand -->
+  <RansomDemand>{1} liên hệ với bạn qua vô tuyến. Chúng đang đòi tiền chuộc cho cư dân {0}.\n\nChúng chỉ thả HIM về khi bạn trả {2} silver.</RansomDemand>
+  <RansomDemand_Accept>Chấp nhận</RansomDemand_Accept>
+  <RansomDemand_Reject>Từ chối</RansomDemand_Reject>
+  
+</LanguageData>

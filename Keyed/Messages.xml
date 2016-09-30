@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MessageSiegersAssaulting>Đội quân vây hãm {0} đến từ {1} đang tấn công thuộc địa.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} đến từ {1} đang bắt đầu cuộc tấn công.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} đến từ {1} phát hiện ra bạn và bắt đầu tấn công sớm.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} đến từ {1} quyết định bắt cóc ai đó và rời đi.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} đến từ {1} quyết định đánh cắp và rời đi.</MessageRaidersStealing>
+
+  <MessageRaidersLeaving>{0} đến từ {1} đang rời đi.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} đến từ {1} đã bỏ cuộc and đang rời đi.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} đến từ {1} hài lòng với sát thương gây ra và đang rời đi.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{0} từ {1} đang bỏ chạy.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Những người bạn {0} từ {1} đang rời đi.</MessageFriendlyFightersLeaving>
+
+  <MessageVisitorsTakingWounded>{0} từ {1} đang mang theo một vị khách bị thương.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} từ {1} bị dính bẫy và đang tìm cách thoát.</MessageVisitorsTrappedLeaving>
+  
+  <MessageWornApparelDeterioratedAway>{0} của {1} bị hỏng nên {1} không mặc gì.</MessageWornApparelDeterioratedAway>
+  
+  <MessageSeasonBegun>{0} đã bắt đầu.</MessageSeasonBegun>
+
+  <MessageShipHasLeftCommsRange>{0} đã rời khỏi phạm vi liên lạc.</MessageShipHasLeftCommsRange>
+	
+  <MessageNeedBeaconToTradeWithShip>Bạn cần radar giao dịch có thể giao dịch với các phi thuyền.\n\nNhững radar này cần được cấp đủ điện.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Đơn hàng hoàn thành: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} đã hoàn toàn hồi phục.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>Tù nhân {0} đang bỏ trốn.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} nhận ra không còn buồng giam cho {1}.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Cảnh báo: {0} sẽ tấn công liên tục khi bị thương.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Cảnh báo: {0} có thể tấn công sau khi thuần hóa thất bại (cơ hội {1}).</MessageAnimalManhuntsOnTameFailed>
+  
+  <LetterLabelMessageRecruitSuccess>Cư dân mới</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{0} chiêu hàng thành công {1} (cơ hội {2}).</MessageRecruitSuccess>
+  <MessageTameSuccess>{0} thuần hóa thành công {1} (cơ hội {2}).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{0} thuần hóa thành công {1} (cơ hội {2})và đặt tên HIM là {3}.</MessageTameAndNameSuccess>
+
+  <MessageColonyCannotAfford>Thuộc địa không đủ điều kiện thực hiện giao dịch này.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Bạn không có đủ tiền để giao dịch.</MessageColonyNotEnoughSilver>
+
+  <MessageCriticalAlert>Báo động khẩn cấp: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Phải chỉ định thu hoạch với thực vật đủ mức sinh trưởng.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Phải chỉ định chặt cây với cây cối đủ mức sinh trưởng.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Phải chỉ định vào thực vật.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Phải chỉ định vật có thể vận chuyển. Một số thứ không thể chỉ định và luôn có thể vận chuyển.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Phải chỉ định không thể đi quá đá khoáng.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Phải chỉ định động vật săn được.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Phải chỉ định động vật thuần hóa được.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Phải chỉ định kiến trúc nhân tạo bỏ hoang.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Phải chỉ định địa hình đá thô.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Không gì có thể bỏ cái mái này đi.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>Nhà kho này đã sẵn sàng và có thể đặt quyển ưu tiên cao nhất nếu cần.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Phải chỉ định những xác chết hay nhân vật bị hạ gục mặc trang phục có thể lột bỏ.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Phải chỉ định vật nuôi của thuộc địa.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Phải chỉ định tất cả mộ hoặc nơi chứa.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} đã chống lại lệnh bắt!</MessageRefusedArrest>
+  
+  <MessageNoMedicalBeds>Hết giường bệnh trống.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>Hết giường vật nuôi trống.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Phẫu thuật yêu cầu {0} hoặc tốt hơn, nhưng chế độ chăm sóc y tế của {1} hiện là "{2}".</MessageTooLowMedCare>
+  
+  <PawnDiedBecauseOf>{0} đã chết vì {1}.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} đã đi lại được.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0} đã suy sụp do kiệt sức.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationFailureCatastrophic>{0} đã gặp thất bại thảm hại khi phẫu thuật cho {1}.</MessageMedicalOperationFailureCatastrophic>
+  <MessageMedicalOperationFailureMinor>{0} đã gặp thất bại nhỏ khi phẫu thuật cho {1}.</MessageMedicalOperationFailureMinor>
+
+  <MessageMedicalOperationWillAngerFaction>Ca phẫu thuật này sẽ khiến cho phe {0} tức giận.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>Vì {0} khỏe mạnh rời khỏi bản đồ, mối quan hệ với {1} đã tăng lên {2}.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0} đã xảy thai vì đói.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} đã xảy thai vì sức khỏe kém.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} đã sinh sản.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} đặt tên {1} là {2} sau khi bị đánh hơi.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>Không ai có thể thuần hóa {0} (yêu cầu cấp độ {1} trong {2}, người có kĩ năng tốt nhất {3} là {4}).</MessageNoHandlerSkilledEnough>
+  
+  <MessageEatenByPredator>{0} bị ăn bởi {1}.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} bị tấn công bởi {1}!</MessageAttackedByPredator>
+  
+  <MessageHiveReproduced>Tổ côn trùng tự sinh sản.</MessageHiveReproduced>
+  
+  <MessageTraderCaravanLeaving>Đoàn thương lái lữ hành đến từ {0} đang rời đi.</MessageTraderCaravanLeaving>
+  
+  <MessageCantSelectDeadPawn>{0} đã chết.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} đã rời khỏi bản đồ.</MessageCantSelectOffMapPawn>
+  
+  <MessageSocialFight>{0} bắt đầu đánh lộn với {1}. Lý do: {2}.</MessageSocialFight>
+  
+  <MessageNewMarriageCeremony>Cư dân đang tập trung chúc mừng lễ cưới giữa {0} với {1}.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} và {1} đang bắt đầu nghi lễ thành hôn!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>Nghi lễ thành hôn giữa {0} và {1} đã tiến hành.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} và {1} đã cưới. Cư dân đang chúc mừng cho mối quan hệ này.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>Buổi lễ thành hôn giữa {0} và {1} đã hoàn tất.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <MessageNewBondRelation>Giữa {0} và {1} đã có một mối liên hệ.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>Giữa {0} và {1} đã có mối liên hệ. {0} gọi HIM là {2}.</MessageNewBondRelationNewName>
+  
+  <MessageBondedAnimalMentalBreak>Vật nuôi {0} đã mất kiểm soát vì cái chết của {1}.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>Vật nuôi {0} tên là {1} đã mất kiểm soát vì cái chết của {2}.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>Vật nuôi {0} đã mất kiểm soát vì cái chế của {1}.</MessageBondedAnimalsMentalBreak>
+  
+  <MessageSuccessfullyRemovedHediff>{0} đã thành công loại bỏ {2} của {1}.</MessageSuccessfullyRemovedHediff>
+  
+  <MessageShipChunkDrop>Có một mảnh vỡ phi thuyền ngoài không gian rơi xuống gần.</MessageShipChunkDrop>
+  
+  <MessagePartyCalledOff>Bữa tiệc đã tiến hành.</MessagePartyCalledOff>
+  <MessagePartyFinished>Bữa tiệc đã kết thúc.</MessagePartyFinished>
+
+  <MessageCannotSellItemsReason>Một vài vật phẩm không thể giao dịch vì: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} thất bại khi xây dựng {0}. Một số tài nguyên đã bị lãng phí.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Ảnh chụp được lưu vào: {0}</MessageScreenshotSavedAs>
+  
+  <MessageNoLongerSocialFighting>{0} và {1} kết thúc đánh lộn.</MessageNoLongerSocialFighting>
+  
+  <MessageNoLongerBingingOnDrug>{0} không còn nôn ọe vì {1}.</MessageNoLongerBingingOnDrug>
+
+  <MessageRottedAwayInStorage>{0} bị hư hỏng hoàn toàn trong kho.</MessageRottedAwayInStorage>
+  
+  <MessageFoodPoisoning>{0} bị ngộ độc thực phẩm do: {1}.</MessageFoodPoisoning>
+ 
+</LanguageData>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CommandForbiddenDesc>Nghiêm cấm - cư dân không được tác động tới vật này.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Không cấm - cư dân có thể tác động tới vật này.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Bật/tắt nguồn</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Bật/tắt nguồn điện.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Thiết lập bật/tắt nguồn</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Thiết lập vật này phải bật/tắt nguồn điện. Một cư dân sẽ tới thực hiện ngay.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>Nối lại</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Cố gắng kết nối với một nguồn lưới điện khác trong phạm vi bán kính. Nó rất hữu ích để kết nối với một mạng lưới điện tốt hơn trong khu vực.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>Điểm tập kết</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Kích hoạt - cư dân sẽ tập trung quanh vật này.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Ngưng -  cư dân sẽ không tập trung quanh vật này.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Chiến đấu</CommandDraftLabel>
+  <CommandUndraftLabel>Cởi chiến</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Chuyển đổi chế độ quân sự.\n\nChiến binh sẽ nhận lệnh và chiến. Họ sẽ không làm việc, ăn uống hay nghỉ ngơi.</CommandToggleDraftDesc>
+  <IsIncapped>{0} không thể đi lại.</IsIncapped>
+
+  <CommandClearPrioritizedWork>Xóa công việc ưu tiên</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Xóa công việc ưu tiên đã chỉ định. Cư dân sẽ trở lại với công việc thường ngày.</CommandClearPrioritizedWorkDesc>
+  
+  <CommandCancelConstructionLabel>Hoãn</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Hoãn công trình này.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Rời khỏi giường</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Rời khỏi giường hiện giờ.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Đặt sở hữu</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Thiết lập giường này thuộc về cư dân đặc biệt.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Thiết lập cư dân</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Thiết lập ngôi mộ này thuộc về cư dân đặc biệt.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Thiết lập</BuildingAssign>
+  <BuildingUnassign>Không thiết lập</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Cho tù nhân</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Tù nhân có thể sử dụng giường bất kỳ trong phòng.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Không thể đặt giường ngoài trời cho tù nhân.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Y tế</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Giường sử dụng cho mục đích y tế.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Chuyển thành chế độ tù nhân sẽ ảnh hưởng cả căn phòng (đồng nghĩa việc tù nhân và cư dân không thể ngủ chung phòng).\n\nNhững người sẽ bị mất giường:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Bỏ đi chế độ tù nhân sẽ ảnh hưởng cả căn phòng (đồng nghĩa việc tù nhân và cư dân không thể ngủ chung phòng).\n\nNhững tù nhân sẽ bị mất giường:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Chắc chắn làm như vậy?</AreYouSure>
+
+  <CommandDetonateLabel>Phát nổ</CommandDetonateLabel>
+  <CommandDetonateDesc>Bắt đầu đếm ngược tới phát nổ.</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>Đổi tên</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Đổi tên khu vực này.</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>Giấu</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Không giấu</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Giấu/không giấu khu vực này.</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>Xóa</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Xóa khu vực này.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Sao chép tùy chỉnh</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Sao chép tùy chỉnh của khu vực này để có thể dán cho khu vực khác.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Dán tùy chỉnh</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Ghi đè tùy chỉnh của khu vực này bằng một tùy chỉnh khác đã được sao chép</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Được gieo hạt</CommandAllowSow>
+  <CommandAllowSowDesc>Khi bỏ sử dụng, các cư dân vẫn có thể thu hoạch nhưng không gieo hạt ở khu vực này.</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Đặt mục tiêu bắt buộc</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Đặt mục tiêu để tháp canh liên tục tấn công khi có thể.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Dừng mục tiêu bắt buộc</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Dừng tấn công bắt buộc để tháp canh bắn tùy ý.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Không có tấn công bắt buộc hiện thời.</CommandStopAttackFailNotForceAttacking>
+  <MessageTargetBeyondMaximumRange>Mục tiêu ngoài tầm bắn xa nhất.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Mục tiêu dưới tầm bắn gần nhất.</MessageTargetBelowMinimumRange>
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Phóng tàu</CommandShipLaunch>
+  <CommandShipLaunchDesc>Bắt đầu phóng tàu tiếp tục với thiết lập hiện thời.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Xem báo cáo phóng</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Xem báo cáo về khả năng sẵn sàng phóng tàu.</CommandShipLaunchReportDesc>
+
+  <!-- Pod -->
+  <CommandPodEject>Mang những người đang ngủ ra</CommandPodEject>
+  <CommandPodEjectDesc>Đánh thức người ngủ đông và mang họ ra.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Không có người.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorForbid>Hành lang bị ngăn cấm</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Khi một cửa bị cấm, cư dân và đồng minh sẽ không đi qua đấy. Điều này không ảnh hưởng tới việc động vật hay kẻ thù tác động tới nó.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Giữ cửa mở</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Khi kích hoạt, cư dân sẽ không đóng cửa sau khi đi qua.</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>Đặt lại</CommandResetTemp>
+  <CommandResetTempDesc>Đặt lại nhiệt độ đích theo nhiệt độ phòng.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Tăng nhiệt độ đích.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Giảm nhiệt độ đích.</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <CommandInstall>Đặt</CommandInstall>
+  <CommandInstallDesc>Vật phầm đã đóng gói để lưu trữ và vận chuyển. Sử dụng mệnh lệnh này để đặt nó vào vị trí cuối cùng.</CommandInstallDesc>
+  <CommandReinstall>Đặt lại tại...</CommandReinstall>
+  <CommandReinstallDesc>Thiết lập vật phẩm được bỏ ra và đặt tại nơi khác.</CommandReinstallDesc>
+  
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Tạo bãi chứa vật liệu quanh kiến trúc này phù hợp với bán kính của máy radar.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Tạo bãi chứa vật liệu</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Tạo khu vực trồng trọt quanh kiến trúc này phù hợp với bán kính phủ sáng của đèn mặt trời.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Tạo khu vực trồng trọt</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>Tự động tái kích hoạt</CommandAutoRearm>
+  <CommandAutoRearmDesc>Khi bật tính năng này thì bẫy sẽ tự động được chỉ định tái kích hoạt sau khi bung.</CommandAutoRearmDesc>
+  
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Thả động vật</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Khi bật, động vật sẽ được chủ nhân thả ra tấn công mục tiêu ở xa. Nếu tắt thì chúng sẽ chỉ quanh quẩn và bảo vệ chủ nhân.</CommandReleaseAnimalsDesc>
+  
+  <!-- Squad attack -->
+  <CommandSquadAttack>Tấn công</CommandSquadAttack>
+  <CommandSquadAttackDesc>Ra lệnh cho cư dân tấn công mục tiêu chỉ định.</CommandSquadAttackDesc>
+  
+  <!-- Hold fire -->
+  <CommandHoldFire>Ngừng bắn</CommandHoldFire>
+  <CommandHoldFireDesc>Kết thúc tất cả các hoạt động tấn công.</CommandHoldFireDesc>
+  
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Chọn loại thực vật để gieo trồng</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Thực vật: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Quyết định loại thực vật nào sẽ được gieo hạt ở đây.</CommandSelectPlantToGrowDesc>
+  
+  <!-- Build copy -->
+  <CommandBuildCopy>Xây dựng bản sao</CommandBuildCopy>
+  <CommandBuildCopyDesc>Xây dựng một bản sao chép của công trình này.</CommandBuildCopyDesc>
+  
+</LanguageData>

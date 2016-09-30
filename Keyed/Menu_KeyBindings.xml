@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>Lưu</SaveButton>
+  <!--<CancelButton>Hoãn</CancelButton>-->
+  <ClearBinding>Xóa</ClearBinding>
+  <ResetBinding>Chuyển về mặc định</ResetBinding>
+  <BindingButtonToolTip>Chuột trái để gán cho phím này hoặc chuột phải để lựa chọn</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Nhấn phím bất kỳ hoặc ESC để hoãn...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Ghi đè giá trị gán cho phím: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

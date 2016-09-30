@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Tối</Dark>
+  <Lit>Sáng</Lit>
+  <LitBrightly>Bừng sáng</LitBrightly>
+  
+  <!-- history upload pref -->
+  <Unspecified>Chưa quyết định</Unspecified>
+  <Always>Đồng ý</Always>
+  <Never>Không đồng ý</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>rẻ mạt</PriceTypeVeryCheap>
+  <PriceTypeCheap>rẻ</PriceTypeCheap>
+  <PriceTypeNormal>bình thường</PriceTypeNormal>
+  <PriceTypeExpensive>đắt</PriceTypeExpensive>
+  <PriceTypeExorbitant>chặt chém</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>không dự trữ</StoragePriorityUnstored>
+  <StoragePriorityLow>thấp</StoragePriorityLow>
+  <StoragePriorityNormal>trung bình</StoragePriorityNormal>
+  <StoragePriorityPreferred>ưa thích</StoragePriorityPreferred>
+  <StoragePriorityImportant>quan trọng</StoragePriorityImportant>
+  <StoragePriorityCritical>khẩn cấp</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>rau củ</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>thịt tươi</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>xác</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seeds>hạt giống</FoodTypeFlags_Seeds>
+  <FoodTypeFlags_AnimalProduct>sản phẩm động vật</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>thực vật sống</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>cây sống</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>thức ăn</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>thức ăn đã xử lý</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>rượu</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>cám</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>tệ hại</QualityCategory_Awful>
+  <QualityCategory_Shoddy>thứ phẩm</QualityCategory_Shoddy>
+  <QualityCategory_Poor>kém</QualityCategory_Poor>
+  <QualityCategory_Normal>bình thường</QualityCategory_Normal>
+  <QualityCategory_Good>tốt</QualityCategory_Good>
+  <QualityCategory_Superior>cao cấp</QualityCategory_Superior>
+  <QualityCategory_Excellent>hoàn hảo</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>kiệt tác</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>huyền thoại</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>tệ</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>phế</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>kém</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>bt</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>tốt</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>cao</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>đỉnh</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>khủng</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>vcl</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>Đang đói</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Đói khẩn cấp</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Đói</HungerLevel_Hungry>
+  <HungerLevel_Fed>Chán</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Khó thở</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Rất mệt</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Mệt</HungerLevel_Tired>
+  <HungerLevel_Rested>Nghỉ ngơi</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>phẳng</Hilliness_Flat>
+  <Hilliness_SmallHills>đồi nhỏ</Hilliness_SmallHills>
+  <Hilliness_LargeHills>đồi lớn</Hilliness_LargeHills>
+  <Hilliness_Mountainous>núi non</Hilliness_Mountainous>
+  
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Creating</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Submitting</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Invalid</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Preparing config data</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Preparing content files</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Uploading content</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Uploading preview file</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Committing changes</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>thư mục hiện thời</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  <!-- Trainable intelligence -->
+  <TrainableIntelligence_None>không</TrainableIntelligence_None>
+  <TrainableIntelligence_Simple>đơn giản</TrainableIntelligence_Simple>
+  <TrainableIntelligence_Intermediate>trung cấp</TrainableIntelligence_Intermediate>
+  <TrainableIntelligence_Advanced>cao cấp</TrainableIntelligence_Advanced>
+
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>Không chăm sóc y tế</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Bác sỹ chăm sóc không dùng thuốc</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Thảo dược hoặc kém hơn</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Thuốc bình thường hoặc kém hơn</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Chăm sóc y tế cao nhất</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Bỏ qua</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Tấn công</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Chạy trốn</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>tăng trưởng</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>ổn định</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>rút ngắn</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <TechLevel_Animal>động vật</TechLevel_Animal>
+  <TechLevel_Neolithic>đồ đá</TechLevel_Neolithic>
+  <TechLevel_Medieval>trung cổ</TechLevel_Medieval>
+  <TechLevel_Industrial>công nghiệp</TechLevel_Industrial>
+  <TechLevel_Spacer>không gian</TechLevel_Spacer>
+  <TechLevel_Ultra>cao cấp</TechLevel_Ultra>
+  <TechLevel_Transcendent>siêu việt</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Điểm đứng</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Thả quả cầu sinh tồn</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>tất cả nhân vật</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>nhân vật bắt đầu</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>nhân vật không chơi</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Hiện tên vật nuôi</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Thuần hóa (có đặt tên)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Thuần hóa (tất cả)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <Celsius>Celsius</Celsius>
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Spoil reason -->
+  <SpoilReason_Freezing>Hư hại vì đóng băng.</SpoilReason_Freezing>
+  <SpoilReason_HighTemperature>Hư hại vì nhiệt độ cao.</SpoilReason_HighTemperature>
+  
+</LanguageData>

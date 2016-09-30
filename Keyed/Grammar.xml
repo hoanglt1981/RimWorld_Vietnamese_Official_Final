@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IndefiniteArticle>một</IndefiniteArticle>
+  <DefiniteArticle>những</DefiniteArticle>
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <Proits>nó</Proits>
+  <Prohis>anh ta</Prohis>
+  <Proher>cô ta</Proher>
+  <ProitsCap>Nó</ProitsCap>
+  <ProhisCap>Anh ta</ProhisCap>
+  <ProherCap>Co tay</ProherCap>
+
+  <ProitObj>nó</ProitObj>
+  <ProhimObj>anh ấy</ProhimObj>
+  <ProherObj>cô ấy</ProherObj>
+  <ProitObjCap>Nó</ProitObjCap>
+  <ProhimObjCap>Anh ấy</ProhimObjCap>
+  <ProherObjCap>Cô ấy</ProherObjCap>
+
+  <Prohe>anh ta</Prohe>
+  <Proshe>cô ta</Proshe>
+  <Proit>nó</Proit>
+  <ProheCap>Anh ta</ProheCap>
+  <ProsheCap>Cô ta</ProsheCap>
+  <ProitCap>Nó</ProitCap>
+
+</LanguageData>

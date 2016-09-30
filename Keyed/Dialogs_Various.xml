@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Confirm>Xác định</Confirm>
+  <GoBack>Quay lại</GoBack>
+  <OK>Đồng ý</OK>
+  
+  <!-- Game updated to new version -->
+  <GameUpdatedToNewVersionInitial>RimWorld đã được cập nhật từ phiên bản {0} tới phiên bản {1}.\n\nĐiều này có thể khiến bản lưu game và mod từ những phiên bản cũ ngừng hoạt động.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionNonSteam>Từ khi đây là một bản sao chếp DRM-free, bạn có thể cài đặt trò chơi 2 lần vào 2 thư mục khác nhau, để có thể đồng thời chơi được cả phiên bản cũ lẫn mới.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Nếu bạn muốn tiếp tục với phiên bản cũ, bạn có thể lựa chọn sử dụng tính năng Steam's "Betas".\n\n  1. Trong thư viện Steam, chuột phải vào RimWorld.\n  2. Nhấn Properties.\n  3. Nhấn mục Betas.\n  4. Lựa chọn phiên bản mà bạn muốn từ mục thả xuống.\n\nPhiên bản cũ cuối cùng sẽ thường bị loại bỏ khỏi danh sách sách - chúng tôi chỉ không muốn làm gián đoạn phát triển trò chơi.\n\nNhớ rằng nếu tác giả của mod cập nhận mod của họ cho phiên bản trò chơi mới, họ sẽ hầu như dừng ở những phiên bản cũ. Bạn có thể muốn tắt tự động cật nhật phiên bản trò chơi để phòng ngừa việc này.</GameUpdatedToNewVersionSteam>
+  
+  <!-- Recovered from errors caused by mods -->
+  <RecoveredFromErrorsDialogTitle>Phục hồi từ những lỗi mod không tương thích hoặc bị hỏng</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Có vẻ như một số mod đang kích hoạt đã gây ra lỗi.\n\nChúng không tương thích với những mod khác, chỉ định cho phiên bản RimWorld khác, hoặc bị hỏng.\n\nTất cả mod này sẽ bị tắt và có thể kích hoạt lại ở thông báo mod.</RecoveredFromErrorsText>
+  
+  <!-- Errors during loading -->
+  <ErrorWhileLoadingAssetsTitle>Lỗi khi tải assets</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Có lỗi trong khi tải assets của trò chơi. Xem bản ghi lỗi để có thêêm thông tin.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Trò chơi đang chạy với những mod chỉnh sửa - chúng có thể gây ra những vẫn đề này.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Lỗi khi khởi tạo bản đồ</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Có lỗi trong khi khởi tạo bản đồ mới. Xem bản ghi lỗi để có thêm thông tin.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Lỗi khi tải bản đồ</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Có lỗi trong khi tải bản đồ. Xem bản ghi lỗi để có thêm thông tin.</ErrorWhileLoadingMap>
+  
+  <!-- Unloaded mod with an assembly -->
+  <ModWithAssemblyWasUnloaded>Trò chơi không thể tải đầy đủ code chỉnh sửa từ những mod bị tắt, nên code từ những mod bị tắt có thể vẫn kích hoạt.\n\nKhuyến cáo bạn nên thoát và khởi động lại trò chơi để tải tất cả mod một cách sạch sẽ.</ModWithAssemblyWasUnloaded>
+  
+  <!-- Missing Steam -->
+  <SteamClientMissing>Không thể khởi tạo Steam API. Có thể là vấn đề:\n\n-Steam không hoạt động.\n-Khởi động từ bên ngoài Steam mà không cósteam_appid.txt trong đó.\n-Hoạt động với phân quyền khác với Steam client (e.g. "as administrator").\n\nTrong hầu hết vấn đề, khởi động lại máy tính của bạn có thể sửa chữa phiền toái này.\n\nPhiên bản Steam này của trò chơi yêu cầu Stean và sẽ thoát ngay bây giờ.</SteamClientMissing>
+  
+  <!-- Long events -->
+  <InitializingInterface>Khởi tạo giao diện</InitializingInterface>
+  <UnloadingUnusedAssets>Không tải assets không sử dụng</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Tải tất cả các mod đang kích hoạt</LoadingAllActiveMods>
+  <LoadingDefs>Tải defs</LoadingDefs>
+  <LoadingAssets>Tải assets</LoadingAssets>
+  <Initializing>Khởi tạo</Initializing>
+  <LoadingWorld>Tải thế giới</LoadingWorld>
+  <LoadingMap>Tải bản đồ</LoadingMap>
+  <InitializingMap>Khởi tạo bản đồ</InitializingMap>
+  <SpawningAllThings>Tái hiện mọi thứ</SpawningAllThings>
+  
+  <!-- Save/load -->
+  <SaveGameButton>Lưu</SaveGameButton>
+  <LoadGameButton>Tải</LoadGameButton>
+  <OverwriteButton>Ghi đè</OverwriteButton>
+  <ConfirmDelete>Chắc chắn xóa {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Xóa bản lưu này.</DeleteThisSavegame>
+  <SavedAs>Lưu thành {0}.</SavedAs>
+  <NeedAName>Hãy đánh một cái tên.</NeedAName>
+  <LoadingLongEvent>Đang tải</LoadingLongEvent>
+  <SavingLongEvent>Đang lưu</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(Vĩnh viễn)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>Chúng ta đang dùng phiên bản {0} nhưng dữ liệu bản ghi ở {1}, đó là sự khác biệt cả một phiên bản.\n\nCố gắng tải dữ liệu này có thể không hoạt động.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Chúng ta đang dùng phiên bản {0} nhưng dữ liệu bản ghi ở {1}, đó là sự khác biệt về cách xây dưng.\n\nCố gắng tải dữ liệu có thể không hoạt động.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Bản ghi được lưu trên phiên bản này và có thể hoạt động mà không có vấn đề.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Dữ liệu bản ghi không nhận dạng được và hầu như không tải được.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Có lỗi khi lưu bản ghi {0}:\n\n{1}\n\nKiểm tra bộ lưu trữ lỗi để có thông tin chi tiết.</ProblemSavingFile>
+  <LoadAnyway>Tải bằng mọi giá</LoadAnyway>
+  
+  <!-- Colony naming-->
+  <NameColonyMessage>Có vẻ như bạn đã ở đây một thời gian, {0} nghĩ bạn nên đặt tên cho vùng đất này.\n\nNó sẽ gọi là gì?</NameColonyMessage>
+  <ColonyGainsName>Vùng đất này được biết đến với tên {0}.</ColonyGainsName>
+  <ColonyNameIsInvalid>Tên này không thích hợp.</ColonyNameIsInvalid>
+
+  <!-- Renaming -->
+  <NameIsInvalid>Hãy nhập vào tên thích hợp.</NameIsInvalid>
+  <NameIsInUse>Tên đã được dùng.</NameIsInUse>
+  <ZoneGainsName>Khu vực này giờ gọi là {0}.</ZoneGainsName>
+  
+  <!-- Pawn naming -->
+  <PawnGainsName>Cư dân có tên gọi tắt là {0}.</PawnGainsName>
+
+  <!-- Save game incompatible warning -->
+  <VersionMismatch>Phiên bản không đúng</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Trò chơi này được lưu ở phiên bản {0}\nChúng ta đang sử dụng phiên bản trò chơi {1}\n\nTải bản lưu này có thể gây lỗi và hỏng hóc.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Tệp Thế giới được khởi tạo với phiên bản trò chơi {0}\nChúng ta đang sử dụng phiên bản {1}\n\nTải thế giới này có thể gây lỗi và hỏng hóc. Bạn nên khởi tạo thế giới mới từ phiên bản này.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>Bản lưu này ở phiên bản trò chơi {0}\nChúng ta đang chạy phiên bản {1}\n\nTải bản lưu này có thể gây lỗi và hỏng hóc.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Mod không dúng</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Bản lưu này ở tập hợp các mod được kích hoạt khác với những mod mà chúng ta đang sử dụng. Nó có thể gây ra phiền toái, phụ thuộc vào việc những mod đó thực hiện.\n\nBản lưu với (theo danh sách này):\n\n{0}\n\nChúng ta đang hoạt động (theo danh sách này):\n\n{1}</ModsMismatchWarningText>
+
+  <!-- Resolution change dialog -->
+  <ConfirmResolutionChange>Bạn đã thay đổi tùy chỉnh màn hình. Cái mới hoạt động tốt chứ?\n\nTự động quay lại trong {0}...</ConfirmResolutionChange>
+  <ResolutionKeep>Giữ</ResolutionKeep>
+  <ResolutionRevert>Quay lại</ResolutionRevert>
+
+  <!-- Research -->
+  <Research>Nghiên cứu</Research>
+  <Researched>Đã nghiên cứu</Researched>
+  <Unresearched>Chưa nghiên cứu</Unresearched>
+  <Finished>Đã hoàn thành</Finished>
+  <InProgress>Trong quá trình</InProgress>
+  <Locked>Khóa</Locked>
+  <ResearchMenuWithoutBench>Cho tới khi có máy nghiên cứu, cư dân sẽ không thể nghiên cứu.\n\Tuy nhiên lúc này bạn vẫn có thể thấy các hạng mục nghiên cứu .</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Yêu cầu nghiên cứu trước</ResearchPrerequisites>
+  <RequiredResearchBench>Yêu cầu máy nghiên cứu</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Yêu cầu công nghệ máy nghiên cứu</RequiredResearchBenchFacilities>
+  
+  <!-- Advanced game start options -->
+  <MapTemperatureDangerWarning>Cảnh báo: Bạn sẽ hạ cánh xuống môi trường băng giá. Rất khó và thậm chí gần như không thể tồn tại. Nếu bạn không định đối mặt với những thử thách nghiêm trọng, hãy chọn khu vực hoặc mùa khác.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
+  <MapSize>Kích thước bản đồ</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} vùng)</MapSizeDesc>
+  <MapSizeSmall>Nhỏ</MapSizeSmall>
+  <MapSizeMedium>Trung bình</MapSizeMedium>
+  <MapSizeLarge>Lớn</MapSizeLarge>
+  <MapSizeExtreme>Bao la</MapSizeExtreme>
+  <MapStartSeason>Mùa bắt đầu:</MapStartSeason>
+  <MapStartSeasonDefault>Tự động</MapStartSeasonDefault>
+  <PermadeathMode>Chế độ chết vĩnh viễn</PermadeathMode>
+  <PermadeathModeInfo>Trong chế độ chết vĩnh viễn, bạn có một bản ghi và chỉ có thể lưu khi thoát trò chơi. Bạn không thể tải lại trò chơi để sửa sai, và khi cư dân chết, là chết hẳn.\n\nĐây là cách mà RimWorld được lựa chọn, với tất cả thay đổi kịch tính - cho dù là chiến thuật hay hi vọng - chơi với giá trị chân thật nhất.</PermadeathModeInfo>
+
+  <!-- Bill config -->
+  <Suspended>Tạm ngưng</Suspended>
+  <NotSuspended>Không tạm ngưng</NotSuspended>
+  <SuspendedAllCaps>TẠM NGƯNG</SuspendedAllCaps>
+  <RepeatCount>Lặp lại: {0}</RepeatCount>
+  <Forever>Vĩnh viễn</Forever>
+	<Details>Chi tiết</Details>
+  <IngredientSearchRadius>Bán kính tìm kiếm nguyên liệu</IngredientSearchRadius>
+  <CurrentlyHave>Hiện có</CurrentlyHave>
+  <CountingProducts>Đếm</CountingProducts>
+  <Infinite>Vô hạn</Infinite>
+  <AllowedSkillRange>Chấp nhận kĩ năng {0}:</AllowedSkillRange>
+  
+  <RecipeCannotHaveTargetCount>(Công thức này không thể đếm mục tiêu vì nó có liên tiếp hoặc những sản phẩm không thể dự đoán được.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>Lượng công việc</WorkAmount>
+  <MinimumSkills>Kĩ năng thấp nhất:</MinimumSkills>
+  <BillRequires>Cần {0} {1}</BillRequires>
+  <BillRequiresNutrition>Cần {0} dinh dưỡng</BillRequiresNutrition>
+  <BillRequiresMayVary>Ghi chú: Những thành phần nhỏ như vàng cần số lượng 20x.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Đây là thành phần nhỏ. Nó có nghĩa mỗi thành phần này chỉ bằng 1/2 thành phần bình thường. Vậy nên để đáp ứng đủ yêu cầu về thành phần, bạn cần gấp 20x.</ThisIsSmallVolume>
+  <UsableIngredients>thành phần</UsableIngredients>
+  <DoXTimes>Làm X lần</DoXTimes>
+  <DoUntilYouHaveX>Làm cho tới khi có X</DoUntilYouHaveX>
+  <DoForever>Làm vĩnh viễn</DoForever>
+  <BillRepeatTargetCountShort>Tới {0}</BillRepeatTargetCountShort>
+  <BillStoreMode_DropOnFloor>Vứt trên sàn</BillStoreMode_DropOnFloor>
+  <BillStoreMode_BestStockpile>Chuyển tới bãi chứa tốt nhất</BillStoreMode_BestStockpile>
+  <BillStoreMode_NearestStockpileAnyPriority>Mang tới bãi chứa gần nhất</BillStoreMode_NearestStockpileAnyPriority>
+  
+  <!-- Info card -->
+  <Damage>Sát thương</Damage>
+  <Accuracy>Chính xác</Accuracy>
+  <BurstShotCount>Số đạn bắn</BurstShotCount>
+  <WarmupTime>Thời gian ngắm</WarmupTime>
+  <MeleeWarmupTime>Giãn cách cận chiến</MeleeWarmupTime>
+  <CooldownTime>Thời gian nạp đạn</CooldownTime>
+  <BurstShotFireRate>Tốc độ bắn</BurstShotFireRate>
+  <Range>Khoảng cách</Range>
+  <GrowsWild>Thực vật hoang dã</GrowsWild>
+  <Harvestable>Có thể thu hoạch</Harvestable>
+  <LimitedLifespan>Giới hạn vòng đời</LimitedLifespan>
+  <GrowingTime>Thời gian sinh trưởng</GrowingTime>
+  <GrowingTimeDesc>Cây cối chỉ sinh trưởng một phần trong ngày, và chỉ khi có ánh sáng. Thông số này đo lường thời gian cây cối cần từ lúc sinh trưởng cho tới lúc đầy đủ .Thời gian sinh trưởng thực tế sẽ được thiết lập lâu gấp đôi. Nhiệt độ thấp cũng khiến cho cây cối sinh trưởng chậm.</GrowingTimeDesc>
+  <Days>ngày</Days>
+  <MinGrowingSkillToSow>Kĩ năng trồng trọt thấp nhất để gieo hạt</MinGrowingSkillToSow>
+  <FertilityRequirement>Độ màu mỡ yêu cầu</FertilityRequirement>
+  <SoilFertilitySensitivityGrowthRate>Độ nhạy của đất bùn màu mỡ (tỷ lệ sinh trưởng)</SoilFertilitySensitivityGrowthRate>
+  <SoilFertilitySensitivityPlantChance>Độ nhạy của đất bùn màu mỡ (cơ hội trồng)</SoilFertilitySensitivityPlantChance>
+  <LightRequirement>Yêu cầu ánh sáng</LightRequirement>
+  <Attributes>Thuộc tính</Attributes>
+  <LifeSpan>Vòng đời</LifeSpan>
+  <Nutrition>Dinh dưỡng</Nutrition>
+  <Joy>Vui vẻ</Joy>
+  <FoodQuality>Chất lượng thực phẩm</FoodQuality>
+  <WalkSpeedProperty>Tốc độ đi lại</WalkSpeedProperty>
+  <MinFoodQuality>Chất lượng thực phẩm thấp nhất</MinFoodQuality>
+  <Diet>Thức ăn</Diet>
+  <RecruitDifficulty>Độ khó chiêu hàng</RecruitDifficulty>
+  <MarketValue>Giá trị cơ bản</MarketValue>
+  <Covers>Che chắn</Covers>
+  <CoverEffectiveness>Hiệu quả che chắn</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Thể hiện hiệu quả khi sử dụng che chắn trong cuộc đọ súng. Tỷ lệ càng cao càng chặn nhiều phát bắn.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>Hệ số kinh nghiệm đạt được</MedicineXpGainFactor>
+  <BodyPartEfficiency>Hiệu quả của bộ phận cơ thể</BodyPartEfficiency>
+  <MoodChange>Tâm trạng thay đổi</MoodChange>
+  <Wildness>Hoang dã</Wildness>
+  <WildnessExplanation>Động vật hoang dã tự nhiên khó để thuần hóa, nuôi dạy, và điều khiển.</WildnessExplanation>
+  <AnimalFilthRate>Tốc độ bẩn</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Động vật phát sinh vết bẩn khi di chuyển xung quanh khu vực xây dựng. Đây là số lượng vết bẩn trung bình phát sinh mỗi {0} ô di chuyển của sinh vật này.\n\nVậy nuôi lớn hoặc nhỏ hơn sẽ sẽ phán sinh nhiều vết bẩn hơn.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Thời gian</TimeRecordsCategory>
+  <MiscRecordsCategory>Khác</MiscRecordsCategory>
+  <Addictiveness>Nghiện nghập</Addictiveness>
+
+  <!-- Trade -->
+  <PositiveBuysNegativeSells>Xác định số lượng mua.\nPhủ định số lượng bán.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Giá bạn phải trả khi mua.</BuyPriceDesc>
+  <SellPriceDesc>Giá bạn được nhận khi bán.</SellPriceDesc>
+  <PriceTypeDesc>Giá của món đồ này là {0}.</PriceTypeDesc>
+  <ColonyCount>Bao nhiêu đồ bạn sẵn sàng giao dịch.\n\nBạn chỉ có thể bán đồ cho thương lái vũ trụ khi họ ở ngoài và gần thiết bị radar giao dịch quĩ đạo.</ColonyCount>
+  <TraderCount>Bao nhiều đồ mà lái buôn phải giao dịch.</TraderCount>
+  <AcceptButton>Chấp nhận</AcceptButton>
+  <ResetButton>Lập lại</ResetButton>
+  <CancelButton>Hoãn</CancelButton>
+  <CloseButton>Đóng</CloseButton>
+  <YourTradeableSilver>Số tiền bạn có thể giao dịch: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Bạn chỉ có thể giao dịch với tiền để ở gần thiết bị giao dịch quĩ đạo và không bên dưới mái nhà.</YourTradeableSilverTip>
+  <TraderHasNoMore>Lái buôn không còn gì.</TraderHasNoMore>
+  <ColonyHasNoMore>Không còn gì để bán.</ColonyHasNoMore>
+  <TraderWillNotTrade>Lái buôn không định giao dịch thứ này.</TraderWillNotTrade>
+  <NegotiatorTalkingImpaired>Người đàm phán {0} của bạn không thể nói hiệu quả vì sức khỏe kém.\n\nNó sẽ làm ảnh hưởng tới giá trị giao dịch.\n\nĐề nghị sử dụng người đàm phán khỏe mạnh.</NegotiatorTalkingImpaired>
+  <ConfirmTraderShortFunds>Lái buôn thiếu tiền để thực hiện giao dịch này.  Tiếp tục mọi giá?</ConfirmTraderShortFunds>
+  <SortBy>Sort by</SortBy>
+  
+  <!-- Comms -->
+  <SocialSkillIs>Kĩ năng giao tiếp: {0}</SocialSkillIs>
+  
+  <!--Research-->
+  <ResearchFinished>Nghiên cứu hoàn tất: {0}</ResearchFinished>
+  <ResearchScreen>Bảng nghiên cứu</ResearchScreen>
+  
+  <!--HistoryUpload-->
+  <HistoryUploadMessage>Bạn có muốn tải dữ liệu ghi quá trình chơi lên máy chủ RimWorld để giúp các nhà phát triển cân bằng trò chơi? Nếu bạn chấp nhận, dữ liệu của bạn sẽ được tải lên mỗi {0} ngày (và trong một số trường hợp hiếm hoi như kết thúc trò chơi). Tùy chỉnh riêng tư có thể thay đổi sau ở mục lựa chọn.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Ngày cả khi lịch sử được gửi đi ẩn danh, bạn có thể đính kèm tên mình.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Chấp nhận tải lên dữ liệu quá trình chơi</HistoryUploadYes>
+  <HistoryUploadNo>Không chấp nhận tải lên dữ liệu quá trình chơi</HistoryUploadNo>
+  <HistoryUploadYesOnce>Chỉ tải lên lúc này</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Không tải lên lúc này, hỏi tôi sau</HistoryUploadNoOnce>
+	
+  <!-- Outfit management -->
+  <Outfit>Trang phục</Outfit>
+  <SelectOutfit>Lựa chọn trang phục...</SelectOutfit>
+  <NewOutfit>Trang phục mới</NewOutfit>
+  <DeleteOutfit>Xóa trang phục...</DeleteOutfit>
+  <OutfitInUse>Trang phục đang được {0} mặc.</OutfitInUse>
+  <NoOutfitSelected>Không lựa chọn trang phục nào</NoOutfitSelected>
+  
+  <!-- Drug policy management -->
+  <DrugPolicy>Chính sách chất kích thích</DrugPolicy>
+  <SelectDrugPolicy>Lựa chọn chính sách...</SelectDrugPolicy>
+  <NewDrugPolicy>Chính sách mới</NewDrugPolicy>
+  <DeleteDrugPolicy>Xóa chính sách...</DeleteDrugPolicy>
+  <DrugPolicyInUse>Chính sách chất kích thích được dùng bởi {0}.</DrugPolicyInUse>
+  <SocialDrugs>Chất kích thích thông thường</SocialDrugs>
+  <NoDrugs>Không chất kích thích</NoDrugs>
+  <OneDrinkPerDay>Mỗi ngày một ly</OneDrinkPerDay>
+  <Unrestricted>Không giới hạn</Unrestricted>
+  <NoDrugPolicySelected>Không chính sách nào được chọn</NoDrugPolicySelected>
+  <AddDrug>Thêm chất kích thích...</AddDrug>
+  <DrugColumnLabel>Chất kích thích</DrugColumnLabel>
+  <DrugUsageColumnLabel>Cách dùng</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>Tần suất</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Chỉ khi tâm trạng thấp</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>Chỉ khi vui vẻ thấp</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>Mang trong người</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(không chất kích thích)</NoDrugsBrackets>
+  <EveryDay>Hàng ngày</EveryDay>
+  <TimesPerDay>{0} lần mỗi ngày</TimesPerDay>
+  <EveryDays>Mỗi {0} ngày</EveryDays>
+  <NoDrugUseRequirement>Tùy thích</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Xóa chất kích thích này.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>Tên của chất kích thích.</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>Việc chất kích thích được dùng.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>Mức độ cư dân thường xuyên sử dụng chất kích thích.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>Cư dân chỉ dùng chất kích thích khi tâm trạng thấp hơn ngưỡng này.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Cư dân chỉ dùng chất kích thích khi vui vẻ thấp hơn ngưỡng này.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>Một lượng chất kích thích được nhặt thêm khi thu gom chúng để sử dụng, để phòng ngừa việc ghé thăm khu chứa chất kích thích mọi lúc.</TakeToInventoryColumnDesc>
+  <DrugUsageTipForJoy>Dành cho sự vui vẻ\n\nSử dụng chất kích thích này cho sự vui vẻ và mục đích giao tiếp, và để thỏa mãn sự ham muốn của việc bị nghiện ngập.\n\nNgay cả khi đã loại bỏ, vài nhân vật với đặc điểm đặc biệt, hoặc mất kiểm soát vẫn có thể sử dụng chất kích thích.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Lịch trình\n\nSử dụng chất kích thich theo một lịch trình chỉ định, khi gặp những điều kiện đặc biệt.</DrugUsageTipScheduled>
+  
+  <!-- Growing -->
+  <NoGrowerCanPlant>{0} cần {1} kĩ năng trồng trọt để gieo hạt.\n\nKhông nông dân nào có kĩ năng này nên hạt không được gieo.</NoGrowerCanPlant>
+
+</LanguageData>

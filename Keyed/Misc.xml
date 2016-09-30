@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Autosaving>Lưu tự động</Autosaving>
+  
+  <GameStartDialog>Ba người của bạn thức dậy trong buồng ngủ đông bởi âm thanh của kim loại vỡ nát. Bạn vừa đủ tới khoang cứu sinh trước khi phi thuyền vỡ thành từng mảnh.\n\nMột thời gian sau, bạn đáp xuống vùng đất rimworld chưa được biết đến.\n\nVới từng phần của chiếc phi thuyền vỡ nát rơi xung quanh, bạn bắt đầu lên kế hoạch để tồn tại.</GameStartDialog>
+
+  <Colony>Thuộc địa</Colony>
+  
+  <ChangeLanguageFromMainMenu>Bạn chỉ có thể thay đổi ngôn ngữ tại màn hình lựa chọn trên mục chính.</ChangeLanguageFromMainMenu>
+
+  <AndLower>và</AndLower>
+  <DisabledLower>hủy bỏ</DisabledLower>
+
+
+  <VersionIndicator>Phiên bản {0}</VersionIndicator>
+  <DevelopmentBuildLower>development build</DevelopmentBuildLower>
+  <CompiledOn>Biên dịch {0}</CompiledOn>
+  <LoggedIntoSteamAs>Đăng nhập Steam là {0}</LoggedIntoSteamAs>
+
+  <!-- General-use words -->
+  <Yes>Có</Yes>
+  <No>Không</No>
+  <min>nhỏ</min>
+  <max>lớn</max>
+  <chance>cơ hội</chance>
+  <context>context</context>
+  <multiplier>tăng</multiplier>
+  <damage>sát thương</damage>
+  <radius>bán kính</radius>
+  <durationDays>tồn tại (ngày)</durationDays>
+  <intervalDays>khoảng cách (ngày)</intervalDays>
+  <repeat>lặp</repeat>
+
+  <!-- Content generation-->
+  
+	<MeatLabel>Thịt {0}</MeatLabel>
+  <MeatDesc>Thịt giết mổ tươi. Có thể nấu thành món ăn, hoặc ăn sống.</MeatDesc>
+
+  <LeatherLabel>Da {0}</LeatherLabel>
+  <LeatherDesc>Đã thuộc, khô, cắt rồi. Một nguyên liệu truyên thống tốt để chế tạo quần áo và túi xách.</LeatherDesc>
+
+  <CorpseLabel>Xác {0}</CorpseLabel>
+	<CorpseDesc>Xác chết của một {0}.</CorpseDesc>
+  <DeadLabel>{0} (chết)</DeadLabel>
+
+  <RoughStoneTerrainLabel>thô ráp {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>Thô ráp, tự nhiên {0} vùng.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>cắt nham nhở {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>Cắt nham nhở tự nhiên {0} sàn.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>nhẵn nhụi {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>Nhẵn nhụi tự nhiên {0} sàn.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra>(thiết kế)</BlueprintLabelExtra>
+  <FrameLabelExtra>(công trình)</FrameLabelExtra>
+
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <ThingMadeOfStuffLabel>{1} {0}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{1} của {0}</SomeonesRoom>
+  <CouplesRoom>{2} của {0} và {1}</CouplesRoom>
+  
+  <VariousLabel>(đa dạng)</VariousLabel>
+
+  <!-- History events -->
+  <ColonistDied>Cư dân bỏ mạng</ColonistDied>
+  
+  
+  
+</LanguageData>

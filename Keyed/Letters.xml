@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <JumpToLocation>Chuyển tới vị trí</JumpToLocation>
+  
+  <LetterLabelFirstSummerWarning>Mùa hạ</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>Mùa hạ bắt đầu! Nhưng mùa đông cũng đang tới.\n\nCây ngũ cốc của bạn sẽ không mọc trong mùa đông. Hãy để vài ngày chuẩn bị dự trữ thức ăn khi còn có thể.\n\nCó thể xây phòng giữ lạnh để tránh ôi thiu thức ăn.\n\nVà cố gắng chuẩn bị quần áo ấm khi bước ra ngoài trời.</FirstSummerWarning>
+
+  <RelationsBrokenDown>Mối quan hệ với {0} đã đổ vỡ. Họ với bạn đã trở thành thù địch.</RelationsBrokenDown>
+  <RelationsWarmed>Mối quan hệ với {0} được làm ấm lại. Họ không còn thù địch bạn nữa.</RelationsWarmed>
+
+  <RelationsBrokenCapture>Bởi vì bạn bắt giữ {0}, {1} trở thành kẻ thù.</RelationsBrokenCapture>
+
+  <ColonyGoodwill>Sự tín nhiệm thuộc địa</ColonyGoodwill>
+  <Neutral>Trung tính</Neutral>
+
+  <ShortCircuitRain>Một {0} bị chập điện trong mưa và bắt đầu bốc cháy.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>Tìm thấy khu vực</LetterLabelAreaRevealed>
+  <AreaRevealed>Một khu vực mới đã được tìm thấy.</AreaRevealed>
+  <AreaRevealedWithMechanoids>Một khu vực mới đã dược tìm thấy. Nó chứa đựng sự cổ xưa và những phi sinh vật thù địch.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>Mái sập vì ở quá xa cột.</RoofCollapsed>
+  <TheseThingsCrushed>Những thứ bị mái đè:</TheseThingsCrushed>
+  <NothingCrushed>Không có gì bị mái đè.</NothingCrushed>
+  <LetterLabelRoofCollapsed>Sập mái</LetterLabelRoofCollapsed>
+  
+  <RecruitSuccess>{0} chiêu hàng thành công {1} (cơ hội {2}).</RecruitSuccess>
+  <RecruitFail>{0} chiêu hàng thất bại {1} (cơ hội {2}).</RecruitFail>
+
+  <LetterLabelBirthday>Sinh nhật</LetterLabelBirthday>
+  <BirthdayChronological>Hôm nay là sinh nhật tuổi sinh học của {0}! Về mặt tự nhiên, {1} đã {3} tuổi.\n\nVề mặt sinh học, {1} mới qua {2}.\n\nVì từ khi con người không tăng tuổi khi ngủ đông, tuổi thực sẽ tách rời tuổi sinh học.</BirthdayChronological>
+  <BirthdayBiologicalAgeInjuries>{0} bước vào tuổi sinh học {1}.\n\nKhông may là {0} xuất hiện bệnh tật về tuổi tác:\n{2}</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>Bệnh tật</LetterLabelNewDisease>
+  <NewDisease>{0} bị lây ốm từ {1}.\n\nChắc chắn rằng bạn có giường bệnh và bác sỹ. {2} sẽ cần được điều trị chính xác và nghỉ ngơi trên giường nếu có thể.</NewDisease>
+  <NewPartDisease>{0} bị lây ốm từ {3}. HIS bị lây nhiễm ở {1}.\n\nChắc chắn rằng bạn có giường bệnh và bác sỹ. {2} sẽ cần được điều trị chính xác và nghỉ ngơi trên giường nếu có thể.</NewPartDisease>
+
+  <LetterLabelAncientShrineWarning>Mối nguy hiểm cổ xưa</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>Khi {0} tiến gần một bức tường cổ, một cảm giác khác thường bao phủ HIM. HECAP không biết lý do, nhưng HE cảm thấy kiến trúc bụi bặm kia ẩn chứa mối đe dọa cực lớn.</AncientShrineWarning>
+
+  <StruckMineable>Chúng ta lấy được {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} báo thù</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>Một {0} đang tấn công sau khi bị thương!</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>Một {0} đang tấn công sau khi bị thuần hóa!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>{0} khác gần đó nổi điên!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{0} chạm bẫy</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{0} gặp tai nạn khi dính sát thương do chạm vào bẫy.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{0} đã tiến triển một điều kiện sức khỏe: {1}\n\nNó là biến chứng từ: {2}.</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{0} {1}</LetterHealthComplicationsLabel>
+  
+  <LetterHediffFromRandomHediffGiver>{0} đã tiến triển một điều kiện sức khỏe: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{0} {1}</LetterHediffFromRandomHediffGiverLabel>
+  
+  <LetterLeadersDeathLabel>Cái chết của thủ lĩnh</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>Thủ lĩnh {0} của phe {1} đã chết và được thay bằng {2}.</LetterLeadersDeath>
+  
+  <MentalBreakLetterLabel>Mất kiểm soát</MentalBreakLetterLabel>
+  <MentalBreakReason>Lý do mất kiểm soát: {0}.</MentalBreakReason>
+  
+  <!-- Related pawns -->
+  <LetterLabelNoticedRelatedPawns>Mối quan hệ</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>Có một số người trong {0} có quan hệ với cư dân hoặc tù nhân của bạn.\n\nHãy coi chưng vì họ vẫn tấn công cư dân do quan hệ xấu giữa các phe.\n\nNhững người đó là:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>Trong nhóm bạn bè {0} đang đến có người có quan hệ với cư dân hoặc tù nhân của bạn:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>Trong nhóm đang tới có người có quan hệ với cư dân hoặc tù nhân của bạn:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>Lái buôn vũ trụ đang bán nô lệ có quan hệ với cư dân hoặc tù nhân của bạn:</LetterRelatedPawnsTradeShip>
+  
+  <RelationshipAppendedLetterSuffix>(mối quan hệ)</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>NAME có quan hệ với một trong số cư dân. HECAP là {1} của {0}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>NAME có quan hệ với một trong những tù nhân. HECAP là {1} của {0}.</RelationshipAppendedLetterTextPrisoner>
+  
+  <!-- Attempt romance / propose interaction -->
+  <LetterLabelAffair>Quan hệ riêng</LetterLabelAffair>
+  <LetterAffair>{0}, đã kết hôn với {1}, bắt đầu có quan hệ riêng với {2}.</LetterAffair>
+  <LetterLabelNewLovers>Tình yêu mới</LetterLabelNewLovers>
+  <LetterNewLovers>{0} và {1} đã đến bên nhau và trở thành một đôi.</LetterNewLovers>
+  <LetterNoLongerLovers>{0} và {1} không còn quan hệ.</LetterNoLongerLovers>
+  <LetterLabelBreakup>Chia tay</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>Đám cưới được chuẩn bị!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>Từ chối cầu hôn</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>{1} đã chấp nhận lời cầu hôn của {0}.\n\nThời gian tới đây, họ sẽ tổ chức hôn lễ và mời tất cả cư dân. Đặt một điểm tổ chức hôn lễ ở nơi bạn muốn nó diễn ra.</LetterAcceptedProposal>
+  <LetterRejectedProposal>{1} đã từ chối lời cầu hôn của {0}. {0} rất không hạnh phúc vì việc này.</LetterRejectedProposal>
+  
+  <!-- Generalized letter labels -->
+  <LetterLabelRelationsChangeGood>Ý chí tốt</LetterLabelRelationsChangeGood>
+  <LetterLabelRelationsChangeBad>Ý chí kém</LetterLabelRelationsChangeBad>
+  <LetterLabelShortCircuit>Chập điện...</LetterLabelShortCircuit>
+  <LetterLabelMentalBreakdown>Mất kiểm soát</LetterLabelMentalBreakdown>
+  
+  <!-- Bonded animals -->
+  <LetterLabelBondedAnimalDied>Cái chết của vật nuôi gắn bó</LetterLabelBondedAnimalDied>
+  <LetterBondedAnimalDied>{0}, gắn bó với {1}, đã chết. Nó sẽ ảnh hưởng tới tâm trạng của {1}.</LetterBondedAnimalDied>
+  <LetterNamedBondedAnimalDied>{0} tên là {1}, gắn bó với {2}, đã chết. Nó sẽ ảnh hưởng tới tâm trạng của {2}.</LetterNamedBondedAnimalDied>
+  <LetterBondedAnimalDiedMulti>{0} đã chết. Nó sẽ ảnh hưởng tới tâm trạng của cư dân sau:\n\n{1}</LetterBondedAnimalDiedMulti>
+  <LetterNamedBondedAnimalDiedMulti>{0} tên là {1} đã chết. Nó sẽ ảnh hưởng tới tâm trạng của cư dân sau:\n\n{2}</LetterNamedBondedAnimalDiedMulti>
+
+  <!-- Prison break -->
+  <LetterLabelPrisonBreak>Vượt ngục</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>Những tù nhân đã thoát ra ngoài! Bằng cách nào đó họ mở được cửa và đang tìm đường ra. Họ có thể tìm kiếm vũ khí, tấn công hoặc chỉ cố thoát. Những tù nhân liên quan:\n\n{0}\n\nTù nhân có khuynh hướng vượt ngục khi đông, khỏe mạnh và không hài lòng.</LetterPrisonBreak>
+  
+  <!-- Party -->
+  <LetterLabelNewParty>Tiệc tùng</LetterLabelNewParty>
+  <LetterNewParty>{0} đang tổ chức buổi tiệc tùng! Những ai tham gia sẽ có sự vui vẻ cùng năng lượng giao tiếp, đồng thời tâm trạng cũng cao hơn rất nhiều.</LetterNewParty>
+
+  <!-- Newly addicted -->
+  <LetterLabelNewlyAddicted>{0} nghiện</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{0} đã nghiện {1}.\n\nHECAP giờ cần có {1}, hiển thị trong bảng nhu cầu của HIS. HECAP sẽ tự động dùng {1} đến khi đầy nhu cầu. Nếu HE sẽ bỏ đi  nếu không nhận được {1}.</LetterNewlyAddicted>
+  
+  <!-- Drug binge -->
+  <LetterLabelDrugBinge>{0} ói mửa</LetterLabelDrugBinge>
+  <LetterDrugBinge>{0} đang ói mửa vì {1}.</LetterDrugBinge>
+  
+</LanguageData>

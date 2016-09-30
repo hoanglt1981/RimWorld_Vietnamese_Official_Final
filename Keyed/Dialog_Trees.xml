@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>{0} quát tháo vào microphone và ngắt kết nối.</FactionGreetingHostile>
+  <FactionGreetingWary>{0} chào đón {1} thận trọng và hỏi về công việc của HIS.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} chào đón {1} nồng ấm và hỏi về tiền bạc của thuộc địa.</FactionGreetingWarm>
+
+  <Disconnect>Ngắt kết nối</Disconnect>
+
+  <!-- gift offer -->
+  <OfferGift>Tặng quà</OfferGift>
+  <NeedSilverLaunchable>cần {0} bạc gần radar giao dịch</NeedSilverLaunchable>
+  <NotEnoughSilver>không đủ silver</NotEnoughSilver>
+  <SilverForGoodwill>{0} silver cho {1} thân thiện</SilverForGoodwill>
+  <SilverGiftSent>{0} cảm ơn.\n\n(Thân thiện tăng bởi {1}).</SilverGiftSent>
+
+  <!-- trade caravan request -->
+  <RequestTrader>Yêu cầu đội lái buôn (giá: {0} silver)</RequestTrader>
+  <ChooseTraderKind>{0} hỏi dạng lái buôn bạn cần.</ChooseTraderKind>
+  <TraderSent>{0} đồng ý gửi một đội lái buôn. Họ sẽ đến trong ít ngày.</TraderSent>
+
+  <!-- military aid request -->
+  <RequestMilitaryAid>Yêu cầu trợ giúp quân sự (giá: {0} thân thiện).</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} sẽ không giúp bạn chống nhóm khác nếu họ không phải kẻ thù. Điều đó bao gồm cả việc ai đang đe dọa bạn, {1}. Bạn vẫn muốn gọi trợ giúp?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Đúng, gọi họ đi.</CallConfirm>
+  <CallCancel>Không, quên đi.</CallCancel>
+  <MilitaryAidSent>{0} đồng ý gửi lính tới giúp bạn.</MilitaryAidSent>
+
+</LanguageData>

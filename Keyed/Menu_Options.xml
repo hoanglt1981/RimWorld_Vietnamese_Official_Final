@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Âm thanh</Audiovisuals>
+  <GameVolume>Âm lượng trò chơi</GameVolume>
+  <MusicVolume>Âm lượng nhạc</MusicVolume>
+  <Antialiasing>Khử răng cưa</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Cuộn chuột góc màn hình</EdgeScreenScroll>
+  <PauseOnLoad>Tạm dừng khi tải</PauseOnLoad>
+  <PauseOnUrgentLetter>Tạm dừng khi có thư khẩn</PauseOnUrgentLetter>
+  <CustomCursor>Tùy chỉnh con trỏ</CustomCursor>
+  <KeyboardConfig>Thiết lập bàn phím</KeyboardConfig>
+  <ChooseLanguage>Lựa chọn ngôn ngữ</ChooseLanguage>
+  <ResetAdaptiveTutor>Tạo lại hướng dẫn cách chơi</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Hướng dẫn đã tạo lại. Bạn sẽ được dạy lại những bài học cần thiết.</AdaptiveTutorIsReset>
+  <RunInBackground>Chạy trong nền</RunInBackground>
+  <DevelopmentMode>Chế độ phát triển</DevelopmentMode>
+  <ResetModsConfigOnCrash>Tự động tạo lại tùy chỉnh mod khi crash</ResetModsConfigOnCrash>
+  <LogVerbose>Đăng nhập dài dòng</LogVerbose>
+  <OpenSaveGameDataFolder>Mở thư mục lưu trữ bản ghi</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Những tên cuối cùng trong trò chơi hoặc tiểu sử nhân vật trong trò chơi mà bạn muốn xem:</NamesYouWantToSee>
+  <ChangeStoryteller>Lựa chọn người dẫn chuyện</ChangeStoryteller>
+  <AutosaveInterval>Tần suất tự lưu</AutosaveInterval>
+  <TemperatureMode>Chế độ nhiệt độ</TemperatureMode>
+  <ShowRealtimeClock>Hiển thị đồng hồ thực tế</ShowRealtimeClock>
+  <PlantWindSway>Thực vật lắc lư theo gió</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Tần suất tự động lưu tối đa trong chế độ tử vong là {0} ngày.</MaxPermadeathAutosaveIntervalInfo>
+
+  <!-- Resolution -->
+  <Resolution>Độ phân giải</Resolution>
+  <Fullscreen>Toàn màn hình</Fullscreen>
+
+  <!-- Privacy-->
+  <Privacy>Quyền riêng tư</Privacy>
+  <UserName>Tên người dùng</UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  
+</LanguageData>

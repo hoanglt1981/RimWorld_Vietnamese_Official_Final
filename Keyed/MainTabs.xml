@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Công việc tab -->
+  <ManualPriorities>Ưu tiên thủ công</ManualPriorities>
+  <HigherPriority>ưu tiên cao hơn</HigherPriority>
+  <LowerPriority>ưu tiên thấp hơn</LowerPriority>
+  <RelevantSkills>Kĩ năng thích hợp: {0}\nTrung bình của kĩ năng thích hợp: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Nhấn để chuyển tới:</ClickToJumpTo>
+  <CannotDoThisWork>{0} không thể làm được việc này.</CannotDoThisWork>
+  <NoneBrackets>(không)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Cư dân không làm được việc này vì tình trạng sức khỏe.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  
+  <!-- Thiết lập tab -->
+  <CurrentOutfit>Trang bị hiện tại</CurrentOutfit>
+  <ManageOutfits>Quản lý trang bị</ManageOutfits>
+  <ClearForcedApparel>Xóa bắt buộc</ClearForcedApparel>
+  <ApparelForcedLower>bắt buộc</ApparelForcedLower>
+  <ForcedApparel>Bắt buộc trang phục</ForcedApparel>
+  <AssignTabEdit>Sửa...</AssignTabEdit>
+  <CurrentDrugPolicies>Chính sách dược phẩm hiện thời</CurrentDrugPolicies>
+  <ManageDrugPolicies>Quản lý chính sách dược phẩm</ManageDrugPolicies>
+  
+  <!-- Giới hạn tab -->
+  <Copy>Chép</Copy>
+  <Paste>Dán</Paste>
+  <AllowedArea>Khu vực cấp phép</AllowedArea>
+  
+  <!-- Động vật tab -->
+  <Master>Chủ nhân</Master>
+  <PregnantIconDesc>Mang thai ({0} / {1})</PregnantIconDesc>
+  
+  <!-- Nhóm tab -->
+  <Hostile>Thù địch</Hostile>
+  <HostileTo>Kẻ thù của {0}</HostileTo>
+  <CurrentGoodwill>Hiện thân thiện với nhóm này.</CurrentGoodwill>
+  
+  <!-- Lịch sử tab - subtabs -->
+  <Graph>Biểu đồ</Graph>
+  <Statistics>Thống kê</Statistics>
+  
+  <!-- Lịch sử tab - Biểu đồ -->
+  <SelectGraph>Chọn biểu đồ</SelectGraph>
+  <Last30Days>30 ngày cuối</Last30Days>
+  <Last100Days>100 ngày cuối</Last100Days>
+  <Last300Days>300 ngày cuối</Last300Days>
+  <AllDays>Tất cả</AllDays>
+  <Day>Ngày</Day>
+  <Value>Giá trị</Value>
+  <External>Bên ngoài</External>
+
+  <!-- Lịch sử tab - Thống kê -->
+  <Playtime>Thời gian chơi</Playtime>
+  <Storyteller>Người dẫn chuyện</Storyteller>
+  <ColonyWealthTotal>Độ giàu có của thuộc địa</ColonyWealthTotal>
+  <ColonyWealthItems>Độ giàu có của thuộc địa (vật phẩm)</ColonyWealthItems>
+  <ColonyWealthBuildings>Độ giàu có của thuộc địa (xây dựng)</ColonyWealthBuildings>
+  <NumThreatBigs>Nguy cơ lớn</NumThreatBigs>
+  <NumEnemyRaids>Kẻ thù tấn công</NumEnemyRaids>
+  <DamageTaken>Damage taken</DamageTaken>
+  <ColonistsKilled>Cư dân bị giết</ColonistsKilled>
+  <ColonistsLaunched>Cư dân gửi vào không gian</ColonistsLaunched>
+
+  <!-- Nghiên cứu tab -->
+  <ProjectTechLevel>cấp độ hạng mục kĩ thuật</ProjectTechLevel>
+  <YourTechLevel>cấp độ kĩ thuật của bạn</YourTechLevel>
+  <ResearchCostMultiplier>giá tăng lên</ResearchCostMultiplier>
+  <ResearchCostComparison>Giá cơ bản hạng mục từ {0} lên {1} vì cấp độ kĩ thuật của bạn.</ResearchCostComparison>
+  
+</LanguageData>

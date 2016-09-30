@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Level>Cấp</Level>
+  <ProgressToNextLevel>Tiến trình tăng cấp</ProgressToNextLevel>
+  <Experience>Kinh nghiệm</Experience>
+  <Passion>Đam mê</Passion>
+  <PassionNone>không (học x{0})</PassionNone>
+  <PassionMinor>hứng thú (học x{0})</PassionMinor>
+  <PassionMajor>bùng cháy (học x{0})</PassionMajor>
+  <LearnedMaxToday>Tối đa học hôm nay ({0}/{1}, đẩy mạnh học tập nhân với {2})</LearnedMaxToday>
+  <EffectsAtLevel>Hiệu quả ở cấp {0}</EffectsAtLevel>
+  <SkillMax>TỐI ĐA</SkillMax>
+
+
+
+  <Skill0>Không biết</Skill0>
+  <Skill1>Kém cỏi</Skill1>
+  <Skill2>Nhận thức cơ bản</Skill2>
+  <Skill3>Hiểu biết cơ bản</Skill3>
+  <Skill4>Nghiệp dư</Skill4>
+  <Skill5>Có năng lực</Skill5>
+  <Skill6>THực hành</Skill6>
+  <Skill7>Thực hành tốt</Skill7>
+  <Skill8>Chuyên nghiệp</Skill8>
+  <Skill9>Rất chuyên nghiệp</Skill9>
+  <Skill10>Chuyên gia</Skill10>
+  <Skill11>Chuyên gia cao cấp</Skill11>
+  <Skill12>Chuyên gia siêu cấp</Skill12>
+  <Skill13>Cao thủ</Skill13>
+  <Skill14>Đại cao thủ</Skill14>
+  <Skill15>Cao thủ hành tinh</Skill15>
+  <Skill16>Cao thủ hằng tinh</Skill16>
+  <Skill17>Cao thủ vũ trụ</Skill17>
+  <Skill18>Thông thái</Skill18>
+  <Skill19>Huyền thoại</Skill19>
+  <Skill20>Thần thánh</Skill20>
+
+
+  
+  
+  
+</LanguageData>

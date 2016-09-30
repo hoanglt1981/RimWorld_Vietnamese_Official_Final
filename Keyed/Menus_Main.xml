@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <Tutorial>Hướng dẫn</Tutorial>
+  <NewColony>Thuộc địa mới</NewColony>
+  <BackToGame>Quay lại trò chơi</BackToGame>
+  <ReviewScenario>Tổng quan màn chơi</ReviewScenario>
+  <Save>Lưu</Save>
+  <LoadGame>Tải trò chơi</LoadGame>
+  <Options>Lựa chọn</Options>
+  <Mods>Mods</Mods>
+  <Credits>Nguồn</Credits>
+  <QuitToMainMenu>Thoát về mục chính</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Lưu và thoát về mục chính</SaveAndQuitToMainMenu>
+  <QuitToOS>Thoát khỏi trò chơi</QuitToOS>
+  <SaveAndQuitToOS>Lưu và thoát khỏi trò chơi</SaveAndQuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Diễn đàn</Forums>
+  <OfficialWiki>Wiki chính thức</OfficialWiki>
+  <TynansTwitter>Tynan's twitter</TynansTwitter>
+  <TynansDesignBook>Tynan's design book</TynansDesignBook>
+  <HelpTranslate>Trợ giúp dịch RimWorld</HelpTranslate>
+  <BuySoundtrack>Mua bản nhạc</BuySoundtrack>
+  <CreateWorld>Tạo dựng thế giới</CreateWorld>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Tổng quan thế giới</ReviewWorld>
+  <WorldGenerate>Khởi tạo</WorldGenerate>
+  <WorldSaveAndFinish>Lưu và hoàn tất</WorldSaveAndFinish>
+  <Reset>Tạo lại</Reset>
+  <WorldSize>Kích thước</WorldSize>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Seed ngẫu nhiên</RandomizeSeed>
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Lựa chọn thế giới</SelectWorld>
+  <WorldChooseButton>Lựa chọn</WorldChooseButton>
+  <NoWorldsFilesFound>Không tìm thấy bản ghi thế giới. Tạo thế giới trước.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Phiên bản {0} đã xuất hiện. Kiểm tra ludeon.com để có thêm thông tin.</BuildNowAvailable>
+	<BuildUpToDate>Đây là phiên bản cao nhất.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Có lỗi khi lấy thông tin phiên bản: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Tải thông tin phiên bản...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Khởi tạo thế giới</GenerateWorld>
+
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Mở Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Lấy mods từ diễn đàn</GetModsFromForum>
+  <OpenModsDataFolder>Mở thư mục dữ liệu mod</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Bạn có chắc là muốn tắt core mod? Trò chơi sẽ không hoạt động cho đến khi bạn có bản mod thay thế toàn bộ chức năng core.\n\nNhớ là những bản mod khác có thể hiệu chỉnh defs trong core mod bằng việc dùng cùng defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Bạn có chắc muốn xóa toàn bộ nội dung của: {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Bỏ đăng ký</Unsubscribe>
+  <ConfirmUnsubscribe>Bạn có chắc muốn bỏ đăng ký {0}?</ConfirmUnsubscribe>
+  <Author>Tác giả</Author>
+  <WorkshopPage>Workshop page</WorkshopPage>
+  <UploadToSteamWorkshop>Tải lên Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Cập nhật lên Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Quá trình tải lên đang diễn ra.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nLý do: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Thành công tải lên {0}.</WorkshopUploadSucceeded>
+  <Downloading>Tải xuống</Downloading>
+  <Source>Nguồn</Source>
+  <ModTargetVersion>Cho phiên bản: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Bản mod này không dành cho phiên bản này của RimWorld, và nó hầu như không hoạt động ổn định.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod cần định dạng chuẩn phiên bản trong About.xml. Ví dụ như: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Kéo để sắp xếp lại</DragToReorder>
+  
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Chọn màn chơi</ChooseScenario>
+  <ScenariosCustom>Điều chỉnh</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Bộ sửa đổi màn chơi</ScenarioEditor>
+  <Delete>Xóa</Delete>
+  
+  <!--============ Scenario editor ===============-->
+  <Seed>seed</Seed>
+  <Load>Tải</Load>
+  <EditMode>Chế độ sửa</EditMode>
+  <Summary>Tổng kết</Summary>
+  <AddPart>Thêm phần</AddPart>
+  <TextFieldsMustBeFilled>Tất cả thông tin cần điền đầy đủ.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Bạn có chắc muốn tải lên Steam Workshop?\n\nBạn cần đồng ý với điều khoản dịch vụ của Steam Workshop. Tìm điều khoản đầy đủ ở:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Rõ ràng bạn chỉ có thể tải lên nội dung bạn tự tạo.\n\nBạn đã tự tạo nội dung này?</ConfirmContentAuthor>
+  <Incompatible>Không tương thích</Incompatible>
+  <TooMany>Quá nhiều (tối đa {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Có thể cập nhật trên Workshop, từ lúc bạn là tác giả.</CanBeUpdatedOnWorkshop>
+  
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Lựa chọn AI của Người dẫn chuyện</ChooseAIStoryteller>
+  <HowStorytellersWork>AI của Người dẫn chuyện tạo ra những sự kiện như cướp biển tấn công, tài nguyên thả xuống, hoặc động vật nổi loạn. Sự lựa chọn của họ ảnh hưởng đến câu truyện về thuộc địa của bạn.</HowStorytellersWork>
+  <MustChooseDifficulty>Xin lựa chọn độ khó.</MustChooseDifficulty>
+  <Difficulty>Độ khó</Difficulty>
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Lựa chọn nơi hạ cánh</SelectLandingSite>
+  <SelectRandomSite>Lựa chọn nơi ngẫu nhiên</SelectRandomSite>
+  <SelectSite>Lựa chọn nơi</SelectSite>
+  <MustSelectLandingSite>Xin lựa chọn nơi hạ cánh.</MustSelectLandingSite>
+  <CannotLandBiome>Bạn không thể hạ cánh xuống sinh vật này: {0}</CannotLandBiome>
+  <WorldRenderMode>Chế độ xem</WorldRenderMode>
+  <WorldRenderModeFull>Đầy đủ</WorldRenderModeFull>
+  <WorldRenderModeTemperature>Nhiệt độ</WorldRenderModeTemperature>
+  <WorldRenderModeElevation>Độ cao</WorldRenderModeElevation>
+  <WorldRenderModeFertility>Độ màu mỡ</WorldRenderModeFertility>
+  <WorldRenderModeRainfall>Lượng mưa</WorldRenderModeRainfall>
+  <WorldRenderModeBiomes>Sinh vật</WorldRenderModeBiomes>
+  <BiomeNotImplemented>Không bổ sung sinh vật</BiomeNotImplemented>
+  <BaseAlreadyThere>{0} đã có căn cứ ở đấy.</BaseAlreadyThere>
+  <Biome>Sinh vật</Biome>
+  <Terrain>Địa hình</Terrain>
+  <Elevation>Độ cao</Elevation>
+  <Fertility>Độ màu mỡ</Fertility>
+  <AvgTemp>Nhiệt độ trung bình</AvgTemp>
+  <AvgWinterTemp>Nhiệt độ trung bình (mùa đông): {0}</AvgWinterTemp>
+  <AvgSummerTemp>Nhiệt độ trung bình (mùa hè): {0}</AvgSummerTemp>
+  <Rainfall>Lượng mưa</Rainfall>
+  <HasCoast0>Bờ biển phía Bắc</HasCoast0>
+  <HasCoast1>Bờ biển phía Đông</HasCoast1>
+  <HasCoast2>Bờ biển phía Nam</HasCoast2>
+  <HasCoast3>Bờ biển phía Tây</HasCoast3>
+  <FactionBase>Căn cứ nhóm</FactionBase>
+  <StoneTypesHere>Dạng đá núi</StoneTypesHere>
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Tạo nhân vật</CreateCharacters>
+  <FirstNameDesc>Tên của nhân vật.\n\nChỉ hiển thị trong những mục nhất định.</FirstNameDesc>
+  <ShortIdentifierDesc>Mật danh ngắn của nhân vật.\n\nĐược thể hiện mọi lúc. Có thể là họ hoặc tên, cũng hoàn toàn chỉ là tên gọi.</ShortIdentifierDesc>
+  <LastNameDesc>Họ của nhân vật.\n\nTChỉ hiển thị trong những mục nhất định.</LastNameDesc>
+  <Randomize>Ngẫu nhiên</Randomize>
+  <AgeIndicator>tuổi {0}</AgeIndicator>
+  <Backstory>Quá khứ</Backstory>
+  <IncapableOf>Không phù hợp với</IncapableOf>
+  <Traits>Đặc điểm</Traits>
+  <PermanentMoodEffect>Hiệu ứng tâm trạng vĩnh viễn</PermanentMoodEffect>
+  <Skills>Kỹ năng</Skills>
+  <NoneLower>không</NoneLower>
+  <Adulthood>Thành niên</Adulthood>
+  <Childhood>Tuổi thơ</Childhood>
+  <Male>nam</Male>
+  <Female>nữ</Female>
+  <Pain>Đau</Pain>
+  <Health>Sức khỏe</Health>
+  <Relations>Quan hệ</Relations>
+  
+  <!--=========== Misc ==========-->
+  <Start>Bắt đầu</Start>
+  <Advanced>Cao cấp</Advanced>
+  <Next>Tiếp</Next>
+  <Back>Quay lại</Back>
+  
+  <Gameplay>Cách chơi</Gameplay>
+
+  <ConfirmQuit>Muốn thoát? Bạn sẽ mất toàn bộ quá trình chưa lưu.</ConfirmQuit>
+  
+  <EveryoneNeedsValidName>Mỗi người cần một tên phù hợp.</EveryoneNeedsValidName>
+
+  <GeneratingWorld>Khởi tạo thế giới</GeneratingWorld>
+  <GeneratingMap>Khởi tạo bản đồ</GeneratingMap>
+
+</LanguageData>

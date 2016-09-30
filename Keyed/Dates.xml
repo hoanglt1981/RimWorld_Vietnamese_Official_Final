@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Giờ</ClockTime>
+  <ClockDate>Ngày</ClockDate>
+  <ClockYear>Năm</ClockYear>
+  <DateReadoutTip>Bạn đã đến được: {0} ngày\nCó {1} ngày trong mỗi mùa.\nMùa hiện tại: {2}</DateReadoutTip>
+
+  <FullDate>ngày {0},{1},{2}</FullDate>
+	<DateReadout>ngày {0},{1},{2}</DateReadout>
+  <SeasonFullDate>ngày {0} mùa {1}</SeasonFullDate>
+  <WholeYear>Cả năm</WholeYear>
+  
+</LanguageData>

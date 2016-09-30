@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Đơn hàng</TabBills>
+  <TabGrowing>Trồng trọt</TabGrowing>
+  <TabCharacter>Nhân vật</TabCharacter>
+  <TabTraining>Tập luyện</TabTraining>
+  <TabPrisoner>Tù nhân</TabPrisoner>
+  <TabGuest>Khách</TabGuest>
+  <TabGear>Trang bị</TabGear>
+  <TabNeeds>Nhu cầu</TabNeeds>
+  <TabStorage>Kho chứa</TabStorage>
+  <TabHealth>Sức khỏe</TabHealth>
+  <TabRace>Chủng tộc</TabRace>
+  <TabBasics>Cơ bản</TabBasics>
+  <TabStats>Chỉ số</TabStats>
+  <TabRecords>Kỉ lục</TabRecords>
+  <TabArt>Nghệ thuật</TabArt>
+  <TabSocial>Xã hội</TabSocial>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Thêm đơn</AddBill>
+  <RecipeRequiresSkills>Công thức {0} cần kĩ năng dưới đây. Không có cư dân nào có kĩ năng đó nên đơn không thực hiện được.</RecipeRequiresSkills>
+  <MinimumSkill>Kĩ năng thấp nhất</MinimumSkill>
+  <SuspendedCaps>TẠM DỪNG</SuspendedCaps>
+  <BoundWorkerIs>Người thực hiện: {0}</BoundWorkerIs>
+  <PlantVerb>Thực vật</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Độ khó chiêu hàng</RecruitmentDifficulty>
+  <GetsFood>Cấp thức ăn</GetsFood>
+  <DoctorsCare>Bác sỹ chăm sóc</DoctorsCare>
+  <GetsMedicine>Cấp thuốc</GetsMedicine>
+  <ShouldTryToRecruit>Cố chiêu hàng</ShouldTryToRecruit>
+  <PrisonerNoInteraction>Không tương tác</PrisonerNoInteraction>
+  <PrisonerFriendlyChat>Trò chuyện thân quen</PrisonerFriendlyChat>
+  <PrisonerAttemptRecruit>Trò chuyện và chiêu hàng</PrisonerAttemptRecruit>
+  <PrisonerRelease>Thả</PrisonerRelease>
+  <PrisonerExecution>Xử tử</PrisonerExecution>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Tốc độ đi</MoveSpeed>
+  <Efficiency>Hiệu quả</Efficiency>
+  <MissingBodyPart>Đã đi</MissingBodyPart>
+  <DestroyedBodyPart>Đã bị hủy hoại</DestroyedBodyPart>
+  <ShatteredBodyPart>Đã bị gãy</ShatteredBodyPart>
+  <RemovedBodyPart>Đã bị loại</RemovedBodyPart>
+  <Healthy>Khỏe mạnh</Healthy>
+  <InPain>Đau yếu</InPain>
+  <PainLevel>Ốm</PainLevel>
+  <Dead>Chết</Dead>
+  <Unconscious>Ý thức</Unconscious>
+  <PainShock>Bị sốc</PainShock>
+  <Injured>Bị thương</Injured>
+  <NoInjuries>(không bị thương)</NoInjuries>
+  <WholeBody>Toàn cơ thể</WholeBody>
+  <DataProcessing>Xử lý dữ liệu</DataProcessing>
+  <Communication>Liên lạc</Communication>
+  <Affects>Ảnh hưởng</Affects>
+  <BleedingRate>Tốc độ chảy máu</BleedingRate>
+  <HealthOverview>Tổng quan</HealthOverview>
+  <MedicalOperationsShort>Phẫu thuật ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Sửa đổi ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Phẫu thuật y tế</MedicalOperations>
+  <Amputate>Cắt bỏ</Amputate>
+  <Harvest>Thu hoạch</Harvest>
+  <RemoveOrgan>Loại bỏ</RemoveOrgan>
+  <MemoryLower>trí nhớ</MemoryLower>
+  <SocialInteractionsLower>giao tiếp xã hội</SocialInteractionsLower>
+  <HungerRate>Tốc độ đói</HungerRate>
+  <Tiredness>Mệt mỏi</Tiredness>
+  <PainFactor>Đau</PainFactor>
+  <PreventsInfection>Phòng ngừa nhiễm trùng</PreventsInfection>
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Không</None>
+  <VeryPoor>tệ</VeryPoor>
+  <Poor>kém</Poor>
+  <Weakened>yếu</Weakened>
+  <GoodCondition>ổn</GoodCondition>
+  <Enhanced>cao</Enhanced>
+  <SeriouslyImpaired>Suy yếu nghiêm trọng</SeriouslyImpaired>
+  <Impaired>Suy yếu</Impaired>
+  <SlightlyImpaired>Hơi suy yếu</SlightlyImpaired>
+  <NoPain>Không</NoPain>
+  <LittlePain>Ít</LittlePain>
+  <MediumPain>Bình thường</MediumPain>
+  <SeverePain>Cao</SeverePain>
+  <ExtremePain>Nghiêm trọng</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Trí thông minh</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Yêu cầu trí thông minh {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} quá nhỏ để huấn luyện việc này.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Điều kiện cần: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(không quan hệ)</NoRelationships>
+  <Kidnapped>Bắt cóc</Kidnapped>
+  <Slave>Nô lệ</Slave>
+  <FactionLeader>Thủ lĩnh phe</FactionLeader>
+  <OpinionOf>Quan điểm về {0}</OpinionOf>
+  <SomeonesOpinionOfMe>Quan điểm của {0}</SomeonesOpinionOfMe>
+  <IAmDead>Tôi tiêu rồi</IAmDead>
+  <IAmPsychopath>Tôi là kẻ tâm thần</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <AverageArmor>Trung bình giáp</AverageArmor>
+  <ComfyTemperatureRange>Khoảng nhiệt độ thích hợp</ComfyTemperatureRange>
+  <ArmorBlunt>Cứng</ArmorBlunt>
+  <ArmorSharp>Sắc</ArmorSharp>
+  <ArmorHeat>Nhiệt</ArmorHeat>
+  <ArmorElectric>Điện</ArmorElectric>
+
+</LanguageData>

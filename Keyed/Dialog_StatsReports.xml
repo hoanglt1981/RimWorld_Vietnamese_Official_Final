@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <StatsReport_BaseValue>Giá trị cơ bản</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Đặc điểm thích hợp</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Trang bị thích hợp</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Tình trạng sức khỏe thích hợp</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Tuổi thọ</StatsReport_LifeStage>
+  <StatsReport_Material>Nguyên liệu</StatsReport_Material>
+  <StatsReport_CharacterQuality>Chất lượng nhân vật</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Hệ số kĩ năng</StatsReport_Skills>
+  <StatsReport_OtherStats>Hệ số khác</StatsReport_OtherStats>
+  <StatsReport_HealthFactors>Hệ số sức khỏe</StatsReport_HealthFactors>
+  <HealthFactorPercentImpact>{0} tầm quan trọng</HealthFactorPercentImpact>
+  <StatsReport_PostProcessed>Post-processed curved</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Giá trị cuối</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Giá trị thương mại cơ bản được tính toán dựa trên nguyên liệu xây dựng và khối lượng công việc.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Chất lượng tăng cường</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Tăng tuổi {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Tăng sức khỏe {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Tăng trạng thái {0}</StatsReport_MoodMultiplier>
+  <StatsReport_DifficultyMultiplier>Tăng độ khó {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Trên giường</StatsReport_InBed>
+  <StatsReport_Facilities>Phương tiện</StatsReport_Facilities>
+  <StatsReport_BodySize>Tăng kích thước cơ thể {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>Chỉ số được thể hiện theo công thức:\nDPS ( Lực cận chiến / Thời gian hồi / Khả năng trúng )\n\nDPS = Lực cận chiến * Khả năng trúng / Thời gian hồi</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Lực cận chiến</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Thời gian hồi</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Khả năng trúng</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Tuổi thọ trung bình</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Tăng phần cơ thể bị mất</StatsReport_MissingBodyParts>
+  <AverageOfAllAttacks>trung bình các đòn đánh</AverageOfAllAttacks>
+  <StatsReport_UnpoweredWorkTable>Không có điện</StatsReport_UnpoweredWorkTable>
+  <StatsReport_ScenarioFactor>Màn chơi</StatsReport_ScenarioFactor>
+  
+</LanguageData>
