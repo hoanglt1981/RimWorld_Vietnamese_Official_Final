@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <MapdịhUp.label>dịch lên</MapdịhUp.label>
+    <MapDollyUp.label>dịch lên</MapDollyUp.label>
 
-    <MapdịhDown.label>dịch xuống</MapdịhDown.label>
+    <MapDollyDown.label>dịch xuống</MapDollyDown.label>
 
-    <MapdịhLeft.label>dịch trái</MapdịhLeft.label>
+    <MapDollyLeft.label>dịch trái</MapDollyLeft.label>
 
-    <MapdịhRight.label>dịch phải</MapdịhRight.label>
+    <MapDollyRight.label>dịch phải</MapDollyRight.label>
 
     <MapZoomIn.label>phóng to</MapZoomIn.label>
 
