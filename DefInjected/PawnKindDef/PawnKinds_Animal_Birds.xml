@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Cassowary.label>Gà gô</Cassowary.label>
+  <Cassowary.lifeStages.0.label>Gà gô non</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.1.label>Gà gô con</Cassowary.lifeStages.1.label>
+  <Cassowary.lifeStages.2.label>Gà gô</Cassowary.lifeStages.2.label>
+
+  <Emu.label>Chim emu</Emu.label>
+  <Emu.lifeStages.0.label>Chim emu non</Emu.lifeStages.0.label>
+  <Emu.lifeStages.1.label>Chim emu con</Emu.lifeStages.1.label>
+  <Emu.lifeStages.2.label>Chim emu</Emu.lifeStages.2.label>
+
+  <Ostrich.label>Đà điểu</Ostrich.label>
+  <Ostrich.lifeStages.0.label>Đà điểu non</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.1.label>Đà điểu con</Ostrich.lifeStages.1.label>
+  <Ostrich.lifeStages.2.label>Đà điểu</Ostrich.lifeStages.2.label>
+
+  <Turkey.label>Gà tây</Turkey.label>
+  <Turkey.lifeStages.0.label>Gà tây non</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.1.label>Gà tây con</Turkey.lifeStages.1.label>
+  <Turkey.lifeStages.2.label>Gà tây</Turkey.lifeStages.2.label>
+
+  
+  
+
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <MaxHitPoints.label>Độ bền tối đa</MaxHitPoints.label>
+    <MaxHitPoints.description>Độ bền tối đa của một vật. Nó thể hiện số lượng sát thương chịu được trước khi bị hủy.</MaxHitPoints.description>
+
+    <MarketValue.label>Giá thị trường</MarketValue.label>
+    <MarketValue.description>Giá thị trường của một vật. Giá cả mua bán thực tế sẽ thay đổi tùy theo mối quan hệ giữa các phe cũng như kĩ năng đàm phán.</MarketValue.description>
+
+    <SellPriceFactor.label>Giới hạn giá bán</SellPriceFactor.label>
+    <SellPriceFactor.description>Độ tăng cường giá có thể bán được.</SellPriceFactor.description>
+
+    <Flammability.label>Độ bắt lửa</Flammability.label>
+    <Flammability.description>Thể hiện việc dễ bắt lửa và cháy mạnh như thế nào.</Flammability.description>
+
+    <WorkToMake.label>Khối lượng công việc</WorkToMake.label>
+    <WorkToMake.description>Khối lượng công việc cơ bản cần để làm điều này, khi đã gom đủ công cụ và nguyên liệu.</WorkToMake.description>
+
+    <DeteriorationRate.label>Mức độ hư hại</DeteriorationRate.label>
+    <DeteriorationRate.description>Tốc độ hư hại của vật khi để bên ngoài, đặc biệt là khi trời mưa.</DeteriorationRate.description>
+
+    <Beauty.label>Thẩm mỹ</Beauty.label>
+    <Beauty.description>Mức độ ưa thích của một vật khi nhìn vào.</Beauty.description>
+
+    <Cleanliness.label>Sạch sẽ</Cleanliness.label>
+    <Cleanliness.description>Vật này sạch như thế nào.</Cleanliness.description>
+
+    <Comfort.label>Thoải mái</Comfort.label>
+    <Comfort.description>Thoải mái như thế nào khi nằm hoặc ngồi lên.</Comfort.description>
+
+</LanguageData>

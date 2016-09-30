@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <CremateCorpse.label>Đốt xác</CremateCorpse.label>
+    <CremateCorpse.description>Thiêu xác hoàn toàn.</CremateCorpse.description>
+    <CremateCorpse.jobString>Đốt.</CremateCorpse.jobString>
+
+    <BurnApparel.label>Đốt trang phục</BurnApparel.label>
+    <BurnApparel.description>Đốt trang phục để phá hủy nó hoàn toàn.</BurnApparel.description>
+    <BurnApparel.jobString>Đốt trang phục.</BurnApparel.jobString>
+
+	<BurnApparelCampfire.label>Đốt trang phục</BurnApparelCampfire.label>
+	<BurnApparelCampfire.description>Đốt trang phục để tiêu hủy hoàn toàn.</BurnApparelCampfire.description>
+	<BurnApparelCampfire.jobString>Đốt trang phục.</BurnApparelCampfire.jobString>
+
+</LanguageData>
+

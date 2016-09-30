@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DoorOpenSpeed.label>Tốc độ mở cửa</DoorOpenSpeed.label>
+  <DoorOpenSpeed.description>Tốc độ mở của cửa.</DoorOpenSpeed.description>
+
+  <BedRestEffectiveness.label>Hiệu quả giường ngủ</BedRestEffectiveness.label>
+  <BedRestEffectiveness.description>Độ tăng nhanh nghỉ ngơi khi nằm ngủ.</BedRestEffectiveness.description>
+
+  <TrapMeleeDamage.label>Bẫy cận chiến</TrapMeleeDamage.label>
+  <TrapMeleeDamage.description>Số lượng sát thương mà bẫy gây ra. Lượng sát thương thực sự có thể khác nhau.</TrapMeleeDamage.description>
+
+  <TrapSpringChance.label>Cơ hội sập bẫy</TrapSpringChance.label>
+  <TrapSpringChance.description>Cơ hội bẫy sẽ sập khi có sinh vật không cẩn thận bước vào.</TrapSpringChance.description>
+
+  <ResearchSpeedFactor.label>Hệ số tốc độ nghiên cứu</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.description>Tố độ nghiên cứu được tăng lên với giá trị này.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.parts.1.customLabel>Phòng sạch sẽ.</ResearchSpeedFactor.parts.1.customLabel>
+
+  <MedicalTreatmentQualityFactor.label>Hệ số chất lượng điều trị y tế</MedicalTreatmentQualityFactor.label>
+  <MedicalTreatmentQualityFactor.description>Chất lượng điều trị y tế sẽ được tăng với giá trị này</MedicalTreatmentQualityFactor.description>
+
+  <ImmunityGainSpeedFactor.label>Hệ số tốc độ miễn dịch</ImmunityGainSpeedFactor.label>
+  <ImmunityGainSpeedFactor.description>Tốc độ miễn dịch sẽ được tăng với giá trị này</ImmunityGainSpeedFactor.description>
+
+  <WorkTableWorkSpeedFactor.label>Hệ số tốc độ làm việc</WorkTableWorkSpeedFactor.label>
+  <WorkTableWorkSpeedFactor.description>Tốc độ làm việc được tăng với giá trị này.</WorkTableWorkSpeedFactor.description>
+
+  <EntertainmentStrengthFactor.label>Hệ số sức mạnh giải trí</EntertainmentStrengthFactor.label>
+  <EntertainmentStrengthFactor.description>Hiệu quả giải trí và mang lại vui vẻ của vật này.</EntertainmentStrengthFactor.description>
+
+</LanguageData>

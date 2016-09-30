@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--================================ Tier 2: Non-electric ====================================-->
+  
+  <PsychiteRefining.label>Điều chế hóa chất thần kinh</PsychiteRefining.label>
+  <PsychiteRefining.description>Học cách điều chế các loại lá thực vật thần kinh thành Thuốc phiện và Bạch phiến, các dạng khác nhau của chất kích thích sảng khoái thần kinh .</PsychiteRefining.description>
+  
+  <WakeUpProduction.label>Sản xuất cafe</WakeUpProduction.label>
+  <WakeUpProduction.description>Học cách điều chế và tổng hợp Cafe - một loại chất tăng cường năng lực làm việc.</WakeUpProduction.description>
+  
+  <GoJuiceProduction.label>Sản xuất nước tăng lực</GoJuiceProduction.label>
+  <GoJuiceProduction.description>Học cách điều chế nước tăng lực - hợp chất tổng hợp tăng cường khả năng chiến đấu.</GoJuiceProduction.description>
+  
+  <MalariBlockProduction.label>Sản xuất thuốc chống sốt rét</MalariBlockProduction.label>
+  <MalariBlockProduction.description>Học cách điều chế thuốc chống sốt rét.</MalariBlockProduction.description>
+  
+  <!--================================ Tier 2: Basic electricity ====================================-->
+  
+  <Batteries.label>Pin dự trữ</Batteries.label>
+  <Batteries.description>Xây dựng pin để dữ trữ điện năng.</Batteries.description>
+
+  <NutrientPaste.label>Thức ăn dinh dưỡng</NutrientPaste.label>
+  <NutrientPaste.description>Xây dựng máy cung cấp dinh dưỡng có hiệu quả trong việc chế tạo thức ăn tổng hợp từ nguồn ngyên liệu dinh dưỡng.</NutrientPaste.description>
+  
+  <SolarPanels.label>Tấm năng lượng mặt trời</SolarPanels.label>
+  <SolarPanels.description>Xây dựng tấm năng lượng mặt trời để tạo ra điện năng.</SolarPanels.description>
+  
+  <AirConditioning.label>Điều hòa không khí</AirConditioning.label>
+  <AirConditioning.description>Xây dựng điều hòa không khí để làm mát hoặc giữ ấm nhiệt độ.</AirConditioning.description>
+  
+  <Autodoors.label>Cửa tự động</Autodoors.label>
+  <Autodoors.description>Xây dựng cửa tự động đóng mở để không khiến mọi người di chuyển chậm khi đi qua.</Autodoors.description>
+
+  <Hydroponics.label>Bồn dinh dưỡng</Hydroponics.label>
+  <Hydroponics.description>Cho phép xây dựng bồn dinh dưỡng để thực vật sinh trưởng liên tục bất kể tình trạng đất đai hay nhiệt độ.</Hydroponics.description>
+  
+  <ElectricSmelting.label>Luyện kim điện</ElectricSmelting.label>
+  <ElectricSmelting.description>Xây dựng máy chế tạo và luyện kim sử dụng điện.\n\nMáy chế tạo điện để chế tạo đồ mà không cần nhiên liệu. Máy luyện kim điện sử dụng nhiệt độ cao và từ trường mạnh để tách ra kim loại hữu dụng từ quặng thép hay những đồ vật khác.</ElectricSmelting.description>
+
+  <ElectricCremation.label>Lò thiêu điện</ElectricCremation.label>
+  <ElectricCremation.description>Xây dựng lò thiêu điện để làm bốc hơi các xác chết không mong muốn.</ElectricCremation.description>
+
+  <ColoredLights.label>Đèn màu</ColoredLights.label>
+  <ColoredLights.description>Cho phép cư dân xây dựng loại đèn màu vào mục đích trang trí.</ColoredLights.description>
+  
+  <Machining.label>Máy móc</Machining.label>
+  <Machining.description>Cho phép xây dựng bàn máy móc để chế tạo súng, cấu tạo hoặc phân tách phi sinh vật.</Machining.description>
+
+  <Mortars.label>Pháo cối</Mortars.label>
+  <Mortars.description>Xây dựng pháo cối để bắn đạn tới vị trí rất xa từ phía sau tường.</Mortars.description>
+
+  <IEDBomb.label>Bẫy nổ thông minh</IEDBomb.label>
+  <IEDBomb.description>Cho phép xây dựng loại bẫy nổ cải tiến từ đạn pháo.</IEDBomb.description>
+
+  <IEDIncendiary.label>Bẫy cháy thông minh</IEDIncendiary.label>
+  <IEDIncendiary.description>Ch phép xây dựng loại bẫy cháy cải tiến từ đạn pháo</IEDIncendiary.description>
+
+  <MicroelectronicsBasics.label>Vi điện tử cơ bản</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.description>Cơ bản của việc làm với các thiết bị điện tử tinh tế và phức tạp. Nó sẽ mở ra bàn nghiên cứu cao cấp, thiết bị liên lạc, và các nghiên cứu khác như ti vi thường hay buồng ngủ đông.</MicroelectronicsBasics.description>
+
+  <!--=============================== Tier 2.5 Microelectronics ===================================-->
+
+  <TubeTelevision.label>Ti vi thường</TubeTelevision.label>
+  <TubeTelevision.description>Cho phép chế tạo ra ti vi thường.</TubeTelevision.description>
+
+  <GunTurrets.label>Ụ súng máy</GunTurrets.label>
+  <GunTurrets.description>Cho phép chế tạo ra ụ súng máy tự động.</GunTurrets.description>
+  
+
+</LanguageData>

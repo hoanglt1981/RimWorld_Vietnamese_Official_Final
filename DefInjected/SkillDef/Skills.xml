@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Shooting.description>Sử dụng các loại vũ khí tầm xa.</Shooting.description>
+    <Shooting.skillLabel>Thiện xạ</Shooting.skillLabel>
+    <Shooting.pawnLabel>Xạ thủ</Shooting.pawnLabel>
+
+    <Melee.description>Sử dụng các loại vũ khí tầm gần tốt như dùng tay không.</Melee.description>
+    <Melee.skillLabel>Cận chiến</Melee.skillLabel>
+    <Melee.pawnLabel>Chiến binh</Melee.pawnLabel>
+
+    <Social.description>Đàm phán, giao dịch, trò chuyện, dẫn dắt và cổ vũ tinh thần.</Social.description>
+    <Social.skillLabel>Giao tiếp</Social.skillLabel>
+    <Social.pawnLabel>Xã hội</Social.pawnLabel>
+
+    <Animals.description>Thuần hóa, đào tạo, quản lý và điều khiển động vật.</Animals.description>
+    <Animals.skillLabel>Động vật</Animals.skillLabel>
+    <Animals.pawnLabel>Chăn nuôi</Animals.pawnLabel>
+
+    <Medicine.description>Xử lý vết thương, dịch bệnh và thực hiện phẫu thuật.</Medicine.description>
+    <Medicine.skillLabel>Dược phẩm</Medicine.skillLabel>
+    <Medicine.pawnLabel>Bác sĩ</Medicine.pawnLabel>
+
+    <Cooking.description>Tạo ra món ăn từ những nguyên liệu thô.</Cooking.description>
+    <Cooking.skillLabel>Nấu ăn</Cooking.skillLabel>
+    <Cooking.pawnLabel>Đầu bếp</Cooking.pawnLabel>
+
+    <Construction.description>Một người xây dựng tốt hơn sẽ làm ra công trình cũng như đồ đạc nhanh và chất lượng hơn.</Construction.description>
+    <Construction.skillLabel>Xây dựng</Construction.skillLabel>
+    <Construction.pawnLabel>Thợ xây</Construction.pawnLabel>
+
+    <Growing.description>Gieo trồng, hái lượm và thu hoạch ngũ cốc.</Growing.description>
+    <Growing.skillLabel>Trồng trọt</Growing.skillLabel>
+    <Growing.pawnLabel>Làm vườn</Growing.pawnLabel>
+
+    <Mining.description>Đào hầm mỏ và lấy ra các khoáng sản cũng như tài nguyên bị chôn lấp.</Mining.description>
+    <Mining.skillLabel>Khai khoáng</Mining.skillLabel>
+    <Mining.pawnLabel>Thợ mỏ</Mining.pawnLabel>
+
+    <Artistic.description>Tạo ra những tác phẩm nghệ thuật.</Artistic.description>
+    <Artistic.skillLabel>Nghệ thuật</Artistic.skillLabel>
+    <Artistic.pawnLabel>Nghệ sĩ</Artistic.pawnLabel>
+
+    <Crafting.description>Chế tạo nên các vật phẩm bao gồm cả vũ khí và công cụ.</Crafting.description>
+    <Crafting.skillLabel>Chế tạo</Crafting.skillLabel>
+    <Crafting.pawnLabel>Thủ công</Crafting.pawnLabel>
+
+    <Research.description>Phát minh những thứ giá trị, thực hiện nghiên cứu và học tập.</Research.description>
+    <Research.skillLabel>Nghiên cứu</Research.skillLabel>
+    <Research.pawnLabel>Nghiên cứu</Research.pawnLabel>
+
+</LanguageData>

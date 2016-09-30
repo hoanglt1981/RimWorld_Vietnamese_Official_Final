@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Cobra.label>Rắn hổ</Cobra.label>
+  <Cobra.lifeStages.0.label>Rắn hổ non</Cobra.lifeStages.0.label>
+  <Cobra.lifeStages.1.label>Rắn hổ con</Cobra.lifeStages.1.label>
+  <Cobra.lifeStages.2.label>Rắn hổ</Cobra.lifeStages.2.label>
+
+  <Monkey.label>Khỉ</Monkey.label>
+  <Monkey.lifeStages.0.label>Khỉ non</Monkey.lifeStages.0.label>
+  <Monkey.lifeStages.1.label>Khỉ con</Monkey.lifeStages.1.label>
+  <Monkey.lifeStages.2.label>Khỉ</Monkey.lifeStages.2.label>
+
+  <Boomalope.label>Thú nổ</Boomalope.label>
+  <Boomalope.lifeStages.0.label>Thú nổ non</Boomalope.lifeStages.0.label>
+  <Boomalope.lifeStages.1.label>Thú nổ con</Boomalope.lifeStages.1.label>
+  <Boomalope.lifeStages.2.label>Thú nổ</Boomalope.lifeStages.2.label>
+
+</LanguageData>

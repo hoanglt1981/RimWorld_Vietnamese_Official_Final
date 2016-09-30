@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=============================== Tier 1: pre-electricity ===================================-->
+  
+  <Pemmican.label>Lương khô</Pemmican.label>
+  <Pemmican.description>Làm lương khô, một loại thực phẩm trộn lẫn giữa thịt và thực vật có thể để được một thời gian dài. Rât tiện cho các chuyến lữ hành.</Pemmican.description>
+
+  <PassiveCooler.label>Máy tự làm mát</PassiveCooler.label>
+  <PassiveCooler.description>Chế tạo máy tự làm mát, giúp làm mát không khí mà không cần điện năng.</PassiveCooler.description>
+
+  <Devilstrand.label>Nấm ma</Devilstrand.label>
+  <Devilstrand.description>Cho phép cư dân trồng nấm ma, một loại nấm sinh trưởng chậm cho sợi thực vật rất giá trị.</Devilstrand.description>
+
+  <Brewing.label>Lên men</Brewing.label>
+  <Brewing.description>Cho phép xây dựng thùng lên men để lên men lúa mạch.</Brewing.description>
+
+  <Stonecutting.label>Cắt đá</Stonecutting.label>
+  <Stonecutting.description>Xây dựng bàn cắt đá, cho phép gia công đá viên thành đá khối để xử dụng trong xây dựng.</Stonecutting.description>
+
+  <CarpetMaking.label>Làm thảm</CarpetMaking.label>
+  <CarpetMaking.description>Cho phép cư dân tạo ra các loại thảm chất lượng không gian trong phòng.</CarpetMaking.description>
+
+  <Smithing.label>Chế tạo</Smithing.label>
+  <Smithing.description>Xây dựng công trình chế tạo để làm ra các loại vũ khí và công cụ.</Smithing.description>
+
+  <ComplexClothing.label>Vải tổng hợp</ComplexClothing.label>
+  <ComplexClothing.description>May các loại trang phục phức tạp như quần, áo khoác cộc tay và mũ cao bồi.</ComplexClothing.description>
+
+  <Electricity.label>Điện năng</Electricity.label>
+  <Electricity.description>Tạo và và sử dụng điện trong việc nấu ăn và các nhiệm vụ đơn giản khác.</Electricity.description>
+
+  <DrugProduction.label>Sản xuất thuốc</DrugProduction.label>
+  <DrugProduction.description>Cơ bản của quá trình tổng hợp và chuẩn bị thuốc. Cho phép xây dựng bàn thí nghiệm thuốc. Cần nghiên cứu thêm để điều chế các loại thuốc đặc biệt</DrugProduction.description>
+  
+</LanguageData>

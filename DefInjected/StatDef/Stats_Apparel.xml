@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ArmorRating_Blunt.label>Giáp - Cứng</ArmorRating_Blunt.label>
+    <ArmorRating_Blunt.description>Áo giáp chống chịu sát thương cứng như chùy, đá rơi, thuốc nổ.</ArmorRating_Blunt.description>
+
+    <ArmorRating_Sharp.label>Giáp - Sắc</ArmorRating_Sharp.label>
+    <ArmorRating_Sharp.description>Áo giáp chống chịu sát thương sắc bén như đạn bắn, dao đâm hay động vật cắn.</ArmorRating_Sharp.description>
+
+    <ArmorRating_Heat.label>Giáp - Nhiệt</ArmorRating_Heat.label>
+    <ArmorRating_Heat.description>Áo giáp chống chiu nhiệt độ cao như thiêu đốt.</ArmorRating_Heat.description>
+
+    <ArmorRating_Electric.label>Giáp - Điện</ArmorRating_Electric.label>
+    <ArmorRating_Electric.description>Áo giáp chống chịu sát thương điện từ như súng EMP.</ArmorRating_Electric.description>
+
+    <Insulation_Cold.label>Chịu lạnh</Insulation_Cold.label>
+    <Insulation_Cold.description>Thể hiện nhiệt độ thấp nhất chịu được khi mặc trang phục.</Insulation_Cold.description>
+
+    <Insulation_Heat.label>Chịu nóng</Insulation_Heat.label>
+    <Insulation_Heat.description>Thể hiện nhiệt độ cao nhất chịu được khi mặc trang phục.</Insulation_Heat.description>
+
+    <PersonalShieldEnergyMax.label>Năng lượng khiên tối đa</PersonalShieldEnergyMax.label>
+    <PersonalShieldEnergyMax.description>Lượng năng lượng tối đa mà khiên năng lượng có được. Năng lượng càng cao càng chống chịu được nhiều sát thương.</PersonalShieldEnergyMax.description>
+
+    <PersonalShieldRechargeRate.label>Tốc độ phục hồi khiên</PersonalShieldRechargeRate.label>
+    <PersonalShieldRechargeRate.description>Tốc độ phục hồi năng lượng của khiên cho tới khi nó chưa bị hỏng.</PersonalShieldRechargeRate.description>
+
+</LanguageData>

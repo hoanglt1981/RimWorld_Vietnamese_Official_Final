@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Consciousness.label>Ý thức</Consciousness.label>
+	
+    <Consciousness.labelMechanoids>Xử lý dữ liệu</Consciousness.labelMechanoids>
+
+    <Sight.label>Tầm nhìn</Sight.label>
+
+    <Hearing.label>Tai nghe</Hearing.label>
+
+    <Moving.label>Di chuyển</Moving.label>
+
+    <Manipulation.label>Thao tác</Manipulation.label>
+
+    <Talking.label>Nói chuyện</Talking.label>
+	
+    <Talking.labelMechanoids>Giao tiếp</Talking.labelMechanoids>
+
+    <Eating.label>Ăn uống</Eating.label>
+
+    <Breathing.label>Hô hấp</Breathing.label>
+
+    <BloodFiltration.label>Lọc máu</BloodFiltration.label>
+
+    <BloodPumping.label>Bơm máu</BloodPumping.label>
+
+    <Metabolism.label>Trao đổi chất</Metabolism.label>
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><LanguageData>
+
+    <Basics.label>Cơ bản</Basics.label>
+
+    <BasicsPawn.label>Cơ bản</BasicsPawn.label>
+
+    <BasicsNonPawn.label>Cơ bản</BasicsNonPawn.label>
+
+    <Apparel.label>Trang phục</Apparel.label>
+
+    <Weapon.label>Vũ khí</Weapon.label>
+
+    <Building.label>Xây dựng</Building.label>
+
+    <EquippedStatOffsets.label>Bù đắp khi trang bị</EquippedStatOffsets.label>
+
+    <StuffStatFactors.label>Tăng cường khi làm điều này</StuffStatFactors.label>
+
+    <StuffStatOffsets.label>Bù đắp khi làm điều này</StuffStatOffsets.label>
+
+    <StuffOfEquipmentStatFactors.label>Tăng cường khi thiết bị làm điều này </StuffOfEquipmentStatFactors.label>
+
+    <PawnCombat.label>Chiến đấu</PawnCombat.label>
+
+    <PawnSocial.label>Giao tiếp</PawnSocial.label>
+
+    <PawnMisc.label>Tổng hợp</PawnMisc.label>
+
+    <PawnWork.label>Công việc</PawnWork.label>
+
+</LanguageData>

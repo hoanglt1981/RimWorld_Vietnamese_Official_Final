@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MakeWort.label>Làm bia</MakeWort.label>
+    <MakeWort.description>Ủ bia từ lúa mạch.</MakeWort.description>
+    <MakeWort.jobString>Làm bia.</MakeWort.jobString>
+
+    <BurnDrugs.label>Đốt chất kích thích</BurnDrugs.label>
+    <BurnDrugs.description>Đốt bỏ hoàn toàn chất kích thích.</BurnDrugs.description>
+    <BurnDrugs.jobString>Đốt chất kích thích.</BurnDrugs.jobString>
+
+</LanguageData>

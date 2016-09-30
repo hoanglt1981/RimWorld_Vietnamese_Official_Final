@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Elephant.label>Voi</Elephant.label>
+  <Elephant.lifeStages.0.label>Voi non</Elephant.lifeStages.0.label>
+  <Elephant.lifeStages.1.label>Voi con</Elephant.lifeStages.1.label>
+  <Elephant.lifeStages.2.label>Voi</Elephant.lifeStages.2.label>
+
+  <Megatherium.label>Lười tuyết</Megatherium.label>
+  <Megatherium.lifeStages.0.label>Lười tuyết non</Megatherium.lifeStages.0.label>
+  <Megatherium.lifeStages.1.label>Lười tuyết con</Megatherium.lifeStages.1.label>
+  <Megatherium.lifeStages.2.label>Lười tuyết</Megatherium.lifeStages.2.label>
+
+  <Thrumbo.label>Thrumbo</Thrumbo.label>
+  <Thrumbo.lifeStages.0.label>Thrumbo non</Thrumbo.lifeStages.0.label>
+  <Thrumbo.lifeStages.1.label>Thrumbo con</Thrumbo.lifeStages.1.label>
+  <Thrumbo.lifeStages.2.label>Alpha Thrumbo</Thrumbo.lifeStages.2.label>
+
+</LanguageData>

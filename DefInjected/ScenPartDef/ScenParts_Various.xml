@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--================= player pawn filters =================-->
+  
+  <GameStartDialog.label>Hộp thoại bắt đầu trò chơi</GameStartDialog.label>
+  
+  <!--================= player pawn filters =================-->
+  
+  <PawnFilter_Age.label>Độ tuổi được chấp nhận</PawnFilter_Age.label>
+  
+  <!--================== player pawn modifier ================-->
+  
+  <OnPawnDeathExplode.label>Nhân vật nổ tung khi tử vong</OnPawnDeathExplode.label>
+  
+  <ForcedTrait.label>Đặc điểm bắt buộc</ForcedTrait.label>
+  
+  <ForcedHediff.label>Tình trạng sức khỏe bắt buộc</ForcedHediff.label>
+  
+  <StartingResearch.label>Bắt đầu với nghiên cứu</StartingResearch.label>
+  
+  <MapCondition_Planetkiller.label>Vũ khí hủy diệt hành tinh đang tới</MapCondition_Planetkiller.label>
+  <SetNeedLevel.label>Đặt cấp độ nhu cầu</SetNeedLevel.label>
+  
+
+  <!--=================== rules changes =================-->
+  
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>Không thể gieo trồng</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  
+  <Rule_DisallowDesignator_Mine.label>Không thể khai khoáng</Rule_DisallowDesignator_Mine.label>
+  
+  <Rule_DisallowDesignator_Hunt.label>Không thể săn bắn</Rule_DisallowDesignator_Hunt.label>
+  
+  <Rule_DisallowDesignator_Tame.label>Không thể thuần hóa</Rule_DisallowDesignator_Tame.label>
+  
+  <StatFactor.label>Hệ số trạng thái</StatFactor.label>
+
+  <!--===============================================-->
+  <!--==================== grouped ==================-->
+  <!--===============================================-->
+  
+  <DisableIncident.label>Tắt sự cố</DisableIncident.label>
+  
+  <Rule_DisallowBuilding.label>Không chấp nhận xây dựng</Rule_DisallowBuilding.label>
+  
+  <PermanentMapCondition.label>Điều kiện vĩnh cửu của bản đồ</PermanentMapCondition.label>
+  
+  <StartingAnimal.label>Bắt đầu với vật nuôi</StartingAnimal.label>
+  
+  <StartingThing_Defined.label>Bắt đầu với</StartingThing_Defined.label>
+  
+  <ScatterThingsNearPlayerStart.label>Ở gần</ScatterThingsNearPlayerStart.label>
+  
+  <ScatterThingsAnywhere.label>Rải rác ngẫu nhiên</ScatterThingsAnywhere.label>
+  
+  <CreateIncident.label>Tạo sự cố</CreateIncident.label>
+  
+</LanguageData>

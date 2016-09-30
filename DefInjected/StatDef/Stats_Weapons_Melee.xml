@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MeleeWeapon_DamageAmount.label>Sát thương cận chiến</MeleeWeapon_DamageAmount.label>
+    <MeleeWeapon_DamageAmount.description>Mức sát thương của mỗi đòn cận chiến.</MeleeWeapon_DamageAmount.description>
+
+    <MeleeWeapon_Cooldown.label>Thời gian ra đòn</MeleeWeapon_Cooldown.label>
+    <MeleeWeapon_Cooldown.description>Thể hiện thời gian ra đòn giữa các đòn đánh liên tiếp.</MeleeWeapon_Cooldown.description>
+
+    <SharpDamageMultiplier.label>Sát thương sắc bén</SharpDamageMultiplier.label>
+    <SharpDamageMultiplier.description>Mức độ sát thương bằng tấn công sắc bén như đâm chém từ những vũ khí kim loại.</SharpDamageMultiplier.description>
+
+    <BluntDamageMultiplier.label>Sát thương cứng</BluntDamageMultiplier.label>
+    <BluntDamageMultiplier.description>Mức độ sát thương bằng tấn công cứng nặng.</BluntDamageMultiplier.description>
+
+</LanguageData>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MoveSpeed.label>tốc độ di chuyển</MoveSpeed.label>
+    <MoveSpeed.description>Tốc độ di chuyển trong một giây.</MoveSpeed.description>
+
+    <MentalBreakThreshold.label>ngưỡng mất kiểm soát</MentalBreakThreshold.label>
+    <MentalBreakThreshold.description>Tâm trạng dưới mức này càng lâu, càng có nguy cơ về việc mất kiểm soát.</MentalBreakThreshold.description>
+
+    <PsychicSensitivity.label>độ nhạy cảm tinh thần</PsychicSensitivity.label>
+    <PsychicSensitivity.description>Tăng lên bởi sự ảnh hưởng của các xung kích thích thần kinh.</PsychicSensitivity.description>
+
+    <ToxicSensitivity.label>độ nhạy cảm phóng xạ</ToxicSensitivity.label>
+    <ToxicSensitivity.description>Tăng lên bởi bị ảnh hưởng của các phóng xạ tích tụ.</ToxicSensitivity.description>
+
+    <GlobalLearningFactor.label>giới hạn học tập</GlobalLearningFactor.label>
+    <GlobalLearningFactor.description>HIệu quả học tập của tất cả kĩ năng.</GlobalLearningFactor.description>
+
+    <EatingSpeed.label>tốc độ ăn uống</EatingSpeed.label>
+    <EatingSpeed.description>Tăng lên bởi tốc động ăn.</EatingSpeed.description>
+
+    <ComfyTemperatureMin.label>nhiệt độ thấp nhất chịu được</ComfyTemperatureMin.label>
+    <ComfyTemperatureMin.description>Dưới mức nhiệt độ này, nhân vật sẽ trở nên không vui. Chú ý là dưới mức này, nhân vật sẽ bắt đầu giảm thân nhiệt và cảm lạnh, thậm chí tử vong.</ComfyTemperatureMin.description>
+
+    <ComfyTemperatureMax.label>nhiệt độ cao nhất chịu được</ComfyTemperatureMax.label>
+    <ComfyTemperatureMax.description>Trên mức nhiệt độ này, nhân vật sẽ trở nên không vui. Chú ý là trên mức này, nhân vật sẽ bắt đầu đột quị và thậm chí tử vong.</ComfyTemperatureMax.description>
+
+    <ImmunityGainSpeed.label>tốc độ tăng miễn dịch</ImmunityGainSpeed.label>
+    <ImmunityGainSpeed.description>Tốc độ tăng khả năng miễn dịch với dịch bệnh của nhân vật. Nếu nó quá thấp, nhân vật sẽ chết vì dịch bệnh trước khi phát triển miễn dịch.</ImmunityGainSpeed.description>
+
+    <CarryingCapacity.label>khối lượng có thể vận chuyển</CarryingCapacity.label>
+    <CarryingCapacity.description>Khối lượng mà sinh vật mang bằng tay, miệng hoặc các cách khác.</CarryingCapacity.description>
+
+    <MeatAmount.label>khối lượng thịt từ mổ xẻ</MeatAmount.label>
+    <MeatAmount.description>Khối lượng thịt sẽ lấy được từ việc làm thịt sinh vật này.</MeatAmount.description>
+
+    <LeatherAmount.label>khối lượng da từ mổ xẻ</LeatherAmount.label>
+    <LeatherAmount.description>Khối lượng da sẽ lấy được từ việc làm thịt sinh vật này.</LeatherAmount.description>
+
+    <MinimumHandlingSkill.label>kĩ năng xử lý thấp nhất</MinimumHandlingSkill.label>
+    <MinimumHandlingSkill.description>Sinh vật này không thể thuần hóa, huấn luyện hay quản lý bởi người có kĩ năng động vật thấp hơn.</MinimumHandlingSkill.description>
+
+</LanguageData>

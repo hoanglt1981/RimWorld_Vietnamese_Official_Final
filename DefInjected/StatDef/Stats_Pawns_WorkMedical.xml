@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MedicalOperationSpeed.label>tốc độ thực hiện phẫu thuật</MedicalOperationSpeed.label>
+    <MedicalOperationSpeed.description>Tốt độ mà nhân vật thực hiện việc phẫu thuật.</MedicalOperationSpeed.description>
+
+    <SurgerySuccessChance.label>khả năng thành công khi phẫu thuật</SurgerySuccessChance.label>
+    <SurgerySuccessChance.description>Tỷ lệ nhân vật thực hiện thành công cuộc phẫu thuật. Thất bại không chỉ làm lãng phí thời gian và thuốc men, mà còn tạo ra thương tật thảm khốc với người bệnh.</SurgerySuccessChance.description>
+
+    <BaseHealingQuality.label>chất lượng trị thương cơ bản</BaseHealingQuality.label>
+    <BaseHealingQuality.description>Chất lượng cơ bản của việc điều trị thương tật cho bệnh nhân.</BaseHealingQuality.description>
+
+    <HealingSpeed.label>thời gian trị thương</HealingSpeed.label>
+    <HealingSpeed.description>Thời gian điều trị vết thương.</HealingSpeed.description>
+
+</LanguageData>

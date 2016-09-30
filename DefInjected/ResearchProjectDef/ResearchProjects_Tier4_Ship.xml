@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ShipBasics.label>Cơ bản chế tạo phi thuyền</ShipBasics.label>
+  <ShipBasics.description>Cho phép nghiên cứu sâu hơn về công nghệ chế tạo phi thuyền cao cấp và cuối cùng chế tạo được phi thuyền để rời khỏi hành tinh.</ShipBasics.description>
+
+  <ShipCryptosleep.label>Buồng ngủ đông trên phi thuyền</ShipCryptosleep.label>
+  <ShipCryptosleep.description>Cho phép xây dựng các buồng ngủ đông trên phi thuyền để vận chuyển cư dân ngủ đông giữa các vì sao</ShipCryptosleep.description>
+
+  <ShipReactor.label>Lò phản ứng phi thuyền</ShipReactor.label>
+  <ShipReactor.description>Cho phép sử dụng lõi phản vật chất để chế tạo lò phản ứng cung cấp năng lượng cho phi thuyền.</ShipReactor.description>
+
+  <ShipEngine.label>Động cơ phi thuyền</ShipEngine.label>
+  <ShipEngine.description>Cho phép sử dụng lõi phản vật chất để xây dựng bộ dẫn động phản vật chất cho phi thuyền.</ShipEngine.description>
+
+  <ShipComputerCore.label>Máy tính trung tâm</ShipComputerCore.label>
+  <ShipComputerCore.description>Cho phép nén một AI nhân tạo thành lõi AI của máy tính dùng trong dẫn dường phi thuyền.</ShipComputerCore.description>
+
+</LanguageData>

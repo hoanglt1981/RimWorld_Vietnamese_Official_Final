@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Chicken.label>Gà</Chicken.label>
+  <Chicken.labelMale>Gà trống</Chicken.labelMale>
+  <Chicken.labelFemale>Gà mái</Chicken.labelFemale>
+  <Chicken.lifeStages.0.label>Gà con</Chicken.lifeStages.0.label>
+  <Chicken.lifeStages.1.labelMale>Gà trống choai</Chicken.lifeStages.1.labelMale>
+  <Chicken.lifeStages.1.labelFemale>Gà mái ghẹ</Chicken.lifeStages.1.labelFemale>
+  <Chicken.lifeStages.2.labelMale>Gà trống</Chicken.lifeStages.2.labelMale>
+  <Chicken.lifeStages.2.labelFemale>Gà mái</Chicken.lifeStages.2.labelFemale>
+
+  <Pig.label>Lợn</Pig.label>
+  <Pig.lifeStages.0.label>Lợn non</Pig.lifeStages.0.label>
+  <Pig.lifeStages.1.label>Lợn con</Pig.lifeStages.1.label>
+  <Pig.lifeStages.1.labelMale>Lợn đực con</Pig.lifeStages.1.labelMale>
+  <Pig.lifeStages.1.labelFemale>Lợn cái con</Pig.lifeStages.1.labelFemale>
+  <Pig.lifeStages.2.label>Lợn</Pig.lifeStages.2.label>
+  <Pig.lifeStages.2.labelMale>Lợn giống</Pig.lifeStages.2.labelMale>
+  <Pig.lifeStages.2.labelFemale>Lợn nái</Pig.lifeStages.2.labelFemale>
+
+  <Cow.label>Bò sữa</Cow.label>
+  <Cow.lifeStages.0.label>Bê</Cow.lifeStages.0.label>
+  <Cow.lifeStages.1.label>Bò sữa con</Cow.lifeStages.1.label>
+  <Cow.lifeStages.1.labelMale>Bò đực con</Cow.lifeStages.1.labelMale>
+  <Cow.lifeStages.1.labelFemale>Bò sữa con</Cow.lifeStages.1.labelFemale>
+  <Cow.lifeStages.2.label>Bò sữa</Cow.lifeStages.2.label>
+  <Cow.lifeStages.2.labelMale>Bò đực</Cow.lifeStages.2.labelMale>
+  <Cow.lifeStages.2.labelFemale>Bò sữa</Cow.lifeStages.2.labelFemale>
+
+  <Alpaca.label>Lạc đà alpaca</Alpaca.label>
+  <Alpaca.lifeStages.0.label>Lạc đà alpaca non</Alpaca.lifeStages.0.label>
+  <Alpaca.lifeStages.1.label>Lạc đà alpaca con</Alpaca.lifeStages.1.label>
+  <Alpaca.lifeStages.2.label>Lạc đà alpaca</Alpaca.lifeStages.2.label>
+
+</LanguageData>

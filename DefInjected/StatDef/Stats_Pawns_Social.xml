@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RecruitPrisonerChance.label>Cơ hội chiêu hàng tù nhân</RecruitPrisonerChance.label>
+    <RecruitPrisonerChance.description>Cơ hội cơ bản có thể chiêu hàng được tù nhân.</RecruitPrisonerChance.description>
+
+    <TameAnimalChance.label>Cơ hội thuần hóa động vật</TameAnimalChance.label>
+    <TameAnimalChance.description>Cơ hội cơ bản có thể thuần hóa được động vật.</TameAnimalChance.description>
+
+    <TrainAnimalChance.label>Cơ hội huấn luyện vật nuôi</TrainAnimalChance.label>
+    <TrainAnimalChance.description>Cơ hội cơ bản để huấn luyện vật nuôi. Cơ hội này sẽ thay đổi dựa trên các loại vật nuôi khác nhau.</TrainAnimalChance.description>
+
+    <SocialImpact.label>Ảnh hưởng giao tiếp</SocialImpact.label>
+    <SocialImpact.description>Là mức độ ảnh hưởng tới người khác khi giao tiếp xã hội.</SocialImpact.description>
+
+    <GiftImpact.label>Ảnh hưởng tặng quà</GiftImpact.label>
+    <GiftImpact.description>Khi tặng quà cho phe khác, sẽ ảnh hưởng tới mức độ tăng quan hệ giữa 2 phe.</GiftImpact.description>
+
+    <TradePriceImprovement.label>Tăng cường giá trị giao dịch</TradePriceImprovement.label>
+    <TradePriceImprovement.description>Trong đàm phán giao dịch, giá mua và đều được tăng theo tỷ lệ này.</TradePriceImprovement.description>
+
+</LanguageData>

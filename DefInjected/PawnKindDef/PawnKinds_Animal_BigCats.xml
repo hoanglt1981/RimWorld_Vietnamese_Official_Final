@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Cougar.label>Báo gấm</Cougar.label>
+  <Cougar.lifeStages.0.label>Báo gấm non</Cougar.lifeStages.0.label>
+  <Cougar.lifeStages.1.label>Báo gấm con</Cougar.lifeStages.1.label>
+  <Cougar.lifeStages.2.label>Báo gấm</Cougar.lifeStages.2.label>
+
+  <Panther.label>Báo đen</Panther.label>
+  <Panther.lifeStages.0.label>Báo đen non</Panther.lifeStages.0.label>
+  <Panther.lifeStages.1.label>Báo đen con</Panther.lifeStages.1.label>
+  <Panther.lifeStages.2.label>Báo đen</Panther.lifeStages.2.label>
+
+  <Lynx.label>Linh miêu</Lynx.label>
+  <Lynx.lifeStages.0.label>Linh miêu non</Lynx.lifeStages.0.label>
+  <Lynx.lifeStages.1.label>Linh miêu con</Lynx.lifeStages.1.label>
+  <Lynx.lifeStages.2.label>Linh miêu</Lynx.lifeStages.2.label>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MakeStoneBlocks.label>Cắt đá</MakeStoneBlocks.label>
+    <MakeStoneBlocks.description>Cắt đá quặng thành từng khối sử dụng được.</MakeStoneBlocks.description>
+    <MakeStoneBlocks.jobString>Cắt đá.</MakeStoneBlocks.jobString>
+
+    <ExtractMetalFromSlag.label>Luyện kim từ quặng thép</ExtractMetalFromSlag.label>
+    <ExtractMetalFromSlag.description>Sử dụng nhiệt và điện năng cao để tách ra kim loại từ quặng thép.</ExtractMetalFromSlag.description>
+    <ExtractMetalFromSlag.jobString>Luyện kim từ quặng thép.</ExtractMetalFromSlag.jobString>
+
+    <SmeltWeapon.label>Luyện kim từ vũ khí</SmeltWeapon.label>
+    <SmeltWeapon.description>Sử dụng nhiệt và lượng lớn điện năng để tách kim loại từ vũ khĩ.</SmeltWeapon.description>
+    <SmeltWeapon.jobString>Luyện kim từ vũ khí.</SmeltWeapon.jobString>
+
+    <MakeArtilleryShell.label>Làm đạn pháo</MakeArtilleryShell.label>
+    <MakeArtilleryShell.description>Chế tạo ra đạn của vũ khí phòng không.</MakeArtilleryShell.description>
+    <MakeArtilleryShell.jobString>Làm đạn pháo.</MakeArtilleryShell.jobString>
+
+    <MakeComponent.label>Chế tạo linh kiện</MakeComponent.label>
+    <MakeComponent.description>Chế tạo linh kiện.</MakeComponent.description>
+    <MakeComponent.jobString>Chế tạo linh kiện.</MakeComponent.jobString>
+
+</LanguageData>

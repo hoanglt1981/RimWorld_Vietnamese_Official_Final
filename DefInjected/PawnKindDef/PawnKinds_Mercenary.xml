@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MercenaryGunner.label>Lính đánh thuê súng máy</MercenaryGunner.label>
+
+    <MercenarySniper.label>Lính đánh thuê súng ngắm</MercenarySniper.label>
+
+    <GrenadierDestructive.label>Lính ném lựu đạn</GrenadierDestructive.label>
+
+    <GrenadierEMP.label>Lính ném bom EMP</GrenadierEMP.label>
+
+    <MercenarySlasher.label>Lính đánh thuê cận chiến</MercenarySlasher.label>
+
+    <MercenaryHeavy.label>Lính đánh thuê hạng nặng</MercenaryHeavy.label>
+
+    <PirateBoss.label>Ông chủ</PirateBoss.label>
+
+    <MercenaryElite.label>Lính đánh thuê tinh nhuệ</MercenaryElite.label>
+
+</LanguageData>

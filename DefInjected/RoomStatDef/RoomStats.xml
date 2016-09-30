@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Impressiveness.label>Ấn tượng</Impressiveness.label>
+    <Impressiveness.scoreStages.0.label>kinh khủng</Impressiveness.scoreStages.0.label>
+    <Impressiveness.scoreStages.1.label>kinh tởm</Impressiveness.scoreStages.1.label>
+    <Impressiveness.scoreStages.2.label>âm u</Impressiveness.scoreStages.2.label>
+    <Impressiveness.scoreStages.3.label>tầm thường</Impressiveness.scoreStages.3.label>
+    <Impressiveness.scoreStages.4.label>thú vị</Impressiveness.scoreStages.4.label>
+    <Impressiveness.scoreStages.5.label>có chút ấn tượng</Impressiveness.scoreStages.5.label>
+    <Impressiveness.scoreStages.6.label>ấn tượng</Impressiveness.scoreStages.6.label>
+    <Impressiveness.scoreStages.7.label>rất ấn tượng</Impressiveness.scoreStages.7.label>
+    <Impressiveness.scoreStages.8.label>vô cùng ấn tượng</Impressiveness.scoreStages.8.label>
+    <Impressiveness.scoreStages.9.label>ấn tượng khó tin</Impressiveness.scoreStages.9.label>
+    <Impressiveness.scoreStages.10.label>đẹp kì diệu</Impressiveness.scoreStages.10.label>
+    <Impressiveness.scoreStages.11.label>kì quan thế giới</Impressiveness.scoreStages.11.label>
+
+    <Wealth.label>Giàu có</Wealth.label>
+    <Wealth.scoreStages.0.label>bần cùng</Wealth.scoreStages.0.label>
+    <Wealth.scoreStages.1.label>nghèo nàn</Wealth.scoreStages.1.label>
+    <Wealth.scoreStages.2.label>u ám</Wealth.scoreStages.2.label>
+    <Wealth.scoreStages.3.label>hơi giàu</Wealth.scoreStages.3.label>
+    <Wealth.scoreStages.4.label>giàu</Wealth.scoreStages.4.label>
+    <Wealth.scoreStages.5.label>cao cấp</Wealth.scoreStages.5.label>
+    <Wealth.scoreStages.6.label>rất cao cấp</Wealth.scoreStages.6.label>
+    <Wealth.scoreStages.7.label>cực kỳ cao cấp</Wealth.scoreStages.7.label>
+    <Wealth.scoreStages.8.label>cao cấp khó tin</Wealth.scoreStages.8.label>
+
+    <Space.label>Không gian</Space.label>
+    <Space.scoreStages.0.label>chật chội</Space.scoreStages.0.label>
+    <Space.scoreStages.1.label>hẹp</Space.scoreStages.1.label>
+    <Space.scoreStages.2.label>trung bình</Space.scoreStages.2.label>
+    <Space.scoreStages.3.label>khá rộng</Space.scoreStages.3.label>
+    <Space.scoreStages.4.label>rộng</Space.scoreStages.4.label>
+    <Space.scoreStages.5.label>rất rộng</Space.scoreStages.5.label>
+    <Space.scoreStages.6.label>cực kỳ rộng</Space.scoreStages.6.label>
+
+    <Beauty.label>Thẩm mỹ</Beauty.label>
+    <Beauty.scoreStages.0.label>gớm ghiếc</Beauty.scoreStages.0.label>
+    <Beauty.scoreStages.1.label>xấu</Beauty.scoreStages.1.label>
+    <Beauty.scoreStages.2.label>bình thường</Beauty.scoreStages.2.label>
+    <Beauty.scoreStages.3.label>khá đẹp</Beauty.scoreStages.3.label>
+    <Beauty.scoreStages.4.label>đẹp</Beauty.scoreStages.4.label>
+    <Beauty.scoreStages.5.label>rất đẹp</Beauty.scoreStages.5.label>
+    <Beauty.scoreStages.6.label>cực đẹp</Beauty.scoreStages.6.label>
+    <Beauty.scoreStages.7.label>đẹp khó tin</Beauty.scoreStages.7.label>
+
+    <Cleanliness.label>Vệ sinh</Cleanliness.label>
+    <Cleanliness.scoreStages.0.label>rất bẩn</Cleanliness.scoreStages.0.label>
+    <Cleanliness.scoreStages.1.label>bẩn</Cleanliness.scoreStages.1.label>
+    <Cleanliness.scoreStages.2.label>hơi bẩn</Cleanliness.scoreStages.2.label>
+    <Cleanliness.scoreStages.3.label>sạch sẽ</Cleanliness.scoreStages.3.label>
+    <Cleanliness.scoreStages.4.label>siêu sạch</Cleanliness.scoreStages.4.label>
+
+    <InfectionChanceFactor.label>Giới hạn cơ hội nhiễm trùng</InfectionChanceFactor.label>
+
+    <SurgerySuccessChanceFactor.label>Giới hạn cơ hội phẫu thuật thành công</SurgerySuccessChanceFactor.label>
+
+    <ResearchSpeedFactor.label>Giới hạn tốc độ nghiên cứu</ResearchSpeedFactor.label>
+
+    <GraveVisitingJoyGainFactor.label>Giới hạn vui vẻ khi thăm mộ</GraveVisitingJoyGainFactor.label>
+
+    <FoodPoisonChanceFactor.label>Giới hạn cơ hội thức ăn có độc</FoodPoisonChanceFactor.label>
+
+</LanguageData>

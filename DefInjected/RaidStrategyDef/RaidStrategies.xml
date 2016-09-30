@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ImmediateAttack.letterLabelEnemy>Cướp phá</ImmediateAttack.letterLabelEnemy>
+    <ImmediateAttack.arrivalTextEnemy>Chúng tấn công ngay lập tức.</ImmediateAttack.arrivalTextEnemy>
+    <ImmediateAttack.letterLabelFriendly>Bạn bè</ImmediateAttack.letterLabelFriendly>
+    <ImmediateAttack.arrivalTextFriendly>Họ đi tới giúp đỡ bạn ngay lập tức.</ImmediateAttack.arrivalTextFriendly>
+
+    <ImmediateAttackSmart.letterLabelEnemy>Cướp phá</ImmediateAttackSmart.letterLabelEnemy>
+    <ImmediateAttackSmart.arrivalTextEnemy>Chúng tấn công ngay lập tức.\n\nCoi chừng - chúng không thường có chiến thuật thông minh như vậy.</ImmediateAttackSmart.arrivalTextEnemy>
+    <ImmediateAttackSmart.letterLabelFriendly>Bạn bè</ImmediateAttackSmart.letterLabelFriendly>
+    <ImmediateAttackSmart.arrivalTextFriendly>Họ đi tới giúp đỡ bạn ngay lập tức.</ImmediateAttackSmart.arrivalTextFriendly>
+
+    <StageThenAttack.letterLabelEnemy>Cướp phá</StageThenAttack.letterLabelEnemy>
+    <StageThenAttack.arrivalTextEnemy>Chúng sẽ chuẩn bị một lát trước khi tấn công.\n\nChuẩn bị phòng thủ hoặc bất ngờ tấn công bọn chúng.</StageThenAttack.arrivalTextEnemy>
+    <StageThenAttack.letterLabelFriendly>Bạn bè</StageThenAttack.letterLabelFriendly>
+    <StageThenAttack.arrivalTextFriendly>Họ sẽ chuẩn bị một lúc trước khi tới giúp đỡ bạn.</StageThenAttack.arrivalTextFriendly>
+
+    <ImmediateAttackSappers.letterLabelEnemy>Cướp phá</ImmediateAttackSappers.letterLabelEnemy>
+    <ImmediateAttackSappers.arrivalTextEnemy>Có vẻ chúng muốn đào đường ngầm quanh căn cứ của bạn.</ImmediateAttackSappers.arrivalTextEnemy>
+
+    <Siege.letterLabelEnemy>Vây hãm</Siege.letterLabelEnemy>
+    <Siege.arrivalTextEnemy>Dường như chúng muốn vây hãm và tấn công căn cứ của bạn từ xa bằng pháo. Bạn có thể đợi chúng ra - hoặc đến gặp chúng.</Siege.arrivalTextEnemy>
+    <Siege.letterLabelFriendly>Bạn bè</Siege.letterLabelFriendly>
+    <Siege.arrivalTextFriendly>Có vẻ như họ sẽ dùng đội hình vây hãm để giúp đỡ bạn.</Siege.arrivalTextFriendly>
+
+</LanguageData>

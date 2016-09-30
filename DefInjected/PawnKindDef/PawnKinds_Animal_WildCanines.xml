@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Warg.label>Sói ma</Warg.label>
+  <Warg.lifeStages.0.label>Sói ma non</Warg.lifeStages.0.label>
+  <Warg.lifeStages.1.label>Sói ma con</Warg.lifeStages.1.label>
+  <Warg.lifeStages.2.label>Sói ma</Warg.lifeStages.2.label>
+
+  <WolfTimber.label>Sói rừng</WolfTimber.label>
+  <WolfTimber.lifeStages.0.label>Sói rừng non</WolfTimber.lifeStages.0.label>
+  <WolfTimber.lifeStages.1.label>Sói rừng con</WolfTimber.lifeStages.1.label>
+  <WolfTimber.lifeStages.2.label>Sói rừng</WolfTimber.lifeStages.2.label>
+
+  <WolfArctic.label>Sói tuyết</WolfArctic.label>
+  <WolfArctic.lifeStages.0.label>Sói tuyết non</WolfArctic.lifeStages.0.label>
+  <WolfArctic.lifeStages.1.label>Sói tuyết con</WolfArctic.lifeStages.1.label>
+  <WolfArctic.lifeStages.2.label>Sói tuyết</WolfArctic.lifeStages.2.label>
+
+  <FoxFennec.label>Cáo fennec</FoxFennec.label>
+  <FoxFennec.lifeStages.0.label>Cáo fennec non</FoxFennec.lifeStages.0.label>
+  <FoxFennec.lifeStages.1.label>Cáo fennec con</FoxFennec.lifeStages.1.label>
+  <FoxFennec.lifeStages.2.label>Cáo fennec</FoxFennec.lifeStages.2.label>
+
+  <FoxRed.label>Cáo đỏ</FoxRed.label>
+  <FoxRed.lifeStages.0.label>Cáo đỏ non</FoxRed.lifeStages.0.label>
+  <FoxRed.lifeStages.1.label>Cáo đỏ con</FoxRed.lifeStages.1.label>
+  <FoxRed.lifeStages.2.label>Cáo đỏ</FoxRed.lifeStages.2.label>
+
+  <FoxArctic.label>Cáo tuyết</FoxArctic.label>
+  <FoxArctic.lifeStages.0.label>Cáo tuyết non</FoxArctic.lifeStages.0.label>
+  <FoxArctic.lifeStages.1.label>Cáo tuyết con</FoxArctic.lifeStages.1.label>
+  <FoxArctic.lifeStages.2.label>Cáo tuyết</FoxArctic.lifeStages.2.label>
+
+</LanguageData>

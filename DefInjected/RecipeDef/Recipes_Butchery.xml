@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <ButcherCorpseFlesh.label>Làm thịt sinh vật</ButcherCorpseFlesh.label>
+    <ButcherCorpseFlesh.description>Mổ xẻ một sinh vật và ra ra thịt tươi để dùng.</ButcherCorpseFlesh.description>
+    <ButcherCorpseFlesh.jobString>Làm thịt.</ButcherCorpseFlesh.jobString>
+
+    <ButcherCorpseMechanoid.label>Phân tách sinh vật cơ giới</ButcherCorpseMechanoid.label>
+    <ButcherCorpseMechanoid.description>Phân rã sinh vật cơ giới thành những phần kinh kiện.</ButcherCorpseMechanoid.description>
+    <ButcherCorpseMechanoid.jobString>Phân tách.</ButcherCorpseMechanoid.jobString>
+
+</LanguageData>

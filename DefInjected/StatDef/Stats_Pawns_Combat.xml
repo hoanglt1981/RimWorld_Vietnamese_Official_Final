@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MeleeDPS.label>sát thương cận chiến</MeleeDPS.label>
+    <MeleeDPS.description>Trung bình sát thương trong cận chiến.</MeleeDPS.description>
+
+    <ShootingAccuracy.label>độ chính xác đi bắn</ShootingAccuracy.label>
+    <ShootingAccuracy.description>Tỷ lệ bắn trúng cơ bản trong mỗi khoảng bắn.</ShootingAccuracy.description>
+
+    <AimingDelayFactor.label>thời gian ngắm</AimingDelayFactor.label>
+    <AimingDelayFactor.description>Bao lao thì bắn được sau khi ngắm.</AimingDelayFactor.description>
+
+    <MeleeHitChance.label>cơ hội cận chiến trúng</MeleeHitChance.label>
+    <MeleeHitChance.description>Tỷ lệ cơ bản để đánh trúng đối phương trong cận chiến.</MeleeHitChance.description>
+
+</LanguageData>

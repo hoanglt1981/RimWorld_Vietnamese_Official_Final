@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <CookMealSimple.label>Nấu món ăn đơn giản</CookMealSimple.label>
+    <CookMealSimple.description>Nấu một loại đồ ăn đơn giản từ một loại nguyên liệu.</CookMealSimple.description>
+    <CookMealSimple.jobString>Nấu món ăn đơn giản.</CookMealSimple.jobString>
+	<CookMealSimpleCampfire.label>món ăn đơn giản</CookMealSimpleCampfire.label>
+	<CookMealSimpleCampfire.description>Nấu một loại đồ ăn đơn giản từ một loại nguyên liệu.</CookMealSimpleCampfire.description>
+	<CookMealSimpleCampfire.jobString>Nấu món ăn đơn giản.</CookMealSimpleCampfire.jobString>
+
+
+    <CookMealFine.label>Nấu món ăn cao cấp</CookMealFine.label>
+    <CookMealFine.description>Nấu một loại đồ ăn hấp dẫn kết hợp giữa rau và thịt tươi.</CookMealFine.description>
+    <CookMealFine.jobString>Nấu món ăn cao cấp.</CookMealFine.jobString>
+
+    <CookMealLavish.label>Nấu món ăn quí tộc</CookMealLavish.label>
+    <CookMealLavish.description>Nấu một loại đồ ăn cực kỳ hấp dẫn được kết hợp giữa rau và thịt tươi. Rất nhiều nguyên liệu bị lãng phí khi nấu đồ ăn này.</CookMealLavish.description>
+    <CookMealLavish.jobString>Nấu món ăn quí tộc.</CookMealLavish.jobString>
+
+</LanguageData>

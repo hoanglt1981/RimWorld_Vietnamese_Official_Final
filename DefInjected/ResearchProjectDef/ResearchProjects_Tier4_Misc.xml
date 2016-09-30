@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--========================= Tier 4: Hit-tech research bench with multi-analyzer ===================================-->
+
+  <GroundPenetratingScanner.label>Máy thăm dò địa chất</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.description>Cho phép xây dựng máy thăm dò địa chất để tìm kiếm các loại tài nguyên dưới lòng đất có thể hút.</GroundPenetratingScanner.description>
+
+  <DeepDrilling.label>Máy khoan hút</DeepDrilling.label>
+  <DeepDrilling.description>Cho phép xây dựng máy khoang hút để lấy ra các tài nguyên dưới lòng đất. Cần có máy thăm dò địa chất để tìm kiếm trước.</DeepDrilling.description>
+
+  <VitalsMonitor.label>Máy theo dõi bệnh</VitalsMonitor.label>
+  <VitalsMonitor.description>Cho phép xây dựng máy theo dõi bệnh giúp tăng cường chất lượng điều trị y tế khi đặt cạnh giường bệnh.</VitalsMonitor.description>
+
+  <ComponentAssembly.label>Chế tạo linh kiện</ComponentAssembly.label>
+  <ComponentAssembly.description>Cho phép xây dựng bàn chế tạo linh kiện, nơi các cư dân chế tạo linh kiện từ những vật chất đơn giản.</ComponentAssembly.description>
+
+  <MultibarrelWeapons.label>Vũ khí nhiều nòng</MultibarrelWeapons.label>
+  <MultibarrelWeapons.description>Cho phép chế tạo vũ khí 6 nòng.</MultibarrelWeapons.description>
+  
+  <Cryptosleep.label>Buồng ngủ đông</Cryptosleep.label>
+  <Cryptosleep.description>Cho phép xây dựng buồng ngủ đông để có thể đặt sự sống vào trạng thái bất động.</Cryptosleep.description>
+
+  <PoweredArmor.label>Giáp điện năng</PoweredArmor.label>
+  <PoweredArmor.description>Các robot thông minh và công nghệ xử lý titanium cao cấp cho phép chế tạo ra áo giáp điện năng và mũ giáp điện năng.</PoweredArmor.description>
+
+  <ChargedShot.label>Vũ khí điện từ</ChargedShot.label>
+  <ChargedShot.description>Hiểu về bí mật của công nghệ đạn và tia điện từ. Cho phép chế tạo ra súng điện từ.</ChargedShot.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <InstallJoywire.label>Ghép joywire</InstallJoywire.label>
+    <InstallJoywire.description>Ghép joywire.</InstallJoywire.description>
+    <InstallJoywire.jobString>Ghép joywire.</InstallJoywire.jobString>
+
+    <InstallPainstopper.label>Ghép painstopper</InstallPainstopper.label>
+    <InstallPainstopper.description>Ghép painstopper.</InstallPainstopper.description>
+    <InstallPainstopper.jobString>Ghép painstopper.</InstallPainstopper.jobString>
+
+</LanguageData>

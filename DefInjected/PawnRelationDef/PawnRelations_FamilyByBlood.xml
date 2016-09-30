@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Parent.label>Bố</Parent.label>
+  <Parent.labelFemale>Mẹ</Parent.labelFemale>
+
+  <Child.label>Con trai</Child.label>
+  <Child.labelFemale>Con gái</Child.labelFemale>
+
+  <Sibling.label>Anh trai</Sibling.label>
+  <Sibling.labelFemale>Chị gái</Sibling.labelFemale>
+
+  <HalfSibling.label>Em trai</HalfSibling.label>
+  <HalfSibling.labelFemale>Em gái</HalfSibling.labelFemale>
+
+  <Grandparent.label>Ông</Grandparent.label>
+  <Grandparent.labelFemale>Bà</Grandparent.labelFemale>
+
+  <Grandchild.label>Cháu trai</Grandchild.label>
+  <Grandchild.labelFemale>Cháu gái</Grandchild.labelFemale>
+
+  <NephewOrNiece.label>Cháu trai(họ)</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>Cháu gái(họ)</NephewOrNiece.labelFemale>
+
+  <UncleOrAunt.label>Chú</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>Cô</UncleOrAunt.labelFemale>
+
+  <Cousin.label>Chú(họ)</Cousin.label>
+  <Cousin.labelFemale>Cô(họ)</Cousin.labelFemale>
+
+  <!-- distant family -->
+
+  <GreatGrandparent.label>Cụ ông</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>Cụ bà</GreatGrandparent.labelFemale>
+
+  <GreatGrandchild.label>Chắt trai</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>Chắt gái</GreatGrandchild.labelFemale>
+
+  <GranduncleOrGrandaunt.label>Ông</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>Bà</GranduncleOrGrandaunt.labelFemale>
+
+  <GrandnephewOrGrandniece.label>Ông(họ)</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>Bà(họ)</GrandnephewOrGrandniece.labelFemale>
+
+  <CousinOnceRemoved.label>Cháu trai(họ đời 2)</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>Cháu gái(họ đời 2)</CousinOnceRemoved.labelFemale>
+
+  <SecondCousin.label>Chú(họ đời 2)</SecondCousin.label>
+  <SecondCousin.labelFemale>Cô(họ đời 2)</SecondCousin.labelFemale>
+
+  <!-- kin -->
+
+  <Kin.label>họ hàng</Kin.label>
+
+</LanguageData>

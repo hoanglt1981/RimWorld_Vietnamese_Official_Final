@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <AccuracyTouch.label>Chính xác (ngay sát)</AccuracyTouch.label>
+    <AccuracyTouch.description>Độ chính xác ở ngay sát.</AccuracyTouch.description>
+
+    <AccuracyShort.label>Chính xác (tầm gần)</AccuracyShort.label>
+    <AccuracyShort.description>Độ chính xác ở tầm gần.</AccuracyShort.description>
+
+    <AccuracyMedium.label>Chính xác (tầm trung)</AccuracyMedium.label>
+    <AccuracyMedium.description>Độ chính xác ở tầm trung.</AccuracyMedium.description>
+
+    <AccuracyLong.label>Chính xác (tầm xa)</AccuracyLong.label>
+    <AccuracyLong.description>Độ chính xác ở tầm xa.</AccuracyLong.description>
+
+    <RangedWeapon_Cooldown.label>Thời gian nạp đạn</RangedWeapon_Cooldown.label>
+    <RangedWeapon_Cooldown.description>Thời gian chờ đợi giữa các loạt bắn.</RangedWeapon_Cooldown.description>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowCorpsesColonist.label>Xác cư dân</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.description>Chấp nhận xác cư dân.</AllowCorpsesColonist.description>
+  <AllowCorpsesStranger.label>Xác người lạ</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.description>Chấp nhận xác người lạ cũng như kẻ thù.</AllowCorpsesStranger.description>
+  <AllowRotten.label>Hư thối</AllowRotten.label>
+  <AllowRotten.description>Chấp nhận trang phục, vật phẩm hỏng hóc và xác sinh vật hư thối.</AllowRotten.description>
+  <AllowNonSmeltableWeapons.label>Vũ khi phi kim</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.description>Chấp nhận các loại vũ khí không làm từ kim loại.</AllowNonSmeltableWeapons.description>
+  <AllowPlantFood.label>Nguyên liệu nấu ăn</AllowPlantFood.label>
+  <AllowPlantFood.description>Chấp nhận các loại nguyên liệu nấu nướng, và các chất kích thích khác.</AllowPlantFood.description>
+
+</LanguageData>

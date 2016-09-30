@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Sentence_SocialFightStarted.rulePack.rulesStrings.0>sent->Đàn súc vật [recipient_nameShortDef] trở nên điên cuồng và [recipient_pronoun] bắt đầu gây chiến!</Sentence_SocialFightStarted.rulePack.rulesStrings.0>
+
+  <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] đông ý và bay giờ trở thành người yêu của [initiator_nameShortDef].</Sentence_RomanceAttemptAccepted.rulePack.rulesStrings.0>
+
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] từ chối tiến thêm</Sentence_RomanceAttemptRejected.rulePack.rulesStrings.0>
+
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] đồng ý và cả hai đã đính hôn với nhau.</Sentence_MarriageProposalAccepted.rulePack.rulesStrings.0>
+
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] từ chối lời câu hơn.</Sentence_MarriageProposalRejected.rulePack.rulesStrings.0>
+
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>sent->Đã là quá nhiều để tiếp tục mối quan hệ, cả 2 đã chia tay nhau.</Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings.0>
+
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] đã đông ý và hẹn hò với [initiator_nameShortDef].</Sentence_RecruitAttemptAccepted.rulePack.rulesStrings.0>
+
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>sent->[recipient_nameShortDef] từ chối đề nghị.</Sentence_RecruitAttemptRejected.rulePack.rulesStrings.0>
+
+</LanguageData>

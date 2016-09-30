@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Squirrel.label>Sóc</Squirrel.label>
+  <Squirrel.lifeStages.0.label>Sóc non</Squirrel.lifeStages.0.label>
+  <Squirrel.lifeStages.1.label>Sóc con</Squirrel.lifeStages.1.label>
+  <Squirrel.lifeStages.2.label>Sóc</Squirrel.lifeStages.2.label>
+
+  <Alphabeaver.label>Hải ly</Alphabeaver.label>
+  <Alphabeaver.lifeStages.0.label>Hải ly non</Alphabeaver.lifeStages.0.label>
+  <Alphabeaver.lifeStages.1.label>Hải ly con</Alphabeaver.lifeStages.1.label>
+  <Alphabeaver.lifeStages.2.label>Hải ly</Alphabeaver.lifeStages.2.label>
+
+  <Capybara.label>Chuột lang</Capybara.label>
+  <Capybara.lifeStages.0.label>Chuột lang non</Capybara.lifeStages.0.label>
+  <Capybara.lifeStages.1.label>Chuột lang con</Capybara.lifeStages.1.label>
+  <Capybara.lifeStages.2.label>Chuột lang</Capybara.lifeStages.2.label>
+
+  <Chinchilla.label>Sóc sinsin</Chinchilla.label>
+  <Chinchilla.lifeStages.0.label>Sóc sinsin non</Chinchilla.lifeStages.0.label>
+  <Chinchilla.lifeStages.1.label>Sóc sinsin con</Chinchilla.lifeStages.1.label>
+  <Chinchilla.lifeStages.2.label>Sóc sinsin</Chinchilla.lifeStages.2.label>
+
+  <Boomrat.label>Chuột nổ</Boomrat.label>
+  <Boomrat.lifeStages.0.label>Chuột nổn non</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.1.label>Chuột nổ con</Boomrat.lifeStages.1.label>
+  <Boomrat.lifeStages.2.label>Chuột nổ</Boomrat.lifeStages.2.label>
+
+  <Raccoon.label>Gấu mèo</Raccoon.label>
+  <Raccoon.lifeStages.0.label>Gấu mèo non</Raccoon.lifeStages.0.label>
+  <Raccoon.lifeStages.1.label>Gấu mèo con</Raccoon.lifeStages.1.label>
+  <Raccoon.lifeStages.2.label>Gấu mèo</Raccoon.lifeStages.2.label>
+
+  <Rat.label>Chuột</Rat.label>
+  <Rat.lifeStages.0.label>Chuột non</Rat.lifeStages.0.label>
+  <Rat.lifeStages.1.label>Chuột con</Rat.lifeStages.1.label>
+  <Rat.lifeStages.2.label>Chuột</Rat.lifeStages.2.label>
+
+</LanguageData>

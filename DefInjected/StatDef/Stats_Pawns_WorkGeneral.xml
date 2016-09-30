@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <WorkSpeedGlobal.label>tốc độ làm việc</WorkSpeedGlobal.label>
+    <WorkSpeedGlobal.description>Tăng tốc độ làm công việc bất kỳ.</WorkSpeedGlobal.description>
+
+    <MiningSpeed.label>tốc độ khai khoáng</MiningSpeed.label>
+    <MiningSpeed.description>Tăng tốc độ khai khoáng.</MiningSpeed.description>
+
+    <SmoothingSpeed.label>tốc độ làm nhẵn bề mặt sàn nhà</SmoothingSpeed.label>
+    <SmoothingSpeed.description>Tăng tốc độ làm nhẵn sàn nhà.</SmoothingSpeed.description>
+
+    <ResearchSpeed.label>tốc độ nghiên cứu</ResearchSpeed.label>
+    <ResearchSpeed.description>Tốc độ nghiên cứu.</ResearchSpeed.description>
+
+    <ConstructionSpeed.label>tốc độ xây dựng</ConstructionSpeed.label>
+    <ConstructionSpeed.description>Tốc độ xây dựng và sửa chữa kiến trúc.</ConstructionSpeed.description>
+
+    <PlantWorkSpeed.label>tốc độ trồng trọt</PlantWorkSpeed.label>
+    <PlantWorkSpeed.description>Tốc độ gieo trồng và thu hoạch thực vật.</PlantWorkSpeed.description>
+
+    <HarvestFailChance.label>khả năng thu hoạch thất bại</HarvestFailChance.label>
+    <HarvestFailChance.description>Tỷ lệ không may gặp thất bại trong khi thua hoạch thực phẩm.</HarvestFailChance.description>
+
+    <ConstructFailChance.label>khả năng xây dựng thất bại</ConstructFailChance.label>
+    <ConstructFailChance.description>Tỷ lệ thất bại trong xây dựng, gây ra lãng phí thời gian và tài nguyên.</ConstructFailChance.description>
+
+    <FixBrokenDownBuildingFailChance.label>khả năng sửa chữa thất bại</FixBrokenDownBuildingFailChance.label>
+    <FixBrokenDownBuildingFailChance.description>Tỷ lệ thất bại khi sửa chữa một kiến trúc bị hỏng.</FixBrokenDownBuildingFailChance.description>
+
+</LanguageData>

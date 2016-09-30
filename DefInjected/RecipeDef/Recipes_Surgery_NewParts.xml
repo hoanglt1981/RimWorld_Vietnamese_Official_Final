@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <InstallNaturalHeart.label>Ghép tim</InstallNaturalHeart.label>
+    <InstallNaturalHeart.description>Ghép tim.</InstallNaturalHeart.description>
+    <InstallNaturalHeart.jobString>Ghép tim.</InstallNaturalHeart.jobString>
+
+    <InstallNaturalLiver.label>Ghép gan</InstallNaturalLiver.label>
+    <InstallNaturalLiver.description>Ghép gan.</InstallNaturalLiver.description>
+    <InstallNaturalLiver.jobString>Ghép gan.</InstallNaturalLiver.jobString>
+
+    <InstallNaturalKidney.label>Ghép thận</InstallNaturalKidney.label>
+    <InstallNaturalKidney.description>Ghép thận.</InstallNaturalKidney.description>
+    <InstallNaturalKidney.jobString>Ghép thận.</InstallNaturalKidney.jobString>
+
+    <InstallNaturalLung.label>Ghép phổi</InstallNaturalLung.label>
+    <InstallNaturalLung.description>Ghép phổi.</InstallNaturalLung.description>
+    <InstallNaturalLung.jobString>Ghép phổi.</InstallNaturalLung.jobString>
+
+    <InstallPegLeg.label>Ghép chân gỗ</InstallPegLeg.label>
+    <InstallPegLeg.description>Ghép chân gỗ.</InstallPegLeg.description>
+    <InstallPegLeg.jobString>Ghép chân gỗ.</InstallPegLeg.jobString>
+
+    <InstallBionicEye.label>Ghép mắt sinh hóa</InstallBionicEye.label>
+    <InstallBionicEye.description>Ghép mắt sinh hóa.</InstallBionicEye.description>
+    <InstallBionicEye.jobString>Ghép mắt sinh hóa.</InstallBionicEye.jobString>
+
+    <InstallBionicArm.label>Ghép tay sinh hóa</InstallBionicArm.label>
+    <InstallBionicArm.description>Ghép tay sinh hóa.</InstallBionicArm.description>
+    <InstallBionicArm.jobString>Ghép tay sinh hóa.</InstallBionicArm.jobString>
+
+    <InstallBionicLeg.label>Ghép chân sinh hóa</InstallBionicLeg.label>
+    <InstallBionicLeg.description>Ghép chân sinh hóa.</InstallBionicLeg.description>
+    <InstallBionicLeg.jobString>Ghép chân sinh hóa.</InstallBionicLeg.jobString>
+
+    <InstallSimpleProstheticLeg.label>Ghép chân giả đơn giản</InstallSimpleProstheticLeg.label>
+    <InstallSimpleProstheticLeg.description>Ghép chân giả đơn giản.</InstallSimpleProstheticLeg.description>
+    <InstallSimpleProstheticLeg.jobString>Ghép chân giả đơn giản.</InstallSimpleProstheticLeg.jobString>
+
+    <InstallSimpleProstheticArm.label>Ghép tay giả đơn giản</InstallSimpleProstheticArm.label>
+    <InstallSimpleProstheticArm.description>Ghép tay giả đơn giản.</InstallSimpleProstheticArm.description>
+    <InstallSimpleProstheticArm.jobString>Ghép tay giả đơn giản.</InstallSimpleProstheticArm.jobString>
+
+    <InstallDenture.label>Ghép hàm giả</InstallDenture.label>
+    <InstallDenture.description>Ghép hàm giả.</InstallDenture.description>
+    <InstallDenture.jobString>Ghép hàm giả.</InstallDenture.jobString>
+
+    <InstallPowerClaw.label>Ghép vuốt sức mạnh</InstallPowerClaw.label>
+    <InstallPowerClaw.description>Ghép vuốt sức mạnh.</InstallPowerClaw.description>
+    <InstallPowerClaw.jobString>Ghép vuốt sức mạnh.</InstallPowerClaw.jobString>
+
+    <InstallScytherBlade.label>Ghép dao bọ ngựa</InstallScytherBlade.label>
+    <InstallScytherBlade.description>Ghép dao bọ ngựa.</InstallScytherBlade.description>
+    <InstallScytherBlade.jobString>Ghép dao bọ ngựa.</InstallScytherBlade.jobString>
+
+</LanguageData>

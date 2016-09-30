@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MakeKibble.label>Làm thức ăn gia súc</MakeKibble.label>
+    <MakeKibble.description>Làm thức ăn gia súc lẫn giữa cỏ và thịt cho vật nuôi.</MakeKibble.description>
+    <MakeKibble.jobString>Làm thức ăn gia súc.</MakeKibble.jobString>
+
+    <MakePemmican.label>Làm lương khô</MakePemmican.label>
+    <MakePemmican.description>Một loại thức ăn kết hợp giữa thịt và đồ ăn thực vật. Nó không quá hấp dẫn nhưng để được rất lâu.</MakePemmican.description>
+    <MakePemmican.jobString>Làm lương khô.</MakePemmican.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Different physical description roots for different kinds of artworks.
+    Added to artworks with tales and taleless art. -->
+
+  <ArtDescription_Sculpture.rulePack.rulesStrings.0>physical_description_root->[sculpture] này [depicts] [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.0>
+  <ArtDescription_Sculpture.rulePack.rulesStrings.1>physical_description_root->[sculpture] này mang một [depiction] của [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.1>
+  <ArtDescription_Sculpture.rulePack.rulesStrings.2>physical_description_root->Trên [sculpture] này là một [depiction] của [image]. [desc_sentence_group]</ArtDescription_Sculpture.rulePack.rulesStrings.2>
+  <ArtDescription_Sculpture.rulePack.rulesStrings.3>sculpture->Tượng</ArtDescription_Sculpture.rulePack.rulesStrings.3>
+  <ArtDescription_Sculpture.rulePack.rulesStrings.4>sculpture->công việc</ArtDescription_Sculpture.rulePack.rulesStrings.4>
+  <ArtDescription_Sculpture.rulePack.rulesStrings.5>sculpture->Phần</ArtDescription_Sculpture.rulePack.rulesStrings.5>
+  <ArtDescription_Sculpture.rulePack.rulesStrings.6>sculpture->Chạm khắc</ArtDescription_Sculpture.rulePack.rulesStrings.6>
+
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings.0>physical_description_root->Vũ khí này được khắc với một [depiction] của [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.0>
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings.1>physical_description_root->Vũ khí này mang một [depicts] của [image]. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.1>
+  <ArtDescription_WeaponMelee.rulePack.rulesStrings.2>physical_description_root->Một [depiction] của [image] được chạm khắc trên vũ khí này. [desc_sentence_group]</ArtDescription_WeaponMelee.rulePack.rulesStrings.2>
+
+  <ArtDescription_WeaponGun.rulePack.rulesStrings.0>physical_description_root->Vũ khí này được khắc với một [depiction] của [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.0>
+  <ArtDescription_WeaponGun.rulePack.rulesStrings.1>physical_description_root->Vũ khí này mang một [depicts] của [image]. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.1>
+  <ArtDescription_WeaponGun.rulePack.rulesStrings.2>physical_description_root->Một [depiction] của [image] được chạm khắc trên vũ khí này. [desc_sentence_group]</ArtDescription_WeaponGun.rulePack.rulesStrings.2>
+
+  <ArtDescription_Furniture.rulePack.rulesStrings.0>physical_description_root->Đồ đạc này được chạm khắc với một [depiction] của [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.0>
+  <ArtDescription_Furniture.rulePack.rulesStrings.1>physical_description_root->Đồ đạc này mang một [depicts] của [image]. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.1>
+  <ArtDescription_Furniture.rulePack.rulesStrings.2>physical_description_root->Một [depiction] của [image] được chạm khác trên đồ đạc này. [desc_sentence_group]</ArtDescription_Furniture.rulePack.rulesStrings.2>
+
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>physical_description_root->Chiếc quan tài này được chạm khắc với một [depicts] của [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.0>
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>physical_description_root->Chiếc quan tài này mang một [depiction] của [image]. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.1>
+  <ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>physical_description_root->Một [depiction] của [image] được điêu khắc trên quan tài này. [desc_sentence_group]</ArtDescription_SarcophagusPlate.rulePack.rulesStrings.2>
+
+</LanguageData>

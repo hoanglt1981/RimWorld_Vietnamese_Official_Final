@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    
+    <Make_SculptureSmall.label>Tạc tượng nhỏ</Make_SculptureSmall.label>
+    <Make_SculptureSmall.description>Tạc tượng nhỏ.</Make_SculptureSmall.description>
+    <Make_SculptureSmall.jobString>Điêu khắc tượng nhỏ.</Make_SculptureSmall.jobString>
+    
+    <Make_SculptureLarge.label>Tạc tượng lớn</Make_SculptureLarge.label>
+    <Make_SculptureLarge.description>Tạc tượng lớn.</Make_SculptureLarge.description>
+    <Make_SculptureLarge.jobString>Điêu khắc tượng lớn.</Make_SculptureLarge.jobString>
+    
+    <Make_SculptureGrand.label>Tạc tượng siêu lớn</Make_SculptureGrand.label>
+    <Make_SculptureGrand.description>Tạc tượng siêu lớn.</Make_SculptureGrand.description>
+    <Make_SculptureGrand.jobString>Điêu khắc tượng siêu lớn.</Make_SculptureGrand.jobString>
+    
+    <Make_Apparel_CowboyHat.label>Làm một Mũ cao bồi</Make_Apparel_CowboyHat.label>  
+    <Make_Apparel_CowboyHat.description>Làm một Mũ cao bồi.</Make_Apparel_CowboyHat.description>  
+    <Make_Apparel_CowboyHat.jobString>May một Mũ cao bồi.</Make_Apparel_CowboyHat.jobString> 
+    
+    <Make_Apparel_Tuque.label>Làm một Mũ trùm</Make_Apparel_Tuque.label>
+    <Make_Apparel_Tuque.description>Làm một Mũ trùm.</Make_Apparel_Tuque.description>
+    <Make_Apparel_Tuque.jobString>May một Mũ trùm.</Make_Apparel_Tuque.jobString>  
+    
+    <Make_Apparel_Pants.label>Làm một Quần</Make_Apparel_Pants.label>
+    <Make_Apparel_Pants.description>Làm một Quần.</Make_Apparel_Pants.description>
+    <Make_Apparel_Pants.jobString>May một Quần.</Make_Apparel_Pants.jobString>  
+    
+    <Make_Apparel_BasicShirt.label>Làm một Áo phông</Make_Apparel_BasicShirt.label>
+    <Make_Apparel_BasicShirt.description>Làm một Áo phông.</Make_Apparel_BasicShirt.description>
+    <Make_Apparel_BasicShirt.jobString>May một Áo phông.</Make_Apparel_BasicShirt.jobString>  
+    
+    <Make_Apparel_CollarShirt.label>Làm một Áo sơ mi</Make_Apparel_CollarShirt.label>
+    <Make_Apparel_CollarShirt.description>Làm một Áo sơ mi.</Make_Apparel_CollarShirt.description>
+    <Make_Apparel_CollarShirt.jobString>May một Áo sơ mi.</Make_Apparel_CollarShirt.jobString>  
+    
+    <Make_Apparel_Duster.label>Làm một Áo khoác cộc</Make_Apparel_Duster.label>
+    <Make_Apparel_Duster.description>Làm một Áo khoác cộc.</Make_Apparel_Duster.description>
+    <Make_Apparel_Duster.jobString>May một Áo khoác cộc.</Make_Apparel_Duster.jobString>  
+    
+    <Make_Apparel_Jacket.label>Làm một Áo jacket</Make_Apparel_Jacket.label>
+    <Make_Apparel_Jacket.description>Làm một Áo jacket.</Make_Apparel_Jacket.description>
+    <Make_Apparel_Jacket.jobString>May một Áo jacket.</Make_Apparel_Jacket.jobString>  
+    
+    <Make_Apparel_Parka.label>Làm một Áo khoác dày</Make_Apparel_Parka.label>
+    <Make_Apparel_Parka.description>Làm một Áo khoác dày.</Make_Apparel_Parka.description>
+    <Make_Apparel_Parka.jobString>May một Áo khoác dày.</Make_Apparel_Parka.jobString>  
+    
+    <Make_Apparel_TribalA.label>Làm Trang phục bộ lạc</Make_Apparel_TribalA.label>
+    <Make_Apparel_TribalA.description>Làm Trang phục bộ lạc.</Make_Apparel_TribalA.description>
+    <Make_Apparel_TribalA.jobString>May Trang phục bộ lạc.</Make_Apparel_TribalA.jobString>  
+    
+    <Make_MeleeWeapon_Gladius.label>Rèn Kiếm ngắn</Make_MeleeWeapon_Gladius.label>
+    <Make_MeleeWeapon_Gladius.description>Rèn một Kiếm ngắn.</Make_MeleeWeapon_Gladius.description>
+    <Make_MeleeWeapon_Gladius.jobString>Rèn một Kiếm ngắn.</Make_MeleeWeapon_Gladius.jobString>  
+    
+    <Make_MeleeWeapon_LongSword.label>Rèn Kiếm dài</Make_MeleeWeapon_LongSword.label>
+    <Make_MeleeWeapon_LongSword.description>Rèn Kiếm dài.</Make_MeleeWeapon_LongSword.description>
+    <Make_MeleeWeapon_LongSword.jobString>Rèn Kiếm dài.</Make_MeleeWeapon_LongSword.jobString>  
+    
+    <Make_MeleeWeapon_Mace.label>Rèn Chùy</Make_MeleeWeapon_Mace.label>
+    <Make_MeleeWeapon_Mace.description>Rèn một Chùy.</Make_MeleeWeapon_Mace.description>
+    <Make_MeleeWeapon_Mace.jobString>Rèn một Chùy.</Make_MeleeWeapon_Mace.jobString>  
+    
+    <Make_MeleeWeapon_Knife.label>Rèn Dao</Make_MeleeWeapon_Knife.label>
+    <Make_MeleeWeapon_Knife.description>Rèn Dao.</Make_MeleeWeapon_Knife.description>
+    <Make_MeleeWeapon_Knife.jobString>Rèn Dao.</Make_MeleeWeapon_Knife.jobString>  
+    
+    <Make_MeleeWeapon_Shiv.label>Rèn Dao găm</Make_MeleeWeapon_Shiv.label>
+    <Make_MeleeWeapon_Shiv.description>Rèn Dao găm.</Make_MeleeWeapon_Shiv.description>
+    <Make_MeleeWeapon_Shiv.jobString>Rèn Dao găm.</Make_MeleeWeapon_Shiv.jobString>  
+    
+    <Make_MeleeWeapon_Spear.label>Rèn Giáo</Make_MeleeWeapon_Spear.label>
+    <Make_MeleeWeapon_Spear.description>Rèn Giáo.</Make_MeleeWeapon_Spear.description>
+    <Make_MeleeWeapon_Spear.jobString>Rèn Giáo.</Make_MeleeWeapon_Spear.jobString>  
+    
+    <Make_MeleeWeapon_Club.label>Rèn Gậy</Make_MeleeWeapon_Club.label>
+    <Make_MeleeWeapon_Club.description>Rèn Gậy.</Make_MeleeWeapon_Club.description>
+    <Make_MeleeWeapon_Club.jobString>Rèn Gậy.</Make_MeleeWeapon_Club.jobString>  
+    
+    <Make_Bow_Short.label>Tạo Cung ngắn</Make_Bow_Short.label>
+    <Make_Bow_Short.description>Tạo Cung ngắn.</Make_Bow_Short.description>
+    <Make_Bow_Short.jobString>Tạo Cung ngắn.</Make_Bow_Short.jobString>  
+    
+    <Make_Pila.label>Tạo Lao</Make_Pila.label>
+    <Make_Pila.description>Tạo Lao.</Make_Pila.description>
+    <Make_Pila.jobString>Tạo Lao.</Make_Pila.jobString>  
+    
+    <Make_Bow_Great.label>Tạo Cung dài</Make_Bow_Great.label>
+    <Make_Bow_Great.description>Tạo Cung dài.</Make_Bow_Great.description>
+    <Make_Bow_Great.jobString>Tạo Cung dài.</Make_Bow_Great.jobString>  
+    
+</LanguageData>

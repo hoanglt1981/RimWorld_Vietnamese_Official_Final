@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TheRichExplorer.label>Nhà thám hiểm giàu có</TheRichExplorer.label>
+  <TheRichExplorer.description>Mọi người gọi bạn điên vì đã rời bỏ thế giới văn minh cao cấp, nhưng bạn luôn khao khát được khám phá các ngôi sao - ngoài hệ thống mô phỏng. Bây giờ bạn đang ở cuối cuộc hành trình dài trong giấc ngủ đông, hạ cánh trên vùng đất rimworld chưa xác định để xem nó như thế nào.</TheRichExplorer.description>
+  
+  <TheRichExplorer.scenario.name>Một nhà thám hiểm giàu có</TheRichExplorer.scenario.name>
+  <TheRichExplorer.scenario.description>Mọi người gọi bạn điên vì đã rời bỏ thế giới văn minh cao cấp, nhưng bạn luôn khao khát được khám phá các ngôi sao - ngoài hệ thống mô phỏng. Bây giờ bạn đang ở cuối cuộc hành trình dài trong giấc ngủ đông, hạ cánh trên vùng đất rimworld chưa xác định để xem nó như thế nào.</TheRichExplorer.scenario.description>
+  <TheRichExplorer.scenario.summary>Một nhà thám hiểm giàu có trải nghiệm vũ trụ.</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.parts.12.text>Các hệ thống mô phỏng, trò chơi thực tế ảo, và tự do trác táng không bao giờ đủ cho bạn. Bạn muốn nhiều hơn - sự mài giũa và hệ quả của cuộc sống thực, như họ nói về trong những cuốn sách lịch sử. Bạn muốn biết về thách thức thực sự và kết quả như thế nào.\n\nBây giờ, sau một cuộc hành trình cả thập kỷ trong giấc ngủ đông, bạn đang hạ cánh trên rimworld huyền bí. Hệ quả thực đang chờ đón bạn.</TheRichExplorer.scenario.parts.12.text>
+
+  <LostTribe.label>Thổ dân thất lạc</LostTribe.label>
+  <LostTribe.description>Bộ lạc của bạn bị hủy diệt bởi những máy móc khát máu do các vị thần gửi tới. Năm người của bạn đã trốn thoát. Giờ là lúc tạo nên ngôi nhà mới.</LostTribe.description>
+  <LostTribe.scenario.name>Thổ dân thất lạc</LostTribe.scenario.name>
+  <LostTribe.scenario.description>Bộ lạc của bạn bị hủy diệt bởi những máy móc khát máu do các vị thần gửi tới. Năm người của bạn đã trốn thoát. Giờ là lúc tạo nên ngôi nhà mới.</LostTribe.scenario.description>
+  <LostTribe.scenario.summary>Năm thổ dân thất lạc tập trung xây dựng lại.</LostTribe.scenario.summary>
+  <LostTribe.scenario.parts.14.text>Các vị thần đã rất tức giận. Các cỗ máy khát máu đã đến trong đêm. Chúng quét qua ngôi làng, cắt và thiêu đốt mọi người bằng lưỡi đao và ngọn lửa ma quỷ.\n\nChỉ các bạn trốn thoát. Bây giờ, sau một hành trình gian khổ, không có bạn thân để tới, bạn phải xây dựng ngôi nhà mới ở nơi hoang dã, giống như tổ tiên của mình đã làm.</LostTribe.scenario.parts.14.text>
+
+  
+</LanguageData>

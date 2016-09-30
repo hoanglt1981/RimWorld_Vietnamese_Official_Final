@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!--=============================== Tier 3: Hi-tech research bench ===================================-->
+
+  <Firefoam.label>Bình cứu hỏa</Firefoam.label>
+  <Firefoam.description>Cho phép chế tạo bình cứu hỏa. Đây là một dụng cụ chống cháy bằng cách phun ra các bọt chống cháy lập tức về phía ngọn lửa.</Firefoam.description>
+
+  <MoisturePump.label>Máy bơm nước</MoisturePump.label>
+  <MoisturePump.description>Cho phép xây dựng máy bơm nước - một thiết bị giúp làm không những khu vực ấm ướt.</MoisturePump.description>
+
+  <GeothermalPower.label>Địa nhiệt điện</GeothermalPower.label>
+  <GeothermalPower.description>Cho phép xây dựng máy địa nhiệt điện trên các mỏ khí, cho nguồn điện năng liên tục.</GeothermalPower.description>
+
+  <HospitalBed.label>Giường bệnh</HospitalBed.label>
+  <HospitalBed.description>Cho phép xây dựng giường bệnh giúp tăng cường khả năng thành công của điều trị y tế.</HospitalBed.description>
+  
+  <MedicineProduction.label>Điều chế thuốc</MedicineProduction.label>
+  <MedicineProduction.description>Cho phép điều chế thuốc từ thảo dược, dung dịch và vải.</MedicineProduction.description>
+
+  <MultiAnalyzer.label>Máy đa phân tích</MultiAnalyzer.label>
+  <MultiAnalyzer.description>Cho phép xây dựng máy đa phân tích giúp tăng tốc độ nghiên cứu, đồng thời mở ra các hạng mục nghiên cứu cao cấp hơn. Nó cần đặt bên cạnh bàn nghiên cứu.</MultiAnalyzer.description>
+  
+</LanguageData>

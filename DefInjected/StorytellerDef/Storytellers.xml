@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Cassandra.label>Cassandra cổ điển</Cassandra.label>
+  <Cassandra.description>Cassandra tạo các sự kiện câu chuyện với việc đều đặn tăng các thách thức và căng thẳng.</Cassandra.description>
+
+  <Phoebe.label>Phoebe lạnh lùng</Phoebe.label>
+  <Phoebe.description>Phoebe cho rất nhiều thời gian giữa các vụ thiên tai để bạn thư giãn và xây dựng thuộc địa. Nhưng hãy cẩn thận - ở độ khó cao nhất, cô ấy sẽ ra tay nặng như bất cứ ai.</Phoebe.description>
+
+  <Randy.label>Randy ngẫu nhiên</Randy.label>
+  <Randy.description>Randy không theo quy tắc. Anh ta sẽ tạo ra các sự kiện ngẫu nhiên, và không quan tâm nếu nó tạo nên câu chuyện về chiến thắng hoặc thất vọng hoàn toàn. Tất cả chỉ là vở kịch với anh ta.</Randy.description>
+
+  <Tutor.label>Hướng dẫn ẩn</Tutor.label>
+ 
+ </LanguageData>

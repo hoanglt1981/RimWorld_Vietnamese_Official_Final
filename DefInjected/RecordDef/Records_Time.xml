@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <TimeAsColonist.label>thời gian làm cư dân</TimeAsColonist.label>
+    <TimeAsColonist.description>Tổng thời gian trở thành cư dân.</TimeAsColonist.description>
+
+    <TimeAsPrisoner.label>thời gian tù tội</TimeAsPrisoner.label>
+    <TimeAsPrisoner.description>Tổng thời gian trở thành tù nhân.</TimeAsPrisoner.description>
+
+    <TimeInBed.label>thời gian ngủ</TimeInBed.label>
+    <TimeInBed.description>Tổng thời gian ngủ.</TimeInBed.description>
+
+    <TimeInBedForMedicalReasons.label>thời gian trên giường bệnh</TimeInBedForMedicalReasons.label>
+    <TimeInBedForMedicalReasons.description>Tổng thời gian trở thành trên giường bệnh vì những lý do: chờ xử lý vết thương, phục hồi sức khỏe hay chờ đợi ca phẫu thuật.</TimeInBedForMedicalReasons.description>
+
+    <TimeDowned.label>thời gian gục ngã</TimeDowned.label>
+    <TimeDowned.description>Tổng thời gian gục ngã.</TimeDowned.description>
+
+    <TimeGettingFood.label>thời gian tìm và ăn</TimeGettingFood.label>
+    <TimeGettingFood.description>Tổng thời gian tìm kiếm và tiêu thụ thức ăn.</TimeGettingFood.description>
+
+    <TimeGettingJoy.label>thời gian dành cho giải trí</TimeGettingJoy.label>
+    <TimeGettingJoy.description>Tổng thời gian dành cho giải trí.</TimeGettingJoy.description>
+
+    <TimeUnderRoof.label>thời gian dưới mái nhà</TimeUnderRoof.label>
+    <TimeUnderRoof.description>Tổng thời gian ở dưới mái nhà.</TimeUnderRoof.description>
+
+    <TimeDrafted.label>thời gian chiến đấu</TimeDrafted.label>
+    <TimeDrafted.description>Tổng thời gian chiến đấu.</TimeDrafted.description>
+
+    <TimeOnFire.label>thời gian bị lửa cháy</TimeOnFire.label>
+    <TimeOnFire.description>Tổng thời gian bị lửa cháy.</TimeOnFire.description>
+
+    <TimeInMentalState.label>thời gian mất kiểm soát</TimeInMentalState.label>
+    <TimeInMentalState.description>Tổng thời gian mất kiểm soát.</TimeInMentalState.description>
+
+    <TimeHauling.label>thời gian vận chuyển</TimeHauling.label>
+    <TimeHauling.description>Tổng thời gian vận chuyển đồ.</TimeHauling.description>
+
+    <TimeHandlingAnimals.label>thời gian xử lý vật nuôi</TimeHandlingAnimals.label>
+    <TimeHandlingAnimals.description>Tổng thời gian xử lý vật nuôi.</TimeHandlingAnimals.description>
+
+    <TimeFirefighting.label>thời gian chữa cháy</TimeFirefighting.label>
+    <TimeFirefighting.description>Tổng thời gian chữa cháy.</TimeFirefighting.description>
+
+    <TimeWardening.label>thời gian lang thang</TimeWardening.label>
+    <TimeWardening.description>Tổng thời gian đi lang thang.</TimeWardening.description>
+
+    <TimeHunting.label>thời gian đi săn</TimeHunting.label>
+    <TimeHunting.description>Tổng thời gian đi săn bắn.</TimeHunting.description>
+
+    <TimeConstructing.label>thời gian xây dựng</TimeConstructing.label>
+    <TimeConstructing.description>Tổng thời gian xây dựng và phá dỡ kiến trúc</TimeConstructing.description>
+
+    <TimeTreatingAndFeeding.label>thời gian chữa và cho người bệnh ăn</TimeTreatingAndFeeding.label>
+    <TimeTreatingAndFeeding.description>Tổng thời gian chữa bệnh và giúp bệnh nhân ăn.</TimeTreatingAndFeeding.description>
+
+    <TimeResearching.label>thời gian nghiên cứu</TimeResearching.label>
+    <TimeResearching.description>Tổng thời gian nghiên cứu.</TimeResearching.description>
+
+    <TimeCleaning.label>thời gian lau dọn</TimeCleaning.label>
+    <TimeCleaning.description>Tổng thời gian lau dọn.</TimeCleaning.description>
+
+    <TimeRepairing.label>thời gian sửa chữa</TimeRepairing.label>
+    <TimeRepairing.description>Tổng thời gian sửa chữa.</TimeRepairing.description>
+
+    <TimeMining.label>thời gian khai khoáng</TimeMining.label>
+    <TimeMining.description>Tổng thời gian khai khoáng.</TimeMining.description>
+
+    <TimeSowingAndHarvesting.label>thời gian gieo hạt và thu hoạch</TimeSowingAndHarvesting.label>
+    <TimeSowingAndHarvesting.description>Tổng thời gian gieo trồng, thu hoạch và chặt đốn.</TimeSowingAndHarvesting.description>
+
+</LanguageData>

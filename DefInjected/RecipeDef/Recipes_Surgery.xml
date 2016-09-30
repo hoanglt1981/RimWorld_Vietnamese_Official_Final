@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <RemoveBodyPart.label>Cắt bỏ bộ phận cơ thể</RemoveBodyPart.label>
+    <RemoveBodyPart.description>Cắt bỏ bộ phận cơ thể.</RemoveBodyPart.description>
+    <RemoveBodyPart.jobString>Cắt bỏ bộ phận cơ thể.</RemoveBodyPart.jobString>
+
+    <RemoveMechanoidBodyPart.label>Loại bỏ bộ phận</RemoveMechanoidBodyPart.label>
+    <RemoveMechanoidBodyPart.description>Cắt bỏ bộ phận cơ thể.</RemoveMechanoidBodyPart.description>
+    <RemoveMechanoidBodyPart.jobString>Loại bỏ bộ phận.</RemoveMechanoidBodyPart.jobString>
+
+    <Euthanize.label>Trợ tử</Euthanize.label>
+    <Euthanize.description>Trợ tử.</Euthanize.description>
+    <Euthanize.jobString>Trợ tử.</Euthanize.jobString>
+
+    <ShutDownMechanoid.label>Ngắt nguồn</ShutDownMechanoid.label>
+    <ShutDownMechanoid.description>Tắt nguồn.</ShutDownMechanoid.description>
+    <ShutDownMechanoid.jobString>Ngắt nguồn.</ShutDownMechanoid.jobString>
+
+    <ExciseCarcinoma.label>Cắt bỏ ung thư da</ExciseCarcinoma.label>
+    <ExciseCarcinoma.description>Cắt bỏ ung thư da.</ExciseCarcinoma.description>
+    <ExciseCarcinoma.jobString>Cắt bỏ ung thư da.</ExciseCarcinoma.jobString>
+    <ExciseCarcinoma.successfullyRemovedHediffMessage>{0} đã thành công cắt bỏ ung thư da của {1}.</ExciseCarcinoma.successfullyRemovedHediffMessage>
+
+</LanguageData>

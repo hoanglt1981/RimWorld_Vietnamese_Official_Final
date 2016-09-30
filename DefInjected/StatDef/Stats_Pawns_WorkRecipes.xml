@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <SculptingSpeed.label>tốc độ điêu khắc</SculptingSpeed.label>
+    <SculptingSpeed.description>Tốc độ điêu khắc tượng.</SculptingSpeed.description>
+
+    <TailoringSpeed.label>tốc độ may mặc</TailoringSpeed.label>
+    <TailoringSpeed.description>Tốc độ may trang phục.</TailoringSpeed.description>
+
+    <SmithingSpeed.label>tốc độ chế tạo đồ</SmithingSpeed.label>
+    <SmithingSpeed.description>Tốc độ chết tạo vũ khí, máy móc, đạn dược cũng như các công cụ khác.</SmithingSpeed.description>
+
+    <DrugProductionSpeed.label>tốc độ sản xuất thuốc </DrugProductionSpeed.label>
+    <DrugProductionSpeed.description>Tốc độ sản xuất thuốc.</DrugProductionSpeed.description>
+
+    <CookSpeed.label>tốc độ nấu ăn</CookSpeed.label>
+    <CookSpeed.description>Tốc độ nấu bữa ăn.</CookSpeed.description>
+
+    <FoodPoisonChance.label>khả năng bị ngộ độc thực phẩm</FoodPoisonChance.label>
+    <FoodPoisonChance.description>Khả năng bị ngộ độc do thức ăn.</FoodPoisonChance.description>
+
+    <BrewingSpeed.label>tốc độ làm bia</BrewingSpeed.label>
+    <BrewingSpeed.description>Tốc độ làm bia.</BrewingSpeed.description>
+
+    <ButcheryFleshSpeed.label>tốc độ mổ xẻ thịt</ButcheryFleshSpeed.label>
+    <ButcheryFleshSpeed.description>Tốc độ làm thịt sinh vật.</ButcheryFleshSpeed.description>
+
+    <ButcheryFleshEfficiency.label>hiệu quả mổ xẻ thịt</ButcheryFleshEfficiency.label>
+    <ButcheryFleshEfficiency.description>Tăng lên số lượng thịt có được khi làm thịt sinh vật.</ButcheryFleshEfficiency.description>
+
+    <ButcheryMechanoidSpeed.label>tốc độ phân tách sinh vật cơ giới</ButcheryMechanoidSpeed.label>
+    <ButcheryMechanoidSpeed.description>Tốc độ can phân tách phi sinh vật.</ButcheryMechanoidSpeed.description>
+
+    <ButcheryMechanoidEfficiency.label>hiệu quả phân tách sinh vật cơ giới</ButcheryMechanoidEfficiency.label>
+    <ButcheryMechanoidEfficiency.description>Tăng lên số lượng thành phần nhận được khi phân tách xác phi sinh vật.</ButcheryMechanoidEfficiency.description>
+
+    <StonecuttingSpeed.label>tốc độ cắt đá</StonecuttingSpeed.label>
+    <StonecuttingSpeed.description>Tốc độ cắt đá quặng thành từng khối.</StonecuttingSpeed.description>
+
+    <SmeltingSpeed.label>tốc độ luyện kim</SmeltingSpeed.label>
+    <SmeltingSpeed.description>Tốc độ luyện kim.</SmeltingSpeed.description>
+
+</LanguageData>

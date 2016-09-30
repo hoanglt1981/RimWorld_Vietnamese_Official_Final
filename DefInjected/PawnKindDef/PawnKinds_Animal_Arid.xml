@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Muffalo.label>Bò tuyết</Muffalo.label>
+  <Muffalo.lifeStages.0.label>Bò tuyết non</Muffalo.lifeStages.0.label>
+  <Muffalo.lifeStages.1.label>Bò tuyết con</Muffalo.lifeStages.1.label>
+  <Muffalo.lifeStages.2.label>Bò tuyết</Muffalo.lifeStages.2.label>
+
+  <PackMuffalo.label>Bò tuyết</PackMuffalo.label>
+  <PackMuffalo.lifeStages.0.label>Bê tuyết</PackMuffalo.lifeStages.0.label>
+  <PackMuffalo.lifeStages.1.label>Bò tuyết non</PackMuffalo.lifeStages.1.label>
+  <PackMuffalo.lifeStages.2.label>Bò tuyết</PackMuffalo.lifeStages.2.label>
+
+  <Gazelle.label>Linh dương</Gazelle.label>
+  <Gazelle.lifeStages.0.label>Linh dương non</Gazelle.lifeStages.0.label>
+  <Gazelle.lifeStages.1.label>Linh dương con</Gazelle.lifeStages.1.label>
+  <Gazelle.lifeStages.2.label>Linh dương</Gazelle.lifeStages.2.label>
+
+  <Iguana.label>Cự đà</Iguana.label>
+  <Iguana.lifeStages.0.label>Cự đà non</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.1.label>Cự đà con</Iguana.lifeStages.1.label>
+  <Iguana.lifeStages.2.label>Cự đà</Iguana.lifeStages.2.label>
+
+  <Rhinoceros.label>Tê giác</Rhinoceros.label>
+  <Rhinoceros.lifeStages.0.label>Tê giác non</Rhinoceros.lifeStages.0.label>
+  <Rhinoceros.lifeStages.1.label>Tê giác con</Rhinoceros.lifeStages.1.label>
+  <Rhinoceros.lifeStages.2.label>Tê giác</Rhinoceros.lifeStages.2.label>
+
+  <Dromedary.label>Lạc đà</Dromedary.label>
+  <Dromedary.lifeStages.0.label>Lạc đà non</Dromedary.lifeStages.0.label>
+  <Dromedary.lifeStages.1.label>Lạc đà con</Dromedary.lifeStages.1.label>
+  <Dromedary.lifeStages.2.label>Lạc đà</Dromedary.lifeStages.2.label>
+
+  <PackDromedary.label>Lạc đà</PackDromedary.label>
+  <PackDromedary.lifeStages.0.label>Lạc đà non</PackDromedary.lifeStages.0.label>
+  <PackDromedary.lifeStages.1.label>Lạc đà con</PackDromedary.lifeStages.1.label>
+  <PackDromedary.lifeStages.2.label>Lạc đà</PackDromedary.lifeStages.2.label>
+
+</LanguageData>

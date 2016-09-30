@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>art_description_root->[physical_description_root] [context_sentence]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.0>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>circumstance_group->[circumstance_phrase]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.1>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>desc_sentence_group->[desc_sentence] [style_group]</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.2>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>context_sentence->[depiction] này tham khảo [tale_noun] từ [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.3>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>context_sentence->[depiction] này liên quan đến [tale_noun] từ [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.4>
+  <ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>context_sentence->[depiction] này kể câu chuyện về [tale_noun] từ [date].</ArtDescriptionRoot_HasTale.rulePack.rulesStrings.5>
+
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>art_description_root->[physical_description_root]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.0>
+  <ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>desc_sentence_group->[style_group]</ArtDescriptionRoot_Taleless.rulePack.rulesStrings.1>
+
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.0>style_group->[artextra_clause], trong đó [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.0>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.1>style_group->[artextra_clause], trong khi [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.1>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.2>style_group->[artextra_clause] mặc dù [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.2>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.3>style_group->[artextra_clause], trong khi đó [style_clause].</ArtDescriptionUtility_Global.rulePack.rulesStrings.3>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.4>artextra_clause->Hình ảnh được phủ quanh bởi [quantity_adjphrase] [animal]s</ArtDescriptionUtility_Global.rulePack.rulesStrings.4>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.5>artextra_clause->Có một [community] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.5>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.6>artextra_clause->Có một [terrainfeature] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.6>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.7>artextra_clause->Có một [animal] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.7>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.8>artextra_clause->Đối tượng đang ở phía trước [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.8>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.9>artextra_clause->cảnh diễn ra ở giữa [community]</ArtDescriptionUtility_Global.rulePack.rulesStrings.9>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.10>artextra_clause->Cảnh dường như diễn ra ở vùng ngoại ô của [community] </ArtDescriptionUtility_Global.rulePack.rulesStrings.10>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.11>artextra_clause->Khuôn mặt tươi cười của một [outlander] nhìn trên tất cả</ArtDescriptionUtility_Global.rulePack.rulesStrings.11>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.12>artextra_clause->Cảnh chiến vị trí bên trong một [community] xây dựng gần [terrainfeature]</ArtDescriptionUtility_Global.rulePack.rulesStrings.12>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.13>artextra_clause->Phần dưới của hình ảnh bị [terrainfeature] chiếm ưu thế.</ArtDescriptionUtility_Global.rulePack.rulesStrings.13>  <ArtDescriptionUtility_Global.rulePack.rulesStrings.14>artextra_clause->Toàn bộ hình ảnh là sự sắp xếp cần thận hàn trăm con [animal] nhỏ</ArtDescriptionUtility_Global.rulePack.rulesStrings.14>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.15>artextra_clause->Một [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.15>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.16>artextra_clause->Một [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.16>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.17>artextra_clause->Một xác [animal] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.17>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.18>artextra_clause->Một miêu tả nhân tính của [concept]e [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.18>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.19>artextra_clause->Một [animal] [side_position] dường như để tượng trưng cho [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.19>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.20>artextra_clause->Một cặp [quantity_adjphrase] của [outlander] [idle_verb_progressive] [side_position]</ArtDescriptionUtility_Global.rulePack.rulesStrings.20>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.21>artextra_clause->Nếu nheo đôi mắt lại, phần [composition] sẽ cho thấy những phác thảo về một [animal]</ArtDescriptionUtility_Global.rulePack.rulesStrings.21>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.22>style_clause->hình ảnh dường như thế hiện nên [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.22>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.23>style_clause->bức tượng mang theo ý tưởng của [concept] và hoàn thiện theo phong cách [artstyle_adj]</ArtDescriptionUtility_Global.rulePack.rulesStrings.23>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.24>style_clause->bức tượng đề nghị về khái niệm [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.24>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.25>style_clause->bức tượng được điêu khác theo phong cách [artstyle_adj]</ArtDescriptionUtility_Global.rulePack.rulesStrings.25>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.26>style_clause->phong cách [artstyle_adj]của khung cảnh trung tâm xung đột với phong cách [artstyle_adj] được miêu tả trong giới thiệu</ArtDescriptionUtility_Global.rulePack.rulesStrings.26>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.27>style_clause->bức tượng mang cảm giác về phong cách [artstyle_adj] và cấu trúc [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.27>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.28>style_clause->[composition] là thành phần tổng thể</ArtDescriptionUtility_Global.rulePack.rulesStrings.28>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.29>style_clause->phong cách là [artstyle_adj] với những thành phần [artstyle_adj]</ArtDescriptionUtility_Global.rulePack.rulesStrings.29>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.30>style_clause->bức tranh hoàn toàn không có bất cứ [concept] hay [concept] nào</ArtDescriptionUtility_Global.rulePack.rulesStrings.30>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.31>style_clause->bức tranh bằng cách nào đó thể hiện cả [concept] lẫn [concept]</ArtDescriptionUtility_Global.rulePack.rulesStrings.31>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.32>style_clause->cấu trúc [composition]của bức tranh hầu như va chạm với phong cách [artstyle_adj] của nó</ArtDescriptionUtility_Global.rulePack.rulesStrings.32>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.33>style_clause->bức tranh được làm mờ với màu [color] và [color]</ArtDescriptionUtility_Global.rulePack.rulesStrings.33>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.34>style_clause->hầu hết những hình dạng trong bức tranh dường như là  [composition]</ArtDescriptionUtility_Global.rulePack.rulesStrings.34>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.35>depicts->mô tả</ArtDescriptionUtility_Global.rulePack.rulesStrings.35>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.36>depicts->trình diễn</ArtDescriptionUtility_Global.rulePack.rulesStrings.36>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.37>depicts->miêu tả</ArtDescriptionUtility_Global.rulePack.rulesStrings.37>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.38>depicts->tương tự</ArtDescriptionUtility_Global.rulePack.rulesStrings.38>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.39>depicts->minh họag</ArtDescriptionUtility_Global.rulePack.rulesStrings.39>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.40>depicts->đại diện</ArtDescriptionUtility_Global.rulePack.rulesStrings.40>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.41>depicts->có dạng như</ArtDescriptionUtility_Global.rulePack.rulesStrings.41>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.42>depiction->Miêu tả</ArtDescriptionUtility_Global.rulePack.rulesStrings.42>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.43>depiction->hình ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.43>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.44>depiction->Miêu tả</ArtDescriptionUtility_Global.rulePack.rulesStrings.44>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.45>depiction->Đại diện</ArtDescriptionUtility_Global.rulePack.rulesStrings.45>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.46>depiction->Minh họa</ArtDescriptionUtility_Global.rulePack.rulesStrings.46>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.47>depiction->Nghệ thuật</ArtDescriptionUtility_Global.rulePack.rulesStrings.47>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.48>composition->tam giác</ArtDescriptionUtility_Global.rulePack.rulesStrings.48>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.49>composition->tứ giác</ArtDescriptionUtility_Global.rulePack.rulesStrings.49>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.50>composition->vuông</ArtDescriptionUtility_Global.rulePack.rulesStrings.50>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.51>composition->mất cân đối</ArtDescriptionUtility_Global.rulePack.rulesStrings.51>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.52>composition->cân đối</ArtDescriptionUtility_Global.rulePack.rulesStrings.52>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.53>composition->rất năng động</ArtDescriptionUtility_Global.rulePack.rulesStrings.53>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.54>composition->rất trầm tĩnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.54>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.55>artstyle_adj->sao chép</ArtDescriptionUtility_Global.rulePack.rulesStrings.55>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.56>artstyle_adj->đơn giản</ArtDescriptionUtility_Global.rulePack.rulesStrings.56>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.57>artstyle_adj->phức tạp và thực tế</ArtDescriptionUtility_Global.rulePack.rulesStrings.57>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.58>artstyle_adj->siêu thực</ArtDescriptionUtility_Global.rulePack.rulesStrings.58>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.59>artstyle_adj->cổ điển</ArtDescriptionUtility_Global.rulePack.rulesStrings.59>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.60>artstyle_adj->hiện đại</ArtDescriptionUtility_Global.rulePack.rulesStrings.60>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.61>artstyle_adj->biểu tượng</ArtDescriptionUtility_Global.rulePack.rulesStrings.61>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.62>artstyle_adj->nghiệp dư hấp dẫn</ArtDescriptionUtility_Global.rulePack.rulesStrings.62>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.63>artstyle_adj->định hướng chi tiết</ArtDescriptionUtility_Global.rulePack.rulesStrings.63>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.64>artstyle_adj->hình khối</ArtDescriptionUtility_Global.rulePack.rulesStrings.64>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.65>artstyle_adj->lập thể</ArtDescriptionUtility_Global.rulePack.rulesStrings.65>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.66>artstyle_adj->ấn tượng</ArtDescriptionUtility_Global.rulePack.rulesStrings.66>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.67>artstyle_adj->biểu hiện</ArtDescriptionUtility_Global.rulePack.rulesStrings.67>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.68>artstyle_adj->nhiếp ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.68>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.69>artstyle_adj->kì quái</ArtDescriptionUtility_Global.rulePack.rulesStrings.69>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.70>artstyle_adj->biếm họa</ArtDescriptionUtility_Global.rulePack.rulesStrings.70>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.71>artstyle_adj->lỗi hình</ArtDescriptionUtility_Global.rulePack.rulesStrings.71>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.72>artstyle_adj->điểm ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.72>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.73>artstyle_adj->dã thú</ArtDescriptionUtility_Global.rulePack.rulesStrings.73>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.74>artstyle_adj->dân dã</ArtDescriptionUtility_Global.rulePack.rulesStrings.74>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.75>artstyle_adj->ẩn dụ</ArtDescriptionUtility_Global.rulePack.rulesStrings.75>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.76>artstyle_adj->ngoằn ngoèo</ArtDescriptionUtility_Global.rulePack.rulesStrings.76>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.77>artstyle_adj->tạo hình</ArtDescriptionUtility_Global.rulePack.rulesStrings.77>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.78>artstyle_adj->trừu tượng</ArtDescriptionUtility_Global.rulePack.rulesStrings.78>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.79>artstyle_adj->siêu thực</ArtDescriptionUtility_Global.rulePack.rulesStrings.79>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.80>artstyle_adj->đại chúng</ArtDescriptionUtility_Global.rulePack.rulesStrings.80>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.81>artstyle_adj->tối giản</ArtDescriptionUtility_Global.rulePack.rulesStrings.81>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.82>artstyle_adj->tân cổ điển</ArtDescriptionUtility_Global.rulePack.rulesStrings.82>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.83>artstyle_adj->hoạt họa</ArtDescriptionUtility_Global.rulePack.rulesStrings.83>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.84>artstyle_adj->hậu ấn tượng</ArtDescriptionUtility_Global.rulePack.rulesStrings.84>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.85>artstyle_adj->thuần túy</ArtDescriptionUtility_Global.rulePack.rulesStrings.85>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.86>artstyle_adj->rococo</ArtDescriptionUtility_Global.rulePack.rulesStrings.86>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.87>artstyle_adj->roman</ArtDescriptionUtility_Global.rulePack.rulesStrings.87>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.88>artstyle_adj->lãng mạng</ArtDescriptionUtility_Global.rulePack.rulesStrings.88>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.89>artstyle_adj->hội họa graffiti</ArtDescriptionUtility_Global.rulePack.rulesStrings.89>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.90>artstyle_adj->khiêu dâm</ArtDescriptionUtility_Global.rulePack.rulesStrings.90>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.91>artstyle_adj->nhục cảm</ArtDescriptionUtility_Global.rulePack.rulesStrings.91>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.92>artstyle_adj->chân thành</ArtDescriptionUtility_Global.rulePack.rulesStrings.92>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.93>idle_verb_progressive->ngồi</ArtDescriptionUtility_Global.rulePack.rulesStrings.93>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.94>idle_verb_progressive->đứng</ArtDescriptionUtility_Global.rulePack.rulesStrings.94>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.95>idle_verb_progressive->chờ đợi</ArtDescriptionUtility_Global.rulePack.rulesStrings.95>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.96>idle_verb_progressive->cười</ArtDescriptionUtility_Global.rulePack.rulesStrings.96>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.97>idle_verb_progressive->dối trá</ArtDescriptionUtility_Global.rulePack.rulesStrings.97>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.98>idle_verb_progressive->tư thế</ArtDescriptionUtility_Global.rulePack.rulesStrings.98>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.99>idle_verb_progressive->xuất hiện</ArtDescriptionUtility_Global.rulePack.rulesStrings.99>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.100>idle_verb_progressive->bày tỏ</ArtDescriptionUtility_Global.rulePack.rulesStrings.100>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.101>idle_verb_progressive->trong</ArtDescriptionUtility_Global.rulePack.rulesStrings.101>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.102>idle_verb_progressive->trôi</ArtDescriptionUtility_Global.rulePack.rulesStrings.102>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.103>side_position->tắt về một bên</ArtDescriptionUtility_Global.rulePack.rulesStrings.103>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.104>side_position->gần ranh giới hình ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.104>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.105>side_position->trong hình nền</ArtDescriptionUtility_Global.rulePack.rulesStrings.105>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.106>side_position->trong khoảng cách</ArtDescriptionUtility_Global.rulePack.rulesStrings.106>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.107>side_position->ở phần dưới hình ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.107>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.108>side_position->ở phần trên hình ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.108>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.109>side_position->bên trên chủ đề chính</ArtDescriptionUtility_Global.rulePack.rulesStrings.109>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.110>side_position->phía sau tiêu điểm chính</ArtDescriptionUtility_Global.rulePack.rulesStrings.110>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.111>side_position->ở phần bên trái hình ảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.111>
+  <ArtDescriptionUtility_Global.rulePack.rulesStrings.112>side_position->tới bên phải khung cảnh</ArtDescriptionUtility_Global.rulePack.rulesStrings.112>
+
+</LanguageData>
