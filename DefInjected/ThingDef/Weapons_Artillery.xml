@@ -6,10 +6,10 @@
     <Artillery_MortarIncendiary.label>Pháo cối đạn cháy</Artillery_MortarIncendiary.label>
     <Artillery_MortarIncendiary.description>Sử dụng cho pháo cối. Bắn đạn cháy qua tường. Tầm bắn xa nhưng chính xác kém.</Artillery_MortarIncendiary.description>
 
-    <Bullet_Mortarđạnb.label>Đạn nổ</Bullet_Mortarđạnb.label>
+    <Bullet_MortarBomb.label>Đạn nổ</Bullet_MortarBomb.label>
 
-    <Artillery_Mortarđạnb.label>Pháo cối đạn nổ</Artillery_Mortarđạnb.label>
-    <Artillery_Mortarđạnb.description>Sử dụng cho pháo cối. Bắn đạn nổ qua tường. Tầm bắn xa nhưng chính xác kém.</Artillery_Mortarđạnb.description>
+    <Artillery_MortarBomb.label>Pháo cối đạn nổ</Artillery_MortarBomb.label>
+    <Artillery_MortarBomb.description>Sử dụng cho pháo cối. Bắn đạn nổ qua tường. Tầm bắn xa nhưng chính xác kém.</Artillery_MortarBomb.description>
 
     <Bullet_MortarEMP.label>Đạn điện từ</Bullet_MortarEMP.label>
 

@@ -1,4 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
 
     <LandedInPod.label>hạ cánh trong khoang</LandedInPod.label>
     <LandedInPod.rulePack.rulesStrings.0>tale_noun-&gt;cuộc hạ cánh trong khoang cứu sinh của [pawn_nameShortDef]</LandedInPod.rulePack.rulesStrings.0>
@@ -79,7 +80,7 @@
     <WasOnFire.rulePack.rulesStrings.2>image-&gt;[pawn_nameFull] bao phủ bởi ngọn lửa [circumstance_group]</WasOnFire.rulePack.rulesStrings.2>
     <WasOnFire.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang quỳ, tay giơ lên đầu, cố gắng dập lửa trên [pawn_possessive] người [circumstance_group]</WasOnFire.rulePack.rulesStrings.3>
     <WasOnFire.rulePack.rulesStrings.4>image-&gt;[pawn_nameFull] đang lăn lộn trên sàn trong khi bốc cháy [circumstance_group]</WasOnFire.rulePack.rulesStrings.4>
-    <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong khi người khác nhìn vào
+    <WasOnFire.rulePack.rulesStrings.5>circumstance_phrase-&gt;trong khi người khác nhìn vào</WasOnFire.rulePack.rulesStrings.5>
     <WasOnFire.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong khi gần như khỏa thân</WasOnFire.rulePack.rulesStrings.6>
     <WasOnFire.rulePack.rulesStrings.7>circumstance_phrase-&gt;với ý định tập trung</WasOnFire.rulePack.rulesStrings.7>
     <WasOnFire.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_possessive] tươi đang bị đốt thành than.</WasOnFire.rulePack.rulesStrings.8>
@@ -175,7 +176,7 @@
     <AteRawHumanlikeMeat.rulePack.rulesStrings.7>eat_gerund-&gt;đang nuốt xuống</AteRawHumanlikeMeat.rulePack.rulesStrings.7>
     <AteRawHumanlikeMeat.rulePack.rulesStrings.8>eat_gerund-&gt;đang tiêu thụ</AteRawHumanlikeMeat.rulePack.rulesStrings.8>
     <AteRawHumanlikeMeat.rulePack.rulesStrings.9>eat_gerund-&gt;đang nuốt</AteRawHumanlikeMeat.rulePack.rulesStrings.9>
-    <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund-&gt;cannibalizing</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
+    <AteRawHumanlikeMeat.rulePack.rulesStrings.10>eat_gerund-&gt;đang ăn thịt người</AteRawHumanlikeMeat.rulePack.rulesStrings.10>
     <AteRawHumanlikeMeat.rulePack.rulesStrings.11>circumstance_phrase-&gt;với một ý thức mục đích</AteRawHumanlikeMeat.rulePack.rulesStrings.11>
     <AteRawHumanlikeMeat.rulePack.rulesStrings.12>circumstance_phrase-&gt;không có dấu hiệu xấu hổ</AteRawHumanlikeMeat.rulePack.rulesStrings.12>
     <AteRawHumanlikeMeat.rulePack.rulesStrings.13>circumstance_phrase-&gt;với một cái nhìn hổ thẹn</AteRawHumanlikeMeat.rulePack.rulesStrings.13>
@@ -240,7 +241,7 @@
     <FinishedResearchProject.rulePack.rulesStrings.3>image-&gt;[pawn_nameFull] đang nghiên cứu [project_label] [circumstance_group]</FinishedResearchProject.rulePack.rulesStrings.3>
     <FinishedResearchProject.rulePack.rulesStrings.4>circumstance_phrase-&gt;với sự tập trung cao độ</FinishedResearchProject.rulePack.rulesStrings.4>
     <FinishedResearchProject.rulePack.rulesStrings.5>circumstance_phrase-&gt;cô đơn tại [pawn_possessive] bàn</FinishedResearchProject.rulePack.rulesStrings.5>
-    <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong khi đang nắm giấy trong [pawn_possessive] tay</FinishedResearchProject.rulePack.rulesStrings.6>
+    <FinishedResearchProject.rulePack.rulesStrings.6>circumstance_phrase-&gt;trong khi đang nắm giấy trong tay [pawn_possessive]</FinishedResearchProject.rulePack.rulesStrings.6>
     <FinishedResearchProject.rulePack.rulesStrings.7>circumstance_phrase-&gt;với cái nhìn của đam mê</FinishedResearchProject.rulePack.rulesStrings.7>
     <FinishedResearchProject.rulePack.rulesStrings.8>desc_sentence-&gt;[pawn_nameShortDef] đang đổ mồ hôi.</FinishedResearchProject.rulePack.rulesStrings.8>
     <FinishedResearchProject.rulePack.rulesStrings.9>desc_sentence-&gt;Công việc xuất hiện sự phức tạp đặc biệt.</FinishedResearchProject.rulePack.rulesStrings.9>
